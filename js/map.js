@@ -25,7 +25,7 @@ function redraw() {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
-var tooltip = d3.select("#map").append("div")
+var tooltip = d3.select("#map-container").append("div")
     .attr("class", "tooltip");
 
 queue()
