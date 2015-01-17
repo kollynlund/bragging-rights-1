@@ -31,7 +31,7 @@ function redraw() {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
-var tooltip = d3.select(".map-extra-info");
+var tooltip = d3.select(".map-data-display");
 
 queue()
     .defer(d3.json, "data/world-110m.json")
@@ -72,7 +72,7 @@ function ready(error, world, names, brdata) {
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
           */
-          .html(d.name);
+          .html('<col class="col-sm-12">'+d.name+'</col>');
       })
       
       .on("mouseout",  function(d,i) {
@@ -137,7 +137,7 @@ function ready(error, world, names, brdata) {
         tooltip
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          .html("Discipline: "+d.Discipline+"    -    Name: "+d.Name+"    -    Trick: "+d.Trick)
+          .html('<col class="col-sm-3">Name: '+d.Name+'</col><col class="col-sm-3">Date: '+d.Date+'</col><col class="col-sm-3">Trick: '+d.Trick+'</col><col class="col-sm-3">Discipline: '+d.Discipline+'</col>')
       })
       /*
       .on("mouseout",  function(d,i) {
