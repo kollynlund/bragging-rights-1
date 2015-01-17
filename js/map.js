@@ -19,7 +19,7 @@ var svg = d3.select("#map-container").append("svg")
     .attr("height", height)
     .attr("id","main-map-container")
     .call(d3.behavior.zoom()
-    .scaleExtent([1,8])
+    .scaleExtent([1,200])
     .on("zoom", redraw))
     .append("g");
 
@@ -35,6 +35,10 @@ function redraw() {
     t[1] = Math.min(height / 2 * (s - 1) + h * s, Math.max(height / 2 * (1 - s) - h * s, t[1]));
 
     svg.attr("transform", "translate(" + t + ")scale(" + s + ")").style("stroke-width", 1 / s);
+    var events = svg.selectAll(".brevent");
+    console.log(events);
+    events
+    .attr("r", width/100*(1 / s));
 
     
 }
@@ -91,7 +95,6 @@ function ready(error, world, names, brdata) {
 
 function drawEvents(error, brdata) {
   var events = svg.selectAll(".brevents").data(brdata.Events);
-  events.remove();
   var map_width = document.getElementById("main-map-container").offsetWidth;
 
   events
