@@ -27,10 +27,16 @@ var svg = d3.select("#map-container").append("svg")
 
 
 function redraw() {
-    svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
-    queue()
-    .defer(d3.json, "data/brdata.json")
-    .await(drawEvents);
+    var t = d3.event.translate;
+    var s = d3.event.scale; 
+    var h = height / 3;
+    
+    t[0] = Math.min(width / 2 * (s - 1), Math.max(width / 2 * (1 - s), t[0]));
+    t[1] = Math.min(height / 2 * (s - 1) + h * s, Math.max(height / 2 * (1 - s) - h * s, t[1]));
+
+    svg.attr("transform", "translate(" + t + ")scale(" + s + ")").style("stroke-width", 1 / s);
+
+    
 }
 
 var tooltip = d3.select(".map-data-display");
@@ -107,7 +113,7 @@ function drawEvents(error, brdata) {
     tooltip
       .classed("hidden", false)
       .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-      .html('<div class="col-sm-3 map-data-item event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-item event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-item event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-item event-discipline">Discipline: '+d.Discipline+'</div>')
+      .html('<div class="col-sm-4 map-data-item event-name">Name: '+d.Name+'</div><div class="col-sm-4 map-data-item event-date">Date: '+d.Date+'</div><div class="col-sm-4 map-data-item event-discipline">Discipline: '+d.Discipline+'</div>')
       ;
   })
   .on("mouseout",  function(d,i) {
