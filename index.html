@@ -8,6 +8,7 @@
    <link href="css/mystyles.css" rel="stylesheet">
    <script src="js/bootstrap.min.js"></script>
    <script src="js/jquery.js"></script>   
+   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
    <title>Page Title</title>   
 </head>
 
@@ -51,9 +52,10 @@
     <div class="col-sm-4">
      <div class="btn-group" data-toggle="buttons">
        <label class="btn btn-default active">
-       <input type="radio" name="options" id="option1" autocomplete="off" checked> Map View</label>
+       <input type="radio" name="options" id="mapview" autocomplete="off" checked> Map View</label>
        <label class="btn btn-default">
-       <input type="radio" name="options" id="option2" autocomplete="off"> List View</label>
+       <input type="radio" name="options" id="listview" autocomplete="off"> List View</label>
+       <button></button>
      </div>
    </div>
   
@@ -91,30 +93,45 @@
        <div class="panel-body">
         <div class="row">
           <div class="col-sm-12">
-           <h1 class="text-center">List View</h1>
-            <table class="rwd-table center-block">
-              <tr>
-                <th>Rider</th>
-                <th>Date</th>
-                <th>Trick</th>
-                <th>Discipline</th>
-                <th>Location</th>
-              </tr>
-              <tr>
-                <td data-th="Rider">Gavin Godfrey</td>
-                <td data-th="Date">7-1-14</th>
-                <td data-th="Trick">Triple Backflip</td>
-                <td data-th="Discipline">MTB</td>
-                <td data-th="Location">West Valley, UT</td>
-              </tr>
-              <tr>
-                <td data-th="Rider">Tony Hawk</td>
-                <td data-th="Date">7-27-1999</th>
-                <td data-th="Trick">900</td>
-                <td data-th="Discipline">SK8</td>
-                <td data-th="Location">San Francisco, CA</td>
-              </tr>  
-            </table>
+            <div id="map">
+              <p>This is Tanners Map</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+      <div class="panel panel-default">
+       <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-12">
+           <div id="list">
+             <h1 class="text-center">List View</h1>
+              <table class="rwd-table center-block">
+                <tr>
+                  <th>Rider</th>
+                  <th>Date</th>
+                  <th>Trick</th>
+                  <th>Discipline</th>
+                  <th>Location</th>
+                </tr>
+                <tr>
+                  <td data-th="Rider">Gavin Godfrey</td>
+                  <td data-th="Date">7-1-14</th>
+                  <td data-th="Trick">Triple Backflip</td>
+                  <td data-th="Discipline">MTB</td>
+                  <td data-th="Location">West Valley, UT</td>
+                </tr>
+                <tr>
+                  <td data-th="Rider">Tony Hawk</td>
+                  <td data-th="Date">7-27-1999</th>
+                  <td data-th="Trick">900</td>
+                  <td data-th="Discipline">SK8</td>
+                  <td data-th="Location">San Francisco, CA</td>
+                </tr>  
+              </table>
+            </div>
           </div>
         </div>
       </div>
