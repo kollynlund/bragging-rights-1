@@ -68,15 +68,12 @@ function ready(error, world, names, brdata) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
         tooltip
-          /*
-          .classed("hidden", false)
-          .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          */
-          .html('<col class="col-sm-12">'+d.name+'</col>');
+          .html('<div class="col-sm-12" map-data-display-country-name>'+d.name+'</div>');
       })
       
       .on("mouseout",  function(d,i) {
-        tooltip.html("&nbsp;");
+        tooltip
+        .html("<div>&nbsp;</div>");
         /*
         tooltip.classed("hidden", true)
         */
@@ -137,13 +134,16 @@ function ready(error, world, names, brdata) {
         tooltip
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          .html('<col class="col-sm-3">Name: '+d.Name+'</col><col class="col-sm-3">Date: '+d.Date+'</col><col class="col-sm-3">Trick: '+d.Trick+'</col><col class="col-sm-3">Discipline: '+d.Discipline+'</col>')
+          .html('<div class="col-sm-3 map-data-display-event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-display-event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-display-event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-display-event-discipline">Discipline: '+d.Discipline+'</div>')
+          ;
       })
-      /*
       .on("mouseout",  function(d,i) {
+        tooltip
+        .html("<div>&nbsp;</div>");
+        /*
         tooltip.classed("hidden", true)
-      })
-*/
+        */
+      });
 
 }
 
