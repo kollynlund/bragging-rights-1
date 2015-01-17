@@ -25,8 +25,7 @@ function redraw() {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 }
 
-var tooltip = d3.select("#map-container").append("div")
-    .attr("class", "tooltip");
+var tooltip = d3.select(".map-extra-info");
 
 queue()
     .defer(d3.json, "data/world-110m.json")
@@ -54,8 +53,8 @@ function ready(error, world, names, brdata) {
     .attr("class", "country")    
       .attr("title", function(d,i) { return d.name; })
       .attr("d", path)
-      .style("fill", /* function(d, i) { return color(d.color = d3.max(neighbors[i], function(n) { return countries[n].color; }) + 1 | 0); } */ "green")
-      .style("stroke", "blue");
+      .style("fill", "#46627f")
+      .style("stroke", "#ffcb27");
 
     //Show/hide tooltip
     country
@@ -63,12 +62,18 @@ function ready(error, world, names, brdata) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
         tooltip
+          /*
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          .html(d.name)
+          */
+          .html(d.name);
       })
+      
       .on("mouseout",  function(d,i) {
+        tooltip.html("&nbsp;");
+        /*
         tooltip.classed("hidden", true)
+        */
       })
       /*.on("click", clickIn)*/;
 
@@ -115,8 +120,8 @@ function ready(error, world, names, brdata) {
           .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
           .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
           .attr("r", 4)
-          .style("fill", "blue")
-          .style("stroke", "yellow");
+          .style("fill", "red")
+          .style("stroke", "blue");
 
 
       events
