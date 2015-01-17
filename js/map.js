@@ -9,7 +9,7 @@ var height = width / 2;
 
 var projection = d3.geo.mercator()
                 .translate([width/2, height/2])
-                .scale(1000);
+                .scale(1200);
 
 var path = d3.geo.path()
     .projection(projection);
@@ -31,12 +31,11 @@ function redraw() {
     var s = d3.event.scale; 
     var h = height / 3;
     
-    t[0] = Math.min(width / 2 * (s - 1), Math.max(width / 2 * (1 - s), t[0]));
+    t[0] = Math.min(0, Math.max(width * (1 - s), t[0]));
     t[1] = Math.min(height / 2 * (s - 1) + h * s, Math.max(height / 2 * (1 - s) - h * s, t[1]));
 
     svg.attr("transform", "translate(" + t + ")scale(" + s + ")").style("stroke-width", 1 / s);
     var events = svg.selectAll(".brevent");
-    console.log(events);
     events
     .attr("r", width/100*(1 / s));
 
