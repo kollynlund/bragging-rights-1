@@ -6,8 +6,9 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link href="css/bootstrap.min.css" rel="stylesheet">
    <link href="css/mystyles.css" rel="stylesheet">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>  
    <script src="js/bootstrap.min.js"></script>
-   <script src="js/jquery.js"></script>   
+  
    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
    <title>Page Title</title>   
 </head>
@@ -97,7 +98,7 @@
               <div id="map-container"></div>
 
                 <script src="js/d3.v3.min.js"></script>
-                <script src="js/topojson.v1.min.js"></script>
+                <script src="js/topojson.js"></script>
                 <script>
                 d3.select(window).on("resize", throttle);
 
@@ -105,7 +106,7 @@
                     .scaleExtent([1, 8])
                     .on("zoom", move);
 
-                var width = document.getElementById('container').offsetWidth-60;
+                var width = document.getElementById('map-container').offsetWidth-60;
                 var height = width / 2;
 
                 var topo,projection,path,svg,g;
@@ -133,9 +134,10 @@
 
                 }
 
-                d3.json("data/world-topo.json", function(error, world) {
+                d3.json("data/world-110m.json", function(error, world) {
+                  console.log(world)
 
-                  var countries = topojson.feature(world, world.objects.countries).features;
+                  var countries = topojson.object(world, world.objects.countries).geometries;
 
                   topo = countries;
                   draw(topo);
@@ -154,8 +156,8 @@
                       .style("fill", function(d, i) { return d.properties.color; });
 
                   //ofsets plus width/height of transform, plsu 20 px of padding, plus 20 extra for tooltip offset off mouse
-                  var offsetL = document.getElementById('container').offsetLeft+(width/2)+40;
-                  var offsetT =document.getElementById('container').offsetTop+(height/2)+20;
+                  var offsetL = document.getElementById('map-container').offsetLeft+(width/2)+40;
+                  var offsetT =document.getElementById('map-container').offsetTop+(height/2)+20;
 
                   //tooltips
                   country
@@ -254,10 +256,7 @@
 
 
 </div>
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.js"></script>
+    <script src="js/functions.js"></script>
 </body>
 
 
