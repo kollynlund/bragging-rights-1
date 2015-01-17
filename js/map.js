@@ -68,12 +68,12 @@ function ready(error, world, names, brdata) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
         tooltip
-          .html('<div class="col-sm-12 map-data-display-country-name">'+d.name+'</div>');
+          .html('<div class="col-sm-12 map-data-item country-name">'+d.name+'</div>');
       })
       
       .on("mouseout",  function(d,i) {
         tooltip
-        .html('<div class="col-sm-12 map-data-display-country-name">&nbsp;</div>');
+        .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>');
         /*
         tooltip.classed("hidden", true)
         */
@@ -107,12 +107,12 @@ function drawEvents(error, brdata) {
     tooltip
       .classed("hidden", false)
       .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-      .html('<div class="col-sm-3 map-data-display-event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-display-event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-display-event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-display-event-discipline">Discipline: '+d.Discipline+'</div>')
+      .html('<div class="col-sm-3 map-data-item event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-item event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-item event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-item event-discipline">Discipline: '+d.Discipline+'</div>')
       ;
   })
   .on("mouseout",  function(d,i) {
     tooltip
-    .html("<div>&nbsp;</div>");
+    .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>');
     /*
     tooltip.classed("hidden", true)
     */
