@@ -1,10 +1,51 @@
-.nav {
-	margin-top: 8px;
-	margin-right: 90px;
+/*________PAGE_________________
+____________________________________*/
+
+
+body {
+  padding: 0 2em;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: #444;
+  background: #eee;
+}
+
+h1 {
+  font-weight: normal;
+  letter-spacing: -1px;
+  color: #333;
+}
+
+
+
+/*________HEADER MENU_________________
+____________________________________*/
+
+#map-container {
+  background-color: #333;
+  min-height: 400px;
+}
+
+.panel-img {
+  background-color: #333;
+}
+
+.panel-map {
+  background-color: #333;
 }
 
 .p-top {
-	margin-top: 15px;
+  margin-top: 15px;
+}
+
+
+/*________NAV MENU____________________
+____________________________________*/
+
+.nav {
+  margin-top: 8px;
+  margin-right: 90px;
 }
 
 .navigation {
@@ -30,29 +71,34 @@
 
 }
 
-#map-container {
-	background-color: #333;
-	min-height: 400px;
-}
 
-.panel-img {
-  background-color: #333;
-}
+/*________MAP VIEW____________________
+____________________________________*/
 
-.panel-map {
-  background-color: #333;
-}
 
-.test {
+.map-data-display {
   background-color: white;
   text-align: center;
-  
+  min-height: 35px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+
 }
 
-@import "http://fonts.googleapis.com/css?family=Montserrat:300,400,700";
+.map-data-display-country-name {
+  font-size: 40px;
+}
+
+
+
+/*________LIST VIEW___________________
+____________________________________*/
+
+
+
 .rwd-table {
   margin: 1em 0;
-  min-width: 300px;
+  min-width: 100%;
 }
 .rwd-table tr {
   border-top: 1px solid #ddd;
@@ -76,6 +122,25 @@
   width: 6.5em;
   display: inline-block;
 }
+.rwd-table {
+  background: #333;
+  color: #fff;
+  border-radius: .4em;
+  overflow: hidden;
+}
+.rwd-table tr {
+  border-color: #46627f;
+}
+.rwd-table th, .rwd-table td {
+  margin: .5em 1em;
+}
+
+
+/*______LIST VIEW MEDIA QUERIES_______
+____________________________________*/
+
+
+
 @media (min-width: 480px) {
   .rwd-table td:before {
     display: none;
@@ -84,6 +149,7 @@
 .rwd-table th, .rwd-table td {
   text-align: left;
 }
+
 @media (min-width: 480px) {
   .rwd-table th, .rwd-table td {
     display: table-cell;
@@ -97,33 +163,7 @@
   }
 }
 
-body {
-  padding: 0 2em;
-  font-family: Montserrat, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  color: #444;
-  background: #eee;
-}
 
-h1 {
-  font-weight: normal;
-  letter-spacing: -1px;
-  color: #333;
-}
-
-.rwd-table {
-  background: #333;
-  color: #fff;
-  border-radius: .4em;
-  overflow: hidden;
-}
-.rwd-table tr {
-  border-color: #46627f;
-}
-.rwd-table th, .rwd-table td {
-  margin: .5em 1em;
-}
 @media (min-width: 480px) {
   .rwd-table th, .rwd-table td {
     padding: 1em !important;
@@ -133,5 +173,16 @@ h1 {
   color: #FFCB27;
 }
 
+
+/*________MODAL ADD EVENT_____________
+____________________________________*/
+
+form {
+  margin: 20px;
+}
+
+.close {
+  margin: 20px;
+}
  
 
