@@ -14,13 +14,12 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
     .projection(projection);
 
-console.log(document.getElementById('map-container'))
-
-
 var svg = d3.select("#map-container").append("svg")
     .attr("width", width)
     .attr("height", height)
+    .attr("id","main-map-container")
     .call(d3.behavior.zoom()
+    .scaleExtent([1,8])
     .on("zoom", redraw))
     .append("g");
 
@@ -29,6 +28,9 @@ var svg = d3.select("#map-container").append("svg")
 
 function redraw() {
     svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+    queue()
+    .defer(d3.json, "data/brdata.json")
+    .await(drawEvents);
 }
 
 var tooltip = d3.select(".map-data-display");
@@ -51,8 +53,6 @@ function ready(error, world, names, brdata) {
 
   var country = svg.selectAll(".country").data(countries);
 
-  console.log("country: \n", country);
-
   country
    .enter()
     .insert("path")
@@ -68,7 +68,7 @@ function ready(error, world, names, brdata) {
         var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
         tooltip
-          .html('<div class="col-sm-12" map-data-display-country-name>'+d.name+'</div>');
+          .html('<div class="col-sm-12 map-data-display-country-name">'+d.name+'</div>');
       })
       
       .on("mouseout",  function(d,i) {
@@ -79,71 +79,44 @@ function ready(error, world, names, brdata) {
         */
       })
       /*.on("click", clickIn)*/;
+      
+      drawEvents(error, brdata);
+}
+
+function drawEvents(error, brdata) {
+  var events = svg.selectAll(".brevents").data(brdata.Events);
+  events.remove();
+  var map_width = document.getElementById("main-map-container").offsetWidth;
+
+  events
+   .enter()
+    .insert("circle")
+    .attr("class", "brevent")    
+      .attr("title", function(d,i) { return d.Name; })
+      .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
+      .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
+      .attr("r", map_width/100)
+      .style("fill", "red")
+      .style("stroke", "blue");
 
 
-/*
-      //render the points
-      brdata.Events.forEach(function(d) {
-        var x = 0;
-        var y = 0;
-        if (d.Longitude != '') { 
-          x = projection([d.Longitude,d.Latitude])[0];
-          y = projection([d.Longitude,d.Latitude])[1];
-        }
+  events
+  .on("mousemove", function(d,i) {
+    var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
-
-      svg.append("svg:circle")
-          .attr("class","brevent")
-          .attr("cx", x)
-          .attr("cy", y)
-          .attr("r", 4)
-          .style("fill", "blue")
-          .style("stroke", "yellow");
-
-/*
-      var name = d.Name;
-      svg.append("svg:text")
-          .attr("x", x+4)
-          .attr("y", y+1)
-          .text(name);
-
-
-      });
-*/
-
-      var events = svg.selectAll(".brevents").data(brdata.Events);
-
-      console.log("country: \n", events);
-
-      events
-       .enter()
-        .insert("circle")
-        .attr("class", "brevent")    
-          .attr("title", function(d,i) { return d.Name; })
-          .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
-          .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
-          .attr("r", 4)
-          .style("fill", "red")
-          .style("stroke", "blue");
-
-
-      events
-      .on("mousemove", function(d,i) {
-        var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
-
-        tooltip
-          .classed("hidden", false)
-          .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          .html('<div class="col-sm-3 map-data-display-event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-display-event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-display-event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-display-event-discipline">Discipline: '+d.Discipline+'</div>')
-          ;
-      })
-      .on("mouseout",  function(d,i) {
-        tooltip
-        .html("<div>&nbsp;</div>");
-        /*
-        tooltip.classed("hidden", true)
-        */
-      });
+    tooltip
+      .classed("hidden", false)
+      .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
+      .html('<div class="col-sm-3 map-data-display-event-name">Name: '+d.Name+'</div><div class="col-sm-3 map-data-display-event-date">Date: '+d.Date+'</div><div class="col-sm-3 map-data-display-event-trick">Trick: '+d.Trick+'</div><div class="col-sm-3 map-data-display-event-discipline">Discipline: '+d.Discipline+'</div>')
+      ;
+  })
+  .on("mouseout",  function(d,i) {
+    tooltip
+    .html("<div>&nbsp;</div>");
+    /*
+    tooltip.classed("hidden", true)
+    */
+  });
 
 }
 
@@ -194,3 +167,7 @@ function clickIn(d) {
     }
 
 }
+
+      console.log(document.getElementById("main-map-container").offsetWidth);
+
+
