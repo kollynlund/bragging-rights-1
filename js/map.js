@@ -4,21 +4,27 @@ var width  = 960,
     height = 550;
 */
 
-var color = d3.scale.category10();
+var width = document.getElementById('map-container').offsetWidth-20;
+var height = width / 2;
 
 var projection = d3.geo.mercator()
-                .translate([1000, 500])
-                .scale(1900);
+                .translate([width/2, height/2])
+                .scale(1000);
 
 var path = d3.geo.path()
     .projection(projection);
 
+console.log(document.getElementById('map-container'))
+
+
 var svg = d3.select("#map-container").append("svg")
-    .attr("width", "100%")
-    .attr("height", "100%")
+    .attr("width", width)
+    .attr("height", height)
     .call(d3.behavior.zoom()
     .on("zoom", redraw))
     .append("g");
+
+
 
 
 function redraw() {
@@ -131,11 +137,13 @@ function ready(error, world, names, brdata) {
         tooltip
           .classed("hidden", false)
           .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
-          .html(d.Discipline+" -</br>"+d.Name+": "+d.Trick)
+          .html("Discipline: "+d.Discipline+"    -    Name: "+d.Name+"    -    Trick: "+d.Trick)
       })
+      /*
       .on("mouseout",  function(d,i) {
         tooltip.classed("hidden", true)
       })
+*/
 
 }
 
