@@ -38,7 +38,6 @@ function ready(error, world, names, brdata) {
   var country = svg.selectAll(".country").data(countries);
 
   country
-<<<<<<< HEAD
   .enter()
   .insert("path")
   .attr("class", "country")    
@@ -52,20 +51,6 @@ function ready(error, world, names, brdata) {
   country
   .on("mousemove", function(d) {
     var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
-=======
-   .enter()
-    .insert("path")
-    .attr("class", "country")    
-      .attr("title", function(d,i) { return d.name; })
-      .attr("d", path)
-      .style("fill", "#C1BFBF")
-      .style("stroke", "#333");
-
-    //Show/hide tooltip
-    country
-      .on("mousemove", function(d,i) {
-        var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
->>>>>>> FETCH_HEAD
 
     info_display
     .html('<div class="col-sm-12 map-data-item country-name">'+d.name+'</div>')
@@ -109,7 +94,6 @@ function drawEvents(error, brdata) {
   var map_width = document.getElementById("main-map-container").offsetWidth;
 
   events
-<<<<<<< HEAD
   .enter()
   .insert("circle")
   .attr("class", "brevent")    
@@ -120,17 +104,6 @@ function drawEvents(error, brdata) {
   .style("fill", "red")
   .style("stroke", "blue")
   ;
-=======
-   .enter()
-    .insert("circle")
-    .attr("class", "brevent")    
-      .attr("title", function(d,i) { return d.Name; })
-      .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
-      .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
-      .attr("r", map_width/100)
-      .style("fill", "#FFCB27")
-      .style("stroke", "#333");
->>>>>>> FETCH_HEAD
 
 
   events
