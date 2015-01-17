@@ -18,7 +18,41 @@
 
 
 <!-- * * HEADER * * -->
+
 <div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="panel panel-default p-top">
+        <div class="panel-body">
+        <p>Welcome to the worlds first interactive website to find, share and explore the biggest and best achievements from around the globe.  
+        </p>
+      </div>
+     </div>
+    </div>  
+
+    <div class="col-sm-4">
+      <div class="panel-img pic-top">
+        <div class="text-center">
+         <img class="icon img-responsive center-block" alt="logo" src="img/logocrop.png">
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-4">
+      <div class="panel panel-default p-top">
+       <div class="panel-body">
+         <p>Do you know someone who has conquered a worlds first? Add it to our ever growing library. 
+         </p><button type="button" class="btn btn-default btn-md text-center" data-toggle="modal" data-target=".bs-example-modal-lg">
+         <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add a World's first </button>
+       </div>
+     </div>     
+    </div>  
+  </div>
+
+
+
+
+
 
 <!-- * * MODAL * * -->
 
@@ -96,9 +130,9 @@
 <!-- * * MAP VIEW * * -->
 
     <div id="map">
-      <div class="panel panel-map panel-default">
+      <div class="container-fluid panel panel-map panel-default">
         <div class="panel-body">
-          <div class="row map-data-display">
+          <div class="container-fluid row map-data-display">
            <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
           </div>
           <div class="row">
@@ -161,7 +195,10 @@
 
 
 </div>
-    <script src="js/functions.js"></script>
+
+
+
+<script src="js/functions.js"></script>
 </body>
 
 
