@@ -4,20 +4,36 @@
 }
 
 .p-top {
-	margin-top: 60px;
+	margin-top: 15px;
 }
 
 .navigation {
 	background-color: #333;
-	padding: 20px 0 20px 0;
+
 	border-radius: 5px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .search {
 	padding-right: 20px;
 	padding-left: 20px;
 }
+
+.icon {
+	max-height: 175px;
+}
+
+.sort-map, .search, .map-list-btns {
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+#map-container {
+	background-color: #333;
+	min-height: 400px;
+}
+
 
 
 @import "http://fonts.googleapis.com/css?family=Montserrat:300,400,700";
