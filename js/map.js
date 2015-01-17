@@ -73,7 +73,7 @@ function ready(error, world, names, brdata) {
       
       .on("mouseout",  function(d,i) {
         tooltip
-        .html("<div>&nbsp;</div>");
+        .html('<div class="col-sm-12 map-data-display-country-name">&nbsp;</div>');
         /*
         tooltip.classed("hidden", true)
         */
