@@ -1,21 +1,17 @@
-// $( "#mapview" ).click(function() {
-//   $( "#list" ).hide();
-// });
-
 
 $ ( "#list" ).hide();
 
 $( "#listview" ).click(function() {
   $ ( "#list" ).show();
+  $ ( "#map" ).hide();
 });
 
 $( "#mapview" ).click(function() {
   $ ( "#map" ).show();
+  $ ( "#list" ).hide();
 });
 
 
 
-// $( "#mapview" ).click(function() {
-//   $ ( "#map" ).show();
-// });
+
 
