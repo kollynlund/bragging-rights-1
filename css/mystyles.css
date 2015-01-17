@@ -3,12 +3,11 @@ ____________________________________*/
 
 
 body {
-  padding: 0 2em;
   font-family: Montserrat, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   color: #444;
-  background: #eee;
+  background: #333;
 }
 
 h1 {
@@ -29,30 +28,36 @@ ____________________________________*/
 
 .panel-img {
   background-color: #333;
+  border: none;
 }
 
-.panel-map {
-  background-color: #333;
+
+.p-top, .pic-top {
+  margin-top: 10px;
+  border-color: #eee;
+  border-width: 5px;
+  border-radius: none;
 }
 
 .p-top {
-  margin-top: 15px;
+  background-color: #333;
+  color: #eee;
+  font-size: 1.125em;
+  margin-top: 25px;
 }
 
 
 /*________NAV MENU____________________
 ____________________________________*/
 
-.nav {
-  margin-top: 8px;
-  margin-right: 90px;
-}
+
 
 .navigation {
 	background-color: #333;
-
 	border-radius: 5px;
 	margin-bottom: 10px;
+  border: 5px solid #eee;
+  margin-top: 10px;
 }
 
 .search {
@@ -75,6 +80,16 @@ ____________________________________*/
 /*________MAP VIEW____________________
 ____________________________________*/
 
+
+#map {
+  cursor: url("img/grab.png"), move;
+   border: 5px solid #eee;
+}
+
+
+.panel-map {
+  background-color: #333;
+}
 
 .map-data-display {
   background-color: white;
