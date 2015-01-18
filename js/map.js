@@ -43,8 +43,8 @@ function ready(error, world, names, brdata) {
   .attr("class", "country")    
   .attr("title", function(d) { return d.name; })
   .attr("d", path)
-  .style("fill", "#46627f")
-  .style("stroke", "#ffcb27")
+  .style("fill", "#C1BFBF")
+  .style("stroke", "#333")
   ;
 
   //Show/hide country/event info display
@@ -101,8 +101,8 @@ function drawEvents(error, brdata) {
   .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
   .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
   .attr("r", map_width/100)
-  .style("fill", "red")
-  .style("stroke", "blue")
+  .style("fill", "#ffcb27")
+  .style("stroke", "#333")
   ;
 
 
