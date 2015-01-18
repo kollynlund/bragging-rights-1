@@ -160,7 +160,7 @@ function drawEvents(error, brdata) {
   .on("click", loadEventData) 
   ;
 
-
+  // Changing top of map event display when mouse hovers over event marker
   events
   .on("mousemove", function(d,i) {
     var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -170,12 +170,42 @@ function drawEvents(error, brdata) {
     .html('<div class="col-sm-4 map-data-item event-name">Name: '+d.Name+'</div><div class="col-sm-4 map-data-item event-date">Date: '+d.Date+'</div><div class="col-sm-4 map-data-item event-discipline">Discipline: '+d.Discipline+'</div>')
     ;
   })
+  // Reverting to blank in top of map event display when mouse moves off of event marker
   .on("mouseout",  function(d,i) {
     info_display
     .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
     ;
   })
   ;
+
+  // Getting a list of unique disciplines
+  var disciplines = [];
+  for (var i = 0; i < brdata.Events.length; i++) {
+    disciplines.push(brdata.Events[i].Discipline);
+  }
+  disciplines = disciplines.filter(function(elem, pos) {
+    return disciplines.indexOf(elem) == pos;
+  }).filter(Boolean).sort(); 
+
+  // Appending unique disciplines to the dropdown list
+  d3.select("#sort-map-list")
+  .selectAll("li")
+  .data(disciplines)
+  .enter()
+  .insert("li")
+  .insert("a")
+  .attr("href", "#")
+  .attr("class", "map-sort-picklist-item")
+  .html( function(d) {return d;} )
+  ;
+
+  // Adding the divider at the bottom of the dropdown
+  d3.select("#sort-map-list")
+  .insert("li")
+  .attr("class", "divider")
+  ;
+
+
 };
 
 
