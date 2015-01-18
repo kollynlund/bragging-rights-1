@@ -82,7 +82,7 @@ ____________________________________*/
 
 
 #map {
-  cursor: url("img/grab.png"), move;
+  cursor: url("../img/grab.png"), move;
    border: 5px solid #eee;
 }
 
