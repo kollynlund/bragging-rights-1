@@ -56,7 +56,7 @@ ____________________________________*/
 	background-color: #333;
 	border-radius: 5px;
 	margin-bottom: 10px;
-  border: 5px solid #eee;
+  border: 4px solid #eee;
   margin-top: 10px;
 }
 
@@ -66,22 +66,18 @@ ____________________________________*/
 }
 
 #btn-map {
-  border: 5px solid #eee;
+  border: 4px solid #eee;
   background-color: #333;
   color: #eee;
 }
 
 #btn-list {
   background-color: #333;
-  border: 5px solid #eee;
+  border: 4px solid #eee;
   border-left: none;
   color: #eee;
 }
 
-.btn-list-active, .btn-map-active {
-  background-color: red;
-  color: #333;
-}
 
 .btn-list-inactive, .btn-list-inactive {
   background-color: #333;
@@ -97,6 +93,7 @@ ____________________________________*/
 
 .btn:focus {
   outline: none;
+  box-shadow: none;
 }
 
 .btn:hover {
@@ -111,8 +108,23 @@ ____________________________________*/
 .sort-map, .search, .map-list-btns {
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+.sort-map, .btn-search, .search-box, .btn-add {
+  border: 3px solid #eee;
+  background-color: #333;
+  color: #eee;
 
 }
+
+.search-box {
+  height: 38px;
+}
+
+.btn-add {
+  width: 100%;
+}
+
 
 
 /*________MAP VIEW____________________
@@ -120,7 +132,7 @@ ____________________________________*/
 
 
 #map {
-  cursor: url("../img/grab.png"), move;
+  cursor: move;
    border: 5px solid #eee;
 }
 
@@ -136,14 +148,60 @@ ____________________________________*/
   margin-bottom: 15px;
   font-size: 1.5em;
   color: #333;
+  overflow: scroll;
 
 }
 
 
 .map-data-item {
   border: 2px solid black;
+  overflow: scroll;
   
 }
+
+.brevent:hover {
+  cursor: pointer;
+
+}
+
+
+/*________MAP VIEW MODAL______________
+____________________________________*/
+
+
+
+
+
+/*
+
+.event-data-modal-discipline {
+  background-color: red;
+  width: 20%;
+  display: inline;
+}
+
+.event-data-modal-city {
+  background-color: blue;
+  width: 20%;
+  display: inline;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -232,7 +290,7 @@ ____________________________________*/
 }
 
 
-/*________MODAL ADD EVENT_____________
+/*________MODAL FORM ADD EVENT_____________
 ____________________________________*/
 
 form {
