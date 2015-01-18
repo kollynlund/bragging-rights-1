@@ -65,6 +65,44 @@ ____________________________________*/
 	padding-left: 20px;
 }
 
+#btn-map {
+  border: 5px solid #eee;
+  background-color: #333;
+  color: #eee;
+}
+
+#btn-list {
+  background-color: #333;
+  border: 5px solid #eee;
+  border-left: none;
+  color: #eee;
+}
+
+.btn-list-active, .btn-map-active {
+  background-color: red;
+  color: #333;
+}
+
+.btn-list-inactive, .btn-list-inactive {
+  background-color: #333;
+  color: #eee;
+}
+
+
+/*#btn-map:focus, #btn-list:focus {
+  background-color: #FFCB27;
+  color: #333;
+  outline: none;
+}*/
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  color: #eee;
+}
+
 .icon {
 	max-height: 175px;
   background-color: #333;
