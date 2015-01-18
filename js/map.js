@@ -63,7 +63,7 @@ function ready(error, world, names, brdata) {
     ;
   })
 
-  .on("click", test)
+  .on("click", clickIn)
 
   ;
       
@@ -118,14 +118,6 @@ function clickIn(d) {
   ;
 
 };
-
-
-
-
-function test(d) {
-  clickIn(d);
-  console.log(svg);
-}
 
 
 // Function for processing zoom and pan interactions
@@ -188,8 +180,3 @@ queue()
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
-
-d3.json("data/united_states.json", function(d) {console.log("US: ",d);});
-d3.json("data/world-110m.json", function(d) {console.log("World: ",d);});
-
-
