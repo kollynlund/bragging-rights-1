@@ -62,13 +62,70 @@ function ready(error, world, names, brdata) {
     .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
     ;
   })
-  /*
-  .on("click", clickIn)
-  */
+
+  .on("click", test)
+
   ;
       
   drawEvents(error, brdata);
 };
+
+
+// Function to process country click drilling
+function clickIn(d) {
+  /*
+  console.log('clickedIN: '+d.name);
+  */
+
+  // Grabs the appropriate map .json file
+  var file = "data/"+d.name.replace(" ","_").toLowerCase()+'.json';
+
+  function ready(error, topology, brdata) {
+
+    d3.select("svg").remove();
+
+    projection = d3.geo.albers()
+                 .translate([width/2, height/2])
+                 .scale(800);
+
+    path = d3.geo.path().projection(projection);
+
+    svg = d3.select("#map-container")
+              .append("svg")
+              .attr("width", width)
+              .attr("height", height)
+              .attr("id","main-map-container")
+              .call(d3.behavior.zoom()
+              .scaleExtent([1,200])
+              .on("zoom", redraw))
+              .append("g")
+              ;
+
+    svg.selectAll("path")
+    .data(topojson.object(topology, topology.objects.subunits).geometries)
+    .enter().append("path")
+    .attr("d", path)
+    .attr("class", "states")
+    ;
+
+    drawEvents(error, brdata);
+  }
+
+  queue()
+  .defer(d3.json, file)
+  .defer(d3.json, "data/brdata.json")
+  .await(ready)
+  ;
+
+};
+
+
+
+
+function test(d) {
+  clickIn(d);
+  console.log(svg);
+}
 
 
 // Function for processing zoom and pan interactions
@@ -123,42 +180,6 @@ function drawEvents(error, brdata) {
   ;
 };
 
-// Function to process country click drilling
-function clickIn(d) {
-  /*
-  console.log('clickedIN: '+d.name);
-  */
-
-  // Grabs the appropriate map .json file
-  var file = "data/"+d.name.replace(" ","_").toLowerCase()+'.json';
-
-  function ready(error, topology) {
-
-    d3.select("svg").remove();
-
-    var projection = d3.geo.albers();
-
-    var path = d3.geo.path().projection(projection);
-
-    var svg = d3.select("#map").append("svg");
-
-    var g = svg.append("g")
-            .attr("id", "innerMap");
-
-      g.selectAll("path")
-      .data(topojson.feature(topology, topology.features.subunits).features)
-      .enter().append("path")
-      .attr("d", path)
-      .attr("class", "states")
-      ;
-  }
-
-  queue()
-  .defer(d3.json, file)
-  .await(ready)
-  ;
-
-};
 
 // Listener for the initial data load and map drawing
 queue()
@@ -167,5 +188,8 @@ queue()
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
+
+d3.json("data/united_states.json", function(d) {console.log("US: ",d);});
+d3.json("data/world-110m.json", function(d) {console.log("World: ",d);});
 
 
