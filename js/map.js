@@ -145,13 +145,19 @@ function drawEvents(error, brdata) {
   events
   .enter()
   .insert("circle")
-  .attr("class", "brevent")    
+  .attr("class", "brevent")
   .attr("title", function(d,i) { return d.Name; })
   .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
   .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
   .attr("r", map_width/100)
   .style("fill", "#ffcb27")
   .style("stroke", "#333")
+  // Adding Bootstrap functionality for showing modal
+  .attr("type", "button")
+  .attr("data-toggle", "modal")
+  .attr("data-target", ".display-event-details-modal")
+  // Loading event data into modal when event is clicked
+  .on("click", loadEventData) 
   ;
 
 
@@ -169,6 +175,34 @@ function drawEvents(error, brdata) {
     .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
     ;
   })
+  ;
+};
+
+
+// Function to load event data into event detail modal
+function loadEventData(d) {
+  // Grab the modal
+  var event_modal = d3.select(".event-details-modal-data-container");
+
+  // Modify the elements to add the event-specific data
+  event_modal.select(".event-data-modal-discipline")
+  .html(d.Discipline);
+  event_modal.select(".event-data-modal-city")
+  .html(d.City);
+  event_modal.select(".event-data-modal-name")
+  .html(d.Name);
+  event_modal.select(".event-data-modal-country")
+  .html(d.Country);
+  event_modal.select(".event-data-modal-trick")
+  .html(d.Trick);
+  event_modal.select(".event-data-modal-video")
+  .html(d.Video);
+  event_modal.select(".event-data-modal-pictures")
+  .html(d.Pictures);
+  event_modal.select(".event-data-modal-date")
+  .html(d.Date);
+  event_modal.select(".event-data-modal-extra")
+  .html(d["Additional Information"])
   ;
 };
 
