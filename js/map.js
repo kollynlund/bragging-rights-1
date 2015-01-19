@@ -221,6 +221,11 @@ function drawEvents(error, brdata, filter) {
   .attr("class", "map-sort-picklist-item")
   .html( function(d) {return d;} )
   .on("click", function(d) {
+    // Setting the dropdown list text to the appropriate discipline
+    d3.selectAll("#sort-map-dropdown-button")
+    .html(d + ' <span class="caret"></span>');
+
+    // Grabbing only the appropriate events
     filterEvents(d);
   })
   ;
@@ -241,6 +246,11 @@ function drawEvents(error, brdata, filter) {
     .attr("class", "map-sort-picklist-all")
     .html("(show all)")
     .on("click", function() {
+      // Setting the dropdown list text to the appropriate discipline
+      d3.select("#sort-map-dropdown-button")
+      .html('Sort Map <span class="caret"></span>');
+
+      // Grabbing all events
       filterEvents();
     })
     ;
