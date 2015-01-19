@@ -107,8 +107,6 @@ function clickIn(d) {
     .attr("d", path)
     .attr("class", "states")
     ;
-
-    drawEvents(error, brdata);
   }
 
   queue()
@@ -138,10 +136,35 @@ function redraw() {
 
 
 // Function for drawing all event marker circles
-function drawEvents(error, brdata) {
-  var events = svg.selectAll(".brevents").data(brdata.Events);
+function drawEvents(error, brdata, filter) {
+  // Removes any previously drawn event markers
+  d3.selectAll(".brevent").remove();
+
+  // Processes any filtering from "Sort Map" dropdown
+  var event_data = brdata.Events;
+  if (filter) {
+    var filtered_data = [];
+    for (var i = 0; i < brdata.Events.length; i++) {
+      if (brdata.Events[i].Discipline == filter) {
+        filtered_data.push(brdata.Events[i]);
+      }
+    }
+    event_data = filtered_data;
+  }
+
+  // Grabs the element to append event markers to
+  var events = svg.selectAll(".brevents").data(event_data);
+
+  // Grabs map container width to initially size markers
   var map_width = document.getElementById("main-map-container").offsetWidth;
 
+  // Grabs necessary scaling features in order to size event markers in case this is a redraw
+  var s = 1;
+  if (d3.event) {
+    s = d3.event.scale;
+  }
+
+  // Adds markers with necessary attributes
   events
   .enter()
   .insert("circle")
@@ -149,7 +172,7 @@ function drawEvents(error, brdata) {
   .attr("title", function(d,i) { return d.Name; })
   .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
   .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
-  .attr("r", map_width/100)
+  .attr("r", map_width/100*(1/s))
   .style("fill", "#ffcb27")
   .style("stroke", "#333")
   // Adding Bootstrap functionality for showing modal
@@ -157,7 +180,7 @@ function drawEvents(error, brdata) {
   .attr("data-toggle", "modal")
   .attr("data-target", ".display-event-details-modal")
   // Loading event data into modal when event is clicked
-  .on("click", loadEventData) 
+  .on("click", showEventData) 
   ;
 
   // Changing top of map event display when mouse hovers over event marker
@@ -197,20 +220,50 @@ function drawEvents(error, brdata) {
   .attr("href", "#")
   .attr("class", "map-sort-picklist-item")
   .html( function(d) {return d;} )
+  .on("click", function(d) {
+    filterEvents(d);
+  })
   ;
 
-  // Adding the divider at the bottom of the dropdown
-  d3.select("#sort-map-list")
-  .insert("li")
-  .attr("class", "divider")
-  ;
+  // Adding the divider at the bottom of the dropdown and the "(show all)" option
+  if (d3.select("#sort-map-list").select("li.divider").empty()) {
+    var the_picklist = d3.select("#sort-map-list");
 
+    the_picklist
+    .insert("li")
+    .attr("class", "divider")
+    ;
+
+    the_picklist
+    .insert("li")
+    .insert("a")
+    .attr("href", "#")
+    .attr("class", "map-sort-picklist-all")
+    .html("(show all)")
+    .on("click", function() {
+      filterEvents();
+    })
+    ;
+  }
 
 };
 
 
+// Function to process the "Sort Map" dropdown filtering functionality
+function filterEvents(filter) {
+  // Wrapper for drawEvents to enable me to queue it and also pass the "filter" argument
+  function drawNewEvents (error, brdata) {
+    drawEvents(error, brdata, filter);
+  }
+  queue()
+  .defer(d3.json, "data/brdata.json")
+  .await(drawNewEvents)
+  ;
+}
+
+
 // Function to load event data into event detail modal
-function loadEventData(d) {
+function showEventData(d) {
   // Grab the modal
   var event_modal = d3.select(".event-details-modal-data-container");
 
