@@ -152,6 +152,9 @@ ____________________________________*/
 
 }
 
+.event-name {
+  max-height: 34px;
+}
 
 .map-data-item {
   border: 2px solid black;
@@ -163,6 +166,8 @@ ____________________________________*/
   cursor: pointer;
 
 }
+
+
 
 
 /*________MAP VIEW MODAL______________
