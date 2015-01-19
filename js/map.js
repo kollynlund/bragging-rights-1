@@ -1,6 +1,7 @@
 // The initial map width/height layouts
 var width = document.getElementById('map-container').offsetWidth-20;
 var height = width / 2;
+var current_scale = 1;
 
 // The initial map projection definition
 var projection = d3.geo.mercator()
@@ -14,6 +15,9 @@ var path = d3.geo.path()
 // Selecting the DOM element for the info display
 var info_display = d3.select(".map-data-display");
 
+
+console.log("***",d3.select("#list-events"));
+
 // Setting up the initial map container svg selection
 var svg = d3.select("#map-container")
           .append("svg")
@@ -25,6 +29,13 @@ var svg = d3.select("#map-container")
           .on("zoom", redraw))
           .append("g")
           ;
+
+console.log("###",d3.select("#map-container")); 
+
+// Setting up the list display selection
+var event_table = d3.select("#list-events");
+
+
 
 // Initial map drawing function (before any zooming or panning)
 function ready(error, world, names, brdata) {
@@ -121,16 +132,16 @@ function clickIn(d) {
 // Function for processing zoom and pan interactions
 function redraw() {
   var t = d3.event.translate;
-  var s = d3.event.scale; 
+  current_scale = d3.event.scale;
   var h = height / 3;
   
-  t[0] = Math.min(0, Math.max(width * (1 - s), t[0]));
-  t[1] = Math.min(height / 2 * (s - 1) + h * s, Math.max(height / 2 * (1 - s) - h * s, t[1]));
+  t[0] = Math.min(0, Math.max(width * (1 - current_scale), t[0]));
+  t[1] = Math.min(height / 2 * (current_scale - 1) + h * current_scale, Math.max(height / 2 * (1 - current_scale) - h * current_scale, t[1]));
 
-  svg.attr("transform", "translate(" + t + ")scale(" + s + ")").style("stroke-width", 1 / s);
+  svg.attr("transform", "translate(" + t + ")scale(" + current_scale + ")").style("stroke-width", 1 / current_scale);
   var events = svg.selectAll(".brevent");
   events
-  .attr("r", width/100*(1 / s))
+  .attr("r", width/100*(1 / current_scale))
   ;
 };
 
@@ -139,6 +150,7 @@ function redraw() {
 function drawEvents(error, brdata, filter) {
   // Removes any previously drawn event markers
   d3.selectAll(".brevent").remove();
+  d3.selectAll("tr.event-list-item").remove();
 
   // Processes any filtering from "Sort Map" dropdown
   var event_data = brdata.Events;
@@ -152,27 +164,25 @@ function drawEvents(error, brdata, filter) {
     event_data = filtered_data;
   }
 
-  // Grabs the element to append event markers to
-  var events = svg.selectAll(".brevents").data(event_data);
+  // Grabs the element to append map event markers to
+  var map_events = svg.selectAll(".brevents").data(event_data);
+
+  // Grabs the element to append table event markers to
+  var table_events = event_table.selectAll(".list-events").data(event_data);
 
   // Grabs map container width to initially size markers
   var map_width = document.getElementById("main-map-container").offsetWidth;
 
-  // Grabs necessary scaling features in order to size event markers in case this is a redraw
-  var s = 1;
-  if (d3.event) {
-    s = d3.event.scale;
-  }
-
   // Adds markers with necessary attributes
-  events
+  map_events
   .enter()
   .insert("circle")
   .attr("class", "brevent")
   .attr("title", function(d,i) { return d.Name; })
   .attr("cx", function(d,i) { return projection([d.Longitude,d.Latitude])[0];})
   .attr("cy", function(d,i) { return projection([d.Longitude,d.Latitude])[1];})
-  .attr("r", map_width/100*(1/s))
+  // Dealing with map scaling on redraw
+  .attr("r", map_width/100*(1/current_scale))
   .style("fill", "#ffcb27")
   .style("stroke", "#333")
   // Adding Bootstrap functionality for showing modal
@@ -183,8 +193,23 @@ function drawEvents(error, brdata, filter) {
   .on("click", showEventData) 
   ;
 
+  // Adds a table row for each event
+  var table_event = table_events
+                    .enter()
+                    .insert("tr")
+                    .attr("class", "event-list-item")
+                    ;
+
+  // Adds a td for each piece of event data
+  table_event.insert("td").attr("data-th", "Rider").html(function(d) {return d.Name;});
+  table_event.insert("td").attr("data-th", "Date").html(function(d) {return d.Date;});
+  table_event.insert("td").attr("data-th", "Trick").html(function(d) {return d.Trick;});
+  table_event.insert("td").attr("data-th", "Discipline").html(function(d) {return d.Discipline;});
+  table_event.insert("td").attr("data-th", "Location").html(function(d) {return d.City;});
+  ;
+
   // Changing top of map event display when mouse hovers over event marker
-  events
+  map_events
   .on("mousemove", function(d,i) {
     var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 

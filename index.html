@@ -17,9 +17,11 @@
 <body>  
 
 
-<!-- * * HEADER * * -->
 
+<!-- * * BODY CONTAINER * * -->
 <div class="container">
+
+  <!-- * * HEADER * * -->
   <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-default p-top">
@@ -52,188 +54,152 @@
 
 <!-- * * ADD EVENT MODAL * * -->
 
-    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <form>
-           <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-           </div>
-            <div class="form-group">
-              <label for="exampleInputPassword1">Password</label>
-              <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-            </div>
-            <div class="form-group">
-              <label for="exampleInputFile">File input</label>
-              <input type="file" id="exampleInputFile">
-              <p class="help-block">Example block-level help text here.</p>
-            </div>
-            <div class="checkbox">
-              <label>
-                <input type="checkbox"> Check me out
-              </label>
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
+  <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <form>
+         <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+         </div>
+          <div class="form-group">
+            <label for="exampleInputPassword1">Password</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputFile">File input</label>
+            <input type="file" id="exampleInputFile">
+            <p class="help-block">Example block-level help text here.</p>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox"> Check me out
+            </label>
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
 
-        </div>
       </div>
     </div>
+  </div>
 
 
 <!-- * * DISPLAY EVENT DETAILS MODAL * * -->
 
-    <div class="modal fade display-event-details-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          
+  <div class="modal fade display-event-details-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        
 
-
-
-
-
-
-
-
-
-
-
-                                                  <!-- Please style me!!! -->
-          <div class="row text-center event-details-modal-data-container">
-            <div class="col-sm-3 event-data-modal-discipline">a</div>
-            <div class="col-sm-3 event-data-modal-city">a</div>
-            <div class="col-sm-3 event-data-modal-name">a</div>
-            <div class="col-sm-12 event-data-modal-country">a</div>
-            <div class="col-sm-12 event-data-modal-trick">a</div>
-            <div class="col-sm-12 event-data-modal-video">a</div>
-            <iframe width="560" height="315" src="//www.youtube.com/embed/IErHVInMeG8" frameborder="0" allowfullscreen></iframe>
-            <div class="col-sm-12 event-data-modal-pictures">a</div>
-            <div class="col-sm-12 event-data-modal-date">a</div>
-            <div class="col-sm-12 event-data-modal-extra">a</div>
-          </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                                <!-- Please style me!!! -->
+        <div class="row text-center event-details-modal-data-container">
+          <div class="col-sm-3 event-data-modal-discipline">a</div>
+          <div class="col-sm-3 event-data-modal-city">a</div>
+          <div class="col-sm-3 event-data-modal-name">a</div>
+          <div class="col-sm-12 event-data-modal-country">a</div>
+          <div class="col-sm-12 event-data-modal-trick">a</div>
+          <div class="col-sm-12 event-data-modal-video">a</div>
+          <iframe width="560" height="315" src="//www.youtube.com/embed/IErHVInMeG8" frameborder="0" allowfullscreen></iframe>
+          <div class="col-sm-12 event-data-modal-pictures">a</div>
+          <div class="col-sm-12 event-data-modal-date">a</div>
+          <div class="col-sm-12 event-data-modal-extra">a</div>
         </div>
+
+
       </div>
     </div>
+  </div>
 
 
 <!-- * * NAVIGATION * * -->
 
- <div class="navigation">
-  <div class="row text-center">
-    <div class="col-sm-4">
-     <div class="btn-group map-list-btns" data-toggle="buttons">
-       <button type="button" id="btn-map" class="btn" name="options" autocomplete="off" checked> MAP VIEW</button>
-       <button type="button" id="btn-list" class="btn" name="options" autocomplete="off"> LIST VIEW</button>
-     </div>
-   </div>
-  
-
-  <div class="col-sm-4">
-     <div class="dropdown text-center">
-        <button type="button" id="sort-map-dropdown-button" class="btn btn-default dropdown-toggle sort-map" data-toggle="dropdown" aria-expanded="false">Sort Map <span class="caret"></span></button>
-        <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
-
-          <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
-        
-        </ul>
-      </div>
-  </div>
-      
-   <div class="col-sm-4">
-      <form class="form-inline search" role="search">
-        <div class="input-group">
-          <input type="text" class="form-control search-box" placeholder="Search">
-          <span class="input-group-btn">
-        <button type="submit" class="btn btn-search">Search</button></span>
-      </form>
-    </div>
-  </div>
-</div>
-</div>
-
-<!-- * * MAP VIEW * * -->
-
-    <div id="map">
-      <div class="container-fluid panel panel-map panel-default">
-        <div class="panel-body">
-          <div class="container-fluid row map-data-display">
-           <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
-          </div>
-          <div class="row">
-            <div class="col-sm-12">
-              <div id="map-container">
-                <script src="js/map.js"></script>
-              </div>
-            </div>
-          </div>
+  <div class="navigation">
+    <div class="row text-center">
+      <div class="col-sm-4">
+        <div class="btn-group map-list-btns" data-toggle="buttons">
+          <button type="button" id="btn-map" class="btn" name="options" autocomplete="off" checked> MAP VIEW</button>
+          <button type="button" id="btn-list" class="btn" name="options" autocomplete="off"> LIST VIEW</button>
         </div>
       </div>
+
+      <div class="col-sm-4">
+         <div class="dropdown text-center">
+            <button type="button" id="sort-map-dropdown-button" class="btn btn-default dropdown-toggle sort-map" data-toggle="dropdown" aria-expanded="false">
+              Sort Map <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
+
+              <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
+            
+            </ul>
+          </div>
+      </div>
+          
+      <div class="col-sm-4">
+        <form class="form-inline search" role="search">
+          <div class="input-group">
+            <input type="text" class="form-control search-box" placeholder="Search">
+            <span class="input-group-btn">
+              <button type="submit" class="btn btn-search">Search</button>
+            </span>
+          </div>
+        </form>
+      </div>
     </div>
+  </div>
 
 
 <!-- * * LIST VIEW * * -->    
 
-     <div id="list">
-      <div class="panel panel-default">
-       <div class="panel-body">
+  <div id="list">
+    <div class="panel panel-default">
+      <div class="panel-body">
         <div class="row">
           <div class="col-sm-12">
-             <h1 class="text-center">List View</h1>
-              <table class="rwd-table">
-                <tbody class="text-center">
-                  <tr>
-                    <th>Rider</th>
-                    <th>Date</th>
-                    <th>Trick</th>
-                    <th>Discipline</th>
-                    <th>Location</th>
-                  </tr>
-                  <tr>
-                    <td data-th="Rider">Gavin Godfrey</td>
-                    <td data-th="Date">7-1-2014</th>
-                    <td data-th="Trick">Triple Backflip</td>
-                    <td data-th="Discipline">MTB</td>
-                    <td data-th="Location">West Valley, UT</td>
-                  </tr>
-                  <tr>
-                    <td data-th="Rider">Tony Hawk</td>
-                    <td data-th="Date">7-27-1999</th>
-                    <td data-th="Trick">900</td>
-                    <td data-th="Discipline">SK8</td>
-                    <td data-th="Location">San Francisco, CA</td>
-                  </tr>  
-               </tbody>
-              </table>
+            <h1 class="text-center">List View</h1>
+            <table class="rwd-table">
+              <tbody class="text-center" id="list-events">
+                <tr class="event-list-header">
+                  <th>Rider</th>
+                  <th>Date</th>
+                  <th>Trick</th>
+                  <th>Discipline</th>
+                  <th>Location</th>
+                </tr>
+
+                <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
+
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- * * MAP VIEW * * -->
+
+  <div id="map">
+    <div class="container-fluid panel panel-map panel-default">
+      <div class="panel-body">
+        <div class="container-fluid row map-data-display">
+         <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <div id="map-container">
+              <script src="js/map.js"></script>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-
-
-
-
-
-
-
-
+<!-- * * END BODY CONTAINER * * -->
 </div>
 
 
