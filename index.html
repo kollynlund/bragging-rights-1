@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/mystyles.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css">  
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>  
   <script src="js/bootstrap.min.js"></script>
   <script src="js/d3.v3.min.js"></script>
@@ -17,12 +18,13 @@
 <body>  
 
 
-
 <!-- * * BODY CONTAINER * * -->
 <div class="container">
 
+
   <!-- * * HEADER * * -->
-  <div class="row">
+   <div class="header">
+    <div class="row">
     <div class="col-sm-4">
       <div class="panel panel-default p-top">
         <div class="panel-body">
@@ -44,31 +46,39 @@
       <div class="panel panel-default p-top">
        <div class="panel-body">
          <p>Do you know someone who has conquered a World's first? Add it to the library! 
-         </p><button type="button" class="btn btn-add btn-md text-center" data-toggle="modal" data-target=".bs-example-modal-lg">
+         </p><button type="button" class="btn btn-add btn-md text-center" data-toggle="modal" data-target=".add-worlds-first-modal">
          <span class="glyphicon glyphicon-plus pull-left" aria-hidden="true"></span>Add a World's first</button>
        </div>
      </div>     
     </div>  
   </div>
+  </div>
 
 
 <!-- * * ADD EVENT MODAL * * -->
 
-  <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal fade add-worlds-first-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4>
+        </div>
         <form>
          <div class="form-group">
           <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+          <input type="email" class="form-control" id="input-email" placeholder="Enter email">
          </div>
           <div class="form-group">
             <label for="exampleInputPassword1">Password</label>
-            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            <input type="password" class="form-control" id="input-password" placeholder="Password">
           </div>
           <div class="form-group">
-            <label for="exampleInputFile">File input</label>
+            <label for="exampleInputPassword1">Video</label>
+            <input type="password" class="form-control" id="input-video" placeholder="Add url link to YouTube video">
+          </div>          
+          <div class="form-group">
+            <label for="exampleInputFile">Choose photo to Upload</label>
             <input type="file" id="exampleInputFile">
             <p class="help-block">Example block-level help text here.</p>
           </div>
@@ -77,7 +87,10 @@
               <input type="checkbox"> Check me out
             </label>
           </div>
-          <button type="submit" class="btn btn-default">Submit</button>
+           <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Submit</button>
+           </div>
         </form>
 
       </div>
@@ -87,40 +100,89 @@
 
 <!-- * * DISPLAY EVENT DETAILS MODAL * * -->
 
-  <div class="modal fade display-event-details-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal fade display-event-details-modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
+        <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        
-
-                                                <!-- Please style me!!! -->
-        <div class="row text-center event-details-modal-data-container">
-          <div class="col-sm-3 event-data-modal-discipline">a</div>
-          <div class="col-sm-3 event-data-modal-city">a</div>
-          <div class="col-sm-3 event-data-modal-name">a</div>
-          <div class="col-sm-12 event-data-modal-country">a</div>
-          <div class="col-sm-12 event-data-modal-trick">a</div>
-          <div class="col-sm-12 event-data-modal-video">a</div>
-          <iframe class="col-sm-12" width="560" height="315" src="//a" frameborder="0" allowfullscreen></iframe>
-          <div class="col-sm-12 event-data-modal-pictures">a</div>
-          <div class="col-sm-12 event-data-modal-date">a</div>
-          <div class="col-sm-12 event-data-modal-extra">a</div>
+        <h4 class="modal-title" id="myModalLabel">Event details</h4>
         </div>
+          <div class="modal-body">                              
+            <div class="row text-center event-details-modal-data-container">
+              <div class="header-event-modal">
+                <div class="row">
+                  <div class="col-sm-6 col-sm-offset-3 event-data-modal-name">a</div>   
+                  <div class="col-sm-6 col-sm-offset-3 event-data-modal-trick">a</div> 
+              </div>
+              </div> 
 
+<!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
 
+              <div id="myCarousel" class="carousel slide carousel-fit" data-ride="carousel" data-interval="60000">
+                
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                  </ol>
+                
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <img src="img/tonyhawk.jpg" alt="First slide">
+                    <div class="carousel-caption">
+                      <h3>Tony Hawk</h3>
+                      <p>The one, the only.</p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="img/tonyhawk1.jpg" alt="Second slide">
+                    <div class="carousel-caption">
+                      <p>Celebration after landing the 900</p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="img/tonyhawk2.jpg" alt="Third slide">
+                    <div class="carousel-caption">
+                      <p>This is right before he dropped in and stomped the trick.</p>
+                    </div>
+                  </div>
+                </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                  </a>
+                  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                  </a>  
+              </div>   
+
+              <iframe class="event-video" width="560" height="355" src="//www.youtube.com/embed/RJIHlR3XK4A?list=UU7iNPNOL70yGYwTFInHMRwA" allowfullscreen></iframe>       
+              <div class="col-sm-4 event-data-modal-discipline">a</div>
+              <div class="col-sm-4 event-data-modal-city">a</div>
+              <div class="col-sm-12 event-data-modal-date">a</div>
+              <div class="col-sm-4 event-data-modal-country">a</div>
+              <div class="col-sm-12 event-data-modal-video">a</div>
+             
+              <div class="col-sm-12 event-data-modal-pictures">a</div>
+              
+              <div class="col-sm-12 event-data-modal-extra">a</div>
+            </div>
+          </div>
       </div>
     </div>
   </div>
 
 
 <!-- * * NAVIGATION * * -->
-
   <div class="navigation">
     <div class="row text-center">
       <div class="col-sm-4">
         <div class="btn-group map-list-btns" data-toggle="buttons">
-          <button type="button" id="btn-map" class="btn" name="options" autocomplete="off" checked> MAP VIEW</button>
-          <button type="button" id="btn-list" class="btn" name="options" autocomplete="off"> LIST VIEW</button>
+          <button type="button" id="btn-map" class="btn" name="options"> MAP VIEW</button>
+          <button type="button" id="btn-list" class="btn" name="options"> LIST VIEW</button>
         </div>
       </div>
 
@@ -183,11 +245,12 @@
 <!-- * * MAP VIEW * * -->
 
   <div id="map">
-    <div class="container-fluid panel panel-map panel-default">
+    <div class="panel panel-map panel-default">
       <div class="panel-body">
-        <div class="container-fluid row map-data-display">
+        <div class="row map-data-display">
          <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
         </div>
+
         <div class="row">
           <div class="col-sm-12">
             <div id="map-container">
@@ -195,6 +258,7 @@
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
@@ -205,6 +269,8 @@
 
 
 <script src="js/functions.js"></script>
+<script src="js/bootstrap-modal-carousel.min.js"></script>
+<script src="js/demo.min.js"></script>
 </body>
 
 
