@@ -193,6 +193,12 @@ function drawEvents(error, brdata, filter) {
                     .enter()
                     .insert("tr")
                     .attr("class", "event-list-item")
+                    // Adding Bootstrap functionality for showing modal
+                    .attr("type", "button")
+                    .attr("data-toggle", "modal")
+                    .attr("data-target", ".display-event-details-modal")
+                    // Loading event data into modal when event is clicked
+                    .on("click", showEventData) 
                     ;
 
   // Adds a td for each piece of event data
