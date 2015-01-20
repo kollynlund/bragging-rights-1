@@ -171,7 +171,9 @@ ____________________________________*/
 /*________MAP VIEW MODAL______________
 ____________________________________*/
 
-.event-details-modal-data-container
+.event-details-modal-data-container {
+  background-color: #333;
+}
 
 
 .header-event-modal {
@@ -179,18 +181,42 @@ ____________________________________*/
   font-size: 1.75em;
   margin-right: 40px;
   margin-left: 40px;
+  color: #eee;
+  margin-top: 25px;
 }
-
-
 
 .event-data-modal-discipline {
-  background-color: red;
+  background-color: white;
+  border: 4px solid #333;
 }
 
+.display-event-info-modal-col-left {
+  border: 4px dashed red;
+  padding: 20px;
+  margin: 15px auto 10px auto;
+}
 
 
 .event-data-modal-country {
+  text-align: center;
 }
+
+
+.event-video {
+  margin: 0 auto;
+  border: 5px dashed red;
+  padding: 10px;
+}
+
+
+
+
+
+        /*________IMG CAROUSEL______________
+        ____________________________________*/
+
+
+
 
 .carousel-indicators {
   margin-top: 10px;
@@ -217,14 +243,14 @@ ____________________________________*/
 }
 
 #myCarousel {
-  width: 80%;
+  
   margin: 15px auto 10px auto;
+  border: 5px dashed red;
+  padding: 10px;
 }
 
-.event-video {
-  width: 80%;
-  margin: 0 auto;
-}
+
+
 
 
 
