@@ -15,9 +15,6 @@ var path = d3.geo.path()
 // Selecting the DOM element for the info display
 var info_display = d3.select(".map-data-display");
 
-
-console.log("***",d3.select("#list-events"));
-
 // Setting up the initial map container svg selection
 var svg = d3.select("#map-container")
           .append("svg")
@@ -29,8 +26,6 @@ var svg = d3.select("#map-container")
           .on("zoom", redraw))
           .append("g")
           ;
-
-console.log("###",d3.select("#map-container")); 
 
 // Setting up the list display selection
 var event_table = d3.select("#list-events");
@@ -304,24 +299,43 @@ function showEventData(d) {
 
   // Modify the elements to add the event-specific data
   event_modal.select(".event-data-modal-discipline")
-  .html(d.Discipline);
+  .html(d.Discipline)
+  ;
   event_modal.select(".event-data-modal-city")
-  .html(d.City);
+  .html(d.City)
+  ;
   event_modal.select(".event-data-modal-name")
-  .html(d.Name);
+  .html(d.Name)
+  ;
   event_modal.select(".event-data-modal-country")
-  .html(d.Country);
+  .html(d.Country)
+  ;
   event_modal.select(".event-data-modal-trick")
-  .html(d.Trick);
-  event_modal.select(".event-data-modal-video")
-  .html(d.Video);
+  .html(d.Trick)
+  ;
   event_modal.select(".event-data-modal-pictures")
-  .html(d.Pictures);
+  .html(d.Pictures)
+  ;
   event_modal.select(".event-data-modal-date")
-  .html(d.Date);
+  .html(d.Date)
+  ;
   event_modal.select(".event-data-modal-extra")
   .html(d["Additional Information"])
   ;
+
+  // Making the iframe embed the corresponding video
+  event_modal.select("iframe.event-video")
+  .attr("src",function() {
+    if (d.Video.search("youtube") > 0) { 
+      return d.Video.replace("watch?v=", "embed/").substr(0,41);
+    }
+    else {
+      return "/errors/video_error.html";
+    }
+  })
+  ;
+
+
 };
 
 
