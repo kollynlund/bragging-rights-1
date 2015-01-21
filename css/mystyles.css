@@ -22,8 +22,7 @@ h1 {
 ____________________________________*/
 
 .header {
-  font-family: Arial, serif;
-  
+font-family: 'Roboto Slab', sans-serif;  
 }
 
 #map-container {
@@ -36,11 +35,16 @@ ____________________________________*/
   border: none;
 }
 
+.icon {
+  max-height: 175px;
+  background-color: #333;
+}
+
 
 .p-top, .pic-top {
   margin-top: 10px;
   border-color: #eee;
-  border-width: 5px;
+  border-width: 3px;
 }
 
 .p-top {
@@ -55,12 +59,28 @@ ____________________________________*/
 ____________________________________*/
 
 
-
 .navigation {
 	background-color: #333;
 	border-radius: 5px;
 	margin-bottom: 10px;
+  border: 3px solid #eee;
+}
+
+.sort-map, .btn-search, .search-box, .btn-add {
+  font-family: 'Roboto Slab', serif;
+  border: 3px solid #eee;
+  background-color: #333;
+  color: #eee;
+}
+
+#btn-map, #btn-list {
   border: 4px solid #eee;
+  background-color: #333;
+  color: #eee;
+}
+
+#btn-list {
+  border-left: none;
 }
 
 .search {
@@ -68,45 +88,40 @@ ____________________________________*/
 	padding-left: 20px;
 }
 
-#btn-map {
-  border: 4px solid #eee;
-  background-color: #333;
-  color: #eee;
+.btn-add {
+  width: 100%;
 }
-
-#btn-list {
-  background-color: #333;
-  border: 4px solid #eee;
-  border-left: none;
-  color: #eee;
-}
-
-
-.btn-list-inactive, .btn-list-inactive {
-  background-color: #333;
-  color: #eee;
-}
-
-
-/*#btn-map:focus, #btn-list:focus {
-  background-color: #FFCB27;
-  color: #333;
-  outline: none;
-}*/
 
 .btn:focus {
   outline: none;
   box-shadow: none;
 }
 
-.btn:hover {
+.sort-map:hover, .btn-add:hover, .btn-search:hover, .btn-search:focus {
   color: #eee;
+  border-color: initial !important; 
 }
 
-.icon {
-	max-height: 175px;
-  background-color: #333;
+.btn-toggle-active {
+  background-color: #FFCB27 !important;
+  color: #333 !important;
 }
+
+.btn:active, .btn:focus, button {
+ box-shadow: none !important;
+
+} 
+
+.sort-map:hover, .sort-map:active, .sort-map:focus {
+  background-color: #333 !important;
+  color: #eee !important;
+}
+
+.active, .focus {
+  outline: none !important;
+}
+
+
 
 .sort-map, .search, .map-list-btns {
   font-family: 'Roboto Slab', serif;
@@ -114,22 +129,10 @@ ____________________________________*/
 	margin-bottom: 10px;
 }
 
-.sort-map, .btn-search, .search-box, .btn-add {
-    font-family: 'Roboto Slab', serif;
-
-  border: 3px solid #eee;
-  background-color: #333;
-  color: #eee;
-
-}
-
 .search-box {
   height: 38px;
 }
 
-.btn-add {
-  width: 100%;
-}
 
 
 
@@ -148,6 +151,8 @@ ____________________________________*/
 }
 
 .map-data-display {
+  font-family: 'Roboto Slab', sans-serif;  
+  max-height: 33px;
   background-color: white;
   text-align: left;
   border-radius: 5px;
