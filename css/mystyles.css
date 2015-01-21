@@ -140,10 +140,10 @@ ____________________________________*/
 ____________________________________*/
 
 
-#map {
+#map-container {
   cursor: move;
-  border: 4px solid #eee;
-}
+/*  border: 4px solid #eee;
+*/}
 
 
 .panel-map {
@@ -151,23 +151,28 @@ ____________________________________*/
 }
 
 .map-data-display {
-  font-family: 'Roboto Slab', sans-serif;  
-  max-height: 33px;
-  background-color: white;
+  font-family: 'Roboto Slab', sans-serif; 
+  border: 3px solid #eee; 
+  border-radius: 5px !important;
+  background-color: #333;
+  color: #eee;
   text-align: left;
-  border-radius: 5px;
-  margin-bottom: 15px;
+  border-radius: 0px;
   font-size: 1.5em;
-  color: #333;
   overflow: scroll;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 10px 40px 10px 40px;
+  margin-bottom: 10px !important;
+  width: 100%;
+  margin: 0 auto;
 
 }
 
 .map-data-item {
-  border: 2px solid black;
+  border: 3px solid #eee;
+  border-radius: 5px;
   overflow: scroll;
+  max-height: 33px;
+
   
 }
 
@@ -179,6 +184,10 @@ ____________________________________*/
 
 /*________MAP VIEW MODAL______________
 ____________________________________*/
+
+.modal-body {
+  background-color: #333;
+}
 
 .modal-header {
   background-color: transparent;
@@ -204,42 +213,65 @@ ____________________________________*/
 .event-data-modal-trick {
   color: #BF981D;
   margin: 15px 45px 15px 45px;
-  font-size: 1.125em;
+  font-size: 1em;
   font-family: 'Roboto Slab', serif;
 }
 
-.event-details-modal-data-container {
-  background-color: #333;
-}
-
-
-
-
-
-
-
-
 
 .display-event-info-modal-col-left {
-  border: 5px solid #FFCB27;
   border-radius: 0px;
   width: 23%;
   margin-left: 15px;
 }
 
 .event-data-modal-discipline {
-  margin-top: 20px;
 }
 
-.event-data-modal-discipline, .event-data-modal-city, .event-data-modal-date, 
-.event-data-modal-country, .event-data-modal-extra {
-  border: 4px solid #eee;
+.discipline-left {
+  border-bottom: 3px solid #eee;
+  padding: 5px 0 5px 0;
+  margin-top: 0px;
+
+}
+
+
+ .event-data-modal-extra {
   color: #eee;
-  padding: 3px 0 3px 0;
-  font-weight: 500;
   margin-bottom: 40px;
   
 }
+
+.border {
+    border: 4px solid #eee;
+}
+
+.event-modal-discipline, .event-data-modal-country {
+  color: #eee;
+}
+
+
+.event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline {
+  border-bottom: 4px dashed red;
+}
+
+.event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline, .event-data-modal-city {
+  color: #eee;
+  font-size: 1.125em;
+}
+
+
+
+.glyphicon-calendar, .glyphicon-globe, .glyphicon-star {
+  font-size: 3em;
+  color: #eee;
+}
+
+
+.date-left, .location-left {
+  color: #eee;
+}
+
+
 
 .event-video, #myCarousel {
   border: 3px solid #eee;
@@ -253,6 +285,12 @@ ____________________________________*/
 .event-video {
   border: 3px solid #eee; 
 
+}
+
+.img-circle {
+  width: 70%;
+  padding-bottom: 10px;
+  
 }
 
 
@@ -318,14 +356,26 @@ ____________________________________*/
 ____________________________________*/
 
 
+.list-table {
+  border: 2px solid #eee;
+  font-family: 'Roboto Slab', sans-serif; 
+}
+
+th {
+  font-size: 1.5em;
+}
+
+.panel-list {
+  background-color: #333;
+}
 
 .rwd-table {
   margin: 1em 0;
   min-width: 100%;
 }
 .rwd-table tr {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
 }
 .rwd-table th {
   display: none;
@@ -352,7 +402,7 @@ ____________________________________*/
   overflow: hidden;
 }
 .rwd-table tr {
-  border-color: #46627f;
+  border-color: #eee;
 }
 .rwd-table th, .rwd-table td {
   margin: .5em 1em;

@@ -117,11 +117,33 @@
           <div class="row text-center">
 
             <div class="col-sm-3 display-event-info-modal-col-left"> 
-              <div class="event-data-modal-discipline hipster">a</div>
-              <div class="event-data-modal-city">a</div>
-              <div class="event-data-modal-date">a</div>
-              <div class="event-data-modal-country">a</div>
-              <div class="event-data-modal-extra">a</div>                  
+              <div class="border">
+
+                <div class="event-modal-discipline">
+                  <h2 class="discipline-left">Discipline</h2>
+                  <img src="img/svg/bmx.svg" alt="example" class="img-circle">
+                  <div class="event-data-modal-discipline">a</div>
+                </div>
+
+                <div class="event-modal-location">
+                  <h2 class="location-left">Location</h2>
+                  <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                  <div class="event-data-modal-city">a</div>
+                  <div class="event-data-modal-country">a</div>
+                </div>
+
+                <div class="event-modal-date">
+                  <h2 class="date-left">Date</h2>
+                  <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
+                  <div class="event-data-modal-date">a</div>
+                </div>   
+
+                <div class="event-modal-extra">
+                  <h2 class="date-left">Details</h2>
+                  <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+                  <div class="event-data-modal-extra">a</div>
+                </div>                 
+              </div>
             </div>
 
             <div class="col-sm-9">
@@ -230,13 +252,10 @@
 <!-- * * LIST VIEW * * -->    
 
   <div id="list">
-    <div class="panel panel-default">
-      <div class="panel-body">
         <div class="row">
           <div class="col-sm-12">
-            <h1 class="text-center">List View</h1>
-            <table class="rwd-table">
-              <tbody class="text-center" id="list-events">
+            <table class="rwd-table center-block">
+              <tbody class="text-center list-table" id="list-events">
                 <tr class="event-list-header">
                   <th>Rider</th>
                   <th>Date</th>
@@ -245,13 +264,11 @@
                   <th>Location</th>
                 </tr>
 
-                <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
+                <!-- map.js ADDS LI DYNAMICALLY -->
 
               </tbody>
             </table>
           </div>
-        </div>
-      </div>
     </div>
   </div>
 
@@ -259,8 +276,6 @@
 <!-- * * MAP VIEW * * -->
 
   <div id="map">
-    <div class="panel panel-map panel-default">
-      <div class="panel-body">
         <div class="row map-data-display">
          <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
         </div>
@@ -272,9 +287,6 @@
             </div>
           </div>
         </div>
-
-      </div>
-    </div>
   </div>
 
 <!-- * * END BODY CONTAINER * * -->
