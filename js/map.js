@@ -34,6 +34,9 @@ var event_table = d3.select("#list-events");
 
 // Initial map drawing function (before any zooming or panning)
 function ready(error, world, names, brdata) {
+  
+  console.log("World: ",world);
+
   var countries = topojson.object(world, world.objects.countries).geometries;
   var n = countries.length;
 
@@ -87,6 +90,8 @@ function clickIn(d) {
   var file = "data/"+d.name.replace(" ","_").toLowerCase()+'.json';
 
   function ready(error, topology, brdata) {
+
+    console.log(topology);
 
     d3.select("svg").remove();
 
@@ -274,7 +279,7 @@ function drawEvents(error, brdata, filter) {
     .on("click", function() {
       // Setting the dropdown list text to the appropriate discipline
       d3.select("#sort-map-dropdown-button")
-      .html('Sort Map <span class="caret"></span>');
+      .html('SORT DATA BY DISCIPLINE <span class="caret"></span>');
 
       // Grabbing all events
       filterEvents();
@@ -303,6 +308,16 @@ function showEventData(d) {
   // Grab the modal
   var event_modal = d3.select(".event-details-modal-data-container");
 
+  event_modal.select("ol.carousel-indicators")
+  .selectAll("li")
+  .remove()
+  ;
+
+  event_modal.select(".carousel-inner")
+  .selectAll("div")
+  .remove()
+  ;
+
   // Modify the elements to add the event-specific data
   event_modal.select(".event-data-modal-discipline")
   .html(d.Discipline)
@@ -319,15 +334,48 @@ function showEventData(d) {
   event_modal.select(".event-data-modal-trick")
   .html(d.Trick)
   ;
-  event_modal.select(".event-data-modal-pictures")
-  .html(d.Pictures)
-  ;
   event_modal.select(".event-data-modal-date")
   .html(d.Date)
   ;
   event_modal.select(".event-data-modal-extra")
   .html(d["Additional Information"])
   ;
+
+
+//  console.log(event_modal.select("ol.carousel-indicators"));
+  event_modal.select("ol.carousel-indicators")
+  .data(d.Pictures.split(","))
+  .enter()
+  .append("li")
+  .attr("data-target", "#myCarousel")
+  .attr("data-slide-to", function(d,i) {return i;})
+  ;
+
+  console.log(event_modal.select(".carousel-inner"), d.Pictures.split(","));
+  console.log(event_modal.select(".carousel-inner")
+              .data(d.Pictures.split(","))
+              .enter()
+  );
+
+  event_modal.select(".carousel-inner")
+  .data(d.Pictures.split(","))
+  .enter()
+  .insert("div");
+
+  console.log(event_modal.select(".carousel-inner").selectAll("div"));
+
+
+  /*
+  .attr("class", "item")
+  .insert("img")
+  .attr("src", function(d,i) {return d;})
+  .insert("div")
+  .attr("class", "carousel-caption")
+  .insert("p")
+  .html("TEST TEST")
+  ;
+  */
+
 
   // Making the iframe embed the corresponding video
   event_modal.select("iframe.event-video")
