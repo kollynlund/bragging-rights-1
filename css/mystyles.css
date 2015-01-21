@@ -22,6 +22,7 @@ h1 {
 ____________________________________*/
 
 .header {
+  font-family: Arial, serif;
   
 }
 
@@ -108,11 +109,14 @@ ____________________________________*/
 }
 
 .sort-map, .search, .map-list-btns {
+  font-family: 'Roboto Slab', serif;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
 
 .sort-map, .btn-search, .search-box, .btn-add {
+    font-family: 'Roboto Slab', serif;
+
   border: 3px solid #eee;
   background-color: #333;
   color: #eee;
@@ -171,32 +175,51 @@ ____________________________________*/
 /*________MAP VIEW MODAL______________
 ____________________________________*/
 
+.modal-header {
+  background-color: transparent;
+  border-bottom: 3px solid #eee;
+  border-radius: 5px 5px 0 0;
+  color: white;
+  text-align: center;
+  min-height: 40px;
+
+}
+
+.header-event-modal {
+  border: 5px solid #FFCB27;
+  background-color: #333;
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+
+.event-data-modal-name {
+  font-size: 1.2em;
+}
+
+.event-data-modal-trick {
+  color: #BF981D;
+  margin: 15px 45px 15px 45px;
+  font-size: 1.125em;
+  font-family: 'Roboto Slab', serif;
+}
+
 .event-details-modal-data-container {
   background-color: #333;
 }
 
 
-.header-event-modal {
-  border: 7px solid #FFCB27;
-  font-size: 1.75em;
-  background-color: #333;
-  border-radius: 5px;
-}
 
-.event-data-modal-name {
-  font-size: 2em;
-}
 
-.event-data-modal-trick {
-  color: #BF981D;
-  margin-bottom: 5px;
-}
+
+
 
 
 
 .display-event-info-modal-col-left {
-  border: 7px solid #FFCB27;
-  border-radius: 5px;
+  border: 5px solid #FFCB27;
+  border-radius: 0px;
+  width: 23%;
+  margin-left: 15px;
 }
 
 .event-data-modal-discipline {
@@ -222,6 +245,11 @@ ____________________________________*/
 
 }
 
+.event-video {
+  border: 3px solid #eee; 
+
+}
+
 
 
 
@@ -233,6 +261,7 @@ ____________________________________*/
 
 #myCarousel {
   background-color: rgba(255,255,255, .5);
+  margin-bottom: 10px;
 }
 
 
@@ -435,6 +464,76 @@ ____________________________________*/
 }
 
 
+#logo h1 {
+  font-size: 28px;
+font-weight: 500;
+font-family: Arial, sans-serif;
+line-height: 54px;
+text-transform: uppercase;
+letter-spacing: 3px;
+height: 56px;
+margin: 0;
+display: inline-block;
+-webkit-font-smoothing: antialiased;
+ white-space:nowrap;
+}
+
+#logo h1 p {
+  color:#333;
+  text-decoration:none;
+}
+
+#logo p:before, #logo p:after {
+  content: '\2013\2002';
+  color: #333;
+}
+
+#logo p:after {
+  content:'\2002\2013';
+}
+
+.ribbon {
+  background-color:#FFCB27;
+  padding: 0 20px;
+  height: 56px;
+  display: inline-block;
+  position: relative;
+  margin-left: 56px;
+  margin-right: 56px;
+  z-index: 1000;
+  width: 75%;
+  margin-top: 10px;
+
+}
+
+
+
+.ribbon:before, .ribbon:after {
+  content: '.';
+  text-indent: -9999em;
+  height: 0;
+  width: 0;
+  border-style: solid;
+  border-width: 28px;
+  position: absolute;
+  left: -45px;
+  top: 10px;
+  display: block;
+  z-index: 1;
+}
+
+.ribbon:before {
+  border-color: #FFCB27 #FFCB27 #FFCB27 transparent;
+
+}
+
+.ribbon:after {
+  border-color: #FFCB27 transparent #FFCB27 #FFCB27;
+  right: -45px;
+  left: auto;
+}
+
+ 
 
 
 

@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/mystyles.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css">  
+  <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css">  
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>  
   <script src="js/bootstrap.min.js"></script>
   <script src="js/d3.v3.min.js"></script>
@@ -17,13 +18,17 @@
 
 <body>  
 
-
 <!-- * * BODY CONTAINER * * -->
+
 <div class="container">
+
+
   <!-- * * HEADER * * -->
    <div class="header">
+
     <div class="row">
     <div class="col-sm-4">
+
       <div class="panel panel-default p-top">
         <div class="panel-body">
         <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  
@@ -45,7 +50,7 @@
        <div class="panel-body">
          <p>Do you know someone who has conquered a World's first? Add it to the library! 
          </p><button type="button" class="btn btn-add btn-md text-center" data-toggle="modal" data-target=".add-worlds-first-modal">
-         <span class="glyphicon glyphicon-plus pull-left" aria-hidden="true"></span>Add a World's first</button>
+         <span class="glyphicon glyphicon-plus pull-left" aria-hidden="true"></span>ADD A WORLDS FIRST</button>
        </div>
      </div>     
     </div>  
@@ -104,7 +109,7 @@
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title" id="myModalLabel">Event details</h4>
+          <h3 class="modal-title" id="myModalLabel"></h3>
         </div>
 
         <div class="modal-body event-details-modal-data-container">                              
@@ -120,7 +125,10 @@
 
             <div class="col-sm-9">
               <div class="header-event-modal">
-                <div class="event-data-modal-name owText">a</div>   
+                <div id="logo" class="ribbon">
+                  <h1><p class="event-data-modal-name">a</p></h1>
+                </div>
+             <!--    <div class="event-data-modal-name owText">a</div> -->   
                 <div class="event-data-modal-trick">a</div> 
               </div> 
 <!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
@@ -194,7 +202,7 @@
       <div class="col-sm-4">
          <div class="dropdown text-center">
             <button type="button" id="sort-map-dropdown-button" class="btn btn-default dropdown-toggle sort-map" data-toggle="dropdown" aria-expanded="false">
-              Sort Map <span class="caret"></span>
+              SORT DATA BY DISCIPLINE <span class="caret"></span>
             </button>
             <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
 
@@ -209,7 +217,7 @@
           <div class="input-group">
             <input type="text" class="form-control search-box" placeholder="Search">
             <span class="input-group-btn">
-              <button type="submit" class="btn btn-search">Search</button>
+              <button type="submit" class="btn btn-search">SEARCH</button>
             </span>
           </div>
         </form>
