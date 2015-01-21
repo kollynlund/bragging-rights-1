@@ -28,31 +28,24 @@
    <div class="header">
 
     <div class="row">
-    <div class="col-sm-4">
 
-      <div class="panel panel-default p-top">
-        <div class="panel-body">
-        <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  
-        </p>
-      </div>
+    <div class="col-sm-3">
+         <img class="icon img-responsive" alt="logo" src="img/logocrop.png">
+    </div>
+
+    <div class="col-sm-5">
+      <div class="welcome">
+        <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  </p>
      </div>
     </div>  
 
-    <div class="col-sm-4">
-      <div class="panel-img pic-top">
-        <div class="text-center">
-         <img class="icon img-responsive center-block" alt="logo" src="img/logocrop.png">
-        </div>
-      </div>
-    </div>
+
 
     <div class="col-sm-4">
-      <div class="panel panel-default p-top">
-       <div class="panel-body">
-         <p>Do you know someone who has conquered a World's first? Add it to the library! 
-         </p><button type="button" class="btn btn-add btn-md text-center" data-toggle="modal" data-target=".add-worlds-first-modal">
-         <span class="glyphicon glyphicon-plus pull-left" aria-hidden="true"></span>ADD A WORLDS FIRST</button>
-       </div>
+      <div class="p-add">
+         <p>Do you know someone who has conquered a World's first? Add it to the library!</p> 
+         <button type="button" class="btn btn-add btn-sm text-center center-block" data-toggle="modal" data-target=".add-worlds-first-modal">
+         <span class="glyphicon glyphicon-plus pull-left" aria-hidden="true"></span>ADD AN EVENT</button>
      </div>     
     </div>  
   </div>
@@ -121,13 +114,13 @@
 
                 <div class="event-modal-discipline">
                   <h2 class="discipline-left">Discipline</h2>
-                  <img src="img/svg/bmx.svg" alt="example" class="img-circle event-data-modal-discipline-graphic">
+                  <img src="img/svg/bmx.svg" alt="example" class="img-responsive svg-icon-left event-data-modal-discipline-graphic">
                   <div class="event-data-modal-discipline">a</div>
                 </div>
 
                 <div class="event-modal-location">
                   <h2 class="location-left">Location</h2>
-                  <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                  <span class="glyphicon glyphicon-globe globe-modal" aria-hidden="true"></span>
                   <div class="event-data-modal-city">a</div>
                   <div class="event-data-modal-country">a</div>
                 </div>
@@ -139,7 +132,7 @@
                 </div>   
 
                 <div class="event-modal-extra">
-                  <h2 class="date-left">Details</h2>
+                  <h2 class="details-left">Details</h2>
                   <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
                   <div class="event-data-modal-extra">a</div>
                 </div>                 
@@ -215,17 +208,17 @@
 <!-- * * NAVIGATION * * -->
   <div class="navigation">
     <div class="row text-center">
-      <div class="col-sm-4">
-        <div class="btn-group map-list-btns" data-toggle="buttons">
-          <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"> MAP VIEW</button>
-          <button type="button" id="btn-list" class="btn" name="options"> LIST VIEW</button>
+      <div class="col-sm-3">
+        <div class="btn-group map-list-btns pull-left" data-toggle="buttons">
+          <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"><span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>
+          <button type="button" id="btn-list" class="btn" name="options"><span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>
         </div>
       </div>
 
-      <div class="col-sm-4">
+      <div class="col-sm-3">
          <div class="dropdown text-center">
-            <button type="button" id="sort-map-dropdown-button" class="btn btn-default dropdown-toggle sort-map" data-toggle="dropdown" aria-expanded="false">
-              SORT DATA BY DISCIPLINE <span class="caret"></span>
+            <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
+              FILTER RESULTS <span class="caret"></span>
             </button>
             <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
 
@@ -235,12 +228,12 @@
           </div>
       </div>
           
-      <div class="col-sm-4">
-        <form class="form-inline search" role="search">
-          <div class="input-group">
-            <input type="text" class="form-control search-box" placeholder="Search">
+      <div class="col-sm-6">
+        <form class="form-inline" role="search">
+          <div class="input-group search-box pull-right">
+            <input type="text" class="form-control search-input" placeholder="Search">
             <span class="input-group-btn">
-              <button type="submit" class="btn btn-search">SEARCH</button>
+              <button type="submit" class="btn search-btn">SEARCH</button>
             </span>
           </div>
         </form>
@@ -254,8 +247,8 @@
   <div id="list">
         <div class="row">
           <div class="col-sm-12">
-            <table class="rwd-table center-block">
-              <tbody class="text-center list-table" id="list-events">
+            <table class="rwd-table">
+              <tbody class="list-table" id="list-events">
                 <tr class="event-list-header">
                   <th>Rider</th>
                   <th>Date</th>
@@ -276,10 +269,9 @@
 <!-- * * MAP VIEW * * -->
 
   <div id="map">
-        <div class="row map-data-display">
-         <div class="col-sm-12 map-data-item country-name">&nbsp;</div>
+        <div class="row map-data-item country-name map-data-display">
+         <div class="col-sm-12 ">&nbsp;</div>
         </div>
-
         <div class="row">
           <div class="col-sm-12">
             <div id="map-container">
