@@ -322,6 +322,10 @@ function showEventData(d) {
   event_modal.select(".event-data-modal-discipline")
   .html(d.Discipline)
   ;
+  event_modal.select("img.event-data-modal-discipline-graphic")
+  .attr("src","img/svg/"+d.Discipline.toLowerCase()+".svg")
+  ;
+
   event_modal.select(".event-data-modal-city")
   .html(d.City)
   ;
