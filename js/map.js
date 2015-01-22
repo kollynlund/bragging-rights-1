@@ -425,9 +425,9 @@ function click(d) {
         + "scale(" + current_scale + ")"
         + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")")
     .style("stroke-width", 1 / current_scale)
+    .selectAll(".brevent")
+    .attr("r", width/100*(1 / current_scale))
     ;
-
-    drawEvents(error, brdata);
   }
 
   queue()
@@ -437,12 +437,12 @@ function click(d) {
 }
 
 function reset() {
-  active = undefined;
-  svg.transition().duration(750).attr("transform", "");
   current_scale = 1;
-  queue()
-  .defer(d3.json, "data/brdata.json")
-  .await(drawEvents)
+  active = undefined;
+  svg.transition().duration(750).attr("transform", "")
+  .style("stroke-width", 1 / current_scale)
+  .selectAll(".brevent")
+  .attr("r", width/100*(1 / current_scale))
   ;
 }
 
