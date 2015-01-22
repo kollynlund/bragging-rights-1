@@ -222,7 +222,7 @@ ____________________________________*/
 ____________________________________*/
 
 .modal-body {
-    background: url('../img/background/background4.jpg') no-repeat center center fixed; 
+    background: url('../img/background/background-gray.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -303,13 +303,21 @@ ____________________________________*/
 .event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline, .event-data-modal-city {
   color: #333;
   font-size: 1.125em;
+
 }
 
 
 
 .glyphicon-calendar, .globe-modal, .glyphicon-star {
   font-size: 3em;
+  color: #2748FF;
+
+}
+
+.fa-circle {
+  font-size: .675em !important;
   color: #333;
+  margin-bottom: 5px;
 }
 
 
