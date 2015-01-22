@@ -1,12 +1,14 @@
 // The initial map width/height layouts
 var width = document.getElementById('map-container').offsetWidth-20;
 var height = width / 2;
+var active;
 var current_scale = 1;
+var current_offset = [0,0];
 
 // The initial map projection definition
 var projection = d3.geo.mercator()
                  .translate([width/2, height/2])
-                 .scale(1000);
+                 .scale(800);
 
 // The initial map path placeholder
 var path = d3.geo.path()
@@ -40,8 +42,9 @@ function ready(error, world, names, brdata) {
   var countries = topojson.object(world, world.objects.countries).geometries;
   var n = countries.length;
 
-  countries.forEach( function(d) { 
-    d.name = names.filter(function(n) { return d.id == n.id; })[0].name; 
+  countries.forEach( function(d) {
+    d.name = names.filter(function(n) { return d.id == n.id; })[0].name;
+    d.iso = names.filter(function(n) { return d.id == n.id; })[0].iso3;
   });
 
   var country = svg.selectAll(".country").data(countries);
@@ -72,7 +75,7 @@ function ready(error, world, names, brdata) {
     ;
   })
 
-  .on("click", clickIn)
+  .on("click", click)
 
   ;
       
@@ -87,7 +90,7 @@ function clickIn(d) {
   */
 
   // Grabs the appropriate map .json file
-  var file = "data/"+d.name.replace(" ","_").toLowerCase()+'.json';
+  var file = "data/topojson files/"+d.iso+'/states.json';
 
   function ready(error, topology, brdata) {
 
@@ -95,9 +98,9 @@ function clickIn(d) {
 
     d3.select("svg").remove();
 
-    projection = d3.geo.albers()
+    projection = d3.geo.mercator()
                  .translate([width/2, height/2])
-                 .scale(800);
+                 .scale(100);
 
     path = d3.geo.path().projection(projection);
 
@@ -112,12 +115,18 @@ function clickIn(d) {
               .append("g")
               ;
 
+    var yes = false;
+
     svg.selectAll("path")
-    .data(topojson.object(topology, topology.objects.subunits).geometries)
+    .data(topojson.object(topology, topology.objects.states).geometries)
     .enter().append("path")
     .attr("d", path)
+    .style("fill", "#C1BFBF")
+    .style("stroke", "#333")
     .attr("class", "states")
     ;
+
+    drawEvents(error, brdata);
   }
 
   queue()
@@ -131,14 +140,14 @@ function clickIn(d) {
 
 // Function for processing zoom and pan interactions
 function redraw() {
-  var t = d3.event.translate;
+  current_offset = [current_offset[0] + d3.event.translate[0], current_offset[1] + d3.event.translate[1]];
   current_scale = d3.event.scale;
   var h = height / 3;
   
-  t[0] = Math.min(0, Math.max(width * (1 - current_scale), t[0]));
-  t[1] = Math.min(height / 2 * (current_scale - 1) + h * current_scale, Math.max(height / 2 * (1 - current_scale) - h * current_scale, t[1]));
+  current_offset[0] = Math.min(0, Math.max(width * (1 - current_scale), current_offset[0]));
+  current_offset[1] = Math.min(height / 2 * (current_scale - 1) + h * current_scale, Math.max(height / 2 * (1 - current_scale) - h * current_scale, current_offset[1]));
 
-  svg.attr("transform", "translate(" + t + ")scale(" + current_scale + ")").style("stroke-width", 1 / current_scale);
+  svg.attr("transform", "translate(" + current_offset + ")scale(" + current_scale + ")").style("stroke-width", 1 / current_scale);
   var events = svg.selectAll(".brevent");
   events
   .attr("r", width/100*(1 / current_scale))
@@ -279,7 +288,7 @@ function drawEvents(error, brdata, filter) {
     .on("click", function() {
       // Setting the dropdown list text to the appropriate discipline
       d3.select("#sort-map-dropdown-button")
-      .html('SORT DATA BY DISCIPLINE <span class="caret"></span>');
+      .html('FILTER RESULTS <span class="caret"></span>');
 
       // Grabbing all events
       filterEvents();
@@ -397,10 +406,55 @@ function showEventData(d) {
 };
 
 
+function click(d) {
+  function ready(error, brdata) {
+    console.log(d);
+    if (active === d) { 
+      return reset();
+    }
+
+    active = d;
+
+    var b = path.bounds(d);
+
+    current_scale = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+
+    svg
+    .transition().duration(750).attr("transform",
+        "translate(" + projection.translate() + ")"
+        + "scale(" + current_scale + ")"
+        + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")")
+    .style("stroke-width", 1 / current_scale)
+    ;
+
+    drawEvents(error, brdata);
+  }
+
+  queue()
+  .defer(d3.json, "data/brdata.json")
+  .await(ready)
+  ;
+}
+
+function reset() {
+  active = undefined;
+  svg.transition().duration(750).attr("transform", "");
+  current_scale = 1;
+  queue()
+  .defer(d3.json, "data/brdata.json")
+  .await(drawEvents)
+  ;
+}
+
+
+
+
+
 // Listener for the initial data load and map drawing
 queue()
 .defer(d3.json, "data/world-110m.json")
-.defer(d3.tsv, "data/world-country-names.tsv")
+//.defer(d3.tsv, "data/world-country-names.tsv")
+.defer(d3.tsv, "data/country-names.tsv")
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
