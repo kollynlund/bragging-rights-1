@@ -22,19 +22,19 @@
 
 <!-- * * BODY CONTAINER * * -->
 
-<div class="container">
+<div class="container-fluid">
 
 
   <!-- * * HEADER * * -->
-   <div class="header">
+  
 
-    <div class="row">
+    <div class="row header">
 
-    <div class="col-sm-3">
-         <img class="icon img-responsive" alt="logo" src="img/logocrop.png">
+    <div class="col-sm-2">
+         <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
     </div>
 
-    <div class="col-sm-5">
+    <div class="col-sm-6">
       <div class="welcome">
         <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  </p>
      </div>
@@ -42,7 +42,7 @@
 
 
 
-    <div class="col-sm-4">
+    <div class="col-sm-4 pull-right">
       <div class="p-add">
          <p>Do you know someone who has conquered a World's first? Add it to the library!</p> 
          <button type="button" class="btn btn-add btn-sm text-center center-block" data-toggle="modal" data-target=".add-worlds-first-modal">
@@ -50,8 +50,8 @@
      </div>     
     </div>  
   </div>
-  </div>
-
+</div>
+<div class="container">
 
 <!-- * * ADD EVENT MODAL * * -->
 
@@ -68,14 +68,24 @@
           <input type="email" class="form-control" id="input-email" placeholder="Enter email">
          </div>
           <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
-            <input type="password" class="form-control" id="input-password" placeholder="Password">
+            <label for="exampleInputPassword1">Name</label>
+            <input type="password" class="form-control" id="input-password" placeholder="Enter Full Name">
           </div>
+
           <div class="form-group">
             <label for="exampleInputPassword1">Video</label>
             <input type="password" class="form-control" id="input-video" placeholder="Add url link to YouTube video">
-          </div>          
+          </div>  
+
           <div class="form-group">
+            <label for="exampleInputPassword1">Details</label>
+            <input type="textbox" class="form-control" id="input-video" placeholder="Add info about the event ">
+          </div>             
+          <div class="form-group">
+            <label for="exampleInputFile">Choose photo to Upload</label>
+            <input type="file" id="exampleInputFile">
+            <label for="exampleInputFile">Choose photo to Upload</label>
+            <input type="file" id="exampleInputFile">
             <label for="exampleInputFile">Choose photo to Upload</label>
             <input type="file" id="exampleInputFile">
             <p class="help-block">Example block-level help text here.</p>
@@ -120,20 +130,20 @@
                 </div>
 
                 <div class="event-modal-location">
-                  <h2 class="location-left"><i class="fa fa-circle"></i> Location <i class="fa fa-circle"></i></h2>
+                  <h2 class="location-left">Location</i></h2>
                   <span class="glyphicon glyphicon-globe globe-modal" aria-hidden="true"></span>
                   <div class="event-data-modal-city">a</div>
                   <div class="event-data-modal-country">a</div>
                 </div>
 
                 <div class="event-modal-date">
-                  <h2 class="date-left"><i class="fa fa-circle"></i>Date<i class="fa fa-circle"></i></h2>
+                  <h2 class="date-left">Date</h2>
                   <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
                   <div class="event-data-modal-date">a</div>
                 </div>   
 
                 <div class="event-modal-extra">
-                  <h2 class="details-left"><i class="fa fa-circle"></i>Details<i class="fa fa-circle"></i></h2>
+                  <h2 class="details-left">Details</i></h2>
                   <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
                   <div class="event-data-modal-extra">a</div>
                 </div>                 
@@ -145,7 +155,6 @@
                 <div id="logo" class="ribbon">
                   <h1><p class="event-data-modal-name">a</p></h1>
                 </div>
-             <!--    <div class="event-data-modal-name owText">a</div> -->   
                 <div class="event-data-modal-trick">a</div> 
               </div> 
 <!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
@@ -270,20 +279,46 @@
 <!-- * * MAP VIEW * * -->
 
   <div id="map">
-        <div class="row map-data-item country-name map-data-display">
+        <div class="row  map-data-item country-name map-data-display"> <!-- -->
          <div class="col-sm-12 ">&nbsp;</div>
         </div>
         <div class="row">
           <div class="col-sm-12">
             <div id="map-container">
+             <div class="map-nav-tools">
+
+              <span class="fa-stack fa-lg ">
+                  <a href="#">
+                  <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
+              </span>
+
+                <br>
+
+              <span class="fa-stack fa-lg">
+                  <a href="#">
+                  <i class="fa fa-search-minus fa-stack-1x fa-inverse"></i></a>   
+              </span>
+
+                <br>
+
+                <span class="fa-stack fa-lg">
+                  <a href="#">
+                  <span class="glyphicon glyphicon-move fa-stack-1x fa-inverse"></span></a>
+                </span>
+
+              </div>
               <script src="js/map.js"></script>
             </div>
           </div>
         </div>
   </div>
+  <div class="room" style="margin-bottom: 250px">
+  </dic>
 
 <!-- * * END BODY CONTAINER * * -->
 </div>
+</div>
+
 
 
 
