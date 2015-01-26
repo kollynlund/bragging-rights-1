@@ -295,7 +295,7 @@ ____________________________________*/
 }
 
 .modal-header {
-  background-color: transparent;
+  background-color: #5D5D5D;
   border-bottom: 3px solid #eee;
   border-radius: 5px 5px 0 0;
   color: white;
@@ -305,10 +305,13 @@ ____________________________________*/
 }
 
 .header-event-modal {
-  
+  background-color: #5D5D5D;
+  margin-top: 12px;
   border-radius: 0px;
   margin-bottom: 20px;
   font-size: 1.125em;
+    box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
 .event-data-modal-name {
@@ -317,7 +320,8 @@ ____________________________________*/
 
 .event-data-modal-trick {
   color: #BF981D;
-  margin: 10px 45px 15px 45px;
+  margin: 10px 85px 25px 85px;
+  padding-bottom: 10px;
   font-size: 1em;
 }
 
@@ -399,6 +403,11 @@ ____________________________________*/
   background-color: #5D5D5D;
   margin-bottom: 30px;
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+}
+
+.event-video {
+   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
      4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
@@ -676,7 +685,7 @@ display: inline-block;
   margin-left: 56px;
   margin-right: 56px;
   z-index: 1000;
-  width: 75%;
+  width: 80%;
   margin-top: 10px;
 
 }
