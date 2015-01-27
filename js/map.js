@@ -1,3 +1,13 @@
+/*
+
+Imgur Client ID: 7ec855512bdc532
+Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
+
+*/
+
+
+
+
 // The initial map layout variables
 var width = document.getElementById('map-container').offsetWidth-20;
 var height = width / 2;
@@ -45,6 +55,31 @@ var event_table = d3.select("#list-events");
 // Setting up the search bar selections
 var search_box = d3.select(".search-box");
 var search_button = d3.select(".search-btn");
+
+
+// Setting up the add event modal date selection functionality
+var month_picklist = d3.select(".month-picklist")
+                     .on("change", function() {
+                      var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
+                      console.log(month_picklist_selection);
+                      var month_picklist_selected_item = d3.select(".month-picklist")
+                                                         .selectAll(".month-option")
+                                                         .filter(function() {return this.innerHTML == month_picklist_selection})
+                                                         ;
+                      if (!month_picklist_selected_item.empty()) {
+                        var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
+                      }
+                      if (days_to_add) {
+                        var day_of_month_picklist = d3.select(".day-of-month-picklist");
+                        day_of_month_picklist.selectAll("option").remove();
+                        for (var i = 0; i < days_to_add; i++) {
+                          day_of_month_picklist.append("option")
+                          .html(i+1)
+                          ;
+                        }
+                      }
+                     })
+                     ;
 
 
 
@@ -98,6 +133,7 @@ function ready(error, world, names, brdata) {
   search_box.on("keydown", function() {
     if (d3.event.keyCode == 13) {
       searchEvents();
+      search_box.classed({":active": false});
     }
   });
 };
@@ -309,6 +345,7 @@ function searchEvents() {
   .defer(d3.json, "data/brdata.json")
   .await(drawNewEvents)
   ;
+  console.log(search_box.attr("class"));
 }
 
 
