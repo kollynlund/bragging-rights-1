@@ -42,7 +42,8 @@ var svg = d3.select("#map-container")
 var event_table = d3.select("#list-events");
 
 
-// Setting up the search button selection
+// Setting up the search bar selections
+var search_box = d3.select(".search-box");
 var search_button = d3.select(".search-btn");
 
 
@@ -94,6 +95,11 @@ function ready(error, world, names, brdata) {
   drawEvents(error, brdata);
 
   search_button.on("click", searchEvents);
+  search_box.on("keydown", function() {
+    if (d3.event.keyCode == 13) {
+      searchEvents();
+    }
+  });
 };
 
 
