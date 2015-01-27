@@ -42,8 +42,7 @@ var svg = d3.select("#map-container")
 var event_table = d3.select("#list-events");
 
 
-// Setting up the search bar selections
-var search_box = d3.select(".search-box");
+// Setting up the search button selection
 var search_button = d3.select(".search-btn");
 
 
@@ -95,11 +94,6 @@ function ready(error, world, names, brdata) {
   drawEvents(error, brdata);
 
   search_button.on("click", searchEvents);
-  search_box.on("keydown", function() {
-    if (d3.event.keyCode == 13) {
-      searchEvents();
-    }
-  });
 };
 
 
@@ -216,10 +210,6 @@ function drawEvents(error, brdata, filter, is_search) {
     .attr("style", "left:"+(mouse[0])+"px;top:"+(mouse[1])+"px")
     .html('<div class="col-sm-4 map-data-item event-name">Name: '+d.Name+'</div><div class="col-sm-4 map-data-item event-date">Date: '+d.Date+'</div><div class="col-sm-4 map-data-item event-discipline">Discipline: '+d.Discipline+'</div>')
     ;
-
-    if (!d3.select(".event-name").empty()) {
-    console.log("Name Height: ",document.getElementsByClassName("event-name")[0].offsetHeight);
-  }
   })
   // Reverting to blank in top of map event display when mouse moves off of event marker
   .on("mouseout",  function(d,i) {
@@ -357,6 +347,7 @@ function showEventData(d) {
   event_modal.select(".event-data-modal-extra")
   .html(d["Additional Information"])
   ;
+
 
 //  console.log(event_modal.select("ol.carousel-indicators"));
   event_modal.select("ol.carousel-indicators")
