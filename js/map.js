@@ -5,6 +5,19 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 
 */
 
+/* -------------------------------------------------------------------------------------------------------------
+
+                                                  TO DO:
+
+    1. Build PHP (or any other backend language) script to deal with event adding and image upload via Imgur API
+    2. Deal with zooming and panning for country map
+    3. Implement location picker on modal window so that user can pick approximate lat/long values
+    4. Reorganize map.js code
+    5. Make sure all "Add Event" modal item selections reset on modal window close
+    6. Implement state segmentation for countries on zoom (?)
+
+   ------------------------------------------------------------------------------------------------------------- */
+
 
 
 
@@ -61,14 +74,16 @@ var search_button = d3.select(".search-btn");
 var month_picklist = d3.select(".month-picklist")
                      .on("change", function() {
                       var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
-                      console.log(month_picklist_selection);
+
                       var month_picklist_selected_item = d3.select(".month-picklist")
                                                          .selectAll(".month-option")
                                                          .filter(function() {return this.innerHTML == month_picklist_selection})
                                                          ;
+
                       if (!month_picklist_selected_item.empty()) {
                         var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
                       }
+
                       if (days_to_add) {
                         var day_of_month_picklist = d3.select(".day-of-month-picklist");
                         day_of_month_picklist.selectAll("option").remove();
@@ -80,8 +95,6 @@ var month_picklist = d3.select(".month-picklist")
                       }
                      })
                      ;
-
-
 
 
 // Initial map drawing function (before any zooming or panning)
