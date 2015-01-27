@@ -342,6 +342,7 @@ ____________________________________*/
   margin-top: 0px;
   font-size: 1.75em;
   background-color: #ddd;
+  color: #333;
 }
 
 .svg-icon-left {
@@ -575,17 +576,37 @@ ____________________________________*/
 /*________MODAL FORM ADD EVENT_____________
 ____________________________________*/
 
+.modal {
+    font-family: 'Roboto Slab', sans-serif; 
+
+}
+
 .form-group {
-    background: url('../img/background/background-black.jpg') no-repeat center center fixed; 
+
+  margin-bottom: 0px;
+}
+
+.add-event-form {
+  width: 70%;
+  margin: 20px auto 20px auto;
+
+}
+
+.close {
+  margin: 20px;
+}
+
+.modal-open {
+  color: #eee;
+}
+
+.modal-content {
+  background: url('../img/background/background-black.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-color: #444;
-  font-family: 'Roboto Slab', sans-serif; 
-}
-.close {
-  margin: 20px;
 }
  
 /*________TEST STLYES_________________

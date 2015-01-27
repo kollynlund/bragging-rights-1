@@ -15,6 +15,7 @@
   <script src="js/d3.v3.min.js"></script>
   <script src="js/topojson.js"></script>
   <script src="js/queue.v1.min.js"></script>
+
   <title>Page Title</title>   
 </head>
 
@@ -62,26 +63,74 @@
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4>
         </div>
-        <form>
+        <form class="add-event-form">
 
-         <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="input-email" placeholder="Enter email">
-         </div>
+          <div class="form-group form-inline">
 
-          <div class="form-group">
-            <label for="exampleInputPassword1">Name</label>
-            <input type="password" class="form-control" id="input-password" placeholder="Enter Full Name">
+            <div class="input-group">
+              <div class="input-group-addon">Name</div>
+              <input type="text" class="form-control" id="exampleInputAmount" placeholder="Enter your name here">
+            </div>
+
+            <div class="input-group">
+              <select class="form-control select-">
+                <option>Discipline</option>
+                <option>AIR</option>
+                <option>BMX</option>
+                <option>SK8</option>
+                <option>RALLY</option>
+              </select>  
+            </div>  
+
           </div>
 
-          <div class="form-group">
-            <label for="exampleInputPassword1">Video</label>
-            <input type="password" class="form-control" id="input-video" placeholder="Add url link to YouTube video">
-          </div>  
+
+                
+          <div class="input-group">
+            <div class="input-group-addon">Trick</div>
+            <input type="text" class="form-control" id="exampleInputAmount" placeholder="Enter a description of the trick">
+          </div>
+
+
+
+<!--           <div class="form-group">
+            <label for="exampleInputPassword1">Location</label>
+            <input type="" class="form-control" id="input-video" placeholder="Add County, City, State">
+          </div>   -->
+
+
+          <div class="form-group form-inline">
+            <select class="form-control">
+              <option>Month</option>
+              <option>- January</option>
+              <option>- Febuary</option>
+              <option>- March</option>
+              <option>- April</option>
+            </select>  
+            <select class="form-control">
+              <option>Day</option>
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+              <option>4</option>
+              <option>5</option>
+              <option>6</option>
+              <option>7</option>
+              <option>8</option>
+            </select> 
+            <input type="" class="form-control" id="input-video" placeholder="Add 4 digit year">
+
+                        
+          </div>            
+
+          <div class="input-group">
+            <div class="input-group-addon">Video</div>
+            <input type="text" class="form-control" id="exampleInputAmount" placeholder="Add url link to YouTube video">
+          </div> 
 
           <div class="form-group">
-            <label for="exampleInputPassword1">Details</label>
-            <input type="textbox" class="form-control" id="input-video" placeholder="Add info about the event ">
+<!--             <label for="exampleInputPassword1">Details</label>
+ -->            <textarea type="textbox" class="form-control" id="input-details" placeholder="Add info about the event "></textarea>
           </div>    
 
           <div class="form-group">
@@ -91,14 +140,14 @@
             <input type="file" id="exampleInputFile">
             <label for="exampleInputFile">Choose photo to Upload</label>
             <input type="file" id="exampleInputFile">
-            <p class="help-block">Example block-level help text here.</p>
           </div>
 
-          <div class="checkbox">
-            <label>
-              <input type="checkbox"> Check me out
-            </label>
-          </div>
+         <div class="form-group">
+          <label for="exampleInputEmail1">Email address</label>
+          <p>Add email address to become part of the community.</p>
+          <input type="email" class="form-control" id="input-email" placeholder="Enter email">
+         </div>
+
 
            <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
