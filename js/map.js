@@ -1,21 +1,31 @@
-// The initial map width/height layouts
+// The initial map layout variables
 var width = document.getElementById('map-container').offsetWidth-20;
 var height = width / 2;
 var active;
 var current_scale = 1;
-var current_offset = [0,0];
+
 
 // The initial map projection definition
 var projection = d3.geo.mercator()
                  .translate([width/2, height/2])
                  .scale(800);
 
+
 // The initial map path placeholder
 var path = d3.geo.path()
            .projection(projection);
 
+
 // Selecting the DOM element for the info display
 var info_display = d3.select(".map-data-display");
+
+
+// Setting up the zoom functionality
+var zoom = d3.behavior.zoom()
+          .scaleExtent([1,100])
+          .on("zoom", redraw)
+          ;
+
 
 // Setting up the initial map container svg selection
 var svg = d3.select("#map-container")
@@ -23,22 +33,23 @@ var svg = d3.select("#map-container")
           .attr("width", width)
           .attr("height", height)
           .attr("id","main-map-container")
-          .call(d3.behavior.zoom()
-          .scaleExtent([1,200])
-          .on("zoom", redraw))
+          .call(zoom)
           .append("g")
           ;
+
 
 // Setting up the list display selection
 var event_table = d3.select("#list-events");
 
 
+// Setting up the search button selection
+var search_button = d3.select(".search-btn");
+
+
+
 
 // Initial map drawing function (before any zooming or panning)
 function ready(error, world, names, brdata) {
-  
-  console.log("World: ",world);
-
   var countries = topojson.object(world, world.objects.countries).geometries;
   var n = countries.length;
 
@@ -59,7 +70,7 @@ function ready(error, world, names, brdata) {
   .style("stroke", "#333")
   ;
 
-  //Show/hide country/event info display
+  // Show/hide country/event info display
   country
   .on("mousemove", function(d) {
     var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
@@ -75,79 +86,26 @@ function ready(error, world, names, brdata) {
     ;
   })
 
+  // Zoom to country detail when clicked on
   .on("click", click)
-
   ;
-      
+  
+  // Lay out event markers over map
   drawEvents(error, brdata);
-};
 
-
-// Function to process country click drilling
-function clickIn(d) {
-  /*
-  console.log('clickedIN: '+d.name);
-  */
-
-  // Grabs the appropriate map .json file
-  var file = "data/topojson files/"+d.iso+'/states.json';
-
-  function ready(error, topology, brdata) {
-
-    console.log(topology);
-
-    d3.select("svg").remove();
-
-    projection = d3.geo.mercator()
-                 .translate([width/2, height/2])
-                 .scale(100);
-
-    path = d3.geo.path().projection(projection);
-
-    svg = d3.select("#map-container")
-              .append("svg")
-              .attr("width", width)
-              .attr("height", height)
-              .attr("id","main-map-container")
-              .call(d3.behavior.zoom()
-              .scaleExtent([1,200])
-              .on("zoom", redraw))
-              .append("g")
-              ;
-
-    var yes = false;
-
-    svg.selectAll("path")
-    .data(topojson.object(topology, topology.objects.states).geometries)
-    .enter().append("path")
-    .attr("d", path)
-    .style("fill", "#C1BFBF")
-    .style("stroke", "#333")
-    .attr("class", "states")
-    ;
-
-    drawEvents(error, brdata);
-  }
-
-  queue()
-  .defer(d3.json, file)
-  .defer(d3.json, "data/brdata.json")
-  .await(ready)
-  ;
-
+  search_button.on("click", searchEvents);
 };
 
 
 // Function for processing zoom and pan interactions
 function redraw() {
-  current_offset = [current_offset[0] + d3.event.translate[0], current_offset[1] + d3.event.translate[1]];
+  var t = d3.event.translate;
   current_scale = d3.event.scale;
-  var h = height / 3;
-  
-  current_offset[0] = Math.min(0, Math.max(width * (1 - current_scale), current_offset[0]));
-  current_offset[1] = Math.min(height / 2 * (current_scale - 1) + h * current_scale, Math.max(height / 2 * (1 - current_scale) - h * current_scale, current_offset[1]));
 
-  svg.attr("transform", "translate(" + current_offset + ")scale(" + current_scale + ")").style("stroke-width", 1 / current_scale);
+  t[0] = Math.min(width / 2 * (current_scale - 1), Math.max(width / 2 * (1 - current_scale), t[0]));
+  t[1] = Math.min(height / 2 * (current_scale - 1) + 230 * current_scale, Math.max(height / 2 * (1 - current_scale) - 230 * current_scale, t[1]));
+  zoom.translate(t);
+  svg.style("stroke-width", 1 / current_scale).attr("transform", "translate(" + t + ")scale(" + current_scale + ")");
   var events = svg.selectAll(".brevent");
   events
   .attr("r", width/100*(1 / current_scale))
@@ -156,21 +114,41 @@ function redraw() {
 
 
 // Function for drawing all event marker circles
-function drawEvents(error, brdata, filter) {
+function drawEvents(error, brdata, filter, is_search) {
   // Removes any previously drawn event markers
   d3.selectAll(".brevent").remove();
   d3.selectAll("tr.event-list-item").remove();
 
-  // Processes any filtering from "Sort Map" dropdown
+  // Processes any filtering from Search bar or Sort Map dropdown
   var event_data = brdata.Events;
-  if (filter) {
-    var filtered_data = [];
-    for (var i = 0; i < brdata.Events.length; i++) {
-      if (brdata.Events[i].Discipline == filter) {
-        filtered_data.push(brdata.Events[i]);
+  if (!is_search) {
+    if (filter) {
+      var filtered_data = [];
+      for (var i = 0; i < brdata.Events.length; i++) {
+        if (brdata.Events[i].Discipline == filter) {
+          filtered_data.push(brdata.Events[i]);
+        }
       }
+      event_data = filtered_data;
     }
-    event_data = filtered_data;
+  }
+  else {
+    if (filter != '') {
+      var search_criteria = new RegExp(filter, "i");
+      var filtered_data = [];
+      for (var i = 0; i < brdata.Events.length; i++) {
+        if ( search_criteria.test(brdata.Events[i].Discipline)
+          || search_criteria.test(brdata.Events[i].Name)
+          || search_criteria.test(brdata.Events[i].Trick)
+          || search_criteria.test(brdata.Events[i].Location)
+          || search_criteria.test(brdata.Events[i]["Additional Information"])
+          || search_criteria.test(brdata.Events[i].Date)
+           ) {
+          filtered_data.push(brdata.Events[i]);
+        }
+      }
+      event_data = filtered_data;
+    }
   }
 
   // Grabs the element to append map event markers to
@@ -312,6 +290,22 @@ function filterEvents(filter) {
 }
 
 
+// Function to process the Search Bar filtering functionality
+function searchEvents() {
+  // Get the contents of the search input to use as the search filter
+  var search_filter = document.getElementById("search-input").value;
+
+  // Wrapper for drawEvents to enable me to queue it and also pass the "filter" argument
+  function drawNewEvents (error, brdata) {
+    drawEvents(error, brdata, search_filter, true);
+  }
+  queue()
+  .defer(d3.json, "data/brdata.json")
+  .await(drawNewEvents)
+  ;
+}
+
+
 // Function to load event data into event detail modal
 function showEventData(d) {
   // Grab the modal
@@ -438,6 +432,7 @@ function click(d) {
 
 function reset() {
   current_scale = 1;
+  current_offset = [0,0];
   active = undefined;
   svg.transition().duration(750).attr("transform", "")
   .style("stroke-width", 1 / current_scale)
@@ -458,3 +453,78 @@ queue()
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+// Function to process country click drilling - with state divisions
+function clickIn(d) {
+
+  // Grabs the appropriate map .json file
+  var file = "data/topojson files/"+d.iso+'/states.json';
+
+  function ready(error, topology, brdata) {
+
+    console.log(topology);
+
+    d3.select("svg").remove();
+
+    projection = d3.geo.mercator()
+                 .translate([width/2, height/2])
+                 .scale(100);
+
+    path = d3.geo.path().projection(projection);
+
+    svg = d3.select("#map-container")
+              .append("svg")
+              .attr("width", width)
+              .attr("height", height)
+              .attr("id","main-map-container")
+              .call(d3.behavior.zoom()
+              .scaleExtent([1,50])
+              .on("zoom", redraw))
+              .append("g")
+              ;
+
+    var yes = false;
+
+    svg.selectAll("path")
+    .data(topojson.object(topology, topology.objects.states).geometries)
+    .enter().append("path")
+    .attr("d", path)
+    .style("fill", "#C1BFBF")
+    .style("stroke", "#333")
+    .attr("class", "states")
+    ;
+
+    drawEvents(error, brdata);
+  }
+
+  queue()
+  .defer(d3.json, file)
+  .defer(d3.json, "data/brdata.json")
+  .await(ready)
+  ;
+
+};
+*/
