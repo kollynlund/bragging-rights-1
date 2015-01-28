@@ -401,7 +401,7 @@ ____________________________________*/
 }
 
 .event-modal-discipline, .event-modal-location, .event-modal-date, .event-modal-extra {
-  background-color: #5D5D5D;
+  background-color: rgba(93, 93, 93, .6);
   margin-bottom: 30px;
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
      4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
@@ -572,10 +572,55 @@ ____________________________________*/
     margin-bottom: 0px;
   }
 
-  .display-event-info-modal-col-left {
+
+}
+
+@media (max-width: 991px) {
+
+    .display-event-info-modal-col-left {
     width: 70%;
     display: inline;
   }
+
+.event-modal-discipline, .event-modal-location, .event-modal-date, .event-modal-extra {
+  background-color: rgba(93, 93, 93, .6);
+  width: 40%;
+  min-height: 175px;
+  margin-bottom: 0px;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+}
+
+.event-modal-location, .event-modal-extra {
+  float: right;
+  margin-right: 6%;
+}
+
+.event-modal-discipline, .event-modal-date {
+  float: left;
+  margin-left: 6%;
+}
+
+.event-modal-discipline, .event-modal-location, .event-modal-date {
+  height: 175px;
+}
+
+.location-left, .date-left, .details-left {
+  margin-top: 0px;
+}
+
+.glyphicon-star, .glyphicon-calendar, .globe-modal {
+  font-size: 5em;
+}
+
+.svg-icon-left {
+  max-width: 80px;
+  max-height: 80px;
+  min-height: 80px;
+  min-height: 80px;
+  margin: 0 auto;
+}
 
 }
 
