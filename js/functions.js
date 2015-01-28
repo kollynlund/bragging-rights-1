@@ -76,5 +76,34 @@ $(document).ready( function() {
     });
 });
 
+$(document).ready( function() { 
+  if ($("#map").css("display") == "none" ){
+    $ ( "#list" ).show();
+  }
+});
+
+$(document).ready( function() {  
+  if ($("#map").css("display") == "block" ){
+    $ ( "#list" ).hide();
+  }
+});
+
+$(window).resize(function(){ 
+  if ($("#map").css("display") == "none" ){
+    $ ( "#list" ).show();
+  }
+});  
+
+$(window).resize(function(){ 
+  if ($("#map").css("display") == "block" ){
+    $ ( "#list" ).hide();
+  }
+});  
+
+
+
+
+
+
 
 

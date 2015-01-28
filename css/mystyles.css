@@ -214,7 +214,7 @@ ____________________________________*/
 
 
 #map-container {
-  cursor: -webkit-zoom-in;
+  cursor: move;
   background-color: #333;
   min-height: 400px;
     box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
@@ -295,12 +295,12 @@ ____________________________________*/
 }
 
 .modal-header {
-  background-color: #5D5D5D;
-  border-bottom: 3px solid #eee;
+  background-color: transparent;
   border-radius: 5px 5px 0 0;
-  color: white;
   text-align: center;
-  min-height: 40px;
+  min-height: 30px;
+  border: none;
+  padding: 5px;
 
 }
 
@@ -535,12 +535,71 @@ th {
 }
 
 
+/*______MEDIA QUERIES_________________
+____________________________________*/
+
+@media (max-width: 600px) {
+  #map, .map-list-btns {
+    display: none;
+  }
+
+  .welcome, .p-add {
+    margin-left: -20px; 
+    margin-right: -20px;
+    font-size: 1em;
+  }
+
+  .p-add {
+    margin-top: 10px;
+  }
+
+  .welcome {
+    margin-bottom: 0px;
+
+  }
+
+  .sort-map-btn {
+    font-size: 1em;
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+
+  #list {
+    margin-top: 0px;
+  }
+
+  .navigation {
+    margin-bottom: 0px;
+  }
+
+  .display-event-info-modal-col-left {
+    width: 70%;
+    display: inline;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .icon, .welcome, .p-add {
+    float: none !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .display-event-info-modal-col-left {
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /*______LIST VIEW MEDIA QUERIES_______
 ____________________________________*/
 
 
 
-@media (min-width: 480px) {
+@media (min-width: 600px) {
   .rwd-table td:before {
     display: none;
   }
@@ -549,7 +608,7 @@ ____________________________________*/
   text-align: left;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 600px) {
   .rwd-table th, .rwd-table td {
     display: table-cell;
     padding: .25em .5em;
@@ -563,7 +622,7 @@ ____________________________________*/
 }
 
 
-@media (min-width: 480px) {
+@media (min-width: 600px) {
   .rwd-table th, .rwd-table td {
     padding: 1em !important;
   }
@@ -591,7 +650,12 @@ ____________________________________*/
 
 .close {
   margin: 20px;
+  font-size: 2em;
+  opacity: .6;
+  color: white;
+
 }
+
 
 input[type=file] {
   background-color: red;
@@ -660,28 +724,18 @@ transform: rotate(3deg);
 /*________TEXT_____________________
 ____________________________________*/
 
-.owText {
-    text-align: center;
-    font-family: Arial, Courier;
-    font-size: 2em;
-    text-transform: uppercase;
-    color: #707070;
-    text-shadow: 3px 3px 0px #eee, 5px 5px 0px #707070;
-
-}
-
 
 #logo h1 {
   font-size: 1.125em;
-font-weight: 700;
-line-height: 54px;
-text-transform: uppercase;
-letter-spacing: 3px;
-height: 56px;
-margin: 0;
-display: inline-block;
--webkit-font-smoothing: antialiased;
- white-space:nowrap;
+  font-weight: 700;
+  line-height: 54px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  height: 56px;
+  margin: 0;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  white-space:nowrap;
 }
 
 #logo h1 p {
@@ -694,9 +748,6 @@ display: inline-block;
   color: #333;
 }
 
-#logo p:after {
-  content:'\2002\2013';
-}
 
 .ribbon {
   background-color:#FFCB27;
@@ -738,6 +789,36 @@ display: inline-block;
   right: -45px;
   left: auto;
 }
+
+
+@media (max-width: 600px) {
+
+  * {
+    font-size: .98em;
+  }
+
+  .ribbon {
+    padding: 0 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 73%;
+  }
+
+  #logo p:before, #logo p:after {
+    content: none;  
+  }
+
+ #logo h1 {
+   font-size: .8em;
+   letter-spacing: 2px;  
+
+}
+
+
+
+
+
+
 
 
 
