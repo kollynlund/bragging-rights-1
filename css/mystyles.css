@@ -701,10 +701,12 @@ ____________________________________*/
 }
 
 .input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year, 
-  .input-details, .input-photo, .input-video, .input-email {
+  .input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
   margin-bottom: 15px;
   border-radius: 0px !important;
 }
+
+
 
 .input-group-addon {
   border-radius: 0px;
@@ -717,6 +719,12 @@ ____________________________________*/
   background-color: transparent;
   color: #eee;
 }
+
+.form-group, .form, form, .form-control, .modal-content {
+  border-radius: 0px !important;
+}
+
+
 
 
 .modal-open {
