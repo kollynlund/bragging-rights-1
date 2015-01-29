@@ -25,6 +25,7 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 var width = document.getElementById('map-container').offsetWidth;
 var height = width / 2;
 var current_scale = 1;
+var mercator_aspect = 500 / 480.0;
 
 
 // The initial map projection definition
@@ -175,34 +176,27 @@ function redraw() {
   current_scale = d3.event.scale;
 
 
+
   if (t[0] <= 0) {
-    t[0] = Math.max(t[0], (width / 2 * current_scale) - width / 2);
+    t[0] = Math.max(t[0], (width / 2) - (width / 2 * current_scale));
   }
   else {
-    // t[0] = Math.max(t[0], width / 2 * current_scale);
-    t[0] = (width / 2) - (width / 2 * current_scale);
+    t[0] = Math.min(t[0], (width / 2 * current_scale) - (width / 2));
   }
 
   if (t[1] <= 0) {
-    t[1] = Math.max(t[1], (height / 2 * current_scale) - height / 2);
+    t[1] = Math.max(t[1], (height / 2) - ((width / mercator_aspect) / 2 * current_scale));
   }
   else {
-    // t[1] = Math.min(t[1], height / 2 * current_scale);
-    t[1] = (height / 2) - (height / 2 * current_scale);
+    t[1] = Math.min(t[1], ((width / mercator_aspect) / 2 * current_scale) - (height / 2));
   }
 
-//  t = [(width / 2) - (width / 2 * current_scale), (height / 2) - (height / 2 * current_scale)];
- 
 
-/*
-  t[0] = Math.min(0, Math.max(width * (1 - current_scale), t[0]));
-  t[1] = Math.min(height / 2 * (current_scale - 1) + (height / 3 * current_scale), Math.max(height / 2 * (1 - current_scale) - (height / 3 * current_scale), t[1]));
-*/
 
   console.log("d3 translate: ",d3.event.translate, "\t\td3 scale: ",d3.event.scale);
   console.log("t: ",t,"\nwidth: ",width,"\nheight: ",height,"\ncurrent_scale: ",current_scale);
   console.log("svg transform: ",svg.attr("transform"));
-//  zoom.translate(t);
+  zoom.translate(t);
   svg.style("stroke-width", 1 / current_scale).attr("transform", "translate(" + t + ")scale(" + current_scale + ")");
   var events = svg.selectAll(".brevent");
   events
