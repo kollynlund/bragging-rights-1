@@ -67,18 +67,25 @@
 
           <div class="form-group form-inline">
 
-            <div class="input-group">
+            <div class="input-group input-name">
               <div class="input-group-addon">Name</div>
               <input type="text" class="form-control" id="exampleInputAmount" placeholder="Enter your name here">
             </div>
 
-            <div class="input-group">
+            <div class="input-group input-discipline">
               <select class="form-control select-">
                 <option>Discipline</option>
                 <option>AIR</option>
                 <option>BMX</option>
                 <option>SK8</option>
                 <option>RALLY</option>
+                <option>SNOW</option>
+                <option>CAR</option>
+                <option>SCOOTER</option>
+                <option>MTB</option>
+                <option>CLIMB</option>
+                <option>ADVENTURE</option>
+                <option>URBAN</option>
               </select>  
             </div>  
 
@@ -86,7 +93,7 @@
 
 
                 
-          <div class="input-group">
+          <div class="input-group input-trick">
             <div class="input-group-addon">Trick</div>
             <input type="text" class="form-control" id="exampleInputAmount" placeholder="Enter a description of the trick">
           </div>
@@ -99,8 +106,8 @@
           </div>   -->
 
 
-          <div class="form-group form-inline">
-            <select class="form-control month-picklist">
+          <div class="form-group form-inline ">
+            <select class="form-control month-picklist input-month">
               <option>Month</option>
               <option class="month-option" days="31">- January</option>
               <option class="month-option" days="28">- February</option>
@@ -115,34 +122,42 @@
               <option class="month-option" days="30">- November</option>
               <option class="month-option" days="31">- December</option>
             </select>  
-            <select class="form-control day-of-month-picklist">
+            <select class="form-control day-of-month-picklist input-day">
               <!-- To be inserted dynamically -->
             </select> 
-            <input type="" class="form-control" placeholder="Add 4 digit year">
+            <input type="" class="form-control input-year" placeholder="Add 4 digit year">
 
                         
           </div>            
 
-          <div class="input-group">
+          <div class="input-group input-video">
             <div class="input-group-addon">Video</div>
             <input type="text" class="form-control" id="exampleInputAmount" placeholder="Add url link to YouTube video">
           </div> 
 
-          <div class="form-group">
+          <div class="form-group input-details">
 <!--             <label for="exampleInputPassword1">Details</label>
  -->            <textarea type="textbox" class="form-control" id="input-details" placeholder="Add info about the event "></textarea>
           </div>    
 
 
 
-          <div class="input-group">
+          <div class="input-group input-photo">
             <span class="input-group-btn">
-              <span class="btn btn-primary btn-file">Upload <input type="file" multiple></span>
+              <span class="btn btn-default btn-file">Upload <input type="file" multiple></span>
             </span>
             <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
           </div>
 
-         <div class="form-group">
+
+
+
+
+
+
+
+
+         <div class="form-group input-email">
           <label for="exampleInputEmail1">Add email address to become part of the community.</label>
           <input type="email" class="form-control" id="input-email" placeholder="Enter email">
          </div>

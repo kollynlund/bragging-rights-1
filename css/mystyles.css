@@ -698,13 +698,26 @@ ____________________________________*/
   font-size: 2em;
   opacity: .6;
   color: white;
-
 }
 
-
-input[type=file] {
-  background-color: red;
+.input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year, 
+  .input-details, .input-photo, .input-video, .input-email {
+  margin-bottom: 15px;
+  border-radius: 0px !important;
 }
+
+.input-group-addon {
+  border-radius: 0px;
+  color: #eee;
+  background-color: transparent;
+}
+
+.form-control {
+  border-radius: 0px;
+  background-color: transparent;
+  color: #eee;
+}
+
 
 .modal-open {
   color: #eee;
@@ -717,6 +730,10 @@ input[type=file] {
   -o-background-size: cover;
   background-size: cover;
   background-color: #444;
+}
+
+select {
+  border-radius: 0px;
 }
  
 /*________TEST STLYES_________________
@@ -838,25 +855,26 @@ ____________________________________*/
 
 @media (max-width: 600px) {
 
-  * {
-    font-size: .98em;
-  }
+      * {
+        font-size: .98em;
+      }
 
-  .ribbon {
-    padding: 0 5px;
-    margin-left: 0px;
-    margin-right: 0px;
-    width: 73%;
-  }
+      .ribbon {
+        padding: 0 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 73%;
+      }
 
-  #logo p:before, #logo p:after {
-    content: none;  
-  }
+      #logo p:before, #logo p:after {
+        content: none;  
+      }
 
- #logo h1 {
-   font-size: .8em;
-   letter-spacing: 2px;  
+     #logo h1 {
+       font-size: .8em;
+       letter-spacing: 2px;  
 
+    }
 }
 
 
@@ -868,6 +886,10 @@ ____________________________________*/
 
 
 /*upload file btn files*/
+
+.btn {
+  border-radius: 0px;
+}
 
 .btn-file {
   position: relative;
@@ -890,10 +912,13 @@ ____________________________________*/
 }
 
 input[readonly] {
-  background-color: white !important;
+  background-color: transparent !important;
   cursor: text !important;
 }
 
+input[type="file"] {
+  display: none !important;
+}
 
 
 
