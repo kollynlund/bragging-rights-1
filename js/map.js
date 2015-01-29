@@ -22,16 +22,16 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 
 
 // The initial map layout variables
-var width = document.getElementById('map-container').offsetWidth-20;
+var width = document.getElementById('map-container').offsetWidth;
 var height = width / 2;
-var active;
 var current_scale = 1;
 
 
 // The initial map projection definition
 var projection = d3.geo.mercator()
                  .translate([width/2, height/2])
-                 .scale(800);
+                 .scale(width)
+                 ;
 
 
 // The initial map path placeholder
@@ -100,10 +100,30 @@ var month_picklist = d3.select(".month-picklist")
 // Initial map drawing function (before any zooming or panning)
 function ready(error, world, names, brdata) {
   var countries = topojson.object(world, world.objects.countries).geometries;
+
+  var left = Infinity,
+        bottom = -Infinity,
+        right = -Infinity,
+        top = Infinity;
+    // reset projection
+    countries.forEach(function(country) {
+        d3.geo.bounds(country).forEach(function(coords) {
+            coords = projection(coords);
+            var x = coords[0],
+                y = coords[1];
+            if (x < left) left = x;
+            if (x > right) right = x;
+            if (y > bottom) bottom = y;
+            if (y < top) top = y;
+        });
+    });
+  console.log("width: ",right-left,"height: ",bottom-top);
+
   var n = countries.length;
 
   countries.forEach( function(d) {
     d.name = names.filter(function(n) { return d.id == n.id; })[0].name;
+ //   console.log(d.name,d3.geo.path().projection(projection).bounds(d));
     d.iso = names.filter(function(n) { return d.id == n.id; })[0].iso3;
   });
 
@@ -134,9 +154,6 @@ function ready(error, world, names, brdata) {
     .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
     ;
   })
-
-  // Zoom to country detail when clicked on
-  .on("click", click)
   ;
   
   // Lay out event markers over map
@@ -157,9 +174,35 @@ function redraw() {
   var t = d3.event.translate;
   current_scale = d3.event.scale;
 
-  t[0] = Math.min(width / 2 * (current_scale - 1), Math.max(width / 2 * (1 - current_scale), t[0]));
-  t[1] = Math.min(height / 2 * (current_scale - 1) + 230 * current_scale, Math.max(height / 2 * (1 - current_scale) - 230 * current_scale, t[1]));
-  zoom.translate(t);
+
+  if (t[0] <= 0) {
+    t[0] = Math.max(t[0], (width / 2 * current_scale) - width / 2);
+  }
+  else {
+    // t[0] = Math.max(t[0], width / 2 * current_scale);
+    t[0] = (width / 2) - (width / 2 * current_scale);
+  }
+
+  if (t[1] <= 0) {
+    t[1] = Math.max(t[1], (height / 2 * current_scale) - height / 2);
+  }
+  else {
+    // t[1] = Math.min(t[1], height / 2 * current_scale);
+    t[1] = (height / 2) - (height / 2 * current_scale);
+  }
+
+//  t = [(width / 2) - (width / 2 * current_scale), (height / 2) - (height / 2 * current_scale)];
+ 
+
+/*
+  t[0] = Math.min(0, Math.max(width * (1 - current_scale), t[0]));
+  t[1] = Math.min(height / 2 * (current_scale - 1) + (height / 3 * current_scale), Math.max(height / 2 * (1 - current_scale) - (height / 3 * current_scale), t[1]));
+*/
+
+  console.log("d3 translate: ",d3.event.translate, "\t\td3 scale: ",d3.event.scale);
+  console.log("t: ",t,"\nwidth: ",width,"\nheight: ",height,"\ncurrent_scale: ",current_scale);
+  console.log("svg transform: ",svg.attr("transform"));
+//  zoom.translate(t);
   svg.style("stroke-width", 1 / current_scale).attr("transform", "translate(" + t + ")scale(" + current_scale + ")");
   var events = svg.selectAll(".brevent");
   events
@@ -358,7 +401,6 @@ function searchEvents() {
   .defer(d3.json, "data/brdata.json")
   .await(drawNewEvents)
   ;
-  console.log(search_box.attr("class"));
 }
 
 
@@ -414,21 +456,16 @@ function showEventData(d) {
   .attr("data-slide-to", function(d,i) {return i;})
   ;
 
-  console.log(event_modal.select(".carousel-inner"), d.Pictures.split(","));
-  console.log(event_modal.select(".carousel-inner")
-              .data(d.Pictures.split(","))
-              .enter()
-  );
+
+
+/*            WORKING ON INSERTING PICTURES FROM  A COMMA SEPARATED LIST OF IMAGE URLS
 
   event_modal.select(".carousel-inner")
   .data(d.Pictures.split(","))
   .enter()
   .insert("div");
 
-  console.log(event_modal.select(".carousel-inner").selectAll("div"));
 
-
-  /*
   .attr("class", "item")
   .insert("img")
   .attr("src", function(d,i) {return d;})
@@ -456,46 +493,8 @@ function showEventData(d) {
 };
 
 
-function click(d) {
-  function ready(error, brdata) {
-    console.log(d);
-    if (active === d) { 
-      return reset();
-    }
 
-    active = d;
 
-    var b = path.bounds(d);
-
-    current_scale = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
-
-    svg
-    .transition().duration(750).attr("transform",
-        "translate(" + projection.translate() + ")"
-        + "scale(" + current_scale + ")"
-        + "translate(" + -(b[1][0] + b[0][0]) / 2 + "," + -(b[1][1] + b[0][1]) / 2 + ")")
-    .style("stroke-width", 1 / current_scale)
-    .selectAll(".brevent")
-    .attr("r", width/100*(1 / current_scale))
-    ;
-  }
-
-  queue()
-  .defer(d3.json, "data/brdata.json")
-  .await(ready)
-  ;
-}
-
-function reset() {
-  current_scale = 1;
-  current_offset = [0,0];
-  active = undefined;
-  svg.transition().duration(750).attr("transform", "")
-  .style("stroke-width", 1 / current_scale)
-  .selectAll(".brevent")
-  .attr("r", width/100*(1 / current_scale))
-  ;
-}
 
 
 
@@ -509,78 +508,3 @@ queue()
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-// Function to process country click drilling - with state divisions
-function clickIn(d) {
-
-  // Grabs the appropriate map .json file
-  var file = "data/topojson files/"+d.iso+'/states.json';
-
-  function ready(error, topology, brdata) {
-
-    console.log(topology);
-
-    d3.select("svg").remove();
-
-    projection = d3.geo.mercator()
-                 .translate([width/2, height/2])
-                 .scale(100);
-
-    path = d3.geo.path().projection(projection);
-
-    svg = d3.select("#map-container")
-              .append("svg")
-              .attr("width", width)
-              .attr("height", height)
-              .attr("id","main-map-container")
-              .call(d3.behavior.zoom()
-              .scaleExtent([1,50])
-              .on("zoom", redraw))
-              .append("g")
-              ;
-
-    var yes = false;
-
-    svg.selectAll("path")
-    .data(topojson.object(topology, topology.objects.states).geometries)
-    .enter().append("path")
-    .attr("d", path)
-    .style("fill", "#C1BFBF")
-    .style("stroke", "#333")
-    .attr("class", "states")
-    ;
-
-    drawEvents(error, brdata);
-  }
-
-  queue()
-  .defer(d3.json, file)
-  .defer(d3.json, "data/brdata.json")
-  .await(ready)
-  ;
-
-};
-*/
