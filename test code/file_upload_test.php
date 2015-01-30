@@ -1,4 +1,8 @@
 <?
+
+print_r($_POST);
+
+/*
 $client_id = "7ec855512bdc532";
 
 $img=$_FILES['fileToUpload'];
@@ -30,6 +34,6 @@ if($img['name']==''){
 	echo $pms['data']['error'];  
 	} 
 }
-
+*/
 
 ?>

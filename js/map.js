@@ -502,3 +502,75 @@ queue()
 .defer(d3.json, "data/brdata.json")
 .await(ready)
 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Listener for file upload to have selected file
+function fileInput() {
+  var upload_buttons = d3.selectAll(".upload-button")[0];
+
+  if (upload_buttons.length < 5) {
+    var new_upload_button = d3.selectAll(".add-event-form")
+                            .insert("div", ".input-email")
+                            .attr("class", "input-group input-photo")
+                            ;
+    new_upload_button
+    .insert("span")
+    .attr("class", "input-group-btn")
+      .insert("span")
+      .attr("class", "btn btn-default btn-file")
+      .html("Upload ")
+        .insert("input")
+        .attr("class", "upload-button")
+        .attr("type", "file")
+        .attr("onchange", "fileInput()")
+        .attr("multiple","")
+    ;
+
+    new_upload_button
+    .insert("input")
+    .attr("type", "text")
+    .attr("class", "form-control")
+    .attr("placeholder", "Click upload to include photos")
+    .attr("readonly","")
+    ;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
