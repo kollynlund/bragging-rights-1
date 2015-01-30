@@ -924,9 +924,9 @@ input[readonly] {
   cursor: text !important;
 }
 
-input[type="file"] {
-  display: none !important;
-}
+
+
+
 
 
 
