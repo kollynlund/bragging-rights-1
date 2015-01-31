@@ -606,24 +606,14 @@ queue()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Listener for file upload to have selected file
-function fileInput() {
+function fileInput(reference_object) {
+  var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
+  
   var upload_buttons = d3.selectAll(".upload-button")[0];
 
-  if (upload_buttons.length < 5) {
+  if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
+    var number_of_buttons = upload_buttons.length;
     var new_upload_button = d3.select(".add-event-form")
                             .insert("div", ".email-input-group")
                             .attr("class", "input-group input-photo")
@@ -638,8 +628,7 @@ function fileInput() {
         .insert("input")
         .attr("class", "upload-button")
         .attr("type", "file")
-        .attr("onchange", "fileInput()")
-        .attr("multiple","")
+        .attr("onchange", "fileInput(this)")
     ;
 
     new_upload_button
@@ -649,6 +638,21 @@ function fileInput() {
     .attr("placeholder", "Click upload to include photos")
     .attr("readonly","")
     ;
+
+    $(document).ready( function() {
+        $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
+            
+            var input = $(this).parents('.input-group').find(':text'),
+                log = numFiles > 1 ? numFiles + ' files selected' : label;
+            
+            if( input.length ) {
+                input.val(log);
+            } else {
+                if( log ) alert(log);
+            }
+            
+        });
+    });
   }
 }
 
