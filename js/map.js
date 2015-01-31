@@ -21,82 +21,6 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 
 
 
-// The initial map layout variables
-var width = document.getElementById('map-container').offsetWidth;
-var height = width / 2;
-var current_scale = 1;
-var mercator_aspect = 500 / 480.0;
-
-
-// The initial map projection definition
-var projection = d3.geo.mercator()
-                 .translate([width/2, height/2])
-                 .scale(width)
-                 ;
-
-
-// The initial map path placeholder
-var path = d3.geo.path()
-           .projection(projection);
-
-
-// Selecting the DOM element for the info display
-var info_display = d3.select(".map-data-display");
-
-
-// Setting up the zoom functionality
-var zoom = d3.behavior.zoom()
-          .scaleExtent([1,100])
-          .on("zoom", redraw)
-          ;
-
-
-// Setting up the initial map container svg selection
-var svg = d3.select("#map-container")
-          .append("svg")
-          .attr("width", width)
-          .attr("height", height)
-          .attr("id","main-map-container")
-          .call(zoom)
-          .append("g")
-          ;
-
-
-// Setting up the list display selection
-var event_table = d3.select("#list-events");
-
-
-// Setting up the search bar selections
-var search_box = d3.select(".search-box");
-var search_button = d3.select(".search-btn");
-
-
-// Setting up the add event modal date selection functionality
-var month_picklist = d3.select(".month-picklist")
-                     .on("change", function() {
-                      var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
-
-                      var month_picklist_selected_item = d3.select(".month-picklist")
-                                                         .selectAll(".month-option")
-                                                         .filter(function() {return this.innerHTML == month_picklist_selection})
-                                                         ;
-
-                      if (!month_picklist_selected_item.empty()) {
-                        var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
-                      }
-
-                      if (days_to_add) {
-                        var day_of_month_picklist = d3.select(".day-of-month-picklist");
-                        day_of_month_picklist.selectAll("option").remove();
-                        for (var i = 0; i < days_to_add; i++) {
-                          day_of_month_picklist.append("option")
-                          .html(i+1)
-                          ;
-                        }
-                      }
-                     })
-                     ;
-
 
 // Initial map drawing function (before any zooming or panning)
 function ready(error, world, names, brdata) {
@@ -494,6 +418,175 @@ function showEventData(d) {
 
 
 
+
+
+
+
+
+
+
+
+// The initial map layout variables
+var width = document.getElementById('map-container').offsetWidth;
+var height = width / 2;
+var current_scale = 1;
+var mercator_aspect = 500 / 480.0;
+
+
+// The initial map projection definition
+var projection = d3.geo.mercator()
+                 .translate([width/2, height/2])
+                 .scale(width)
+                 ;
+
+
+// The initial map path placeholder
+var path = d3.geo.path()
+           .projection(projection);
+
+
+// Selecting the DOM element for the info display
+var info_display = d3.select(".map-data-display");
+
+
+// Setting up the zoom functionality
+var zoom = d3.behavior.zoom()
+          .scaleExtent([1,100])
+          .on("zoom", redraw)
+          ;
+
+
+// Setting up the initial map container svg selection
+var svg = d3.select("#map-container")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height)
+          .attr("id","main-map-container")
+          .call(zoom)
+          .append("g")
+          ;
+
+
+// Setting up the list display selection
+var event_table = d3.select("#list-events");
+
+
+// Setting up the search bar selections
+var search_box = d3.select(".search-box");
+var search_button = d3.select(".search-btn");
+
+
+// Setting up the add event modal date selection functionality
+var month_picklist = d3.select(".month-picklist")
+                     .on("change", function() {
+                      var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
+
+                      var month_picklist_selected_item = d3.select(".month-picklist")
+                                                         .selectAll(".month-option")
+                                                         .filter(function() {return this.innerHTML == month_picklist_selection})
+                                                         ;
+
+                      if (!month_picklist_selected_item.empty()) {
+                        var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
+                      }
+
+                      if (days_to_add) {
+                        var day_of_month_picklist = d3.select(".day-of-month-picklist");
+                        day_of_month_picklist.selectAll("option").remove();
+                        for (var i = 0; i < days_to_add; i++) {
+                          day_of_month_picklist.append("option")
+                          .html(i+1)
+                          ;
+                        }
+                      }
+                     })
+                     ;
+
+var add_event_button = d3.select(".add-event-button")
+                       .on("click", prepareAddEventModal)
+                       ;
+
+function prepareAddEventModal() {
+  var country_picklist = d3.select(".input-country")
+                         .on("change", prepareStateDropdown)
+                         ;
+  country_picklist.selectAll("option").remove();
+  
+  function fillInCountries(error, countries) {
+    countries.forEach(function(d){
+      country_picklist
+      .insert("option")
+      .html(d)
+      ;
+    })
+  }
+
+  queue()
+  .defer(d3.json, "data/country_list.json")
+  .await(fillInCountries)
+  ;
+}
+
+function prepareStateDropdown() {
+  var selected_country = document.getElementsByClassName("input-country")[0].value;
+  var state_picklist = d3.select(".input-state")
+                       .on("change", prepareCityDropdown);
+  state_picklist.selectAll("option").remove();
+
+  function fillInStates(error, states) {
+    var state_list = [];
+    for (var state in states) {state_list.push(state);}
+    state_list.sort();
+
+    state_list.forEach(function(d){
+      state_picklist
+      .insert("option")
+      .html(d)
+      ;
+    })
+  }
+
+  queue()
+  .defer(d3.json, "data/countries/"+selected_country+".json")
+  .await(fillInStates)
+  ;
+}
+
+function prepareCityDropdown() {
+  var selected_country = document.getElementsByClassName("input-country")[0].value;
+  var selected_state = document.getElementsByClassName("input-state")[0].value;
+  var city_picklist = d3.select(".input-city");
+  city_picklist.selectAll("option").remove();
+
+  function fillInCities(error, states) {
+    var city_list = [];
+    console.log("selected_state object: ",states[selected_state]);
+    for (var city in states[selected_state]) {console.log("city: ",states[selected_state][city].name); city_list.push(states[selected_state][city].name);}
+    city_list.sort();
+    console.log(city_list);
+
+    city_list.forEach(function(d){
+      city_picklist
+      .insert("option")
+      .html(d)
+      ;
+    })
+  }
+
+  queue()
+  .defer(d3.json, "data/countries/"+selected_country+".json")
+  .await(fillInCities)
+  ;
+}
+
+
+
+
+
+
+
+
+
 // Listener for the initial data load and map drawing
 queue()
 .defer(d3.json, "data/world-110m.json")
@@ -531,10 +624,11 @@ function fileInput() {
   var upload_buttons = d3.selectAll(".upload-button")[0];
 
   if (upload_buttons.length < 5) {
-    var new_upload_button = d3.selectAll(".add-event-form")
-                            .insert("div", ".input-email")
+    var new_upload_button = d3.select(".add-event-form")
+                            .insert("div", ".email-input-group")
                             .attr("class", "input-group input-photo")
                             ;
+
     new_upload_button
     .insert("span")
     .attr("class", "input-group-btn")
