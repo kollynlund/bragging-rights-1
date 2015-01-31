@@ -67,13 +67,13 @@
 
           <div class="form-group form-inline">
 
-            <div class="input-group input-name">
+            <div class="input-group">
               <div class="input-group-addon">Name</div>
-              <input type="text" class="form-control" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
+              <input type="text" class="form-control input-name" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
             </div>
 
-            <div class="input-group input-discipline">
-              <select class="form-control select-" name="discipline-input">
+            <div class="input-group">
+              <select class="form-control input-discipline" name="discipline-input">
                 <option>Discipline</option>
                 <option>AIR</option>
                 <option>BMX</option>
@@ -93,15 +93,15 @@
 
 
                 
-          <div class="input-group input-trick">
+          <div class="input-group">
             <div class="input-group-addon">Trick</div>
-            <input type="text" class="form-control" id="exampleInputAmount" placeholder="Enter a description of the trick" name="trick-input">
+            <input type="text" class="form-control input-trick" id="exampleInputAmount" placeholder="Enter a description of the trick" name="trick-input">
           </div>
 
 
 
-          <div class="form-group form-inline ">
-            <select class="form-control country-picklist input-county" name="country-input">
+          <div class="form-group form-inline">
+            <select class="form-control country-picklist input-country" name="country-input">
               <option>Country</option>
               <!-- To be inserted dynamically -->
             </select>  
@@ -119,7 +119,7 @@
 
 
 
-          <div class="form-group form-inline ">
+          <div class="form-group form-inline">
             <select class="form-control month-picklist input-month" name="month-input">
               <option>Month</option>
               <option class="month-option" days="31">- January</option>
@@ -141,35 +141,37 @@
             <input type="" class="form-control input-year" placeholder="Add 4 digit year" name="year-input">            
           </div>            
 
-          <div class="input-group input-video">
+          <div class="input-group">
             <div class="input-group-addon">Video</div>
-            <input type="text" class="form-control" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
+            <input type="text" class="form-control input-video" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
           </div> 
 
-          <div class="form-group input-details">
+          <div class="form-group">
 <!--             <label for="exampleInputPassword1">Details</label>
- -->            <textarea type="textbox" class="form-control" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
+ -->            <textarea type="textbox" class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
           </div>    
 
 
 
-          <div class="input-group input-photo">
+          <div class="input-group">
             <span class="input-group-btn">
-              <span class="btn btn-default btn-file">Upload <input class="upload-button" type="file" onchange="fileInput()" multiple></span>
+              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" onchange="fileInput()" multiple></span>
             </span>
             <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
           </div>
 
+          <!-- Inserting more photo upload groups here dynamically -->
 
-          <div class="form-group input-email">
+
+          <div class="form-group">
             <label for="exampleInputEmail1">Add email address to become part of the community.</label>
-            <input type="email" class="form-control" id="input-email" placeholder="Enter email" name="email-input">
+            <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
           </div>
 
 
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
           </div>
 
         </form>

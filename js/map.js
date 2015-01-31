@@ -452,7 +452,7 @@ function showEventData(d) {
 
 
 
-/*            WORKING ON INSERTING PICTURES FROM  A COMMA SEPARATED LIST OF IMAGE URLS
+/*            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
 
   event_modal.select(".carousel-inner")
   .data(d.Pictures.split(","))
@@ -560,6 +560,92 @@ function fileInput() {
 
 
 
+var add_event_submit_button = d3.select(".add-event-submit-button")
+                              .on("click", validateForm)
+                              ;
+
+
+function validateForm() {
+  var valid_form = true;
+
+  var input_name = document.getElementsByClassName("input-name")[0].value;
+  console.log(input_name);
+  if (input_name.trim().length < 3) {
+    valid_form = false;
+  }
+
+  var input_discipline = document.getElementsByClassName("input-discipline")[0].value;
+  console.log(input_discipline);
+  if (input_discipline != 'Discipline') {
+    valid_form = false;
+  }
+
+  var input_trick = document.getElementsByClassName("input-trick")[0].value;
+  console.log(input_trick);
+  if (input_trick.trim().length > 2) {
+    valid_form = false;
+  }
+
+  var input_country = document.getElementsByClassName("input-country")[0].value;
+  console.log(input_country);
+  if (input_country != 'Country') {
+    valid_form = false;
+  }
+
+  var input_state = document.getElementsByClassName("input-state")[0].value;
+  console.log(input_state);
+  if (input_state != 'State') {
+    valid_form = false;
+  }
+
+  var input_city = document.getElementsByClassName("input-city")[0].value;
+  console.log(input_city);
+  if (input_city != 'City') {
+    valid_form = false;
+  }
+
+  var input_month = document.getElementsByClassName("input-month")[0].value;
+  console.log(input_month);
+  if (input_month != 'Month') {
+    valid_form = false;
+  }
+
+  var input_day = document.getElementsByClassName("input-day")[0].value;
+  console.log(input_day);
+  if (false) {
+    valid_form = false;
+  }
+
+  var input_year = document.getElementsByClassName("input-year")[0].value;
+  console.log(input_year);
+  if (false) {
+    valid_form = false;
+  }
+
+  var input_video = document.getElementsByClassName("input-video")[0].value;
+  console.log(input_video);
+  if (false) {
+    valid_form = false;
+  }
+
+  var input_details = document.getElementsByClassName("input-details")[0].value;
+  console.log(input_details);
+  if (false) {
+    valid_form = false;
+  }
+
+  var input_email = document.getElementsByClassName("input-email")[0].value;
+  console.log(input_email);
+  if (false) {
+    valid_form = false;
+  }
+
+  if (!valid_form) {
+    console.log("fooqu")
+    d3.event.preventDefault();
+  }
+
+}
 
 
 
