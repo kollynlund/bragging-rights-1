@@ -1,0 +1,288 @@
+{
+    "24": [
+        {
+            "lat": "18.46156", 
+            "name": "San Pedro de Macor&#237;s", 
+            "long": "-69.29718"
+        }, 
+        {
+            "lat": "18.55542", 
+            "name": "Quisqueya", 
+            "long": "-69.40814"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "19.56378", 
+            "name": "Villa Bison&#243;", 
+            "long": "-70.87582"
+        }, 
+        {
+            "lat": "19.48538", 
+            "name": "Tamboril", 
+            "long": "-70.61104"
+        }, 
+        {
+            "lat": "19.4517", 
+            "name": "Santiago de los Caballeros", 
+            "long": "-70.69703"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "19.47793", 
+            "name": "Sabaneta", 
+            "long": "-71.34125"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "19.55186", 
+            "name": "Mao", 
+            "long": "-71.07813"
+        }, 
+        {
+            "lat": "19.58469", 
+            "name": "Esperanza", 
+            "long": "-70.98489"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "19.30099", 
+            "name": "San Francisco de Macor&#237;s", 
+            "long": "-70.25259"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "19.05272", 
+            "name": "Cotu&#237;", 
+            "long": "-70.14939"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "19.54878", 
+            "name": "Dajab&#243;n", 
+            "long": "-71.70829"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "18.80588", 
+            "name": "San Juan de la Maguana", 
+            "long": "-71.22991"
+        }, 
+        {
+            "lat": "18.58182", 
+            "name": "Punta Cana", 
+            "long": "-68.40431"
+        }, 
+        {
+            "lat": "18.87309", 
+            "name": "Las Matas de Farf&#225;n", 
+            "long": "-71.51656"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "19.39352", 
+            "name": "Moca", 
+            "long": "-70.52598"
+        }
+    ], 
+    "28": [
+        {
+            "lat": "18.76559", 
+            "name": "Santa Cruz de El Seibo", 
+            "long": "-69.03886"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "18.76278", 
+            "name": "Hato Mayor del Rey", 
+            "long": "-69.25681"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "18.48137", 
+            "name": "Neiba", 
+            "long": "-71.41965"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "18.20854", 
+            "name": "Santa Cruz de Barahona", 
+            "long": "-71.10077"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "18.45319", 
+            "name": "Azua", 
+            "long": "-70.7349"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "18.61501", 
+            "name": "Salvale&#243;n de Hig&#252;ey", 
+            "long": "-68.70798"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "18.42733", 
+            "name": "La Romana", 
+            "long": "-68.97285"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "19.84826", 
+            "name": "San Fernando de Monte Cristi", 
+            "long": "-71.64597"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "19.3832", 
+            "name": "Nagua", 
+            "long": "-69.8474"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "18.67297", 
+            "name": "Villa Altagracia", 
+            "long": "-70.17095"
+        }, 
+        {
+            "lat": "18.41667", 
+            "name": "San Crist&#243;bal", 
+            "long": "-70.1"
+        }, 
+        {
+            "lat": "18.41538", 
+            "name": "Bajos de Haina", 
+            "long": "-70.03317"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "19.79344", 
+            "name": "Puerto Plata", 
+            "long": "-70.6884"
+        }, 
+        {
+            "lat": "19.66667", 
+            "name": "R&#237;o Grande", 
+            "long": "-70.76667"
+        }
+    ], 
+    "31": [
+        {
+            "lat": "18.93687", 
+            "name": "Bonao", 
+            "long": "-70.40923"
+        }
+    ], 
+    "30": [
+        {
+            "lat": "19.11683", 
+            "name": "Jarabacoa", 
+            "long": "-70.63595"
+        }, 
+        {
+            "lat": "18.90919", 
+            "name": "Constanza", 
+            "long": "-70.74499"
+        }, 
+        {
+            "lat": "19.22207", 
+            "name": "Concepci&#243;n de La Vega", 
+            "long": "-70.52956"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "18.45", 
+            "name": "Boca Chica", 
+            "long": "-69.6"
+        }, 
+        {
+            "lat": "18.5", 
+            "name": "Santo Domingo Oeste", 
+            "long": "-70"
+        }
+    ], 
+    "36": [
+        {
+            "lat": "18.54661", 
+            "name": "San Jos&#233; de Ocoa", 
+            "long": "-70.50631"
+        }
+    ], 
+    "35": [
+        {
+            "lat": "18.27964", 
+            "name": "Ban&#237;", 
+            "long": "-70.33185"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "18.46667", 
+            "name": "Villa Francisca", 
+            "long": "-69.9"
+        }, 
+        {
+            "lat": "18.48333", 
+            "name": "Villa Consuelo", 
+            "long": "-69.9"
+        }, 
+        {
+            "lat": "18.50012", 
+            "name": "Santo Domingo", 
+            "long": "-69.98857"
+        }, 
+        {
+            "lat": "18.46667", 
+            "name": "Ciudad Nueva", 
+            "long": "-69.9"
+        }, 
+        {
+            "lat": "18.45539", 
+            "name": "Bella Vista", 
+            "long": "-69.9454"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "19.37762", 
+            "name": "Salcedo", 
+            "long": "-70.41762"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "18.94498", 
+            "name": "Sabana Grande de Boy&#225;", 
+            "long": "-69.79331"
+        }, 
+        {
+            "lat": "18.807", 
+            "name": "Monte Plata", 
+            "long": "-69.78399"
+        }, 
+        {
+            "lat": "18.75031", 
+            "name": "Bayaguana", 
+            "long": "-69.63525"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "MQ": [
+        {
+            "lat": "14.67099", 
+            "name": "Saint-Joseph", 
+            "long": "-61.03905"
+        }, 
+        {
+            "lat": "14.78392", 
+            "name": "Sainte-Marie", 
+            "long": "-60.99274"
+        }, 
+        {
+            "lat": "14.75", 
+            "name": "Petite Rivi&#232;re Sal&#233;e", 
+            "long": "-60.96667"
+        }, 
+        {
+            "lat": "14.67751", 
+            "name": "Le Robert", 
+            "long": "-60.94228"
+        }, 
+        {
+            "lat": "14.608", 
+            "name": "Le Lamentin", 
+            "long": "-61.00933"
+        }, 
+        {
+            "lat": "14.61557", 
+            "name": "Le Fran&#231;ois", 
+            "long": "-60.90308"
+        }, 
+        {
+            "lat": "14.73758", 
+            "name": "La Trinit&#233;", 
+            "long": "-60.96286"
+        }, 
+        {
+            "lat": "14.60892", 
+            "name": "Fort-de-France", 
+            "long": "-61.07334"
+        }, 
+        {
+            "lat": "14.57529", 
+            "name": "Ducos", 
+            "long": "-60.97453"
+        }
+    ]
+}

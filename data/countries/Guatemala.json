@@ -1,0 +1,451 @@
+{
+    "02": [
+        {
+            "lat": "15.10278", 
+            "name": "Salam&#225;", 
+            "long": "-90.31806"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "14.76694", 
+            "name": "Tecp&#225;n Guatemala", 
+            "long": "-90.99417"
+        }, 
+        {
+            "lat": "14.62", 
+            "name": "San Andr&#233;s Itzapa", 
+            "long": "-90.84417"
+        }, 
+        {
+            "lat": "14.68333", 
+            "name": "Patz&#250;n", 
+            "long": "-91.01667"
+        }, 
+        {
+            "lat": "14.63167", 
+            "name": "Patzic&#237;a", 
+            "long": "-90.92694"
+        }, 
+        {
+            "lat": "14.64778", 
+            "name": "El Tejar", 
+            "long": "-90.79278"
+        }, 
+        {
+            "lat": "14.74111", 
+            "name": "Comalapa", 
+            "long": "-90.8875"
+        }, 
+        {
+            "lat": "14.66111", 
+            "name": "Chimaltenango", 
+            "long": "-90.81944"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "15.39632", 
+            "name": "San Crist&#243;bal Verapaz", 
+            "long": "-90.56513"
+        }, 
+        {
+            "lat": "15.4", 
+            "name": "Panz&#243;s", 
+            "long": "-89.66667"
+        }, 
+        {
+            "lat": "15.47083", 
+            "name": "Cob&#225;n", 
+            "long": "-90.37083"
+        }, 
+        {
+            "lat": "15.81667", 
+            "name": "Chisec", 
+            "long": "-90.28333"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "14.33333", 
+            "name": "Santa Luc&#237;a Cotzumalguapa", 
+            "long": "-91.01667"
+        }, 
+        {
+            "lat": "13.9274", 
+            "name": "Puerto San Jos&#233;", 
+            "long": "-90.82166"
+        }, 
+        {
+            "lat": "14.28356", 
+            "name": "Tiquisate", 
+            "long": "-91.36063"
+        }, 
+        {
+            "lat": "14.40556", 
+            "name": "Pal&#237;n", 
+            "long": "-90.69833"
+        }, 
+        {
+            "lat": "14.08333", 
+            "name": "La Gomera", 
+            "long": "-91.05"
+        }, 
+        {
+            "lat": "14.305", 
+            "name": "Escuintla", 
+            "long": "-90.785"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "14.52694", 
+            "name": "Villa Nueva", 
+            "long": "-90.5875"
+        }, 
+        {
+            "lat": "14.48139", 
+            "name": "Villa Canales", 
+            "long": "-90.53167"
+        }, 
+        {
+            "lat": "14.56889", 
+            "name": "Santa Catarina Pinula", 
+            "long": "-90.49528"
+        }, 
+        {
+            "lat": "14.78667", 
+            "name": "San Pedro Ayampuc", 
+            "long": "-90.45111"
+        }, 
+        {
+            "lat": "14.71889", 
+            "name": "San Juan Sacatep&#233;quez", 
+            "long": "-90.64417"
+        }, 
+        {
+            "lat": "14.54611", 
+            "name": "San Jos&#233; Pinula", 
+            "long": "-90.41139"
+        }, 
+        {
+            "lat": "14.50278", 
+            "name": "Petapa", 
+            "long": "-90.55167"
+        }, 
+        {
+            "lat": "14.66472", 
+            "name": "Palencia", 
+            "long": "-90.35861"
+        }, 
+        {
+            "lat": "14.63333", 
+            "name": "Mixco", 
+            "long": "-90.60639"
+        }, 
+        {
+            "lat": "14.46528", 
+            "name": "Fraijanes", 
+            "long": "-90.44083"
+        }, 
+        {
+            "lat": "14.64072", 
+            "name": "Guatemala City", 
+            "long": "-90.51327"
+        }, 
+        {
+            "lat": "14.70833", 
+            "name": "Chinautla", 
+            "long": "-90.49944"
+        }, 
+        {
+            "lat": "14.4875", 
+            "name": "Amatitl&#225;n", 
+            "long": "-90.61528"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "14.97222", 
+            "name": "Zacapa", 
+            "long": "-89.53056"
+        }, 
+        {
+            "lat": "15.11952", 
+            "name": "Gual&#225;n", 
+            "long": "-89.35721"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "14.795", 
+            "name": "Sanarate", 
+            "long": "-90.19222"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "15.66667", 
+            "name": "Jacaltenango", 
+            "long": "-91.73333"
+        }, 
+        {
+            "lat": "15.31972", 
+            "name": "Huehuetenango", 
+            "long": "-91.47083"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "15.72778", 
+            "name": "Puerto Barrios", 
+            "long": "-88.59444"
+        }, 
+        {
+            "lat": "15.48333", 
+            "name": "Morales", 
+            "long": "-88.81667"
+        }, 
+        {
+            "lat": "15.53333", 
+            "name": "El Estor", 
+            "long": "-89.35"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "14.58333", 
+            "name": "San Pablo Jocopilas", 
+            "long": "-91.45"
+        }, 
+        {
+            "lat": "14.53417", 
+            "name": "Mazatenango", 
+            "long": "-91.50333"
+        }, 
+        {
+            "lat": "14.53333", 
+            "name": "Chicacao", 
+            "long": "-91.31667"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "15.03056", 
+            "name": "Santa Cruz del Quich&#233;", 
+            "long": "-91.14889"
+        }, 
+        {
+            "lat": "15.40583", 
+            "name": "Nebaj", 
+            "long": "-91.14611"
+        }, 
+        {
+            "lat": "14.93333", 
+            "name": "Chichicastenango", 
+            "long": "-91.11667"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "14.29167", 
+            "name": "Jutiapa", 
+            "long": "-89.89583"
+        }, 
+        {
+            "lat": "14.33083", 
+            "name": "Asunci&#243;n Mita", 
+            "long": "-89.71083"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "14.63472", 
+            "name": "Jalapa", 
+            "long": "-89.98889"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "14.83472", 
+            "name": "Quetzaltenango", 
+            "long": "-91.51806"
+        }, 
+        {
+            "lat": "14.86667", 
+            "name": "Ostuncalco", 
+            "long": "-91.61667"
+        }, 
+        {
+            "lat": "14.86667", 
+            "name": "La Esperanza", 
+            "long": "-91.56667"
+        }, 
+        {
+            "lat": "14.65", 
+            "name": "El Palmar", 
+            "long": "-91.58333"
+        }, 
+        {
+            "lat": "14.71667", 
+            "name": "Colomba", 
+            "long": "-91.73333"
+        }, 
+        {
+            "lat": "14.7", 
+            "name": "Coatepeque", 
+            "long": "-91.86667"
+        }, 
+        {
+            "lat": "14.81667", 
+            "name": "Cantel", 
+            "long": "-91.45"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "16.91321", 
+            "name": "San Benito", 
+            "long": "-89.90868"
+        }, 
+        {
+            "lat": "16.33111", 
+            "name": "Popt&#250;n", 
+            "long": "-89.41694"
+        }, 
+        {
+            "lat": "16.92258", 
+            "name": "Flores", 
+            "long": "-89.89941"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "14.53611", 
+            "name": "Retalhuleu", 
+            "long": "-91.67778"
+        }, 
+        {
+            "lat": "14.6", 
+            "name": "Nuevo San Carlos", 
+            "long": "-91.7"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "14.56667", 
+            "name": "Esquipulas", 
+            "long": "-89.35"
+        }, 
+        {
+            "lat": "14.8", 
+            "name": "Chiquimula", 
+            "long": "-89.54583"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "14.96667", 
+            "name": "San Pedro Sacatep&#233;quez", 
+            "long": "-91.76667"
+        }, 
+        {
+            "lat": "14.96389", 
+            "name": "San Marcos", 
+            "long": "-91.79444"
+        }, 
+        {
+            "lat": "15.08333", 
+            "name": "Comitancillo", 
+            "long": "-91.71667"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "14.64639", 
+            "name": "Sumpango", 
+            "long": "-90.73389"
+        }, 
+        {
+            "lat": "14.63528", 
+            "name": "Santiago Sacatep&#233;quez", 
+            "long": "-90.67639"
+        }, 
+        {
+            "lat": "14.51833", 
+            "name": "Santa Mar&#237;a de Jes&#250;s", 
+            "long": "-90.72667"
+        }, 
+        {
+            "lat": "14.60972", 
+            "name": "San Lucas Sacatep&#233;quez", 
+            "long": "-90.65694"
+        }, 
+        {
+            "lat": "14.58194", 
+            "name": "Jocotenango", 
+            "long": "-90.74361"
+        }, 
+        {
+            "lat": "14.52639", 
+            "name": "Ciudad Vieja", 
+            "long": "-90.75972"
+        }, 
+        {
+            "lat": "14.56111", 
+            "name": "Antigua Guatemala", 
+            "long": "-90.73444"
+        }, 
+        {
+            "lat": "14.48028", 
+            "name": "Alotenango", 
+            "long": "-90.8075"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "14.77222", 
+            "name": "Solol&#225;", 
+            "long": "-91.18333"
+        }, 
+        {
+            "lat": "14.63823", 
+            "name": "Santiago Atitl&#225;n", 
+            "long": "-91.22901"
+        }, 
+        {
+            "lat": "14.85", 
+            "name": "Nahual&#225;", 
+            "long": "-91.31667"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "14.27639", 
+            "name": "Cuilapa", 
+            "long": "-90.29889"
+        }, 
+        {
+            "lat": "14.30944", 
+            "name": "Barberena", 
+            "long": "-90.36111"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "14.91167", 
+            "name": "Totonicap&#225;n", 
+            "long": "-91.36111"
+        }, 
+        {
+            "lat": "14.95", 
+            "name": "San Francisco El Alto", 
+            "long": "-91.45"
+        }, 
+        {
+            "lat": "15.04361", 
+            "name": "Momostenango", 
+            "long": "-91.40861"
+        }
+    ]
+}

@@ -1,0 +1,1326 @@
+{
+    "30": [
+        {
+            "lat": "35.18994", 
+            "name": "Sidi Bel Abb&#232;s", 
+            "long": "-0.63085"
+        }, 
+        {
+            "lat": "35.23464", 
+            "name": "Sfizef", 
+            "long": "-0.24435"
+        }, 
+        {
+            "lat": "35.36395", 
+            "name": "&#8217;A&#239;n el Berd", 
+            "long": "-0.51279"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "36.80377", 
+            "name": "El Hadjar", 
+            "long": "7.73684"
+        }, 
+        {
+            "lat": "36.68482", 
+            "name": "Drean", 
+            "long": "7.75111"
+        }, 
+        {
+            "lat": "36.83528", 
+            "name": "Berrahal", 
+            "long": "7.45333"
+        }, 
+        {
+            "lat": "36.9", 
+            "name": "Annaba", 
+            "long": "7.76667"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "34.15429", 
+            "name": "Messaad", 
+            "long": "3.50309"
+        }, 
+        {
+            "lat": "34.44542", 
+            "name": "El Idrissia", 
+            "long": "2.52749"
+        }, 
+        {
+            "lat": "34.67279", 
+            "name": "Djelfa", 
+            "long": "3.263"
+        }, 
+        {
+            "lat": "34.89638", 
+            "name": "Dar Chioukh", 
+            "long": "3.48543"
+        }, 
+        {
+            "lat": "34.62098", 
+            "name": "Charef", 
+            "long": "2.79503"
+        }, 
+        {
+            "lat": "35.635", 
+            "name": "Birine", 
+            "long": "3.225"
+        }, 
+        {
+            "lat": "35.45139", 
+            "name": "A&#239;n Oussera", 
+            "long": "2.90583"
+        }, 
+        {
+            "lat": "34.34381", 
+            "name": "&#8217;A&#239;n el Bell", 
+            "long": "3.22475"
+        }
+    ], 
+    "45": [
+        {
+            "lat": "32.26667", 
+            "name": "Metlili Chaamba", 
+            "long": "3.63333"
+        }, 
+        {
+            "lat": "32.49094", 
+            "name": "Gharda&#239;a", 
+            "long": "3.67347"
+        }, 
+        {
+            "lat": "32.82648", 
+            "name": "Berriane", 
+            "long": "3.76689"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "35.87541", 
+            "name": "Oum el Bouaghi", 
+            "long": "7.11353"
+        }, 
+        {
+            "lat": "35.63058", 
+            "name": "Meskiana", 
+            "long": "7.66606"
+        }, 
+        {
+            "lat": "35.86691", 
+            "name": "El Aouinet", 
+            "long": "7.88673"
+        }, 
+        {
+            "lat": "35.92472", 
+            "name": "A&#239;n Kercha", 
+            "long": "6.69528"
+        }, 
+        {
+            "lat": "35.97108", 
+            "name": "A&#239;n Fakroun", 
+            "long": "6.87374"
+        }, 
+        {
+            "lat": "35.79639", 
+            "name": "A&#239;n Be&#239;da", 
+            "long": "7.39278"
+        }
+    ], 
+    "36": [
+        {
+            "lat": "35.37889", 
+            "name": "Hammam Bou Hadjar", 
+            "long": "-0.96778"
+        }, 
+        {
+            "lat": "35.39137", 
+            "name": "El Malah", 
+            "long": "-1.09238"
+        }, 
+        {
+            "lat": "35.52439", 
+            "name": "El Amria", 
+            "long": "-1.01577"
+        }, 
+        {
+            "lat": "35.30099", 
+            "name": "Beni Saf", 
+            "long": "-1.38226"
+        }, 
+        {
+            "lat": "35.29749", 
+            "name": "&#8217;A&#239;n Temouchent", 
+            "long": "-1.14037"
+        }
+    ], 
+    "53": [
+        {
+            "lat": "22.785", 
+            "name": "Tamanrasset", 
+            "long": "5.52278"
+        }, 
+        {
+            "lat": "27.19351", 
+            "name": "I-n-Salah", 
+            "long": "2.46069"
+        }
+    ], 
+    "52": [
+        {
+            "lat": "36.28639", 
+            "name": "Souk Ahras", 
+            "long": "7.95111"
+        }, 
+        {
+            "lat": "36.12868", 
+            "name": "Sedrata", 
+            "long": "7.53376"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "36.41205", 
+            "name": "Hamma Bouziane", 
+            "long": "6.59603"
+        }, 
+        {
+            "lat": "36.26333", 
+            "name": "El Khroub", 
+            "long": "6.69361"
+        }, 
+        {
+            "lat": "36.4525", 
+            "name": "Didouche Mourad", 
+            "long": "6.63639"
+        }, 
+        {
+            "lat": "36.365", 
+            "name": "Constantine", 
+            "long": "6.61472"
+        }, 
+        {
+            "lat": "36.2674", 
+            "name": "A&#239;n Smara", 
+            "long": "6.50135"
+        }, 
+        {
+            "lat": "36.23194", 
+            "name": "&#8217;A&#239;n Abid", 
+            "long": "6.94333"
+        }
+    ], 
+    "24": [
+        {
+            "lat": "36.82055", 
+            "name": "Jijel", 
+            "long": "5.76671"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "35.48171", 
+            "name": "Tazoult-Lambese", 
+            "long": "6.26074"
+        }, 
+        {
+            "lat": "35.67384", 
+            "name": "R&#226;s el A&#239;oun", 
+            "long": "5.6453"
+        }, 
+        {
+            "lat": "35.63106", 
+            "name": "Merouana", 
+            "long": "5.91186"
+        }, 
+        {
+            "lat": "36.56471", 
+            "name": "Larba&#226;", 
+            "long": "3.15434"
+        }, 
+        {
+            "lat": "35.55597", 
+            "name": "Batna", 
+            "long": "6.17414"
+        }, 
+        {
+            "lat": "35.38901", 
+            "name": "Barika", 
+            "long": "5.36584"
+        }, 
+        {
+            "lat": "35.25881", 
+            "name": "Arris", 
+            "long": "6.34706"
+        }, 
+        {
+            "lat": "35.37675", 
+            "name": "A&#239;n Touta", 
+            "long": "5.90001"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "35.52832", 
+            "name": "Sig", 
+            "long": "-0.19369"
+        }, 
+        {
+            "lat": "35.45595", 
+            "name": "Oued el Abtal", 
+            "long": "0.68778"
+        }, 
+        {
+            "lat": "35.39664", 
+            "name": "Mascara", 
+            "long": "0.14027"
+        }, 
+        {
+            "lat": "35.31473", 
+            "name": "Bou Hanifia el Hamamat", 
+            "long": "-0.05037"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "35.88548", 
+            "name": "Sidi A&#239;ssa", 
+            "long": "3.77236"
+        }, 
+        {
+            "lat": "35.70583", 
+            "name": "M&#8217;Sila", 
+            "long": "4.54194"
+        }, 
+        {
+            "lat": "34.84146", 
+            "name": "&#8217;A&#239;n el Melh", 
+            "long": "4.16383"
+        }, 
+        {
+            "lat": "35.67003", 
+            "name": "&#8216;A&#239;n el Hadjel", 
+            "long": "3.88153"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "36.51833", 
+            "name": "Souma", 
+            "long": "2.90528"
+        }, 
+        {
+            "lat": "36.60637", 
+            "name": "Sidi Moussa", 
+            "long": "3.08783"
+        }, 
+        {
+            "lat": "36.6204", 
+            "name": "Meftah", 
+            "long": "3.22248"
+        }, 
+        {
+            "lat": "36.46293", 
+            "name": "Chiffa", 
+            "long": "2.73873"
+        }, 
+        {
+            "lat": "36.57722", 
+            "name": "Chebli", 
+            "long": "3.00917"
+        }, 
+        {
+            "lat": "36.53167", 
+            "name": "Bouinan", 
+            "long": "2.99194"
+        }, 
+        {
+            "lat": "36.54178", 
+            "name": "Bougara", 
+            "long": "3.081"
+        }, 
+        {
+            "lat": "36.57413", 
+            "name": "Boufarik", 
+            "long": "2.91214"
+        }, 
+        {
+            "lat": "36.46298", 
+            "name": "Bo&#251; Arfa", 
+            "long": "2.81464"
+        }, 
+        {
+            "lat": "36.47004", 
+            "name": "Blida", 
+            "long": "2.8277"
+        }, 
+        {
+            "lat": "36.52389", 
+            "name": "Beni Mered", 
+            "long": "2.86131"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "36.14766", 
+            "name": "Sour el Ghozlane", 
+            "long": "3.69123"
+        }, 
+        {
+            "lat": "36.56463", 
+            "name": "Lakhdaria", 
+            "long": "3.5933"
+        }, 
+        {
+            "lat": "36.53628", 
+            "name": "Draa el Mizan", 
+            "long": "3.8334"
+        }, 
+        {
+            "lat": "36.36505", 
+            "name": "Chorfa", 
+            "long": "4.32636"
+        }, 
+        {
+            "lat": "36.37489", 
+            "name": "Bou&#239;ra", 
+            "long": "3.902"
+        }, 
+        {
+            "lat": "36.29333", 
+            "name": "A&#239;n Bessem", 
+            "long": "3.67319"
+        }
+    ], 
+    "48": [
+        {
+            "lat": "36.11653", 
+            "name": "Telerghma", 
+            "long": "6.35434"
+        }, 
+        {
+            "lat": "36.52056", 
+            "name": "Sidi M&#233;rouane", 
+            "long": "6.26111"
+        }, 
+        {
+            "lat": "36.45774", 
+            "name": "Rouached", 
+            "long": "6.04267"
+        }, 
+        {
+            "lat": "36.45028", 
+            "name": "Mila", 
+            "long": "6.26444"
+        }, 
+        {
+            "lat": "36.16286", 
+            "name": "Chelghoum el A&#239;d", 
+            "long": "6.16651"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "36.50361", 
+            "name": "H&#233;liopolis", 
+            "long": "7.44278"
+        }, 
+        {
+            "lat": "36.46214", 
+            "name": "Guelma", 
+            "long": "7.42608"
+        }, 
+        {
+            "lat": "36.45833", 
+            "name": "Boumahra Ahmed", 
+            "long": "7.51389"
+        }
+    ], 
+    "47": [
+        {
+            "lat": "35.43583", 
+            "name": "Khenchela", 
+            "long": "7.14333"
+        }
+    ], 
+    "44": [
+        {
+            "lat": "36.7672", 
+            "name": "El Tarf", 
+            "long": "8.31377"
+        }, 
+        {
+            "lat": "36.89556", 
+            "name": "El Kala", 
+            "long": "8.44333"
+        }, 
+        {
+            "lat": "36.70222", 
+            "name": "Besbes", 
+            "long": "7.84722"
+        }, 
+        {
+            "lat": "36.76967", 
+            "name": "Ben Mehidi", 
+            "long": "7.90641"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "35.65903", 
+            "name": "Sidi ech Chahmi", 
+            "long": "-0.52168"
+        }, 
+        {
+            "lat": "35.69111", 
+            "name": "Oran", 
+            "long": "-0.64167"
+        }, 
+        {
+            "lat": "35.7279", 
+            "name": "Mers el Kebir", 
+            "long": "-0.7081"
+        }, 
+        {
+            "lat": "35.64779", 
+            "name": "Es Senia", 
+            "long": "-0.62397"
+        }, 
+        {
+            "lat": "35.57272", 
+            "name": "Bou Tlelis", 
+            "long": "-0.8996"
+        }, 
+        {
+            "lat": "35.72", 
+            "name": "Bir el Djir", 
+            "long": "-0.545"
+        }, 
+        {
+            "lat": "35.74381", 
+            "name": "&#8217;A&#239;n el Turk", 
+            "long": "-0.7693"
+        }, 
+        {
+            "lat": "35.80389", 
+            "name": "A&#239;n el Bya", 
+            "long": "-0.30178"
+        }
+    ], 
+    "42": [
+        {
+            "lat": "33.68318", 
+            "name": "El Bayadh", 
+            "long": "1.01927"
+        }, 
+        {
+            "lat": "32.893", 
+            "name": "El Abiodh Sidi Cheikh", 
+            "long": "0.54839"
+        }, 
+        {
+            "lat": "33.09892", 
+            "name": "Brezina", 
+            "long": "1.26082"
+        }
+    ], 
+    "43": [
+        {
+            "lat": "33.27967", 
+            "name": "Robbah", 
+            "long": "6.90984"
+        }, 
+        {
+            "lat": "33.56391", 
+            "name": "Reguiba", 
+            "long": "6.70326"
+        }, 
+        {
+            "lat": "33.35608", 
+            "name": "El Oued", 
+            "long": "6.86319"
+        }, 
+        {
+            "lat": "33.51667", 
+            "name": "Debila", 
+            "long": "6.95"
+        }
+    ], 
+    "40": [
+        {
+            "lat": "36.76639", 
+            "name": "Boumerdas", 
+            "long": "3.47717"
+        }, 
+        {
+            "lat": "36.58839", 
+            "name": "Tizi Gheniff", 
+            "long": "3.77445"
+        }, 
+        {
+            "lat": "36.72544", 
+            "name": "Thenia", 
+            "long": "3.55665"
+        }, 
+        {
+            "lat": "36.74413", 
+            "name": "Tadma&#239;t", 
+            "long": "3.90045"
+        }, 
+        {
+            "lat": "36.73587", 
+            "name": "Regha&#239;a", 
+            "long": "3.34018"
+        }, 
+        {
+            "lat": "36.74625", 
+            "name": "Naciria", 
+            "long": "3.83163"
+        }, 
+        {
+            "lat": "36.78567", 
+            "name": "Makouda", 
+            "long": "4.06273"
+        }, 
+        {
+            "lat": "36.64997", 
+            "name": "Khemis el Khechna", 
+            "long": "3.3308"
+        }, 
+        {
+            "lat": "36.71859", 
+            "name": "Isser", 
+            "long": "3.66924"
+        }, 
+        {
+            "lat": "36.73436", 
+            "name": "Draa Ben Khedda", 
+            "long": "3.96223"
+        }, 
+        {
+            "lat": "36.91716", 
+            "name": "Dellys", 
+            "long": "3.91311"
+        }, 
+        {
+            "lat": "36.63709", 
+            "name": "Chabet el Ameur", 
+            "long": "3.69474"
+        }, 
+        {
+            "lat": "36.72735", 
+            "name": "Boudouaou", 
+            "long": "3.40995"
+        }, 
+        {
+            "lat": "36.66774", 
+            "name": "Beni Amrane", 
+            "long": "3.59115"
+        }, 
+        {
+            "lat": "36.63773", 
+            "name": "Arbatache", 
+            "long": "3.37127"
+        }
+    ], 
+    "41": [
+        {
+            "lat": "36.46472", 
+            "name": "Sidi Akkacha", 
+            "long": "1.30258"
+        }, 
+        {
+            "lat": "36.10124", 
+            "name": "Oued Sly", 
+            "long": "1.19949"
+        }, 
+        {
+            "lat": "36.18503", 
+            "name": "Oued Fodda", 
+            "long": "1.53299"
+        }, 
+        {
+            "lat": "36.16525", 
+            "name": "Chlef", 
+            "long": "1.33452"
+        }, 
+        {
+            "lat": "36.19591", 
+            "name": "Ech Chettia", 
+            "long": "1.25537"
+        }, 
+        {
+            "lat": "36.06629", 
+            "name": "Boukadir", 
+            "long": "1.12602"
+        }, 
+        {
+            "lat": "36.41657", 
+            "name": "Abou el Hassan", 
+            "long": "1.19616"
+        }
+    ], 
+    "49": [
+        {
+            "lat": "32.75", 
+            "name": "A&#239;n Sefra", 
+            "long": "-0.58333"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "33.8", 
+            "name": "Laghouat", 
+            "long": "2.86514"
+        }, 
+        {
+            "lat": "34.11279", 
+            "name": "Aflou", 
+            "long": "2.10228"
+        }
+    ], 
+    "39": [
+        {
+            "lat": "35.9441", 
+            "name": "R&#226;s el Oued", 
+            "long": "5.03107"
+        }, 
+        {
+            "lat": "35.97999", 
+            "name": "Melouza", 
+            "long": "4.18665"
+        }, 
+        {
+            "lat": "36.08725", 
+            "name": "Mansourah", 
+            "long": "4.45192"
+        }, 
+        {
+            "lat": "36.06386", 
+            "name": "El Achir", 
+            "long": "4.62744"
+        }, 
+        {
+            "lat": "36.27462", 
+            "name": "Bordj Zemoura", 
+            "long": "4.85668"
+        }, 
+        {
+            "lat": "35.90111", 
+            "name": "Bordj Ghdir", 
+            "long": "4.89806"
+        }, 
+        {
+            "lat": "36.07321", 
+            "name": "Bordj Bou Arreridj", 
+            "long": "4.76108"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "36.73829", 
+            "name": "Rouiba", 
+            "long": "3.28079"
+        }, 
+        {
+            "lat": "36.71333", 
+            "name": "Dar el Be&#239;da", 
+            "long": "3.2125"
+        }, 
+        {
+            "lat": "36.74871", 
+            "name": "Bordj el Kiffan", 
+            "long": "3.19249"
+        }, 
+        {
+            "lat": "36.71499", 
+            "name": "Birkhadem", 
+            "long": "3.05002"
+        }, 
+        {
+            "lat": "36.72615", 
+            "name": "Bab Ezzouar", 
+            "long": "3.18291"
+        }, 
+        {
+            "lat": "36.7525", 
+            "name": "Algiers", 
+            "long": "3.04197"
+        }, 
+        {
+            "lat": "36.79333", 
+            "name": "A&#239;n Taya", 
+            "long": "3.28694"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "36.26417", 
+            "name": "M&#233;d&#233;a", 
+            "long": "2.75393"
+        }, 
+        {
+            "lat": "35.88889", 
+            "name": "Ksar el Boukhari", 
+            "long": "2.74905"
+        }, 
+        {
+            "lat": "36.13516", 
+            "name": "Berrouaghia", 
+            "long": "2.91085"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "35.93115", 
+            "name": "Mostaganem", 
+            "long": "0.08918"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "34.83033", 
+            "name": "Sa&#239;da", 
+            "long": "0.15171"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "35.37103", 
+            "name": "Tiaret", 
+            "long": "1.31699"
+        }, 
+        {
+            "lat": "35.18568", 
+            "name": "Sougueur", 
+            "long": "1.49612"
+        }, 
+        {
+            "lat": "35.43058", 
+            "name": "Mehdia", 
+            "long": "1.75714"
+        }, 
+        {
+            "lat": "35.21222", 
+            "name": "Ksar Chellala", 
+            "long": "2.31889"
+        }, 
+        {
+            "lat": "35.06544", 
+            "name": "Frenda", 
+            "long": "1.04945"
+        }, 
+        {
+            "lat": "34.84218", 
+            "name": "&#8217;A&#239;n Deheb", 
+            "long": "1.54697"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "36.19112", 
+            "name": "S&#233;tif", 
+            "long": "5.41373"
+        }, 
+        {
+            "lat": "35.85451", 
+            "name": "Salah Bey", 
+            "long": "5.29053"
+        }, 
+        {
+            "lat": "36.15281", 
+            "name": "El Eulma", 
+            "long": "5.69016"
+        }, 
+        {
+            "lat": "36.33293", 
+            "name": "Bougaa", 
+            "long": "5.08843"
+        }, 
+        {
+            "lat": "36.18683", 
+            "name": "A&#239;n Arnat", 
+            "long": "5.31347"
+        }, 
+        {
+            "lat": "36.48994", 
+            "name": "BABOR - VILLE", 
+            "long": "5.5393"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "34.87833", 
+            "name": "Tlemcen", 
+            "long": "-1.315"
+        }, 
+        {
+            "lat": "35.06937", 
+            "name": "Sidi Abdelli", 
+            "long": "-1.13706"
+        }, 
+        {
+            "lat": "34.63703", 
+            "name": "Sebdou", 
+            "long": "-1.33143"
+        }, 
+        {
+            "lat": "35.06196", 
+            "name": "Remchi", 
+            "long": "-1.43362"
+        }, 
+        {
+            "lat": "34.90472", 
+            "name": "Ouled Mimoun", 
+            "long": "-1.03394"
+        }, 
+        {
+            "lat": "35.01361", 
+            "name": "Nedroma", 
+            "long": "-1.74799"
+        }, 
+        {
+            "lat": "34.86158", 
+            "name": "Manso&#251;ra", 
+            "long": "-1.33935"
+        }, 
+        {
+            "lat": "34.95139", 
+            "name": "Hennaya", 
+            "long": "-1.36806"
+        }, 
+        {
+            "lat": "34.92129", 
+            "name": "Chetouane", 
+            "long": "-1.29512"
+        }, 
+        {
+            "lat": "35.07465", 
+            "name": "Bensekrane", 
+            "long": "-1.22431"
+        }, 
+        {
+            "lat": "34.87045", 
+            "name": "Beni Mester", 
+            "long": "-1.42319"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "36.67176", 
+            "name": "Tizi Rached", 
+            "long": "4.19176"
+        }, 
+        {
+            "lat": "36.71182", 
+            "name": "Tizi Ouzou", 
+            "long": "4.04591"
+        }, 
+        {
+            "lat": "36.54569", 
+            "name": "Tizi-n-Tleta", 
+            "long": "4.05712"
+        }, 
+        {
+            "lat": "36.65393", 
+            "name": "Tirmitine", 
+            "long": "3.98143"
+        }, 
+        {
+            "lat": "36.8", 
+            "name": "Timizart", 
+            "long": "4.26667"
+        }, 
+        {
+            "lat": "36.68178", 
+            "name": "Mekla", 
+            "long": "4.26378"
+        }, 
+        {
+            "lat": "36.63112", 
+            "name": "L&#8217;Arbaa Na&#239;t Irathen", 
+            "long": "4.19864"
+        }, 
+        {
+            "lat": "36.46295", 
+            "name": "Ighram", 
+            "long": "4.50532"
+        }, 
+        {
+            "lat": "36.75234", 
+            "name": "Freha", 
+            "long": "4.3155"
+        }, 
+        {
+            "lat": "36.6", 
+            "name": "Chemini", 
+            "long": "4.61667"
+        }, 
+        {
+            "lat": "36.80218", 
+            "name": "Boudjima", 
+            "long": "4.15187"
+        }, 
+        {
+            "lat": "36.54222", 
+            "name": "Boghni", 
+            "long": "3.95306"
+        }, 
+        {
+            "lat": "36.61954", 
+            "name": "Beni Douala", 
+            "long": "4.08282"
+        }, 
+        {
+            "lat": "36.74472", 
+            "name": "Azazga", 
+            "long": "4.37222"
+        }, 
+        {
+            "lat": "36.79361", 
+            "name": "Arhribs", 
+            "long": "4.31158"
+        }, 
+        {
+            "lat": "36.56471", 
+            "name": "&#8217;A&#239;n el Hammam", 
+            "long": "4.30619"
+        }
+    ], 
+    "38": [
+        {
+            "lat": "31.61667", 
+            "name": "B&#233;char", 
+            "long": "-2.21667"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "34.68284", 
+            "name": "Zeribet el Oued", 
+            "long": "6.51109"
+        }, 
+        {
+            "lat": "34.72224", 
+            "name": "Tolga", 
+            "long": "5.37845"
+        }, 
+        {
+            "lat": "34.74512", 
+            "name": "Sidi Okba", 
+            "long": "5.89833"
+        }, 
+        {
+            "lat": "34.387", 
+            "name": "Sidi Khaled", 
+            "long": "4.98785"
+        }, 
+        {
+            "lat": "34.85038", 
+            "name": "Biskra", 
+            "long": "5.72805"
+        }
+    ], 
+    "54": [
+        {
+            "lat": "27.67111", 
+            "name": "Tindouf", 
+            "long": "-8.14743"
+        }
+    ], 
+    "31": [
+        {
+            "lat": "36.83763", 
+            "name": "Tamalous", 
+            "long": "6.64018"
+        }, 
+        {
+            "lat": "36.87617", 
+            "name": "Skikda", 
+            "long": "6.90921"
+        }, 
+        {
+            "lat": "36.92917", 
+            "name": "Kerkera", 
+            "long": "6.58556"
+        }, 
+        {
+            "lat": "36.73944", 
+            "name": "Azzaba", 
+            "long": "7.10528"
+        }
+    ], 
+    "56": [
+        {
+            "lat": "35.60722", 
+            "name": "Tissemsilt", 
+            "long": "1.81081"
+        }
+    ], 
+    "51": [
+        {
+            "lat": "35.72251", 
+            "name": "Zemoura", 
+            "long": "0.75509"
+        }, 
+        {
+            "lat": "35.73734", 
+            "name": "Relizane", 
+            "long": "0.55599"
+        }, 
+        {
+            "lat": "35.96124", 
+            "name": "Oued Rhiou", 
+            "long": "0.91896"
+        }, 
+        {
+            "lat": "36.12232", 
+            "name": "Mazouna", 
+            "long": "0.89865"
+        }, 
+        {
+            "lat": "35.92989", 
+            "name": "Djidiouia", 
+            "long": "0.82871"
+        }, 
+        {
+            "lat": "35.86781", 
+            "name": "Ammi Moussa", 
+            "long": "1.11143"
+        }, 
+        {
+            "lat": "36.16277", 
+            "name": "&#8217;A&#239;n Merane", 
+            "long": "0.97037"
+        }
+    ], 
+    "50": [
+        {
+            "lat": "33.10527", 
+            "name": "Touggourt", 
+            "long": "6.05796"
+        }, 
+        {
+            "lat": "33.11667", 
+            "name": "Tebesbest", 
+            "long": "6.08333"
+        }, 
+        {
+            "lat": "33.49885", 
+            "name": "Sidi Amrane", 
+            "long": "6.00803"
+        }, 
+        {
+            "lat": "31.92427", 
+            "name": "Rouissat", 
+            "long": "5.35018"
+        }, 
+        {
+            "lat": "31.94932", 
+            "name": "Ouargla", 
+            "long": "5.32502"
+        }, 
+        {
+            "lat": "33.19195", 
+            "name": "Megarine", 
+            "long": "6.08695"
+        }, 
+        {
+            "lat": "31.68041", 
+            "name": "Hassi Messaoud", 
+            "long": "6.07286"
+        }, 
+        {
+            "lat": "32.61336", 
+            "name": "El Hadjira", 
+            "long": "5.51259"
+        }, 
+        {
+            "lat": "33.53388", 
+            "name": "Djamaa", 
+            "long": "5.99306"
+        }
+    ], 
+    "35": [
+        {
+            "lat": "35.87111", 
+            "name": "Theniet el Had", 
+            "long": "2.02806"
+        }, 
+        {
+            "lat": "36.26104", 
+            "name": "Khemis Miliana", 
+            "long": "2.22015"
+        }, 
+        {
+            "lat": "36.22393", 
+            "name": "El Attaf", 
+            "long": "1.67187"
+        }, 
+        {
+            "lat": "36.26951", 
+            "name": "El Abadia", 
+            "long": "1.68609"
+        }, 
+        {
+            "lat": "36.26405", 
+            "name": "A&#239;n Defla", 
+            "long": "1.9679"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "29.26388", 
+            "name": "Timimoun", 
+            "long": "0.23098"
+        }, 
+        {
+            "lat": "26.71576", 
+            "name": "Reggane", 
+            "long": "0.1714"
+        }, 
+        {
+            "lat": "26.96667", 
+            "name": "Aoulef", 
+            "long": "1.08333"
+        }, 
+        {
+            "lat": "27.87429", 
+            "name": "Adrar", 
+            "long": "-0.29388"
+        }
+    ], 
+    "55": [
+        {
+            "lat": "36.71169", 
+            "name": "Zeralda", 
+            "long": "2.84244"
+        }, 
+        {
+            "lat": "36.58972", 
+            "name": "Tipasa", 
+            "long": "2.4475"
+        }, 
+        {
+            "lat": "36.70456", 
+            "name": "Saoula", 
+            "long": "3.02462"
+        }, 
+        {
+            "lat": "36.55528", 
+            "name": "Oued el Alleug", 
+            "long": "2.79028"
+        }, 
+        {
+            "lat": "36.46695", 
+            "name": "Mouza&#239;a", 
+            "long": "2.68991"
+        }, 
+        {
+            "lat": "36.63888", 
+            "name": "Kolea", 
+            "long": "2.76845"
+        }, 
+        {
+            "lat": "36.51257", 
+            "name": "Hadjout", 
+            "long": "2.41382"
+        }, 
+        {
+            "lat": "36.4701", 
+            "name": "El Affroun", 
+            "long": "2.62528"
+        }, 
+        {
+            "lat": "36.67", 
+            "name": "Douera", 
+            "long": "2.94444"
+        }, 
+        {
+            "lat": "36.76775", 
+            "name": "Cheraga", 
+            "long": "2.95924"
+        }, 
+        {
+            "lat": "36.64262", 
+            "name": "Bou Isma&#239;l", 
+            "long": "2.69007"
+        }, 
+        {
+            "lat": "36.66655", 
+            "name": "Baraki", 
+            "long": "3.09606"
+        }, 
+        {
+            "lat": "36.80277", 
+            "name": "&#8217;A&#239;n Benian", 
+            "long": "2.92185"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "36.65", 
+            "name": "el hed", 
+            "long": "4.77361"
+        }, 
+        {
+            "lat": "36.54722", 
+            "name": "Seddouk", 
+            "long": "4.68611"
+        }, 
+        {
+            "lat": "36.56041", 
+            "name": "Feraoun", 
+            "long": "4.85454"
+        }, 
+        {
+            "lat": "36.67942", 
+            "name": "El Kseur", 
+            "long": "4.8555"
+        }, 
+        {
+            "lat": "36.75587", 
+            "name": "Beja&#239;a", 
+            "long": "5.08433"
+        }, 
+        {
+            "lat": "36.56667", 
+            "name": "Barbacha", 
+            "long": "4.96667"
+        }, 
+        {
+            "lat": "36.64022", 
+            "name": "Amizour", 
+            "long": "4.90131"
+        }, 
+        {
+            "lat": "36.4575", 
+            "name": "Akbou", 
+            "long": "4.53494"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "35.40417", 
+            "name": "T&#233;bessa", 
+            "long": "8.12417"
+        }, 
+        {
+            "lat": "35.44862", 
+            "name": "Hammamet", 
+            "long": "7.95184"
+        }, 
+        {
+            "lat": "35.27306", 
+            "name": "Cheria", 
+            "long": "7.75194"
+        }, 
+        {
+            "lat": "34.74488", 
+            "name": "Bir el Ater", 
+            "long": "8.06024"
+        }
+    ]
+}

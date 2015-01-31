@@ -1,0 +1,2902 @@
+{
+    "11": [
+        {
+            "lat": "41.98944", 
+            "name": "Termoli", 
+            "long": "14.9926"
+        }, 
+        {
+            "lat": "41.60003", 
+            "name": "Isernia", 
+            "long": "14.23701"
+        }, 
+        {
+            "lat": "41.55947", 
+            "name": "Campobasso", 
+            "long": "14.66737"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "38.67618", 
+            "name": "Vibo Valentia", 
+            "long": "16.10094"
+        }, 
+        {
+            "lat": "38.26993", 
+            "name": "Siderno", 
+            "long": "16.29607"
+        }, 
+        {
+            "lat": "39.26291", 
+            "name": "San Giovanni in Fiore", 
+            "long": "16.69531"
+        }, 
+        {
+            "lat": "39.60196", 
+            "name": "Rossano Stazione", 
+            "long": "16.63475"
+        }, 
+        {
+            "lat": "38.11047", 
+            "name": "Reggio Calabria", 
+            "long": "15.66129"
+        }, 
+        {
+            "lat": "39.34474", 
+            "name": "Quattromiglia", 
+            "long": "16.23802"
+        }, 
+        {
+            "lat": "38.4069", 
+            "name": "Palmi", 
+            "long": "15.87173"
+        }, 
+        {
+            "lat": "38.96088", 
+            "name": "Nicastro-Sambiase", 
+            "long": "16.31012"
+        }, 
+        {
+            "lat": "38.4251", 
+            "name": "Gioia Tauro", 
+            "long": "15.8975"
+        }, 
+        {
+            "lat": "39.0823", 
+            "name": "Crotone", 
+            "long": "17.10997"
+        }, 
+        {
+            "lat": "39.30422", 
+            "name": "Cosenza", 
+            "long": "16.25201"
+        }, 
+        {
+            "lat": "38.88247", 
+            "name": "Catanzaro", 
+            "long": "16.60086"
+        }, 
+        {
+            "lat": "39.81949", 
+            "name": "Castrovillari", 
+            "long": "16.21467"
+        }, 
+        {
+            "lat": "38.38333", 
+            "name": "Amato", 
+            "long": "16.13333"
+        }, 
+        {
+            "lat": "38.96589", 
+            "name": "Lamezia Terme", 
+            "long": "16.3092"
+        }, 
+        {
+            "lat": "39.62713", 
+            "name": "Corigliano Scalo", 
+            "long": "16.51368"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "40.01311", 
+            "name": "Casarano", 
+            "long": "18.1634"
+        }, 
+        {
+            "lat": "41.04615", 
+            "name": "Valenzano", 
+            "long": "16.88383"
+        }, 
+        {
+            "lat": "41.06549", 
+            "name": "Triggiano", 
+            "long": "16.92501"
+        }, 
+        {
+            "lat": "41.27733", 
+            "name": "Trani", 
+            "long": "16.41011"
+        }, 
+        {
+            "lat": "41.69115", 
+            "name": "Torremaggiore", 
+            "long": "15.29691"
+        }, 
+        {
+            "lat": "41.12905", 
+            "name": "Terlizzi", 
+            "long": "16.54536"
+        }, 
+        {
+            "lat": "40.41639", 
+            "name": "Taranto", 
+            "long": "17.25478"
+        }, 
+        {
+            "lat": "40.40203", 
+            "name": "Sava", 
+            "long": "17.55267"
+        }, 
+        {
+            "lat": "40.65642", 
+            "name": "San Vito dei Normanni", 
+            "long": "17.70814"
+        }, 
+        {
+            "lat": "40.79236", 
+            "name": "Santeramo in Colle", 
+            "long": "16.75873"
+        }, 
+        {
+            "lat": "41.68564", 
+            "name": "San Severo", 
+            "long": "15.38148"
+        }, 
+        {
+            "lat": "41.83844", 
+            "name": "Sannicandro Garganico", 
+            "long": "15.56535"
+        }, 
+        {
+            "lat": "41.70643", 
+            "name": "San Giovanni Rotondo", 
+            "long": "15.7277"
+        }, 
+        {
+            "lat": "41.11658", 
+            "name": "Ruvo di Puglia", 
+            "long": "16.48974"
+        }, 
+        {
+            "lat": "41.00997", 
+            "name": "Rutigliano", 
+            "long": "17.00558"
+        }, 
+        {
+            "lat": "40.85106", 
+            "name": "Putignano", 
+            "long": "17.1219"
+        }, 
+        {
+            "lat": "41.05562", 
+            "name": "Palo del Colle", 
+            "long": "16.70321"
+        }, 
+        {
+            "lat": "40.57762", 
+            "name": "Palagiano", 
+            "long": "17.03812"
+        }, 
+        {
+            "lat": "40.72484", 
+            "name": "Ostuni", 
+            "long": "17.57922"
+        }, 
+        {
+            "lat": "41.32879", 
+            "name": "Orta Nova", 
+            "long": "15.70994"
+        }, 
+        {
+            "lat": "41.03449", 
+            "name": "Noicattaro", 
+            "long": "16.98963"
+        }, 
+        {
+            "lat": "40.79356", 
+            "name": "Noci", 
+            "long": "17.12681"
+        }, 
+        {
+            "lat": "40.15308", 
+            "name": "Nard&#242;", 
+            "long": "18.01183"
+        }, 
+        {
+            "lat": "40.94918", 
+            "name": "Monopoli", 
+            "long": "17.29717"
+        }, 
+        {
+            "lat": "41.19695", 
+            "name": "Molfetta", 
+            "long": "16.59503"
+        }, 
+        {
+            "lat": "41.05906", 
+            "name": "Mola di Bari", 
+            "long": "17.08512"
+        }, 
+        {
+            "lat": "41.09454", 
+            "name": "Modugno", 
+            "long": "16.7959"
+        }, 
+        {
+            "lat": "40.55851", 
+            "name": "Mesagne", 
+            "long": "17.80774"
+        }, 
+        {
+            "lat": "40.58618", 
+            "name": "Massafra", 
+            "long": "17.11635"
+        }, 
+        {
+            "lat": "40.70142", 
+            "name": "Martina Franca", 
+            "long": "17.33304"
+        }, 
+        {
+            "lat": "41.62746", 
+            "name": "Manfredonia", 
+            "long": "15.91038"
+        }, 
+        {
+            "lat": "40.40234", 
+            "name": "Manduria", 
+            "long": "17.63352"
+        }, 
+        {
+            "lat": "41.5055", 
+            "name": "Lucera", 
+            "long": "15.3391"
+        }, 
+        {
+            "lat": "40.35481", 
+            "name": "Lecce", 
+            "long": "18.17244"
+        }, 
+        {
+            "lat": "40.53694", 
+            "name": "Grottaglie", 
+            "long": "17.43723"
+        }, 
+        {
+            "lat": "40.81892", 
+            "name": "Gravina in Puglia", 
+            "long": "16.42148"
+        }, 
+        {
+            "lat": "41.185", 
+            "name": "Giovinazzo", 
+            "long": "16.67054"
+        }, 
+        {
+            "lat": "40.80415", 
+            "name": "Gioia del Colle", 
+            "long": "16.92387"
+        }, 
+        {
+            "lat": "40.5769", 
+            "name": "Ginosa", 
+            "long": "16.75655"
+        }, 
+        {
+            "lat": "40.05549", 
+            "name": "Gallipoli", 
+            "long": "17.99726"
+        }, 
+        {
+            "lat": "40.17416", 
+            "name": "Galatina", 
+            "long": "18.17032"
+        }, 
+        {
+            "lat": "40.53123", 
+            "name": "Francavilla Fontana", 
+            "long": "17.58522"
+        }, 
+        {
+            "lat": "41.45845", 
+            "name": "Foggia", 
+            "long": "15.55188"
+        }, 
+        {
+            "lat": "40.83805", 
+            "name": "Fasano", 
+            "long": "17.35836"
+        }, 
+        {
+            "lat": "41.14273", 
+            "name": "Corato", 
+            "long": "16.40652"
+        }, 
+        {
+            "lat": "40.26821", 
+            "name": "Copertino", 
+            "long": "18.0543"
+        }, 
+        {
+            "lat": "40.96836", 
+            "name": "Conversano", 
+            "long": "17.11329"
+        }, 
+        {
+            "lat": "41.26383", 
+            "name": "Cerignola", 
+            "long": "15.8998"
+        }, 
+        {
+            "lat": "40.6462", 
+            "name": "Ceglie Messapica", 
+            "long": "17.51661"
+        }, 
+        {
+            "lat": "40.95653", 
+            "name": "Casamassima", 
+            "long": "16.92075"
+        }, 
+        {
+            "lat": "41.21954", 
+            "name": "Canosa di Puglia", 
+            "long": "16.06768"
+        }, 
+        {
+            "lat": "40.63215", 
+            "name": "Brindisi", 
+            "long": "17.93607"
+        }, 
+        {
+            "lat": "41.11006", 
+            "name": "Bitonto", 
+            "long": "16.69086"
+        }, 
+        {
+            "lat": "41.24106", 
+            "name": "Bisceglie", 
+            "long": "16.49492"
+        }, 
+        {
+            "lat": "41.31429", 
+            "name": "Barletta", 
+            "long": "16.28165"
+        }, 
+        {
+            "lat": "41.11148", 
+            "name": "Bari", 
+            "long": "16.8554"
+        }, 
+        {
+            "lat": "41.23117", 
+            "name": "Andria", 
+            "long": "16.29797"
+        }, 
+        {
+            "lat": "40.82664", 
+            "name": "Altamura", 
+            "long": "16.54952"
+        }, 
+        {
+            "lat": "41.0033", 
+            "name": "Adelfia", 
+            "long": "16.87208"
+        }, 
+        {
+            "lat": "40.89704", 
+            "name": "Acquaviva delle Fonti", 
+            "long": "16.8433"
+        }, 
+        {
+            "lat": "41.12476", 
+            "name": "San Paolo", 
+            "long": "16.79258"
+        }, 
+        {
+            "lat": "40.52218", 
+            "name": "Paolo VI", 
+            "long": "17.27401"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "45.32163", 
+            "name": "Vercelli", 
+            "long": "8.41989"
+        }, 
+        {
+            "lat": "45.12597", 
+            "name": "Venaria Reale", 
+            "long": "7.63136"
+        }, 
+        {
+            "lat": "45.01335", 
+            "name": "Valenza", 
+            "long": "8.63621"
+        }, 
+        {
+            "lat": "45.43399", 
+            "name": "Trecate", 
+            "long": "8.7364"
+        }, 
+        {
+            "lat": "44.89784", 
+            "name": "Tortona", 
+            "long": "8.86374"
+        }, 
+        {
+            "lat": "45.07049", 
+            "name": "Turin", 
+            "long": "7.68682"
+        }, 
+        {
+            "lat": "45.14072", 
+            "name": "Settimo Torinese", 
+            "long": "7.76376"
+        }, 
+        {
+            "lat": "44.64808", 
+            "name": "Savigliano", 
+            "long": "7.65677"
+        }, 
+        {
+            "lat": "45.10359", 
+            "name": "San Mauro Torinese", 
+            "long": "7.76803"
+        }, 
+        {
+            "lat": "45.07021", 
+            "name": "Rivoli", 
+            "long": "7.52658"
+        }, 
+        {
+            "lat": "44.98802", 
+            "name": "Piossasco", 
+            "long": "7.4601"
+        }, 
+        {
+            "lat": "44.88534", 
+            "name": "Pinerolo", 
+            "long": "7.33135"
+        }, 
+        {
+            "lat": "45.00547", 
+            "name": "Orbassano", 
+            "long": "7.53813"
+        }, 
+        {
+            "lat": "44.76459", 
+            "name": "Novi Ligure", 
+            "long": "8.78981"
+        }, 
+        {
+            "lat": "45.44834", 
+            "name": "Novara", 
+            "long": "8.62328"
+        }, 
+        {
+            "lat": "44.99313", 
+            "name": "Nichelino", 
+            "long": "7.64135"
+        }, 
+        {
+            "lat": "44.39603", 
+            "name": "Mondov&#236;", 
+            "long": "7.81764"
+        }, 
+        {
+            "lat": "45.0031", 
+            "name": "Moncalieri", 
+            "long": "7.69202"
+        }, 
+        {
+            "lat": "45.46723", 
+            "name": "Ivrea", 
+            "long": "7.87617"
+        }, 
+        {
+            "lat": "45.93778", 
+            "name": "Pallanza-Intra-Suna", 
+            "long": "8.57088"
+        }, 
+        {
+            "lat": "45.05837", 
+            "name": "Grugliasco", 
+            "long": "7.58458"
+        }, 
+        {
+            "lat": "44.55077", 
+            "name": "Fossano", 
+            "long": "7.71922"
+        }, 
+        {
+            "lat": "46.1165", 
+            "name": "Domodossola", 
+            "long": "8.29313"
+        }, 
+        {
+            "lat": "44.39071", 
+            "name": "Cuneo", 
+            "long": "7.54828"
+        }, 
+        {
+            "lat": "45.07919", 
+            "name": "Collegno", 
+            "long": "7.57832"
+        }, 
+        {
+            "lat": "45.22673", 
+            "name": "Ciri&#232;", 
+            "long": "7.5998"
+        }, 
+        {
+            "lat": "45.19418", 
+            "name": "Chivasso", 
+            "long": "7.90055"
+        }, 
+        {
+            "lat": "45.01054", 
+            "name": "Chieri", 
+            "long": "7.82133"
+        }, 
+        {
+            "lat": "45.13338", 
+            "name": "Casale Monferrato", 
+            "long": "8.4525"
+        }, 
+        {
+            "lat": "44.84963", 
+            "name": "Carmagnola", 
+            "long": "7.72032"
+        }, 
+        {
+            "lat": "44.69944", 
+            "name": "Bra", 
+            "long": "7.84979"
+        }, 
+        {
+            "lat": "45.69879", 
+            "name": "Borgomanero", 
+            "long": "8.46823"
+        }, 
+        {
+            "lat": "45.5663", 
+            "name": "Biella", 
+            "long": "8.05499"
+        }, 
+        {
+            "lat": "44.90162", 
+            "name": "Asti", 
+            "long": "8.20751"
+        }, 
+        {
+            "lat": "45.09964", 
+            "name": "Alpignano", 
+            "long": "7.52199"
+        }, 
+        {
+            "lat": "44.90924", 
+            "name": "Alessandria", 
+            "long": "8.61007"
+        }, 
+        {
+            "lat": "44.6999", 
+            "name": "Alba", 
+            "long": "8.0347"
+        }, 
+        {
+            "lat": "44.67508", 
+            "name": "Acqui Terme", 
+            "long": "8.46476"
+        }, 
+        {
+            "lat": "45.92136", 
+            "name": "Verbania", 
+            "long": "8.55183"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "36.95151", 
+            "name": "Vittoria", 
+            "long": "14.52788"
+        }, 
+        {
+            "lat": "38.07789", 
+            "name": "Villabate", 
+            "long": "13.44275"
+        }, 
+        {
+            "lat": "38.01391", 
+            "name": "Trapani", 
+            "long": "12.54127"
+        }, 
+        {
+            "lat": "37.98225", 
+            "name": "Termini Imerese", 
+            "long": "13.69729"
+        }, 
+        {
+            "lat": "37.08415", 
+            "name": "Siracusa", 
+            "long": "15.27628"
+        }, 
+        {
+            "lat": "37.29548", 
+            "name": "Scordia", 
+            "long": "14.84058"
+        }, 
+        {
+            "lat": "36.78831", 
+            "name": "Scicli", 
+            "long": "14.69883"
+        }, 
+        {
+            "lat": "37.50693", 
+            "name": "Sciacca", 
+            "long": "13.08399"
+        }, 
+        {
+            "lat": "37.5769", 
+            "name": "San Giovanni la Punta", 
+            "long": "15.09371"
+        }, 
+        {
+            "lat": "37.48412", 
+            "name": "San Cataldo", 
+            "long": "13.98542"
+        }, 
+        {
+            "lat": "36.82438", 
+            "name": "Rosolini", 
+            "long": "14.94893"
+        }, 
+        {
+            "lat": "37.49773", 
+            "name": "Ribera", 
+            "long": "13.26676"
+        }, 
+        {
+            "lat": "36.89639", 
+            "name": "Ragusa", 
+            "long": "14.70689"
+        }, 
+        {
+            "lat": "36.73028", 
+            "name": "Pozzallo", 
+            "long": "14.84672"
+        }, 
+        {
+            "lat": "37.29117", 
+            "name": "Porto Empedocle", 
+            "long": "13.5161"
+        }, 
+        {
+            "lat": "37.38417", 
+            "name": "Piazza Armerina", 
+            "long": "14.36921"
+        }, 
+        {
+            "lat": "37.56675", 
+            "name": "Patern&#242;", 
+            "long": "14.90254"
+        }, 
+        {
+            "lat": "38.04822", 
+            "name": "Partinico", 
+            "long": "13.11915"
+        }, 
+        {
+            "lat": "37.19066", 
+            "name": "Palma di Montechiaro", 
+            "long": "13.76603"
+        }, 
+        {
+            "lat": "38.13205", 
+            "name": "Palermo", 
+            "long": "13.33561"
+        }, 
+        {
+            "lat": "37.32955", 
+            "name": "Palagonia", 
+            "long": "14.74474"
+        }, 
+        {
+            "lat": "36.71703", 
+            "name": "Pachino", 
+            "long": "15.09062"
+        }, 
+        {
+            "lat": "36.89244", 
+            "name": "Noto", 
+            "long": "15.06977"
+        }, 
+        {
+            "lat": "37.14649", 
+            "name": "Niscemi", 
+            "long": "14.39381"
+        }, 
+        {
+            "lat": "38.07665", 
+            "name": "Monreale", 
+            "long": "13.29319"
+        }, 
+        {
+            "lat": "36.8499", 
+            "name": "Modica", 
+            "long": "14.76976"
+        }, 
+        {
+            "lat": "37.51563", 
+            "name": "Misterbianco", 
+            "long": "15.02999"
+        }, 
+        {
+            "lat": "38.02776", 
+            "name": "Misilmeri", 
+            "long": "13.45047"
+        }, 
+        {
+            "lat": "38.2096", 
+            "name": "Milazzo", 
+            "long": "15.24078"
+        }, 
+        {
+            "lat": "38.19394", 
+            "name": "Messina", 
+            "long": "15.55256"
+        }, 
+        {
+            "lat": "37.65418", 
+            "name": "Mazara del Vallo", 
+            "long": "12.59304"
+        }, 
+        {
+            "lat": "37.58834", 
+            "name": "Mascalucia", 
+            "long": "15.03998"
+        }, 
+        {
+            "lat": "37.86736", 
+            "name": "Marsala", 
+            "long": "12.4983"
+        }, 
+        {
+            "lat": "37.10837", 
+            "name": "Licata", 
+            "long": "13.94487"
+        }, 
+        {
+            "lat": "37.28929", 
+            "name": "Lentini", 
+            "long": "14.99644"
+        }, 
+        {
+            "lat": "37.72", 
+            "name": "Giarre", 
+            "long": "15.17584"
+        }, 
+        {
+            "lat": "37.0757", 
+            "name": "Gela", 
+            "long": "14.23704"
+        }, 
+        {
+            "lat": "37.08507", 
+            "name": "Floridia", 
+            "long": "15.15414"
+        }, 
+        {
+            "lat": "37.31754", 
+            "name": "Favara", 
+            "long": "13.66226"
+        }, 
+        {
+            "lat": "37.5577", 
+            "name": "Enna", 
+            "long": "14.28551"
+        }, 
+        {
+            "lat": "36.95587", 
+            "name": "Comiso", 
+            "long": "14.60112"
+        }, 
+        {
+            "lat": "37.49223", 
+            "name": "Catania", 
+            "long": "15.07041"
+        }, 
+        {
+            "lat": "37.68081", 
+            "name": "Castelvetrano", 
+            "long": "12.79194"
+        }, 
+        {
+            "lat": "38.15535", 
+            "name": "Carini", 
+            "long": "13.18102"
+        }, 
+        {
+            "lat": "37.35842", 
+            "name": "Canicatt&#236;", 
+            "long": "13.84786"
+        }, 
+        {
+            "lat": "37.48997", 
+            "name": "Caltanissetta", 
+            "long": "14.05163"
+        }, 
+        {
+            "lat": "37.21609", 
+            "name": "Caltagirone", 
+            "long": "14.51762"
+        }, 
+        {
+            "lat": "37.78863", 
+            "name": "Bronte", 
+            "long": "14.83377"
+        }, 
+        {
+            "lat": "37.64442", 
+            "name": "Biancavilla", 
+            "long": "14.86685"
+        }, 
+        {
+            "lat": "37.59192", 
+            "name": "Belpasso", 
+            "long": "14.97985"
+        }, 
+        {
+            "lat": "38.15697", 
+            "name": "Barcellona Pozzo di Gotto", 
+            "long": "15.21276"
+        }, 
+        {
+            "lat": "38.07892", 
+            "name": "Bagheria", 
+            "long": "13.51237"
+        }, 
+        {
+            "lat": "36.9084", 
+            "name": "Avola", 
+            "long": "15.13937"
+        }, 
+        {
+            "lat": "37.25784", 
+            "name": "Augusta", 
+            "long": "15.23257"
+        }, 
+        {
+            "lat": "37.99724", 
+            "name": "Alcamo", 
+            "long": "12.94323"
+        }, 
+        {
+            "lat": "37.32744", 
+            "name": "Agrigento", 
+            "long": "13.59351"
+        }, 
+        {
+            "lat": "37.66765", 
+            "name": "Adrano", 
+            "long": "14.83751"
+        }, 
+        {
+            "lat": "37.62606", 
+            "name": "Acireale", 
+            "long": "15.16325"
+        }, 
+        {
+            "lat": "37.59596", 
+            "name": "Aci Catena", 
+            "long": "15.13981"
+        }, 
+        {
+            "lat": "37.55564", 
+            "name": "Aci Castello", 
+            "long": "15.14535"
+        }, 
+        {
+            "lat": "37.56085", 
+            "name": "Gravina di Catania", 
+            "long": "15.06292"
+        }, 
+        {
+            "lat": "38.02739", 
+            "name": "Casa Santa", 
+            "long": "12.55146"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "39.30286", 
+            "name": "Sinnai", 
+            "long": "9.20283"
+        }, 
+        {
+            "lat": "39.29846", 
+            "name": "Sestu", 
+            "long": "9.09248"
+        }, 
+        {
+            "lat": "39.25779", 
+            "name": "Selargius", 
+            "long": "9.16323"
+        }, 
+        {
+            "lat": "39.22935", 
+            "name": "Quartu Sant'Elena", 
+            "long": "9.25004"
+        }, 
+        {
+            "lat": "39.89957", 
+            "name": "Oristano", 
+            "long": "8.59326"
+        }, 
+        {
+            "lat": "39.25974", 
+            "name": "Monserrato", 
+            "long": "9.1384"
+        }, 
+        {
+            "lat": "39.3092", 
+            "name": "Iglesias", 
+            "long": "8.5372"
+        }, 
+        {
+            "lat": "39.16465", 
+            "name": "Carbonia", 
+            "long": "8.5213"
+        }, 
+        {
+            "lat": "39.23054", 
+            "name": "Cagliari", 
+            "long": "9.11917"
+        }, 
+        {
+            "lat": "39.28982", 
+            "name": "Assemini", 
+            "long": "9.00366"
+        }, 
+        {
+            "lat": "40.72787", 
+            "name": "Sassari", 
+            "long": "8.55037"
+        }, 
+        {
+            "lat": "40.83126", 
+            "name": "Porto Torres", 
+            "long": "8.37519"
+        }, 
+        {
+            "lat": "40.92334", 
+            "name": "Olbia", 
+            "long": "9.50395"
+        }, 
+        {
+            "lat": "40.31949", 
+            "name": "Nuoro", 
+            "long": "9.31394"
+        }, 
+        {
+            "lat": "40.56541", 
+            "name": "Alghero", 
+            "long": "8.32092"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "40.91866", 
+            "name": "Villaricca", 
+            "long": "14.18109"
+        }, 
+        {
+            "lat": "40.97517", 
+            "name": "Trentola-Ducenta", 
+            "long": "14.1749"
+        }, 
+        {
+            "lat": "40.77939", 
+            "name": "Torre del Greco", 
+            "long": "14.39782"
+        }, 
+        {
+            "lat": "40.75011", 
+            "name": "Torre Annunziata", 
+            "long": "14.45886"
+        }, 
+        {
+            "lat": "40.804", 
+            "name": "Terzigno", 
+            "long": "14.49309"
+        }, 
+        {
+            "lat": "40.88094", 
+            "name": "Somma Vesuviana", 
+            "long": "14.44262"
+        }, 
+        {
+            "lat": "40.75766", 
+            "name": "Scafati", 
+            "long": "14.52919"
+        }, 
+        {
+            "lat": "40.80748", 
+            "name": "Sarno", 
+            "long": "14.62151"
+        }, 
+        {
+            "lat": "40.72152", 
+            "name": "Sant'Antonio Abate", 
+            "long": "14.54021"
+        }, 
+        {
+            "lat": "40.94223", 
+            "name": "Sant'Antimo", 
+            "long": "14.23476"
+        }, 
+        {
+            "lat": "40.87258", 
+            "name": "Sant'Anastasia", 
+            "long": "14.39744"
+        }, 
+        {
+            "lat": "41.08156", 
+            "name": "Santa Maria Capua Vetere", 
+            "long": "14.25342"
+        }, 
+        {
+            "lat": "40.83034", 
+            "name": "San Giuseppe Vesuviano", 
+            "long": "14.50342"
+        }, 
+        {
+            "lat": "40.83369", 
+            "name": "San Giorgio a Cremano", 
+            "long": "14.33894"
+        }, 
+        {
+            "lat": "40.67545", 
+            "name": "Salerno", 
+            "long": "14.79328"
+        }, 
+        {
+            "lat": "40.92269", 
+            "name": "Qualiano", 
+            "long": "14.14844"
+        }, 
+        {
+            "lat": "40.82767", 
+            "name": "Pozzuoli", 
+            "long": "14.15321"
+        }, 
+        {
+            "lat": "40.81563", 
+            "name": "Portici", 
+            "long": "14.33716"
+        }, 
+        {
+            "lat": "40.74574", 
+            "name": "Pompei", 
+            "long": "14.49698"
+        }, 
+        {
+            "lat": "40.90796", 
+            "name": "Pomigliano d'Arco", 
+            "long": "14.38493"
+        }, 
+        {
+            "lat": "40.80311", 
+            "name": "Poggiomarino", 
+            "long": "14.53904"
+        }, 
+        {
+            "lat": "40.74989", 
+            "name": "Pagani", 
+            "long": "14.6098"
+        }, 
+        {
+            "lat": "40.84985", 
+            "name": "Ottaviano", 
+            "long": "14.49341"
+        }, 
+        {
+            "lat": "40.92606", 
+            "name": "Nola", 
+            "long": "14.52816"
+        }, 
+        {
+            "lat": "40.74217", 
+            "name": "Nocera Superiore", 
+            "long": "14.67564"
+        }, 
+        {
+            "lat": "40.75448", 
+            "name": "Nocera Inferiore", 
+            "long": "14.63919"
+        }, 
+        {
+            "lat": "40.85631", 
+            "name": "Napoli", 
+            "long": "14.24641"
+        }, 
+        {
+            "lat": "40.90936", 
+            "name": "Mugnano di Napoli", 
+            "long": "14.20984"
+        }, 
+        {
+            "lat": "41.11733", 
+            "name": "Mondragone", 
+            "long": "13.8875"
+        }, 
+        {
+            "lat": "40.91948", 
+            "name": "Melito di Napoli", 
+            "long": "14.23104"
+        }, 
+        {
+            "lat": "40.922", 
+            "name": "Marigliano", 
+            "long": "14.45412"
+        }, 
+        {
+            "lat": "41.03064", 
+            "name": "Marcianise", 
+            "long": "14.29868"
+        }, 
+        {
+            "lat": "40.89601", 
+            "name": "Marano di Napoli", 
+            "long": "14.17476"
+        }, 
+        {
+            "lat": "41.03578", 
+            "name": "Maddaloni", 
+            "long": "14.3823"
+        }, 
+        {
+            "lat": "40.73913", 
+            "name": "Ischia Porto", 
+            "long": "13.951"
+        }, 
+        {
+            "lat": "40.73793", 
+            "name": "Ischia", 
+            "long": "13.94862"
+        }, 
+        {
+            "lat": "40.93591", 
+            "name": "Grumo Nevano", 
+            "long": "14.25983"
+        }, 
+        {
+            "lat": "40.69572", 
+            "name": "Gragnano", 
+            "long": "14.51545"
+        }, 
+        {
+            "lat": "40.93188", 
+            "name": "Giugliano in Campania", 
+            "long": "14.19557"
+        }, 
+        {
+            "lat": "40.9558", 
+            "name": "Frattaminore", 
+            "long": "14.27201"
+        }, 
+        {
+            "lat": "40.93971", 
+            "name": "Frattamaggiore", 
+            "long": "14.27329"
+        }, 
+        {
+            "lat": "40.70876", 
+            "name": "Forio", 
+            "long": "13.8649"
+        }, 
+        {
+            "lat": "40.8138", 
+            "name": "Ercolano", 
+            "long": "14.36382"
+        }, 
+        {
+            "lat": "40.61423", 
+            "name": "Eboli", 
+            "long": "15.05998"
+        }, 
+        {
+            "lat": "40.86043", 
+            "name": "Cercola", 
+            "long": "14.35733"
+        }, 
+        {
+            "lat": "40.70091", 
+            "name": "Cava D&#232; Tirreni", 
+            "long": "14.70564"
+        }, 
+        {
+            "lat": "41.01161", 
+            "name": "Castel Volturno", 
+            "long": "13.9561"
+        }, 
+        {
+            "lat": "40.70805", 
+            "name": "Castellammare di Stabia", 
+            "long": "14.48597"
+        }, 
+        {
+            "lat": "40.90906", 
+            "name": "Casoria", 
+            "long": "14.29363"
+        }, 
+        {
+            "lat": "41.07619", 
+            "name": "Caserta", 
+            "long": "14.34002"
+        }, 
+        {
+            "lat": "40.90834", 
+            "name": "Casalnuovo di Napoli", 
+            "long": "14.34993"
+        }, 
+        {
+            "lat": "41.01142", 
+            "name": "Casal di Principe", 
+            "long": "14.12346"
+        }, 
+        {
+            "lat": "40.93619", 
+            "name": "Cardito", 
+            "long": "14.29925"
+        }, 
+        {
+            "lat": "41.10519", 
+            "name": "Capua", 
+            "long": "14.21269"
+        }, 
+        {
+            "lat": "40.95753", 
+            "name": "Caivano", 
+            "long": "14.30591"
+        }, 
+        {
+            "lat": "40.92237", 
+            "name": "Brusciano", 
+            "long": "14.42386"
+        }, 
+        {
+            "lat": "40.77408", 
+            "name": "Boscoreale", 
+            "long": "14.50708"
+        }, 
+        {
+            "lat": "41.1256", 
+            "name": "Benevento", 
+            "long": "14.78101"
+        }, 
+        {
+            "lat": "40.6045", 
+            "name": "Battipaglia", 
+            "long": "14.9876"
+        }, 
+        {
+            "lat": "40.81322", 
+            "name": "Bagnoli", 
+            "long": "14.16807"
+        }, 
+        {
+            "lat": "40.79926", 
+            "name": "Bacoli", 
+            "long": "14.07846"
+        }, 
+        {
+            "lat": "40.97259", 
+            "name": "Aversa", 
+            "long": "14.20745"
+        }, 
+        {
+            "lat": "40.92033", 
+            "name": "Avellino", 
+            "long": "14.79652"
+        }, 
+        {
+            "lat": "40.91353", 
+            "name": "Arzano", 
+            "long": "14.26741"
+        }, 
+        {
+            "lat": "40.74066", 
+            "name": "Angri", 
+            "long": "14.56936"
+        }, 
+        {
+            "lat": "40.35183", 
+            "name": "Agropoli", 
+            "long": "14.99988"
+        }, 
+        {
+            "lat": "40.9242", 
+            "name": "Afragola", 
+            "long": "14.31323"
+        }, 
+        {
+            "lat": "40.94744", 
+            "name": "Acerra", 
+            "long": "14.37261"
+        }, 
+        {
+            "lat": "41.00581", 
+            "name": "San Felice A Cancello", 
+            "long": "14.45583"
+        }, 
+        {
+            "lat": "41.06073", 
+            "name": "San Nicola la Strada", 
+            "long": "14.3348"
+        }, 
+        {
+            "lat": "40.88088", 
+            "name": "Quarto", 
+            "long": "14.11436"
+        }, 
+        {
+            "lat": "40.96651", 
+            "name": "Orta di Atella", 
+            "long": "14.26803"
+        }, 
+        {
+            "lat": "40.89921", 
+            "name": "Casavatore", 
+            "long": "14.27663"
+        }, 
+        {
+            "lat": "40.87363", 
+            "name": "Volla", 
+            "long": "14.34085"
+        }, 
+        {
+            "lat": "40.86626", 
+            "name": "Monterusciello", 
+            "long": "14.07582"
+        }, 
+        {
+            "lat": "40.88882", 
+            "name": "Arpino", 
+            "long": "14.32015"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "44.48967", 
+            "name": "Zola Predosa", 
+            "long": "11.21831"
+        }, 
+        {
+            "lat": "44.48758", 
+            "name": "Vignola", 
+            "long": "11.0058"
+        }, 
+        {
+            "lat": "44.54826", 
+            "name": "Sassuolo", 
+            "long": "10.78962"
+        }, 
+        {
+            "lat": "44.46777", 
+            "name": "San Lazzaro", 
+            "long": "11.41401"
+        }, 
+        {
+            "lat": "44.63838", 
+            "name": "San Giovanni in Persiceto", 
+            "long": "11.18419"
+        }, 
+        {
+            "lat": "44.81592", 
+            "name": "Salsomaggiore Terme", 
+            "long": "9.98637"
+        }, 
+        {
+            "lat": "44.05755", 
+            "name": "Rimini", 
+            "long": "12.56528"
+        }, 
+        {
+            "lat": "43.99942", 
+            "name": "Riccione", 
+            "long": "12.65689"
+        }, 
+        {
+            "lat": "44.69825", 
+            "name": "Reggio nell'Emilia", 
+            "long": "10.63125"
+        }, 
+        {
+            "lat": "44.41344", 
+            "name": "Ravenna", 
+            "long": "12.20121"
+        }, 
+        {
+            "lat": "45.04202", 
+            "name": "Piacenza", 
+            "long": "9.70462"
+        }, 
+        {
+            "lat": "44.79935", 
+            "name": "Parma", 
+            "long": "10.32618"
+        }, 
+        {
+            "lat": "44.64783", 
+            "name": "Modena", 
+            "long": "10.92539"
+        }, 
+        {
+            "lat": "44.88515", 
+            "name": "Mirandola", 
+            "long": "11.06902"
+        }, 
+        {
+            "lat": "44.42277", 
+            "name": "Lugo", 
+            "long": "11.90817"
+        }, 
+        {
+            "lat": "44.35916", 
+            "name": "Imola", 
+            "long": "11.7132"
+        }, 
+        {
+            "lat": "44.57677", 
+            "name": "Formigine", 
+            "long": "10.84544"
+        }, 
+        {
+            "lat": "44.22054", 
+            "name": "Forl&#236;", 
+            "long": "12.05245"
+        }, 
+        {
+            "lat": "44.54346", 
+            "name": "Fiorano", 
+            "long": "10.83085"
+        }, 
+        {
+            "lat": "44.86223", 
+            "name": "Fidenza", 
+            "long": "10.06546"
+        }, 
+        {
+            "lat": "44.84346", 
+            "name": "Ferrara", 
+            "long": "11.60868"
+        }, 
+        {
+            "lat": "44.2857", 
+            "name": "Faenza", 
+            "long": "11.88334"
+        }, 
+        {
+            "lat": "44.76737", 
+            "name": "Correggio", 
+            "long": "10.78345"
+        }, 
+        {
+            "lat": "44.19987", 
+            "name": "Cesenatico", 
+            "long": "12.3991"
+        }, 
+        {
+            "lat": "44.1391", 
+            "name": "Cesena", 
+            "long": "12.24315"
+        }, 
+        {
+            "lat": "44.26204", 
+            "name": "Cervia", 
+            "long": "12.34812"
+        }, 
+        {
+            "lat": "44.73099", 
+            "name": "Cento", 
+            "long": "11.28716"
+        }, 
+        {
+            "lat": "43.96182", 
+            "name": "Cattolica", 
+            "long": "12.73631"
+        }, 
+        {
+            "lat": "44.57707", 
+            "name": "Castel Maggiore", 
+            "long": "11.36071"
+        }, 
+        {
+            "lat": "44.59445", 
+            "name": "Castelfranco Emilia", 
+            "long": "11.04979"
+        }, 
+        {
+            "lat": "44.47563", 
+            "name": "Casalecchio di Reno", 
+            "long": "11.27495"
+        }, 
+        {
+            "lat": "44.78237", 
+            "name": "Carpi Centro", 
+            "long": "10.8777"
+        }, 
+        {
+            "lat": "44.49381", 
+            "name": "Bologna", 
+            "long": "11.33875"
+        }, 
+        {
+            "lat": "44.14212", 
+            "name": "Bellaria-Igea Marina", 
+            "long": "12.47"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "46.0637", 
+            "name": "Udine", 
+            "long": "13.24458"
+        }, 
+        {
+            "lat": "45.64325", 
+            "name": "Trieste", 
+            "long": "13.7903"
+        }, 
+        {
+            "lat": "45.95412", 
+            "name": "Sacile", 
+            "long": "12.50274"
+        }, 
+        {
+            "lat": "45.95689", 
+            "name": "Pordenone", 
+            "long": "12.66051"
+        }, 
+        {
+            "lat": "45.80052", 
+            "name": "Monfalcone", 
+            "long": "13.53777"
+        }, 
+        {
+            "lat": "45.94088", 
+            "name": "Gorizia", 
+            "long": "13.62167"
+        }, 
+        {
+            "lat": "45.9836", 
+            "name": "Cordenons", 
+            "long": "12.70038"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "42.56184", 
+            "name": "Terni", 
+            "long": "12.63667"
+        }, 
+        {
+            "lat": "42.75649", 
+            "name": "Spoleto", 
+            "long": "12.72051"
+        }, 
+        {
+            "lat": "43.1122", 
+            "name": "Perugia", 
+            "long": "12.38878"
+        }, 
+        {
+            "lat": "42.95324", 
+            "name": "Foligno", 
+            "long": "12.70664"
+        }, 
+        {
+            "lat": "43.46556", 
+            "name": "Citt&#224; di Castello", 
+            "long": "12.2375"
+        }, 
+        {
+            "lat": "43.06425", 
+            "name": "Bastia umbra", 
+            "long": "12.54612"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "43.78956", 
+            "name": "Ventimiglia", 
+            "long": "7.60872"
+        }, 
+        {
+            "lat": "44.27317", 
+            "name": "Sestri Levante", 
+            "long": "9.39683"
+        }, 
+        {
+            "lat": "44.30905", 
+            "name": "Savona", 
+            "long": "8.47715"
+        }, 
+        {
+            "lat": "44.11045", 
+            "name": "Sarzana", 
+            "long": "9.96541"
+        }, 
+        {
+            "lat": "43.81725", 
+            "name": "San Remo", 
+            "long": "7.7772"
+        }, 
+        {
+            "lat": "44.3496", 
+            "name": "Rapallo", 
+            "long": "9.22796"
+        }, 
+        {
+            "lat": "44.11096", 
+            "name": "La Spezia", 
+            "long": "9.83632"
+        }, 
+        {
+            "lat": "43.8875", 
+            "name": "Imperia", 
+            "long": "8.03083"
+        }, 
+        {
+            "lat": "44.4264", 
+            "name": "Genoa", 
+            "long": "8.91519"
+        }, 
+        {
+            "lat": "44.31771", 
+            "name": "Chiavari", 
+            "long": "9.32241"
+        }, 
+        {
+            "lat": "44.04997", 
+            "name": "Albenga", 
+            "long": "8.21829"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "44.99467", 
+            "name": "Voghera", 
+            "long": "9.00862"
+        }, 
+        {
+            "lat": "45.51461", 
+            "name": "Vimodrone", 
+            "long": "9.28772"
+        }, 
+        {
+            "lat": "45.61545", 
+            "name": "Vimercate", 
+            "long": "9.36801"
+        }, 
+        {
+            "lat": "45.31407", 
+            "name": "Vigevano", 
+            "long": "8.85437"
+        }, 
+        {
+            "lat": "45.81934", 
+            "name": "Varese", 
+            "long": "8.82223"
+        }, 
+        {
+            "lat": "45.42212", 
+            "name": "Trezzano sul Naviglio", 
+            "long": "9.06342"
+        }, 
+        {
+            "lat": "45.52081", 
+            "name": "Treviglio", 
+            "long": "9.59102"
+        }, 
+        {
+            "lat": "45.70843", 
+            "name": "Tradate", 
+            "long": "8.90763"
+        }, 
+        {
+            "lat": "44.99266", 
+            "name": "Suzzara", 
+            "long": "10.74941"
+        }, 
+        {
+            "lat": "46.16852", 
+            "name": "Sondrio", 
+            "long": "9.87134"
+        }, 
+        {
+            "lat": "45.64399", 
+            "name": "Seveso", 
+            "long": "9.14838"
+        }, 
+        {
+            "lat": "45.53449", 
+            "name": "Sesto San Giovanni", 
+            "long": "9.23401"
+        }, 
+        {
+            "lat": "45.68225", 
+            "name": "Seriate", 
+            "long": "9.72715"
+        }, 
+        {
+            "lat": "45.65002", 
+            "name": "Seregno", 
+            "long": "9.20548"
+        }, 
+        {
+            "lat": "45.57562", 
+            "name": "Senago", 
+            "long": "9.1262"
+        }, 
+        {
+            "lat": "45.49624", 
+            "name": "Segrate", 
+            "long": "9.29323"
+        }, 
+        {
+            "lat": "45.62513", 
+            "name": "Saronno", 
+            "long": "9.03517"
+        }, 
+        {
+            "lat": "45.65192", 
+            "name": "San Sebastiano", 
+            "long": "10.25681"
+        }, 
+        {
+            "lat": "45.39574", 
+            "name": "San Giuliano Milanese", 
+            "long": "9.28757"
+        }, 
+        {
+            "lat": "45.4199", 
+            "name": "San Donato Milanese", 
+            "long": "9.26628"
+        }, 
+        {
+            "lat": "45.38544", 
+            "name": "Rozzano", 
+            "long": "9.16088"
+        }, 
+        {
+            "lat": "45.52184", 
+            "name": "Romano di Lombardia", 
+            "long": "9.75233"
+        }, 
+        {
+            "lat": "45.52812", 
+            "name": "Rho", 
+            "long": "9.05182"
+        }, 
+        {
+            "lat": "45.50502", 
+            "name": "Pioltello", 
+            "long": "9.33151"
+        }, 
+        {
+            "lat": "45.19205", 
+            "name": "Pavia", 
+            "long": "9.15917"
+        }, 
+        {
+            "lat": "45.55405", 
+            "name": "Parabiago", 
+            "long": "8.94838"
+        }, 
+        {
+            "lat": "45.59816", 
+            "name": "Palazzolo sull'Oglio", 
+            "long": "9.8942"
+        }, 
+        {
+            "lat": "45.56899", 
+            "name": "Paderno Dugnano", 
+            "long": "9.16483"
+        }, 
+        {
+            "lat": "45.5305", 
+            "name": "Novate Milanese", 
+            "long": "9.13954"
+        }, 
+        {
+            "lat": "45.58882", 
+            "name": "Nova Milanese", 
+            "long": "9.19792"
+        }, 
+        {
+            "lat": "45.55343", 
+            "name": "Nerviano", 
+            "long": "8.9792"
+        }, 
+        {
+            "lat": "45.58878", 
+            "name": "Muggi&#242;", 
+            "long": "9.22784"
+        }, 
+        {
+            "lat": "45.58005", 
+            "name": "Monza", 
+            "long": "9.27246"
+        }, 
+        {
+            "lat": "45.41317", 
+            "name": "Montichiari", 
+            "long": "10.39799"
+        }, 
+        {
+            "lat": "45.46427", 
+            "name": "Milano", 
+            "long": "9.18951"
+        }, 
+        {
+            "lat": "45.4981", 
+            "name": "Melzo", 
+            "long": "9.42043"
+        }, 
+        {
+            "lat": "45.35781", 
+            "name": "Melegnano", 
+            "long": "9.3236"
+        }, 
+        {
+            "lat": "45.66115", 
+            "name": "Meda", 
+            "long": "9.15928"
+        }, 
+        {
+            "lat": "45.69092", 
+            "name": "Mariano Comense", 
+            "long": "9.18243"
+        }, 
+        {
+            "lat": "45.16031", 
+            "name": "Mantova", 
+            "long": "10.79784"
+        }, 
+        {
+            "lat": "45.79377", 
+            "name": "Malnate", 
+            "long": "8.88104"
+        }, 
+        {
+            "lat": "45.46279", 
+            "name": "Magenta", 
+            "long": "8.87915"
+        }, 
+        {
+            "lat": "45.30989", 
+            "name": "Lodi", 
+            "long": "9.50085"
+        }, 
+        {
+            "lat": "45.61236", 
+            "name": "Lissone", 
+            "long": "9.23985"
+        }, 
+        {
+            "lat": "45.60016", 
+            "name": "Limbiate", 
+            "long": "9.12833"
+        }, 
+        {
+            "lat": "45.5947", 
+            "name": "Legnano", 
+            "long": "8.91355"
+        }, 
+        {
+            "lat": "45.85317", 
+            "name": "Lecco", 
+            "long": "9.39005"
+        }, 
+        {
+            "lat": "45.57176", 
+            "name": "Lainate", 
+            "long": "9.02681"
+        }, 
+        {
+            "lat": "45.53069", 
+            "name": "Gorgonzola", 
+            "long": "9.40531"
+        }, 
+        {
+            "lat": "45.69066", 
+            "name": "Giussano", 
+            "long": "9.20886"
+        }, 
+        {
+            "lat": "45.40335", 
+            "name": "Ghedi", 
+            "long": "10.27748"
+        }, 
+        {
+            "lat": "45.57438", 
+            "name": "Garbagnate Milanese", 
+            "long": "9.07537"
+        }, 
+        {
+            "lat": "45.66019", 
+            "name": "Gallarate", 
+            "long": "8.79164"
+        }, 
+        {
+            "lat": "45.8088", 
+            "name": "Erba", 
+            "long": "9.22609"
+        }, 
+        {
+            "lat": "45.61831", 
+            "name": "Desio", 
+            "long": "9.20249"
+        }, 
+        {
+            "lat": "45.46222", 
+            "name": "Desenzano del Garda", 
+            "long": "10.55264"
+        }, 
+        {
+            "lat": "45.64658", 
+            "name": "Dalmine", 
+            "long": "9.60213"
+        }, 
+        {
+            "lat": "45.55187", 
+            "name": "Cusano Milanino", 
+            "long": "9.18373"
+        }, 
+        {
+            "lat": "45.14047", 
+            "name": "Cremona", 
+            "long": "10.02297"
+        }, 
+        {
+            "lat": "45.36264", 
+            "name": "Crema", 
+            "long": "9.68176"
+        }, 
+        {
+            "lat": "45.43099", 
+            "name": "Corsico", 
+            "long": "9.11093"
+        }, 
+        {
+            "lat": "45.49415", 
+            "name": "Cornaredo", 
+            "long": "9.02458"
+        }, 
+        {
+            "lat": "45.54343", 
+            "name": "Cormano", 
+            "long": "9.16652"
+        }, 
+        {
+            "lat": "45.80079", 
+            "name": "Como", 
+            "long": "9.08065"
+        }, 
+        {
+            "lat": "45.53004", 
+            "name": "Cologno Monzese", 
+            "long": "9.27795"
+        }, 
+        {
+            "lat": "45.55646", 
+            "name": "Cinisello Balsamo", 
+            "long": "9.22104"
+        }, 
+        {
+            "lat": "45.53763", 
+            "name": "Chiari", 
+            "long": "9.92699"
+        }, 
+        {
+            "lat": "45.62915", 
+            "name": "Cesano Maderno", 
+            "long": "9.15189"
+        }, 
+        {
+            "lat": "45.52716", 
+            "name": "Cernusco sul Naviglio", 
+            "long": "9.3334"
+        }, 
+        {
+            "lat": "45.3902", 
+            "name": "Castiglione delle Stiviere", 
+            "long": "10.48619"
+        }, 
+        {
+            "lat": "45.52853", 
+            "name": "Cassano d'Adda", 
+            "long": "9.51507"
+        }, 
+        {
+            "lat": "45.67149", 
+            "name": "Carate Brianza", 
+            "long": "9.23576"
+        }, 
+        {
+            "lat": "45.73626", 
+            "name": "Cant&#249;", 
+            "long": "9.13664"
+        }, 
+        {
+            "lat": "45.61128", 
+            "name": "Busto Arsizio", 
+            "long": "8.84914"
+        }, 
+        {
+            "lat": "45.55301", 
+            "name": "Brugherio", 
+            "long": "9.29907"
+        }, 
+        {
+            "lat": "45.53792", 
+            "name": "Bresso", 
+            "long": "9.18921"
+        }, 
+        {
+            "lat": "45.53558", 
+            "name": "Brescia", 
+            "long": "10.21472"
+        }, 
+        {
+            "lat": "45.61019", 
+            "name": "Bovisio-Masciago", 
+            "long": "9.15301"
+        }, 
+        {
+            "lat": "45.54647", 
+            "name": "Bollate", 
+            "long": "9.12054"
+        }, 
+        {
+            "lat": "45.69601", 
+            "name": "Bergamo", 
+            "long": "9.66721"
+        }, 
+        {
+            "lat": "45.47506", 
+            "name": "Bareggio", 
+            "long": "8.9978"
+        }, 
+        {
+            "lat": "45.552", 
+            "name": "Arese", 
+            "long": "9.07265"
+        }, 
+        {
+            "lat": "45.62675", 
+            "name": "Arcore", 
+            "long": "9.32454"
+        }, 
+        {
+            "lat": "45.39821", 
+            "name": "Abbiategrasso", 
+            "long": "8.91678"
+        }, 
+        {
+            "lat": "45.64789", 
+            "name": "Lumezzane", 
+            "long": "10.26487"
+        }, 
+        {
+            "lat": "45.59777", 
+            "name": "Caronno Pertusella", 
+            "long": "9.04634"
+        }, 
+        {
+            "lat": "45.66972", 
+            "name": "Cassano Magnago", 
+            "long": "8.81996"
+        }, 
+        {
+            "lat": "45.44207", 
+            "name": "Cesano Boscone", 
+            "long": "9.09445"
+        }, 
+        {
+            "lat": "45.43546", 
+            "name": "Romano Banco", 
+            "long": "9.1187"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "43.21173", 
+            "name": "Tolentino", 
+            "long": "13.2886"
+        }, 
+        {
+            "lat": "43.71626", 
+            "name": "Senigallia", 
+            "long": "13.20882"
+        }, 
+        {
+            "lat": "42.90805", 
+            "name": "San Benedetto del Tronto", 
+            "long": "13.88276"
+        }, 
+        {
+            "lat": "43.25297", 
+            "name": "Porto Sant'Elpidio", 
+            "long": "13.7597"
+        }, 
+        {
+            "lat": "43.17784", 
+            "name": "Porto San Giorgio", 
+            "long": "13.79411"
+        }, 
+        {
+            "lat": "43.30696", 
+            "name": "Civitanova Marche", 
+            "long": "13.72058"
+        }, 
+        {
+            "lat": "43.90121", 
+            "name": "Pesaro", 
+            "long": "12.895"
+        }, 
+        {
+            "lat": "43.48206", 
+            "name": "Osimo", 
+            "long": "13.48766"
+        }, 
+        {
+            "lat": "43.29789", 
+            "name": "Macerata", 
+            "long": "13.45293"
+        }, 
+        {
+            "lat": "43.52142", 
+            "name": "Jesi", 
+            "long": "13.24368"
+        }, 
+        {
+            "lat": "43.16296", 
+            "name": "Fermo", 
+            "long": "13.72274"
+        }, 
+        {
+            "lat": "43.84052", 
+            "name": "Fano", 
+            "long": "13.01665"
+        }, 
+        {
+            "lat": "43.61548", 
+            "name": "Falconara Marittima", 
+            "long": "13.37463"
+        }, 
+        {
+            "lat": "43.34065", 
+            "name": "Fabriano", 
+            "long": "12.90727"
+        }, 
+        {
+            "lat": "42.85185", 
+            "name": "Ascoli Piceno", 
+            "long": "13.60658"
+        }, 
+        {
+            "lat": "43.5942", 
+            "name": "Ancona", 
+            "long": "13.50337"
+        }, 
+        {
+            "lat": "43.30782", 
+            "name": "Portocivitanova", 
+            "long": "13.73139"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "40.64175", 
+            "name": "Potenza", 
+            "long": "15.80794"
+        }, 
+        {
+            "lat": "40.66983", 
+            "name": "Matera", 
+            "long": "16.59723"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "45.73764", 
+            "name": "Aosta", 
+            "long": "7.31722"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "43.87145", 
+            "name": "Viareggio", 
+            "long": "10.25581"
+        }, 
+        {
+            "lat": "43.32215", 
+            "name": "Siena", 
+            "long": "11.3259"
+        }, 
+        {
+            "lat": "43.83193", 
+            "name": "Sesto Fiorentino", 
+            "long": "11.19924"
+        }, 
+        {
+            "lat": "43.75423", 
+            "name": "Scandicci", 
+            "long": "11.18794"
+        }, 
+        {
+            "lat": "43.69285", 
+            "name": "San Miniato", 
+            "long": "10.7831"
+        }, 
+        {
+            "lat": "43.69403", 
+            "name": "San Miniato Basso", 
+            "long": "10.84522"
+        }, 
+        {
+            "lat": "43.56157", 
+            "name": "San Giovanni Valdarno", 
+            "long": "11.53316"
+        }, 
+        {
+            "lat": "43.38946", 
+            "name": "Rosignano Solvay-Castiglioncello", 
+            "long": "10.43615"
+        }, 
+        {
+            "lat": "43.87309", 
+            "name": "Prato", 
+            "long": "11.08278"
+        }, 
+        {
+            "lat": "43.66141", 
+            "name": "Pontedera", 
+            "long": "10.63067"
+        }, 
+        {
+            "lat": "43.47064", 
+            "name": "Poggibonsi", 
+            "long": "11.14804"
+        }, 
+        {
+            "lat": "43.93064", 
+            "name": "Pistoia", 
+            "long": "10.92365"
+        }, 
+        {
+            "lat": "43.70853", 
+            "name": "Pisa", 
+            "long": "10.4036"
+        }, 
+        {
+            "lat": "42.93347", 
+            "name": "Piombino", 
+            "long": "10.52757"
+        }, 
+        {
+            "lat": "43.94519", 
+            "name": "Pietrasanta", 
+            "long": "10.21827"
+        }, 
+        {
+            "lat": "43.5252", 
+            "name": "Montevarchi", 
+            "long": "11.57238"
+        }, 
+        {
+            "lat": "43.92686", 
+            "name": "Montemurlo", 
+            "long": "11.03718"
+        }, 
+        {
+            "lat": "43.88153", 
+            "name": "Montecatini-Terme", 
+            "long": "10.7723"
+        }, 
+        {
+            "lat": "44.02079", 
+            "name": "Massa", 
+            "long": "10.11869"
+        }, 
+        {
+            "lat": "44.03837", 
+            "name": "Marina di Carrara", 
+            "long": "10.04142"
+        }, 
+        {
+            "lat": "43.8497", 
+            "name": "Lucca", 
+            "long": "10.47234"
+        }, 
+        {
+            "lat": "43.54427", 
+            "name": "Livorno", 
+            "long": "10.32615"
+        }, 
+        {
+            "lat": "42.76871", 
+            "name": "Grosseto", 
+            "long": "11.10955"
+        }, 
+        {
+            "lat": "43.91507", 
+            "name": "Fornacelle", 
+            "long": "11.04071"
+        }, 
+        {
+            "lat": "42.92779", 
+            "name": "Follonica", 
+            "long": "10.76451"
+        }, 
+        {
+            "lat": "43.77925", 
+            "name": "Florence", 
+            "long": "11.24626"
+        }, 
+        {
+            "lat": "43.71946", 
+            "name": "Empoli", 
+            "long": "10.94445"
+        }, 
+        {
+            "lat": "43.41463", 
+            "name": "Colle di Val d'Elsa", 
+            "long": "11.12824"
+        }, 
+        {
+            "lat": "43.30621", 
+            "name": "Cecina", 
+            "long": "10.51729"
+        }, 
+        {
+            "lat": "43.6843", 
+            "name": "Cascina", 
+            "long": "10.50395"
+        }, 
+        {
+            "lat": "44.05405", 
+            "name": "Carrara", 
+            "long": "10.06049"
+        }, 
+        {
+            "lat": "43.8438", 
+            "name": "Capannori", 
+            "long": "10.5691"
+        }, 
+        {
+            "lat": "43.82802", 
+            "name": "Campi Bisenzio", 
+            "long": "11.13527"
+        }, 
+        {
+            "lat": "43.909", 
+            "name": "Camaiore", 
+            "long": "10.25038"
+        }, 
+        {
+            "lat": "43.44708", 
+            "name": "Arezzo", 
+            "long": "11.86867"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "46.06787", 
+            "name": "Trento", 
+            "long": "11.12108"
+        }, 
+        {
+            "lat": "45.88204", 
+            "name": "Rovereto", 
+            "long": "11.03647"
+        }, 
+        {
+            "lat": "46.66817", 
+            "name": "Merano", 
+            "long": "11.15953"
+        }, 
+        {
+            "lat": "46.71503", 
+            "name": "Bressanone", 
+            "long": "11.65598"
+        }, 
+        {
+            "lat": "46.49067", 
+            "name": "Bolzano", 
+            "long": "11.33982"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "45.97797", 
+            "name": "Vittorio Veneto", 
+            "long": "12.30559"
+        }, 
+        {
+            "lat": "45.71289", 
+            "name": "Lancenigo-Villorba", 
+            "long": "12.25697"
+        }, 
+        {
+            "lat": "45.35807", 
+            "name": "Villafranca di Verona", 
+            "long": "10.84939"
+        }, 
+        {
+            "lat": "45.54672", 
+            "name": "Vicenza", 
+            "long": "11.5475"
+        }, 
+        {
+            "lat": "45.4299", 
+            "name": "Verona", 
+            "long": "10.98444"
+        }, 
+        {
+            "lat": "45.43713", 
+            "name": "Venice", 
+            "long": "12.33265"
+        }, 
+        {
+            "lat": "45.64498", 
+            "name": "Valdagno", 
+            "long": "11.29886"
+        }, 
+        {
+            "lat": "45.66908", 
+            "name": "Treviso", 
+            "long": "12.23614"
+        }, 
+        {
+            "lat": "45.7088", 
+            "name": "Thiene", 
+            "long": "11.47959"
+        }, 
+        {
+            "lat": "45.71262", 
+            "name": "Schio", 
+            "long": "11.35671"
+        }, 
+        {
+            "lat": "45.38506", 
+            "name": "San Giovanni Lupatoto", 
+            "long": "11.03458"
+        }, 
+        {
+            "lat": "45.63488", 
+            "name": "San Don&#224; di Piave", 
+            "long": "12.57211"
+        }, 
+        {
+            "lat": "45.39662", 
+            "name": "San Bonifacio", 
+            "long": "11.28768"
+        }, 
+        {
+            "lat": "45.07387", 
+            "name": "Rovigo", 
+            "long": "11.79109"
+        }, 
+        {
+            "lat": "45.78071", 
+            "name": "Portogruaro", 
+            "long": "12.84052"
+        }, 
+        {
+            "lat": "45.40797", 
+            "name": "Padova", 
+            "long": "11.88586"
+        }, 
+        {
+            "lat": "45.7862", 
+            "name": "Oderzo", 
+            "long": "12.49547"
+        }, 
+        {
+            "lat": "45.50369", 
+            "name": "Montecchio Maggiore-Alte Ceccato", 
+            "long": "11.412"
+        }, 
+        {
+            "lat": "45.77504", 
+            "name": "Montebelluna", 
+            "long": "12.04904"
+        }, 
+        {
+            "lat": "45.55594", 
+            "name": "Mogliano Veneto", 
+            "long": "12.24294"
+        }, 
+        {
+            "lat": "45.49458", 
+            "name": "Mirano", 
+            "long": "12.10775"
+        }, 
+        {
+            "lat": "45.43", 
+            "name": "Mira Taglio", 
+            "long": "12.11972"
+        }, 
+        {
+            "lat": "45.47152", 
+            "name": "Mestre", 
+            "long": "12.24017"
+        }, 
+        {
+            "lat": "45.4105", 
+            "name": "Lido", 
+            "long": "12.36649"
+        }, 
+        {
+            "lat": "45.18956", 
+            "name": "Legnago", 
+            "long": "11.25616"
+        }, 
+        {
+            "lat": "45.88246", 
+            "name": "Conegliano", 
+            "long": "12.29645"
+        }, 
+        {
+            "lat": "45.21857", 
+            "name": "Chioggia", 
+            "long": "12.27774"
+        }, 
+        {
+            "lat": "45.67254", 
+            "name": "Castelfranco Veneto", 
+            "long": "11.93728"
+        }, 
+        {
+            "lat": "45.46903", 
+            "name": "Bussolengo", 
+            "long": "10.85371"
+        }, 
+        {
+            "lat": "46.14675", 
+            "name": "Belluno", 
+            "long": "12.21324"
+        }, 
+        {
+            "lat": "45.76231", 
+            "name": "Bassano del Grappa", 
+            "long": "11.73112"
+        }, 
+        {
+            "lat": "45.51629", 
+            "name": "Arzignano", 
+            "long": "11.34414"
+        }, 
+        {
+            "lat": "45.34896", 
+            "name": "Albignasego", 
+            "long": "11.88807"
+        }, 
+        {
+            "lat": "45.35753", 
+            "name": "Abano Terme", 
+            "long": "11.78725"
+        }, 
+        {
+            "lat": "45.49306", 
+            "name": "Spinea-Orgnano", 
+            "long": "12.16056"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "42.12198", 
+            "name": "Vasto", 
+            "long": "14.70408"
+        }, 
+        {
+            "lat": "42.66123", 
+            "name": "Teramo", 
+            "long": "13.69901"
+        }, 
+        {
+            "lat": "42.04945", 
+            "name": "Sulmona", 
+            "long": "13.92578"
+        }, 
+        {
+            "lat": "42.04592", 
+            "name": "San Salvo", 
+            "long": "14.73922"
+        }, 
+        {
+            "lat": "42.67164", 
+            "name": "Roseto degli Abruzzi", 
+            "long": "14.01481"
+        }, 
+        {
+            "lat": "42.4584", 
+            "name": "Pescara", 
+            "long": "14.20283"
+        }, 
+        {
+            "lat": "42.51185", 
+            "name": "Montesilvano Marina", 
+            "long": "14.13729"
+        }, 
+        {
+            "lat": "42.35055", 
+            "name": "L'Aquila", 
+            "long": "13.39954"
+        }, 
+        {
+            "lat": "42.22638", 
+            "name": "Lanciano", 
+            "long": "14.39582"
+        }, 
+        {
+            "lat": "42.75381", 
+            "name": "Giulianova", 
+            "long": "13.9665"
+        }, 
+        {
+            "lat": "42.42158", 
+            "name": "Francavilla al Mare", 
+            "long": "14.28217"
+        }, 
+        {
+            "lat": "42.38284", 
+            "name": "Chieti", 
+            "long": "14.13987"
+        }, 
+        {
+            "lat": "42.03908", 
+            "name": "Avezzano", 
+            "long": "13.43847"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "42.42322", 
+            "name": "Viterbo", 
+            "long": "12.11141"
+        }, 
+        {
+            "lat": "41.66784", 
+            "name": "Velletri", 
+            "long": "12.78103"
+        }, 
+        {
+            "lat": "41.95781", 
+            "name": "Tivoli", 
+            "long": "12.80317"
+        }, 
+        {
+            "lat": "41.28575", 
+            "name": "Terracina", 
+            "long": "13.20135"
+        }, 
+        {
+            "lat": "41.71288", 
+            "name": "Sora", 
+            "long": "13.60251"
+        }, 
+        {
+            "lat": "41.50938", 
+            "name": "Sezze", 
+            "long": "13.07698"
+        }, 
+        {
+            "lat": "41.89193", 
+            "name": "Rome", 
+            "long": "12.51133"
+        }, 
+        {
+            "lat": "41.7658", 
+            "name": "Rocca di Papa", 
+            "long": "12.70188"
+        }, 
+        {
+            "lat": "42.42277", 
+            "name": "Rieti", 
+            "long": "12.91436"
+        }, 
+        {
+            "lat": "41.66369", 
+            "name": "Pomezia", 
+            "long": "12.50015"
+        }, 
+        {
+            "lat": "41.48647", 
+            "name": "Nettuno", 
+            "long": "12.67046"
+        }, 
+        {
+            "lat": "42.0784", 
+            "name": "Monterotondo", 
+            "long": "12.59636"
+        }, 
+        {
+            "lat": "41.25316", 
+            "name": "Minturno", 
+            "long": "13.73496"
+        }, 
+        {
+            "lat": "42.03539", 
+            "name": "Mentana", 
+            "long": "12.64413"
+        }, 
+        {
+            "lat": "41.7635", 
+            "name": "Marino", 
+            "long": "12.63072"
+        }, 
+        {
+            "lat": "41.73212", 
+            "name": "Lido di Ostia", 
+            "long": "12.27654"
+        }, 
+        {
+            "lat": "41.46614", 
+            "name": "Latina", 
+            "long": "12.9043"
+        }, 
+        {
+            "lat": "41.9553", 
+            "name": "Ladispoli", 
+            "long": "12.07899"
+        }, 
+        {
+            "lat": "41.99232", 
+            "name": "Guidonia", 
+            "long": "12.71876"
+        }, 
+        {
+            "lat": "41.78888", 
+            "name": "Grottaferrata", 
+            "long": "12.67677"
+        }, 
+        {
+            "lat": "41.70113", 
+            "name": "Genzano di Roma", 
+            "long": "12.69246"
+        }, 
+        {
+            "lat": "41.21408", 
+            "name": "Gaeta", 
+            "long": "13.57082"
+        }, 
+        {
+            "lat": "41.63759", 
+            "name": "Frosinone", 
+            "long": "13.33541"
+        }, 
+        {
+            "lat": "41.82124", 
+            "name": "Frascati", 
+            "long": "12.66294"
+        }, 
+        {
+            "lat": "41.26126", 
+            "name": "Formia", 
+            "long": "13.6414"
+        }, 
+        {
+            "lat": "41.35285", 
+            "name": "Fondi", 
+            "long": "13.43227"
+        }, 
+        {
+            "lat": "41.76747", 
+            "name": "Fiumicino-Isola Sacra", 
+            "long": "12.22907"
+        }, 
+        {
+            "lat": "41.72868", 
+            "name": "Colleferro", 
+            "long": "13.00314"
+        }, 
+        {
+            "lat": "42.09325", 
+            "name": "Civitavecchia", 
+            "long": "11.79674"
+        }, 
+        {
+            "lat": "41.5908", 
+            "name": "Cisterna di Latina", 
+            "long": "12.82808"
+        }, 
+        {
+            "lat": "41.79916", 
+            "name": "Ciampino", 
+            "long": "12.60722"
+        }, 
+        {
+            "lat": "41.9908", 
+            "name": "Cerveteri", 
+            "long": "12.09082"
+        }, 
+        {
+            "lat": "41.48581", 
+            "name": "Cassino", 
+            "long": "13.82835"
+        }, 
+        {
+            "lat": "41.7108", 
+            "name": "Ariccia", 
+            "long": "12.66255"
+        }, 
+        {
+            "lat": "41.6123", 
+            "name": "Ardea", 
+            "long": "12.51433"
+        }, 
+        {
+            "lat": "41.58808", 
+            "name": "Aprilia", 
+            "long": "12.65729"
+        }, 
+        {
+            "lat": "41.48493", 
+            "name": "Anzio", 
+            "long": "12.61883"
+        }, 
+        {
+            "lat": "41.72513", 
+            "name": "Albano Laziale", 
+            "long": "12.63402"
+        }, 
+        {
+            "lat": "41.76337", 
+            "name": "Acilia-Castel Fusano-Ostia Antica", 
+            "long": "12.33078"
+        }, 
+        {
+            "lat": "41.99362", 
+            "name": "Guidonia Montecelio", 
+            "long": "12.72238"
+        }, 
+        {
+            "lat": "41.99771", 
+            "name": "Tor Lupara", 
+            "long": "12.61814"
+        }, 
+        {
+            "lat": "41.63431", 
+            "name": "Torvaianica", 
+            "long": "12.44768"
+        }, 
+        {
+            "lat": "41.96357", 
+            "name": "Villanova", 
+            "long": "12.75633"
+        }, 
+        {
+            "lat": "41.55439", 
+            "name": "Marina di Ardea-Tor San Lorenzo", 
+            "long": "12.54115"
+        }
+    ]
+}

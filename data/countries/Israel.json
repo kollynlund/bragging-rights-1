@@ -1,0 +1,374 @@
+{
+    "02": [
+        {
+            "lat": "32.03317", 
+            "name": "Yehud", 
+            "long": "34.89091"
+        }, 
+        {
+            "lat": "31.88078", 
+            "name": "Yavne", 
+            "long": "34.73843"
+        }, 
+        {
+            "lat": "32.09556", 
+            "name": "Rosh Ha&#8216;Ayin", 
+            "long": "34.95664"
+        }, 
+        {
+            "lat": "31.97102", 
+            "name": "Rishon Le&#7828;iyyon", 
+            "long": "34.78939"
+        }, 
+        {
+            "lat": "31.92923", 
+            "name": "Ramla", 
+            "long": "34.86563"
+        }, 
+        {
+            "lat": "32.1836", 
+            "name": "Ra'anana", 
+            "long": "34.87386"
+        }, 
+        {
+            "lat": "32.28493", 
+            "name": "Qalansuwa", 
+            "long": "34.98106"
+        }, 
+        {
+            "lat": "32.08707", 
+            "name": "Peta&#7830; Tiqwa", 
+            "long": "34.88747"
+        }, 
+        {
+            "lat": "32.33291", 
+            "name": "Netanya", 
+            "long": "34.85992"
+        }, 
+        {
+            "lat": "31.92933", 
+            "name": "Ness Ziona", 
+            "long": "34.79868"
+        }, 
+        {
+            "lat": "31.9467", 
+            "name": "Lod", 
+            "long": "34.8903"
+        }, 
+        {
+            "lat": "32.175", 
+            "name": "Kfar Saba", 
+            "long": "34.90694"
+        }, 
+        {
+            "lat": "32.11406", 
+            "name": "Kafr Q&#257;sim", 
+            "long": "34.97624"
+        }, 
+        {
+            "lat": "32.15934", 
+            "name": "Hod HaSharon", 
+            "long": "34.8932"
+        }, 
+        {
+            "lat": "32.2341", 
+            "name": "Tirah", 
+            "long": "34.95023"
+        }, 
+        {
+            "lat": "32.26616", 
+            "name": "E&#7789; &#7788;aiyiba", 
+            "long": "35.00893"
+        }, 
+        {
+            "lat": "31.89825", 
+            "name": "Modiin", 
+            "long": "35.01051"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "32.96465", 
+            "name": "Safed", 
+            "long": "35.496"
+        }, 
+        {
+            "lat": "32.79221", 
+            "name": "Tiberias", 
+            "long": "35.53124"
+        }, 
+        {
+            "lat": "33.01667", 
+            "name": "maalot Tarsh&#299;h&#257;", 
+            "long": "35.26667"
+        }, 
+        {
+            "lat": "32.85301", 
+            "name": "Tamra", 
+            "long": "35.1987"
+        }, 
+        {
+            "lat": "32.86422", 
+            "name": "Sakhn&#299;n", 
+            "long": "35.29707"
+        }, 
+        {
+            "lat": "33.20733", 
+            "name": "Qiryat Shemona", 
+            "long": "35.57212"
+        }, 
+        {
+            "lat": "32.69925", 
+            "name": "Nazareth", 
+            "long": "35.30483"
+        }, 
+        {
+            "lat": "33.01135", 
+            "name": "Nahariya", 
+            "long": "35.09467"
+        }, 
+        {
+            "lat": "32.67597", 
+            "name": "Migdal Ha&#8216;Emeq", 
+            "long": "35.23986"
+        }, 
+        {
+            "lat": "32.88984", 
+            "name": "Magh&#257;r", 
+            "long": "35.40703"
+        }, 
+        {
+            "lat": "32.91708", 
+            "name": "Karmi&#8217;el", 
+            "long": "35.30501"
+        }, 
+        {
+            "lat": "32.81034", 
+            "name": "Kafr Mand&#257;", 
+            "long": "35.26009"
+        }, 
+        {
+            "lat": "32.7466", 
+            "name": "Kafr Kann&#257;", 
+            "long": "35.34242"
+        }, 
+        {
+            "lat": "32.9282", 
+            "name": "Judeida Makr", 
+            "long": "35.15705"
+        }, 
+        {
+            "lat": "32.72339", 
+            "name": "Er Reina", 
+            "long": "35.31622"
+        }, 
+        {
+            "lat": "32.49728", 
+            "name": "Bet She&#8217;an", 
+            "long": "35.49632"
+        }, 
+        {
+            "lat": "32.92814", 
+            "name": "&#8216;Akko", 
+            "long": "35.07647"
+        }, 
+        {
+            "lat": "32.63221", 
+            "name": "&#8216;Afula &#8216;Illit", 
+            "long": "35.32533"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "31.525", 
+            "name": "Sederot", 
+            "long": "34.59693"
+        }, 
+        {
+            "lat": "31.60998", 
+            "name": "Qiryat Gat", 
+            "long": "34.76422"
+        }, 
+        {
+            "lat": "31.3141", 
+            "name": "Ofaqim", 
+            "long": "34.62025"
+        }, 
+        {
+            "lat": "31.42215", 
+            "name": "Netivot", 
+            "long": "34.58858"
+        }, 
+        {
+            "lat": "29.55805", 
+            "name": "Eilat", 
+            "long": "34.94821"
+        }, 
+        {
+            "lat": "31.07127", 
+            "name": "Dimona", 
+            "long": "35.0337"
+        }, 
+        {
+            "lat": "31.25181", 
+            "name": "Beersheba", 
+            "long": "34.7913"
+        }, 
+        {
+            "lat": "31.66926", 
+            "name": "Ashqelon", 
+            "long": "34.57149"
+        }, 
+        {
+            "lat": "31.79213", 
+            "name": "Ashdod", 
+            "long": "34.64966"
+        }, 
+        {
+            "lat": "31.25882", 
+            "name": "&#8216;Arad", 
+            "long": "35.21282"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "31.76904", 
+            "name": "Jerusalem", 
+            "long": "35.21633"
+        }, 
+        {
+            "lat": "31.72177", 
+            "name": "Mevo Betar", 
+            "long": "35.10669"
+        }, 
+        {
+            "lat": "31.73072", 
+            "name": "Bet Shemesh", 
+            "long": "34.99293"
+        }, 
+        {
+            "lat": "31.78199", 
+            "name": "West Jerusalem", 
+            "long": "35.21961"
+        }, 
+        {
+            "lat": "31.93221", 
+            "name": "Modiin Ilit", 
+            "long": "35.04416"
+        }, 
+        {
+            "lat": "32.1065", 
+            "name": "Ariel", 
+            "long": "35.18449"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "32.51725", 
+            "name": "Umm el Fa&#7717;m", 
+            "long": "35.15349"
+        }, 
+        {
+            "lat": "32.76021", 
+            "name": "Tirat Karmel", 
+            "long": "34.97183"
+        }, 
+        {
+            "lat": "32.84966", 
+            "name": "Qiryat Yam", 
+            "long": "35.06973"
+        }, 
+        {
+            "lat": "32.83706", 
+            "name": "Qiryat Motzkin", 
+            "long": "35.0776"
+        }, 
+        {
+            "lat": "32.8275", 
+            "name": "Qiryat Bialik", 
+            "long": "35.08583"
+        }, 
+        {
+            "lat": "32.80446", 
+            "name": "Qiryat Ata", 
+            "long": "35.10537"
+        }, 
+        {
+            "lat": "32.76651", 
+            "name": "Nesher", 
+            "long": "35.05003"
+        }, 
+        {
+            "lat": "32.81841", 
+            "name": "Haifa", 
+            "long": "34.9885"
+        }, 
+        {
+            "lat": "32.43645", 
+            "name": "H&#817;adera", 
+            "long": "34.91956"
+        }, 
+        {
+            "lat": "32.69383", 
+            "name": "D&#257;liyat el Karmil", 
+            "long": "35.04686"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "32.05043", 
+            "name": "Yafo", 
+            "long": "34.75224"
+        }, 
+        {
+            "lat": "32.08088", 
+            "name": "Tel Aviv", 
+            "long": "34.78057"
+        }, 
+        {
+            "lat": "32.14613", 
+            "name": "Ramat HaSharon", 
+            "long": "34.8394"
+        }, 
+        {
+            "lat": "32.08227", 
+            "name": "Ramat Gan", 
+            "long": "34.81065"
+        }, 
+        {
+            "lat": "32.02923", 
+            "name": "Or Yehuda", 
+            "long": "34.85788"
+        }, 
+        {
+            "lat": "32.01034", 
+            "name": "H&#817;olon", 
+            "long": "34.77918"
+        }, 
+        {
+            "lat": "32.16627", 
+            "name": "Herzliyya", 
+            "long": "34.82536"
+        }, 
+        {
+            "lat": "32.07817", 
+            "name": "Giv&#8216;at Shemu&#8217;&#233;l", 
+            "long": "34.84858"
+        }, 
+        {
+            "lat": "32.07225", 
+            "name": "Giv&#8216;atayim", 
+            "long": "34.81253"
+        }, 
+        {
+            "lat": "32.08074", 
+            "name": "Ben&#233; Beraq", 
+            "long": "34.8338"
+        }, 
+        {
+            "lat": "32.02379", 
+            "name": "Bat Yam", 
+            "long": "34.75185"
+        }
+    ]
+}

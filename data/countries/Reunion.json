@@ -1,0 +1,76 @@
+{
+    "": [
+        {
+            "lat": "-21.21962", 
+            "name": "Piton Saint-Leu", 
+            "long": "55.31513"
+        }
+    ], 
+    "RE": [
+        {
+            "lat": "-21.3393", 
+            "name": "Saint-Pierre", 
+            "long": "55.47811"
+        }, 
+        {
+            "lat": "-21.00963", 
+            "name": "Saint-Paul", 
+            "long": "55.27071"
+        }, 
+        {
+            "lat": "-21.28585", 
+            "name": "Saint-Louis", 
+            "long": "55.41124"
+        }, 
+        {
+            "lat": "-21.17059", 
+            "name": "Saint-Leu", 
+            "long": "55.28824"
+        }, 
+        {
+            "lat": "-21.37839", 
+            "name": "Saint-Joseph", 
+            "long": "55.61918"
+        }, 
+        {
+            "lat": "-20.90614", 
+            "name": "Sainte-Suzanne", 
+            "long": "55.60886"
+        }, 
+        {
+            "lat": "-20.89684", 
+            "name": "Sainte-Marie", 
+            "long": "55.5496"
+        }, 
+        {
+            "lat": "-20.88231", 
+            "name": "Saint-Denis", 
+            "long": "55.4504"
+        }, 
+        {
+            "lat": "-21.03801", 
+            "name": "Saint-Beno&#238;t", 
+            "long": "55.71937"
+        }, 
+        {
+            "lat": "-20.96333", 
+            "name": "Saint-Andr&#233;", 
+            "long": "55.65031"
+        }, 
+        {
+            "lat": "-21.28309", 
+            "name": "Le Tampon", 
+            "long": "55.51802"
+        }, 
+        {
+            "lat": "-20.9373", 
+            "name": "Le Port", 
+            "long": "55.29189"
+        }, 
+        {
+            "lat": "-20.92892", 
+            "name": "La Possession", 
+            "long": "55.33513"
+        }
+    ]
+}

@@ -1,0 +1,2216 @@
+{
+    "11": [
+        {
+            "lat": "6.33444", 
+            "name": "Tupi", 
+            "long": "124.95278"
+        }, 
+        {
+            "lat": "7.44778", 
+            "name": "Tagum", 
+            "long": "125.80778"
+        }, 
+        {
+            "lat": "6.55361", 
+            "name": "Santa Maria", 
+            "long": "125.47083"
+        }, 
+        {
+            "lat": "7.5", 
+            "name": "San Mariano", 
+            "long": "126"
+        }, 
+        {
+            "lat": "7.07444", 
+            "name": "Samal", 
+            "long": "125.70833"
+        }, 
+        {
+            "lat": "6.22167", 
+            "name": "Polomolok", 
+            "long": "125.06398"
+        }, 
+        {
+            "lat": "7.30806", 
+            "name": "Panabo", 
+            "long": "125.68417"
+        }, 
+        {
+            "lat": "7.5866", 
+            "name": "New Corella", 
+            "long": "125.8237"
+        }, 
+        {
+            "lat": "7.60778", 
+            "name": "Nabunturan", 
+            "long": "125.96639"
+        }, 
+        {
+            "lat": "7.81528", 
+            "name": "Monkayo", 
+            "long": "126.05444"
+        }, 
+        {
+            "lat": "6.95508", 
+            "name": "Mati", 
+            "long": "126.21655"
+        }, 
+        {
+            "lat": "7.215", 
+            "name": "Manay", 
+            "long": "126.53972"
+        }, 
+        {
+            "lat": "6.415", 
+            "name": "Malita", 
+            "long": "125.61167"
+        }, 
+        {
+            "lat": "6.76667", 
+            "name": "Magsaysay", 
+            "long": "125.18333"
+        }, 
+        {
+            "lat": "6.89814", 
+            "name": "Lupon", 
+            "long": "126.00961"
+        }, 
+        {
+            "lat": "6.74972", 
+            "name": "Digos", 
+            "long": "125.35722"
+        }, 
+        {
+            "lat": "7.07306", 
+            "name": "Davao", 
+            "long": "125.61278"
+        }, 
+        {
+            "lat": "7.67306", 
+            "name": "Compostela", 
+            "long": "126.08889"
+        }, 
+        {
+            "lat": "7.40722", 
+            "name": "Cabayangan", 
+            "long": "125.73306"
+        }, 
+        {
+            "lat": "6.78611", 
+            "name": "Bansalan", 
+            "long": "125.21333"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "7.90639", 
+            "name": "Valencia", 
+            "long": "125.09417"
+        }, 
+        {
+            "lat": "8.0618", 
+            "name": "Tangub", 
+            "long": "123.7477"
+        }, 
+        {
+            "lat": "8.53889", 
+            "name": "Tagoloan", 
+            "long": "124.75694"
+        }, 
+        {
+            "lat": "7.73028", 
+            "name": "Quezon", 
+            "long": "125.09889"
+        }, 
+        {
+            "lat": "8.1481", 
+            "name": "Ozamiz City", 
+            "long": "123.8405"
+        }, 
+        {
+            "lat": "8.4859", 
+            "name": "Oroquieta", 
+            "long": "123.8048"
+        }, 
+        {
+            "lat": "8.83333", 
+            "name": "Mariano", 
+            "long": "125.11667"
+        }, 
+        {
+            "lat": "7.76333", 
+            "name": "Maramag", 
+            "long": "125.00528"
+        }, 
+        {
+            "lat": "8.16667", 
+            "name": "Mantampay", 
+            "long": "124.21667"
+        }, 
+        {
+            "lat": "8.36972", 
+            "name": "Manolo Fortich", 
+            "long": "124.86444"
+        }, 
+        {
+            "lat": "8.1575", 
+            "name": "Malaybalay", 
+            "long": "125.12778"
+        }, 
+        {
+            "lat": "7.9745", 
+            "name": "Lala", 
+            "long": "123.7458"
+        }, 
+        {
+            "lat": "8.65417", 
+            "name": "Jasaan", 
+            "long": "124.75556"
+        }, 
+        {
+            "lat": "7.68", 
+            "name": "Don Carlos", 
+            "long": "125.005"
+        }, 
+        {
+            "lat": "7.84083", 
+            "name": "Dologon", 
+            "long": "125.04444"
+        }, 
+        {
+            "lat": "8.48222", 
+            "name": "Cagayan de Oro", 
+            "long": "124.64722"
+        }, 
+        {
+            "lat": "8.18278", 
+            "name": "Boroon, Illigan City", 
+            "long": "124.17701"
+        }, 
+        {
+            "lat": "8.50833", 
+            "name": "Bugo", 
+            "long": "124.75944"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "8.0731", 
+            "name": "Veruela", 
+            "long": "125.9558"
+        }, 
+        {
+            "lat": "8.04583", 
+            "name": "Trento", 
+            "long": "126.06361"
+        }, 
+        {
+            "lat": "9.07833", 
+            "name": "Tandag", 
+            "long": "126.19861"
+        }, 
+        {
+            "lat": "8.45611", 
+            "name": "Talacogon", 
+            "long": "125.78417"
+        }, 
+        {
+            "lat": "9.789", 
+            "name": "Surigao", 
+            "long": "125.495"
+        }, 
+        {
+            "lat": "8.53556", 
+            "name": "San Francisco", 
+            "long": "125.95"
+        }, 
+        {
+            "lat": "8.94417", 
+            "name": "Libertad", 
+            "long": "125.50194"
+        }, 
+        {
+            "lat": "9.12261", 
+            "name": "Cabadbaran", 
+            "long": "125.53549"
+        }, 
+        {
+            "lat": "8.94917", 
+            "name": "Butuan", 
+            "long": "125.54361"
+        }, 
+        {
+            "lat": "8.16722", 
+            "name": "Bunawan", 
+            "long": "125.99083"
+        }, 
+        {
+            "lat": "8.97694", 
+            "name": "Buenavista", 
+            "long": "125.40889"
+        }, 
+        {
+            "lat": "8.21528", 
+            "name": "Bislig", 
+            "long": "126.31639"
+        }, 
+        {
+            "lat": "8.75611", 
+            "name": "Bayugan", 
+            "long": "125.7675"
+        }, 
+        {
+            "lat": "8.60722", 
+            "name": "Bah-Bah", 
+            "long": "125.91444"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "17.57472", 
+            "name": "Vigan", 
+            "long": "120.38694"
+        }, 
+        {
+            "lat": "15.97611", 
+            "name": "Urdaneta", 
+            "long": "120.57111"
+        }, 
+        {
+            "lat": "16.9355", 
+            "name": "Tagudin", 
+            "long": "120.4442"
+        }, 
+        {
+            "lat": "16.9518", 
+            "name": "Santa Maria", 
+            "long": "120.4445"
+        }, 
+        {
+            "lat": "16.0009", 
+            "name": "Santa Barbara", 
+            "long": "120.4023"
+        }, 
+        {
+            "lat": "18.1725", 
+            "name": "San Nicolas", 
+            "long": "120.5953"
+        }, 
+        {
+            "lat": "16.61591", 
+            "name": "San Fernando", 
+            "long": "120.31663"
+        }, 
+        {
+            "lat": "16.07", 
+            "name": "Mangaldan", 
+            "long": "120.4025"
+        }, 
+        {
+            "lat": "16.0438", 
+            "name": "Manaoag", 
+            "long": "120.4861"
+        }, 
+        {
+            "lat": "16.02182", 
+            "name": "Lingayen", 
+            "long": "120.23194"
+        }, 
+        {
+            "lat": "18.1978", 
+            "name": "Laoag", 
+            "long": "120.5957"
+        }, 
+        {
+            "lat": "16.06667", 
+            "name": "Guiset East", 
+            "long": "120.68333"
+        }, 
+        {
+            "lat": "16.00292", 
+            "name": "Domalanoan", 
+            "long": "120.21154"
+        }, 
+        {
+            "lat": "16.0111", 
+            "name": "Calasiao", 
+            "long": "120.36"
+        }, 
+        {
+            "lat": "16.03232", 
+            "name": "Binmaley", 
+            "long": "120.26904"
+        }, 
+        {
+            "lat": "15.8127", 
+            "name": "Bayambang", 
+            "long": "120.4557"
+        }, 
+        {
+            "lat": "16.53083", 
+            "name": "Bauang", 
+            "long": "120.33306"
+        }, 
+        {
+            "lat": "18.0554", 
+            "name": "Batac City", 
+            "long": "120.56489"
+        }, 
+        {
+            "lat": "16.394", 
+            "name": "Aringay", 
+            "long": "120.3545"
+        }, 
+        {
+            "lat": "16.08333", 
+            "name": "Agoo", 
+            "long": "120.1"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "10.90154", 
+            "name": "Victorias", 
+            "long": "123.0705"
+        }, 
+        {
+            "lat": "10.57396", 
+            "name": "Ualog", 
+            "long": "123.3933"
+        }, 
+        {
+            "lat": "10.5746", 
+            "name": "Taloc", 
+            "long": "122.8954"
+        }, 
+        {
+            "lat": "10.7375", 
+            "name": "Talisay", 
+            "long": "122.9666"
+        }, 
+        {
+            "lat": "10.0533", 
+            "name": "Suay", 
+            "long": "122.8423"
+        }, 
+        {
+            "lat": "9.75194", 
+            "name": "Sipalay", 
+            "long": "122.40417"
+        }, 
+        {
+            "lat": "10.94472", 
+            "name": "Sagay", 
+            "long": "123.42417"
+        }, 
+        {
+            "lat": "11.58528", 
+            "name": "Roxas City", 
+            "long": "122.75111"
+        }, 
+        {
+            "lat": "10.5203", 
+            "name": "Pulupandan", 
+            "long": "122.8017"
+        }, 
+        {
+            "lat": "11.10778", 
+            "name": "Passi", 
+            "long": "122.64194"
+        }, 
+        {
+            "lat": "10.8849", 
+            "name": "Paraiso", 
+            "long": "123.3627"
+        }, 
+        {
+            "lat": "10.45", 
+            "name": "Pacol", 
+            "long": "122.81667"
+        }, 
+        {
+            "lat": "10.60516", 
+            "name": "Murcia", 
+            "long": "123.0417"
+        }, 
+        {
+            "lat": "10.63111", 
+            "name": "Mansilingan", 
+            "long": "122.97889"
+        }, 
+        {
+            "lat": "10.95803", 
+            "name": "Manapla", 
+            "long": "123.123"
+        }, 
+        {
+            "lat": "10.4896", 
+            "name": "Maao", 
+            "long": "122.9907"
+        }, 
+        {
+            "lat": "10.3239", 
+            "name": "La Castellana", 
+            "long": "123.0215"
+        }, 
+        {
+            "lat": "10.4242", 
+            "name": "La Carlota", 
+            "long": "122.9212"
+        }, 
+        {
+            "lat": "11.70611", 
+            "name": "Kalibo (poblacion)", 
+            "long": "122.36444"
+        }, 
+        {
+            "lat": "9.9902", 
+            "name": "Kabankalan", 
+            "long": "122.8142"
+        }, 
+        {
+            "lat": "10.2048", 
+            "name": "Isabela", 
+            "long": "122.9888"
+        }, 
+        {
+            "lat": "10.69694", 
+            "name": "Iloilo", 
+            "long": "122.56444"
+        }, 
+        {
+            "lat": "10.2706", 
+            "name": "Hinigaran", 
+            "long": "122.8507"
+        }, 
+        {
+            "lat": "10.09889", 
+            "name": "Himamaylan", 
+            "long": "122.87056"
+        }, 
+        {
+            "lat": "10.84028", 
+            "name": "Escalante", 
+            "long": "123.49917"
+        }, 
+        {
+            "lat": "10.87754", 
+            "name": "Saravia", 
+            "long": "122.9677"
+        }, 
+        {
+            "lat": "10.9465", 
+            "name": "Cadiz", 
+            "long": "123.288"
+        }, 
+        {
+            "lat": "10.7719", 
+            "name": "Binonga", 
+            "long": "122.9817"
+        }, 
+        {
+            "lat": "10.1948", 
+            "name": "Binalbagan", 
+            "long": "122.8581"
+        }, 
+        {
+            "lat": "10.53333", 
+            "name": "Bago City", 
+            "long": "122.83333"
+        }, 
+        {
+            "lat": "10.66667", 
+            "name": "Bacolod City", 
+            "long": "122.95"
+        }, 
+        {
+            "lat": "9.5506", 
+            "name": "Asia", 
+            "long": "122.5164"
+        }, 
+        {
+            "lat": "11.74479", 
+            "name": "Pandan", 
+            "long": "122.10027"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "7.68333", 
+            "name": "Wao", 
+            "long": "124.66667"
+        }, 
+        {
+            "lat": "4.66115", 
+            "name": "Sitangkai", 
+            "long": "119.39647"
+        }, 
+        {
+            "lat": "7.37035", 
+            "name": "Parang", 
+            "long": "124.26973"
+        }, 
+        {
+            "lat": "7.14167", 
+            "name": "Pagalu&#241;gan", 
+            "long": "124.38056"
+        }, 
+        {
+            "lat": "8.0034", 
+            "name": "Marawi City", 
+            "long": "124.28395"
+        }, 
+        {
+            "lat": "6.543", 
+            "name": "Maluso", 
+            "long": "121.8753"
+        }, 
+        {
+            "lat": "6.86472", 
+            "name": "Maganoy", 
+            "long": "124.44167"
+        }, 
+        {
+            "lat": "6.05222", 
+            "name": "Jolo", 
+            "long": "121.00222"
+        }, 
+        {
+            "lat": "6.70407", 
+            "name": "City of Isabela", 
+            "long": "121.97117"
+        }, 
+        {
+            "lat": "7.22361", 
+            "name": "Cotabato", 
+            "long": "124.24639"
+        }, 
+        {
+            "lat": "6.72028", 
+            "name": "Buluan", 
+            "long": "124.80194"
+        }, 
+        {
+            "lat": "7.20417", 
+            "name": "Budta", 
+            "long": "124.43972"
+        }, 
+        {
+            "lat": "5.02917", 
+            "name": "Bongao", 
+            "long": "119.77306"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "13.5848", 
+            "name": "Virac", 
+            "long": "124.2374"
+        }, 
+        {
+            "lat": "13.4585", 
+            "name": "Tiwi", 
+            "long": "123.6805"
+        }, 
+        {
+            "lat": "13.16667", 
+            "name": "Tagas", 
+            "long": "123.71667"
+        }, 
+        {
+            "lat": "13.35861", 
+            "name": "Tabaco", 
+            "long": "123.73361"
+        }, 
+        {
+            "lat": "12.97389", 
+            "name": "Sorsogon", 
+            "long": "123.99333"
+        }, 
+        {
+            "lat": "13.35", 
+            "name": "San Jose", 
+            "long": "123.55"
+        }, 
+        {
+            "lat": "13.2923", 
+            "name": "Polangui", 
+            "long": "123.4855"
+        }, 
+        {
+            "lat": "13.61917", 
+            "name": "Naga", 
+            "long": "123.18139"
+        }, 
+        {
+            "lat": "13.4075", 
+            "name": "Nabua", 
+            "long": "123.3724"
+        }, 
+        {
+            "lat": "14.1093", 
+            "name": "Mercedes", 
+            "long": "123.0109"
+        }, 
+        {
+            "lat": "12.37169", 
+            "name": "Masbate", 
+            "long": "123.62494"
+        }, 
+        {
+            "lat": "13.3188", 
+            "name": "Malilipot", 
+            "long": "123.7385"
+        }, 
+        {
+            "lat": "13.6604", 
+            "name": "Magarao", 
+            "long": "123.1869"
+        }, 
+        {
+            "lat": "13.2997", 
+            "name": "Libon", 
+            "long": "123.4386"
+        }, 
+        {
+            "lat": "13.13722", 
+            "name": "Legaspi", 
+            "long": "123.73444"
+        }, 
+        {
+            "lat": "14.1532", 
+            "name": "Labo", 
+            "long": "122.8303"
+        }, 
+        {
+            "lat": "14.2906", 
+            "name": "Jose Pa&#241;ganiban", 
+            "long": "122.6917"
+        }, 
+        {
+            "lat": "12.70013", 
+            "name": "Irosin", 
+            "long": "124.03221"
+        }, 
+        {
+            "lat": "13.4324", 
+            "name": "Iriga City", 
+            "long": "123.4115"
+        }, 
+        {
+            "lat": "13.6978", 
+            "name": "Goa", 
+            "long": "123.4892"
+        }, 
+        {
+            "lat": "14.1122", 
+            "name": "Daet", 
+            "long": "122.9553"
+        }, 
+        {
+            "lat": "13.7068", 
+            "name": "Calabanga", 
+            "long": "123.2087"
+        }, 
+        {
+            "lat": "12.67139", 
+            "name": "Bulan", 
+            "long": "123.875"
+        }, 
+        {
+            "lat": "13.4322", 
+            "name": "Buhi", 
+            "long": "123.517"
+        }, 
+        {
+            "lat": "13.3528", 
+            "name": "Bato", 
+            "long": "123.3677"
+        }, 
+        {
+            "lat": "13.4549", 
+            "name": "Baao", 
+            "long": "123.3653"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "17.61306", 
+            "name": "Tuguegarao City", 
+            "long": "121.72694"
+        }, 
+        {
+            "lat": "16.51918", 
+            "name": "Solano", 
+            "long": "121.18124"
+        }, 
+        {
+            "lat": "17.6528", 
+            "name": "Solana", 
+            "long": "121.691"
+        }, 
+        {
+            "lat": "16.68808", 
+            "name": "Santiago", 
+            "long": "121.5487"
+        }, 
+        {
+            "lat": "16.88206", 
+            "name": "San Mateo", 
+            "long": "121.58694"
+        }, 
+        {
+            "lat": "17.11894", 
+            "name": "Roxas", 
+            "long": "121.62014"
+        }, 
+        {
+            "lat": "16.78416", 
+            "name": "Ramon", 
+            "long": "121.53504"
+        }, 
+        {
+            "lat": "17.14854", 
+            "name": "Ilagan", 
+            "long": "121.88924"
+        }, 
+        {
+            "lat": "16.7262", 
+            "name": "Diadi", 
+            "long": "121.3589"
+        }, 
+        {
+            "lat": "17.42782", 
+            "name": "Cabagan", 
+            "long": "121.76955"
+        }, 
+        {
+            "lat": "16.4812", 
+            "name": "Bayombong", 
+            "long": "121.1497"
+        }, 
+        {
+            "lat": "16.3865", 
+            "name": "Bambang", 
+            "long": "121.1066"
+        }, 
+        {
+            "lat": "16.50588", 
+            "name": "Baggabag B", 
+            "long": "121.19014"
+        }, 
+        {
+            "lat": "18.3566", 
+            "name": "Aparri", 
+            "long": "121.6406"
+        }, 
+        {
+            "lat": "16.77936", 
+            "name": "Alicia", 
+            "long": "121.69734"
+        }
+    ], 
+    "NCR": [
+        {
+            "lat": "14.6753", 
+            "name": "Tanza", 
+            "long": "120.9389"
+        }, 
+        {
+            "lat": "14.6", 
+            "name": "San Juan", 
+            "long": "121.0333"
+        }, 
+        {
+            "lat": "14.6", 
+            "name": "Quiapo", 
+            "long": "120.9833"
+        }, 
+        {
+            "lat": "14.6488", 
+            "name": "Quezon City", 
+            "long": "121.0509"
+        }, 
+        {
+            "lat": "14.5833", 
+            "name": "Port Area", 
+            "long": "120.9667"
+        }, 
+        {
+            "lat": "14.6042", 
+            "name": "Manila", 
+            "long": "120.9822"
+        }, 
+        {
+            "lat": "14.5832", 
+            "name": "Mandaluyong City", 
+            "long": "121.0409"
+        }, 
+        {
+            "lat": "14.55027", 
+            "name": "Makati City", 
+            "long": "121.03269"
+        }, 
+        {
+            "lat": "14.6228", 
+            "name": "Calumpang", 
+            "long": "121.0897"
+        }, 
+        {
+            "lat": "14.58691", 
+            "name": "Pasig City", 
+            "long": "121.0614"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "6.91028", 
+            "name": "Zamboanga", 
+            "long": "122.07389"
+        }, 
+        {
+            "lat": "6.95194", 
+            "name": "Recodo", 
+            "long": "121.96361"
+        }, 
+        {
+            "lat": "7.8257", 
+            "name": "Pagadian", 
+            "long": "123.437"
+        }, 
+        {
+            "lat": "7.8275", 
+            "name": "Muricay", 
+            "long": "123.4782"
+        }, 
+        {
+            "lat": "8.0844", 
+            "name": "Molave", 
+            "long": "123.491"
+        }, 
+        {
+            "lat": "8.1183", 
+            "name": "Mahayag", 
+            "long": "123.4455"
+        }, 
+        {
+            "lat": "7.78444", 
+            "name": "Ipil", 
+            "long": "122.58611"
+        }, 
+        {
+            "lat": "8.5883", 
+            "name": "Dipolog", 
+            "long": "123.3409"
+        }, 
+        {
+            "lat": "8.6561", 
+            "name": "Dapitan", 
+            "long": "123.4227"
+        }
+    ], 
+    "40": [
+        {
+            "lat": "14.2277", 
+            "name": "Victoria", 
+            "long": "121.3292"
+        }, 
+        {
+            "lat": "14.2897", 
+            "name": "Ternate", 
+            "long": "120.7168"
+        }, 
+        {
+            "lat": "14.5612", 
+            "name": "Teresa", 
+            "long": "121.2195"
+        }, 
+        {
+            "lat": "14.55883", 
+            "name": "Taytay", 
+            "long": "121.13285"
+        }, 
+        {
+            "lat": "14.0259", 
+            "name": "Tayabas", 
+            "long": "121.5929"
+        }, 
+        {
+            "lat": "14.4968", 
+            "name": "Tanay", 
+            "long": "121.2846"
+        }, 
+        {
+            "lat": "14.08627", 
+            "name": "Tanauan", 
+            "long": "121.14975"
+        }, 
+        {
+            "lat": "14.0925", 
+            "name": "Talisay", 
+            "long": "121.02194"
+        }, 
+        {
+            "lat": "14.5243", 
+            "name": "Taguig", 
+            "long": "121.0792"
+        }, 
+        {
+            "lat": "13.87992", 
+            "name": "Taal", 
+            "long": "120.92311"
+        }, 
+        {
+            "lat": "14.21567", 
+            "name": "Silang", 
+            "long": "120.97137"
+        }, 
+        {
+            "lat": "13.9624", 
+            "name": "Sariaya", 
+            "long": "121.5265"
+        }, 
+        {
+            "lat": "14.1079", 
+            "name": "Santo Tomas", 
+            "long": "121.14136"
+        }, 
+        {
+            "lat": "14.31222", 
+            "name": "Santa Rosa", 
+            "long": "121.11139"
+        }, 
+        {
+            "lat": "14.2814", 
+            "name": "Santa Cruz", 
+            "long": "121.4161"
+        }, 
+        {
+            "lat": "14.3595", 
+            "name": "San Pedro", 
+            "long": "121.0473"
+        }, 
+        {
+            "lat": "13.7975", 
+            "name": "San Pascual", 
+            "long": "121.03417"
+        }, 
+        {
+            "lat": "14.0683", 
+            "name": "San Pablo", 
+            "long": "121.3256"
+        }, 
+        {
+            "lat": "14.6982", 
+            "name": "San Mateo", 
+            "long": "121.1236"
+        }, 
+        {
+            "lat": "13.3476", 
+            "name": "Aurora", 
+            "long": "122.5195"
+        }, 
+        {
+            "lat": "14.5402", 
+            "name": "Sampaloc", 
+            "long": "121.3602"
+        }, 
+        {
+            "lat": "14.27324", 
+            "name": "Pulong Santa Cruz", 
+            "long": "121.07643"
+        }, 
+        {
+            "lat": "14.4854", 
+            "name": "Pililla", 
+            "long": "121.3062"
+        }, 
+        {
+            "lat": "14.2325", 
+            "name": "Pila", 
+            "long": "121.3648"
+        }, 
+        {
+            "lat": "14.11667", 
+            "name": "Patuto", 
+            "long": "120.96667"
+        }, 
+        {
+            "lat": "14.4008", 
+            "name": "Pangil", 
+            "long": "121.4685"
+        }, 
+        {
+            "lat": "13.9712", 
+            "name": "Pagbilao", 
+            "long": "121.6879"
+        }, 
+        {
+            "lat": "14.3647", 
+            "name": "Paete", 
+            "long": "121.4829"
+        }, 
+        {
+            "lat": "14.42922", 
+            "name": "Noveleta", 
+            "long": "120.87989"
+        }, 
+        {
+            "lat": "14.0722", 
+            "name": "Nasugbu", 
+            "long": "120.6332"
+        }, 
+        {
+            "lat": "14.31812", 
+            "name": "Naic", 
+            "long": "120.76609"
+        }, 
+        {
+            "lat": "14.1364", 
+            "name": "Nagcarlan", 
+            "long": "121.4165"
+        }, 
+        {
+            "lat": "14.5115", 
+            "name": "Morong", 
+            "long": "121.2393"
+        }, 
+        {
+            "lat": "14.76011", 
+            "name": "Rodriguez", 
+            "long": "121.19993"
+        }, 
+        {
+            "lat": "14.12861", 
+            "name": "Mendez-Nu&#241;ez", 
+            "long": "120.90583"
+        }, 
+        {
+            "lat": "14.191", 
+            "name": "Mauban", 
+            "long": "121.7309"
+        }, 
+        {
+            "lat": "14.2733", 
+            "name": "Maragondon", 
+            "long": "120.7377"
+        }, 
+        {
+            "lat": "14.2349", 
+            "name": "Mamatid", 
+            "long": "121.15902"
+        }, 
+        {
+            "lat": "14.04472", 
+            "name": "Malvar", 
+            "long": "121.15861"
+        }, 
+        {
+            "lat": "14.7069", 
+            "name": "Malanday", 
+            "long": "121.1306"
+        }, 
+        {
+            "lat": "13.94521", 
+            "name": "Malabanban Norte", 
+            "long": "121.43065"
+        }, 
+        {
+            "lat": "14.2973", 
+            "name": "Lumbang", 
+            "long": "121.4598"
+        }, 
+        {
+            "lat": "13.93139", 
+            "name": "Lucena", 
+            "long": "121.61722"
+        }, 
+        {
+            "lat": "14.11356", 
+            "name": "Lucban", 
+            "long": "121.55574"
+        }, 
+        {
+            "lat": "14.17025", 
+            "name": "Los Ba&#241;os", 
+            "long": "121.24181"
+        }, 
+        {
+            "lat": "13.884", 
+            "name": "Lopez", 
+            "long": "122.2604"
+        }, 
+        {
+            "lat": "13.9411", 
+            "name": "Lipa City", 
+            "long": "121.1631"
+        }, 
+        {
+            "lat": "14.1313", 
+            "name": "Lilio", 
+            "long": "121.4362"
+        }, 
+        {
+            "lat": "14.44426", 
+            "name": "Kawit", 
+            "long": "120.90164"
+        }, 
+        {
+            "lat": "14.353", 
+            "name": "Jalajala", 
+            "long": "121.3225"
+        }, 
+        {
+            "lat": "14.19528", 
+            "name": "Indang", 
+            "long": "120.87694"
+        }, 
+        {
+            "lat": "14.42972", 
+            "name": "Imus", 
+            "long": "120.93667"
+        }, 
+        {
+            "lat": "13.921", 
+            "name": "Gumaca", 
+            "long": "122.1002"
+        }, 
+        {
+            "lat": "14.38694", 
+            "name": "General Trias", 
+            "long": "120.88167"
+        }, 
+        {
+            "lat": "14.32944", 
+            "name": "Dasmari&#241;as", 
+            "long": "120.93667"
+        }, 
+        {
+            "lat": "13.902", 
+            "name": "Cuenca", 
+            "long": "121.0521"
+        }, 
+        {
+            "lat": "13.92309", 
+            "name": "Concepcion Ibaba", 
+            "long": "121.46099"
+        }, 
+        {
+            "lat": "14.48369", 
+            "name": "Cavite City", 
+            "long": "120.89878"
+        }, 
+        {
+            "lat": "13.5926", 
+            "name": "Catanauan", 
+            "long": "122.3215"
+        }, 
+        {
+            "lat": "14.3132", 
+            "name": "Carmona", 
+            "long": "121.0576"
+        }, 
+        {
+            "lat": "14.486", 
+            "name": "Cardona", 
+            "long": "121.2289"
+        }, 
+        {
+            "lat": "13.93111", 
+            "name": "Candelaria", 
+            "long": "121.42333"
+        }, 
+        {
+            "lat": "14.14989", 
+            "name": "Calauan", 
+            "long": "121.3152"
+        }, 
+        {
+            "lat": "13.9575", 
+            "name": "Calauag", 
+            "long": "122.288"
+        }, 
+        {
+            "lat": "13.83224", 
+            "name": "Calatagan", 
+            "long": "120.63219"
+        }, 
+        {
+            "lat": "14.21167", 
+            "name": "Calamba", 
+            "long": "121.16528"
+        }, 
+        {
+            "lat": "13.93244", 
+            "name": "Calaca", 
+            "long": "120.81327"
+        }, 
+        {
+            "lat": "14.5786", 
+            "name": "Cainta", 
+            "long": "121.1222"
+        }, 
+        {
+            "lat": "14.4646", 
+            "name": "Binangonan", 
+            "long": "121.1929"
+        }, 
+        {
+            "lat": "13.86445", 
+            "name": "Bignay Uno", 
+            "long": "121.48792"
+        }, 
+        {
+            "lat": "14.18368", 
+            "name": "Bay", 
+            "long": "121.28554"
+        }, 
+        {
+            "lat": "13.7917", 
+            "name": "Bauan", 
+            "long": "121.0085"
+        }, 
+        {
+            "lat": "13.7567", 
+            "name": "Batangas", 
+            "long": "121.0584"
+        }, 
+        {
+            "lat": "14.5234", 
+            "name": "Baras", 
+            "long": "121.2651"
+        }, 
+        {
+            "lat": "13.85", 
+            "name": "Banaybanay", 
+            "long": "121.2"
+        }, 
+        {
+            "lat": "13.93714", 
+            "name": "Balayan", 
+            "long": "120.73224"
+        }, 
+        {
+            "lat": "14.45903", 
+            "name": "Bacoor", 
+            "long": "120.92903"
+        }, 
+        {
+            "lat": "14.0027", 
+            "name": "Atimonan", 
+            "long": "121.92078"
+        }, 
+        {
+            "lat": "14.62578", 
+            "name": "Antipolo", 
+            "long": "121.12251"
+        }, 
+        {
+            "lat": "14.5266", 
+            "name": "Angono", 
+            "long": "121.1536"
+        }, 
+        {
+            "lat": "14.17056", 
+            "name": "Amadeo", 
+            "long": "120.92361"
+        }, 
+        {
+            "lat": "14.06391", 
+            "name": "Alaminos", 
+            "long": "121.24649"
+        }, 
+        {
+            "lat": "14.6627", 
+            "name": "Bagong Pagasa", 
+            "long": "121.0328"
+        }
+    ], 
+    "41": [
+        {
+            "lat": "12.35275", 
+            "name": "San Jose", 
+            "long": "121.06761"
+        }, 
+        {
+            "lat": "12.8346", 
+            "name": "Sablayan", 
+            "long": "120.769"
+        }, 
+        {
+            "lat": "10.3215", 
+            "name": "Roxas", 
+            "long": "119.3451"
+        }, 
+        {
+            "lat": "12.57513", 
+            "name": "Romblon", 
+            "long": "122.27081"
+        }, 
+        {
+            "lat": "9.73917", 
+            "name": "Puerto Princesa", 
+            "long": "118.73528"
+        }, 
+        {
+            "lat": "13.0357", 
+            "name": "Pinamalayan", 
+            "long": "121.48842"
+        }, 
+        {
+            "lat": "9.26877", 
+            "name": "Narra", 
+            "long": "118.4043"
+        }, 
+        {
+            "lat": "12.52044", 
+            "name": "Mansalay", 
+            "long": "121.43851"
+        }, 
+        {
+            "lat": "13.2233", 
+            "name": "Mamburao", 
+            "long": "120.596"
+        }, 
+        {
+            "lat": "13.4117", 
+            "name": "Calapan", 
+            "long": "121.1803"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "6.6925", 
+            "name": "Tacurong", 
+            "long": "124.67639"
+        }, 
+        {
+            "lat": "6.37527", 
+            "name": "Surallah", 
+            "long": "124.74521"
+        }, 
+        {
+            "lat": "6.22", 
+            "name": "Sebu", 
+            "long": "124.69361"
+        }, 
+        {
+            "lat": "7.19083", 
+            "name": "Midsayap", 
+            "long": "124.53028"
+        }, 
+        {
+            "lat": "6.27917", 
+            "name": "Malu&#241;gun", 
+            "long": "125.28167"
+        }, 
+        {
+            "lat": "5.96917", 
+            "name": "Malapatan", 
+            "long": "125.28944"
+        }, 
+        {
+            "lat": "6.6525", 
+            "name": "Laguilayan", 
+            "long": "124.52111"
+        }, 
+        {
+            "lat": "6.50306", 
+            "name": "Koronadal", 
+            "long": "124.84694"
+        }, 
+        {
+            "lat": "7.00833", 
+            "name": "Kidapawan", 
+            "long": "125.08944"
+        }, 
+        {
+            "lat": "7.10667", 
+            "name": "Kabacan", 
+            "long": "124.82917"
+        }, 
+        {
+            "lat": "6.62944", 
+            "name": "Isulan", 
+            "long": "124.605"
+        }, 
+        {
+            "lat": "8.25", 
+            "name": "Iligan City", 
+            "long": "124.4"
+        }, 
+        {
+            "lat": "5.82417", 
+            "name": "Glan", 
+            "long": "125.20333"
+        }, 
+        {
+            "lat": "6.11278", 
+            "name": "General Santos", 
+            "long": "125.17167"
+        }, 
+        {
+            "lat": "6.42389", 
+            "name": "Ba&#241;ga", 
+            "long": "124.77833"
+        }, 
+        {
+            "lat": "6.10179", 
+            "name": "Alabel", 
+            "long": "125.29048"
+        }, 
+        {
+            "lat": "7.16083", 
+            "name": "Malingao", 
+            "long": "124.475"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "17.47378", 
+            "name": "Tabuk", 
+            "long": "121.46799"
+        }, 
+        {
+            "lat": "16.8632", 
+            "name": "Mankayan", 
+            "long": "120.7829"
+        }, 
+        {
+            "lat": "16.455", 
+            "name": "La Trinidad", 
+            "long": "120.5875"
+        }, 
+        {
+            "lat": "16.36389", 
+            "name": "Itogon", 
+            "long": "120.67694"
+        }, 
+        {
+            "lat": "16.41639", 
+            "name": "Baguio", 
+            "long": "120.59306"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "11.10944", 
+            "name": "Tanauan", 
+            "long": "125.01556"
+        }, 
+        {
+            "lat": "11.25111", 
+            "name": "Panalanoy", 
+            "long": "125.00639"
+        }, 
+        {
+            "lat": "11.1575", 
+            "name": "Palo", 
+            "long": "124.99083"
+        }, 
+        {
+            "lat": "11.00639", 
+            "name": "Ormoc", 
+            "long": "124.6075"
+        }, 
+        {
+            "lat": "10.13361", 
+            "name": "Maasin", 
+            "long": "124.84472"
+        }, 
+        {
+            "lat": "12.5698", 
+            "name": "Laoang", 
+            "long": "125.0141"
+        }, 
+        {
+            "lat": "11.77528", 
+            "name": "Catbalogan", 
+            "long": "124.88611"
+        }, 
+        {
+            "lat": "12.4989", 
+            "name": "Catarman", 
+            "long": "124.6377"
+        }, 
+        {
+            "lat": "11.29917", 
+            "name": "Carigara", 
+            "long": "124.67556"
+        }, 
+        {
+            "lat": "12.0668", 
+            "name": "Calbayog City", 
+            "long": "124.5962"
+        }, 
+        {
+            "lat": "11.60806", 
+            "name": "Borongan", 
+            "long": "125.43194"
+        }, 
+        {
+            "lat": "10.6785", 
+            "name": "Baybay", 
+            "long": "124.8006"
+        }, 
+        {
+            "lat": "10.747", 
+            "name": "Abuyog", 
+            "long": "125.0107"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "15.11854", 
+            "name": "Telabastagan", 
+            "long": "120.60773"
+        }, 
+        {
+            "lat": "15.48017", 
+            "name": "Tarlac City", 
+            "long": "120.59794"
+        }, 
+        {
+            "lat": "15.5883", 
+            "name": "Talavera", 
+            "long": "120.9192"
+        }, 
+        {
+            "lat": "14.87999", 
+            "name": "Subic", 
+            "long": "120.23433"
+        }, 
+        {
+            "lat": "14.9438", 
+            "name": "Sexmoan", 
+            "long": "120.6229"
+        }, 
+        {
+            "lat": "15.2921", 
+            "name": "San Vicente", 
+            "long": "120.65498"
+        }, 
+        {
+            "lat": "15.16222", 
+            "name": "Santol", 
+            "long": "120.5675"
+        }, 
+        {
+            "lat": "15.7654", 
+            "name": "Santa Cruz", 
+            "long": "119.9092"
+        }, 
+        {
+            "lat": "14.9127", 
+            "name": "Santa Cruz", 
+            "long": "120.56659"
+        }, 
+        {
+            "lat": "15.0955", 
+            "name": "Santa Ana", 
+            "long": "120.767"
+        }, 
+        {
+            "lat": "14.9996", 
+            "name": "San Simon", 
+            "long": "120.7808"
+        }, 
+        {
+            "lat": "15.0143", 
+            "name": "San Narciso", 
+            "long": "120.0803"
+        }, 
+        {
+            "lat": "15.44397", 
+            "name": "San Miguel", 
+            "long": "120.59923"
+        }, 
+        {
+            "lat": "15.1423", 
+            "name": "San Miguel", 
+            "long": "120.97568"
+        }, 
+        {
+            "lat": "14.97418", 
+            "name": "San Marcelino", 
+            "long": "120.15733"
+        }, 
+        {
+            "lat": "15.0401", 
+            "name": "San Luis", 
+            "long": "120.7883"
+        }, 
+        {
+            "lat": "15.363", 
+            "name": "San Leonardo", 
+            "long": "120.9639"
+        }, 
+        {
+            "lat": "14.81389", 
+            "name": "San Jose del Monte", 
+            "long": "121.04528"
+        }, 
+        {
+            "lat": "15.0809", 
+            "name": "San Ildefonso", 
+            "long": "120.941"
+        }, 
+        {
+            "lat": "15.35566", 
+            "name": "San Francisco", 
+            "long": "120.84001"
+        }, 
+        {
+            "lat": "15.0286", 
+            "name": "San Fernando", 
+            "long": "120.6898"
+        }, 
+        {
+            "lat": "15.3062", 
+            "name": "San Antonio", 
+            "long": "120.856"
+        }, 
+        {
+            "lat": "15.24226", 
+            "name": "San Antonio", 
+            "long": "120.83924"
+        }, 
+        {
+            "lat": "14.94659", 
+            "name": "San Antonio", 
+            "long": "120.08673"
+        }, 
+        {
+            "lat": "14.76778", 
+            "name": "Samal", 
+            "long": "120.54306"
+        }, 
+        {
+            "lat": "15.7118", 
+            "name": "Rizal", 
+            "long": "121.1061"
+        }, 
+        {
+            "lat": "15.6653", 
+            "name": "Ramos", 
+            "long": "120.6406"
+        }, 
+        {
+            "lat": "15.5512", 
+            "name": "Quezon", 
+            "long": "120.8147"
+        }, 
+        {
+            "lat": "14.90167", 
+            "name": "Pulilan", 
+            "long": "120.84917"
+        }, 
+        {
+            "lat": "15.0711", 
+            "name": "Porac", 
+            "long": "120.5423"
+        }, 
+        {
+            "lat": "14.88722", 
+            "name": "Plaridel", 
+            "long": "120.85722"
+        }, 
+        {
+            "lat": "15.04741", 
+            "name": "Pio", 
+            "long": "120.51891"
+        }, 
+        {
+            "lat": "14.66", 
+            "name": "Pilar", 
+            "long": "120.56528"
+        }, 
+        {
+            "lat": "15.35116", 
+            "name": "Pe&#241;aranda", 
+            "long": "121.00393"
+        }, 
+        {
+            "lat": "15.32016", 
+            "name": "Papaya", 
+            "long": "120.83574"
+        }, 
+        {
+            "lat": "14.83111", 
+            "name": "Paombong", 
+            "long": "120.78917"
+        }, 
+        {
+            "lat": "14.96806", 
+            "name": "Pantubig", 
+            "long": "120.95472"
+        }, 
+        {
+            "lat": "15.6689", 
+            "name": "Paniqui", 
+            "long": "120.5806"
+        }, 
+        {
+            "lat": "14.865", 
+            "name": "Pandi", 
+            "long": "120.95722"
+        }, 
+        {
+            "lat": "15.1719", 
+            "name": "Pandacaqui", 
+            "long": "120.65457"
+        }, 
+        {
+            "lat": "15.5415", 
+            "name": "Palayan City", 
+            "long": "121.0848"
+        }, 
+        {
+            "lat": "14.62056", 
+            "name": "Orion", 
+            "long": "120.58167"
+        }, 
+        {
+            "lat": "14.8006", 
+            "name": "Orani", 
+            "long": "120.5371"
+        }, 
+        {
+            "lat": "14.82917", 
+            "name": "Olongapo", 
+            "long": "120.28278"
+        }, 
+        {
+            "lat": "14.7098", 
+            "name": "Obando", 
+            "long": "120.9362"
+        }, 
+        {
+            "lat": "14.9109", 
+            "name": "Norzagaray", 
+            "long": "121.0493"
+        }, 
+        {
+            "lat": "15.71611", 
+            "name": "Mu&#241;oz", 
+            "long": "120.90306"
+        }, 
+        {
+            "lat": "14.67889", 
+            "name": "Morong", 
+            "long": "120.26611"
+        }, 
+        {
+            "lat": "14.73694", 
+            "name": "Meycauayan", 
+            "long": "120.96083"
+        }, 
+        {
+            "lat": "15.0646", 
+            "name": "Mexico", 
+            "long": "120.7198"
+        }, 
+        {
+            "lat": "15.5363", 
+            "name": "Masinloc", 
+            "long": "119.9502"
+        }, 
+        {
+            "lat": "14.896", 
+            "name": "Masantol", 
+            "long": "120.7092"
+        }, 
+        {
+            "lat": "14.43385", 
+            "name": "Mariveles", 
+            "long": "120.48569"
+        }, 
+        {
+            "lat": "14.75778", 
+            "name": "Marilao", 
+            "long": "120.94833"
+        }, 
+        {
+            "lat": "15.09621", 
+            "name": "Manibaug Pasig", 
+            "long": "120.56445"
+        }, 
+        {
+            "lat": "14.8443", 
+            "name": "Malolos", 
+            "long": "120.81039"
+        }, 
+        {
+            "lat": "15.2151", 
+            "name": "Magalang", 
+            "long": "120.6596"
+        }, 
+        {
+            "lat": "15.22303", 
+            "name": "Mabalacat City", 
+            "long": "120.57117"
+        }, 
+        {
+            "lat": "14.9405", 
+            "name": "Lubao", 
+            "long": "120.6011"
+        }, 
+        {
+            "lat": "14.78869", 
+            "name": "Loma de Gato", 
+            "long": "120.99889"
+        }, 
+        {
+            "lat": "14.56194", 
+            "name": "Limay", 
+            "long": "120.59833"
+        }, 
+        {
+            "lat": "15.5865", 
+            "name": "Laur", 
+            "long": "121.1834"
+        }, 
+        {
+            "lat": "15.44125", 
+            "name": "La Paz", 
+            "long": "120.72863"
+        }, 
+        {
+            "lat": "15.3275", 
+            "name": "Jaen", 
+            "long": "120.9192"
+        }, 
+        {
+            "lat": "15.3276", 
+            "name": "Iba", 
+            "long": "119.978"
+        }, 
+        {
+            "lat": "14.8314", 
+            "name": "Hermosa", 
+            "long": "120.5081"
+        }, 
+        {
+            "lat": "14.83413", 
+            "name": "Hagonoy", 
+            "long": "120.73271"
+        }, 
+        {
+            "lat": "14.8361", 
+            "name": "Guyong", 
+            "long": "120.97844"
+        }, 
+        {
+            "lat": "15.6605", 
+            "name": "Guimba", 
+            "long": "120.7683"
+        }, 
+        {
+            "lat": "14.83333", 
+            "name": "Guiguinto", 
+            "long": "120.88333"
+        }, 
+        {
+            "lat": "15.6065", 
+            "name": "Gerona", 
+            "long": "120.5978"
+        }, 
+        {
+            "lat": "15.35075", 
+            "name": "General Tinio", 
+            "long": "121.04773"
+        }, 
+        {
+            "lat": "15.6025", 
+            "name": "General Mamerto Natividad", 
+            "long": "121.0515"
+        }, 
+        {
+            "lat": "15.3072", 
+            "name": "Gapan", 
+            "long": "120.9464"
+        }, 
+        {
+            "lat": "14.87827", 
+            "name": "Dinalupihan", 
+            "long": "120.45221"
+        }, 
+        {
+            "lat": "15.03601", 
+            "name": "Del Pilar", 
+            "long": "120.69935"
+        }, 
+        {
+            "lat": "15.32546", 
+            "name": "Concepcion", 
+            "long": "120.65723"
+        }, 
+        {
+            "lat": "14.93039", 
+            "name": "Castillejos", 
+            "long": "120.20143"
+        }, 
+        {
+            "lat": "15.33117", 
+            "name": "Capas", 
+            "long": "120.5898"
+        }, 
+        {
+            "lat": "15.0956", 
+            "name": "Candaba", 
+            "long": "120.8267"
+        }, 
+        {
+            "lat": "15.6866", 
+            "name": "Camiling", 
+            "long": "120.4128"
+        }, 
+        {
+            "lat": "14.91639", 
+            "name": "Calumpit", 
+            "long": "120.76583"
+        }, 
+        {
+            "lat": "15.2488", 
+            "name": "Cabiao", 
+            "long": "120.8548"
+        }, 
+        {
+            "lat": "15.48586", 
+            "name": "Cabanatuan City", 
+            "long": "120.96648"
+        }, 
+        {
+            "lat": "14.95806", 
+            "name": "Bustos", 
+            "long": "120.91778"
+        }, 
+        {
+            "lat": "15.72892", 
+            "name": "Burgos", 
+            "long": "120.57224"
+        }, 
+        {
+            "lat": "15.08262", 
+            "name": "Bulaon", 
+            "long": "120.66288"
+        }, 
+        {
+            "lat": "14.79278", 
+            "name": "Bulacan", 
+            "long": "120.87889"
+        }, 
+        {
+            "lat": "15.2896", 
+            "name": "Botolan", 
+            "long": "120.0245"
+        }, 
+        {
+            "lat": "15.6321", 
+            "name": "Bongabon", 
+            "long": "121.1448"
+        }, 
+        {
+            "lat": "14.79833", 
+            "name": "Bocaue", 
+            "long": "120.92611"
+        }, 
+        {
+            "lat": "14.95472", 
+            "name": "Baliuag", 
+            "long": "120.89694"
+        }, 
+        {
+            "lat": "14.67611", 
+            "name": "Balanga", 
+            "long": "120.53611"
+        }, 
+        {
+            "lat": "14.81667", 
+            "name": "Balagtas", 
+            "long": "120.86667"
+        }, 
+        {
+            "lat": "15.08333", 
+            "name": "Babo-Pangulo", 
+            "long": "120.51667"
+        }, 
+        {
+            "lat": "15.1505", 
+            "name": "Arayat", 
+            "long": "120.7697"
+        }, 
+        {
+            "lat": "14.95333", 
+            "name": "Apalit", 
+            "long": "120.77"
+        }, 
+        {
+            "lat": "15.15", 
+            "name": "Angeles City", 
+            "long": "120.58333"
+        }, 
+        {
+            "lat": "14.9285", 
+            "name": "Angat", 
+            "long": "121.03"
+        }, 
+        {
+            "lat": "15.5", 
+            "name": "Aliaga", 
+            "long": "120.843"
+        }, 
+        {
+            "lat": "14.73347", 
+            "name": "Abucay", 
+            "long": "120.53358"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "10.3773", 
+            "name": "Toledo", 
+            "long": "123.6386"
+        }, 
+        {
+            "lat": "9.5162", 
+            "name": "Tanjay", 
+            "long": "123.158"
+        }, 
+        {
+            "lat": "10.24472", 
+            "name": "Talisay", 
+            "long": "123.84944"
+        }, 
+        {
+            "lat": "9.65556", 
+            "name": "Tagbilaran City", 
+            "long": "123.85219"
+        }, 
+        {
+            "lat": "9.3584", 
+            "name": "Sibulan", 
+            "long": "123.285"
+        }, 
+        {
+            "lat": "9.3337", 
+            "name": "Santa Catalina", 
+            "long": "122.8637"
+        }, 
+        {
+            "lat": "10.1624", 
+            "name": "San Fernando", 
+            "long": "123.7076"
+        }, 
+        {
+            "lat": "10.2708", 
+            "name": "Pinamungahan", 
+            "long": "123.5839"
+        }, 
+        {
+            "lat": "10.20898", 
+            "name": "Naga", 
+            "long": "123.758"
+        }, 
+        {
+            "lat": "10.24498", 
+            "name": "Minglanilla", 
+            "long": "123.7964"
+        }, 
+        {
+            "lat": "10.32361", 
+            "name": "Mandaue City", 
+            "long": "123.92222"
+        }, 
+        {
+            "lat": "10.3991", 
+            "name": "Liloan", 
+            "long": "123.9992"
+        }, 
+        {
+            "lat": "10.31028", 
+            "name": "Lapu-Lapu City", 
+            "long": "123.94944"
+        }, 
+        {
+            "lat": "10.1214", 
+            "name": "Guihul&#241;gan", 
+            "long": "123.2742"
+        }, 
+        {
+            "lat": "9.30722", 
+            "name": "Dumaguete", 
+            "long": "123.30261"
+        }, 
+        {
+            "lat": "10.52083", 
+            "name": "Danao", 
+            "long": "124.02722"
+        }, 
+        {
+            "lat": "9.55421", 
+            "name": "Danao", 
+            "long": "123.75648"
+        }, 
+        {
+            "lat": "10.25194", 
+            "name": "Cordova", 
+            "long": "123.94944"
+        }, 
+        {
+            "lat": "10.3766", 
+            "name": "Consolacion", 
+            "long": "123.9573"
+        }, 
+        {
+            "lat": "10.455", 
+            "name": "Compostela", 
+            "long": "124.0106"
+        }, 
+        {
+            "lat": "10.31672", 
+            "name": "Cebu City", 
+            "long": "123.89071"
+        }, 
+        {
+            "lat": "10.59306", 
+            "name": "Cogan", 
+            "long": "124.01778"
+        }, 
+        {
+            "lat": "10.1061", 
+            "name": "Carcar", 
+            "long": "123.6402"
+        }, 
+        {
+            "lat": "10.38697", 
+            "name": "Canlaon", 
+            "long": "123.2227"
+        }, 
+        {
+            "lat": "11.0517", 
+            "name": "Bogo", 
+            "long": "124.0055"
+        }, 
+        {
+            "lat": "9.3649", 
+            "name": "Bayawan", 
+            "long": "122.804"
+        }, 
+        {
+            "lat": "11.1683", 
+            "name": "Bantayan", 
+            "long": "123.7223"
+        }, 
+        {
+            "lat": "10.5039", 
+            "name": "Balamban", 
+            "long": "123.7156"
+        }, 
+        {
+            "lat": "9.59111", 
+            "name": "Bais", 
+            "long": "123.12278"
+        }
+    ]
+}

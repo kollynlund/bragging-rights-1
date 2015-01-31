@@ -1,0 +1,1121 @@
+{
+    "02": [
+        {
+            "lat": "49.05798", 
+            "name": "Abbotsford", 
+            "long": "-122.25257"
+        }, 
+        {
+            "lat": "49.31637", 
+            "name": "Anmore", 
+            "long": "-122.85263"
+        }, 
+        {
+            "lat": "49.26636", 
+            "name": "Burnaby", 
+            "long": "-122.95263"
+        }, 
+        {
+            "lat": "50.01634", 
+            "name": "Campbell River", 
+            "long": "-125.24459"
+        }, 
+        {
+            "lat": "49.16638", 
+            "name": "Chilliwack", 
+            "long": "-121.95257"
+        }, 
+        {
+            "lat": "49.28297", 
+            "name": "Coquitlam", 
+            "long": "-122.75262"
+        }, 
+        {
+            "lat": "49.68657", 
+            "name": "Courtenay", 
+            "long": "-124.9936"
+        }, 
+        {
+            "lat": "49.49991", 
+            "name": "Cranbrook", 
+            "long": "-115.76879"
+        }, 
+        {
+            "lat": "49.14399", 
+            "name": "Delta", 
+            "long": "-122.9068"
+        }, 
+        {
+            "lat": "48.78293", 
+            "name": "Duncan", 
+            "long": "-123.70266"
+        }, 
+        {
+            "lat": "56.24988", 
+            "name": "Fort St. John", 
+            "long": "-120.85292"
+        }, 
+        {
+            "lat": "50.66648", 
+            "name": "Kamloops", 
+            "long": "-120.3192"
+        }, 
+        {
+            "lat": "49.88307", 
+            "name": "Kelowna", 
+            "long": "-119.48568"
+        }, 
+        {
+            "lat": "48.44963", 
+            "name": "Langford", 
+            "long": "-123.50261"
+        }, 
+        {
+            "lat": "49.10107", 
+            "name": "Langley", 
+            "long": "-122.65883"
+        }, 
+        {
+            "lat": "49.08297", 
+            "name": "Langley", 
+            "long": "-122.58589"
+        }, 
+        {
+            "lat": "49.21939", 
+            "name": "Maple Ridge", 
+            "long": "-122.60193"
+        }, 
+        {
+            "lat": "49.16638", 
+            "name": "Nanaimo", 
+            "long": "-123.94003"
+        }, 
+        {
+            "lat": "49.20678", 
+            "name": "New Westminster", 
+            "long": "-122.91092"
+        }, 
+        {
+            "lat": "48.84133", 
+            "name": "North Cowichan", 
+            "long": "-123.68596"
+        }, 
+        {
+            "lat": "49.31636", 
+            "name": "North Vancouver", 
+            "long": "-123.06934"
+        }, 
+        {
+            "lat": "48.44964", 
+            "name": "Oak Bay", 
+            "long": "-123.3026"
+        }, 
+        {
+            "lat": "49.31947", 
+            "name": "Parksville", 
+            "long": "-124.31575"
+        }, 
+        {
+            "lat": "49.48062", 
+            "name": "Penticton", 
+            "long": "-119.58584"
+        }, 
+        {
+            "lat": "49.22119", 
+            "name": "Pitt Meadows", 
+            "long": "-122.68965"
+        }, 
+        {
+            "lat": "49.24133", 
+            "name": "Port Alberni", 
+            "long": "-124.8028"
+        }, 
+        {
+            "lat": "49.28297", 
+            "name": "Port Moody", 
+            "long": "-122.85263"
+        }, 
+        {
+            "lat": "53.9166", 
+            "name": "Prince George", 
+            "long": "-122.75301"
+        }, 
+        {
+            "lat": "49.17003", 
+            "name": "Richmond", 
+            "long": "-123.13683"
+        }, 
+        {
+            "lat": "50.6998", 
+            "name": "Salmon Arm", 
+            "long": "-119.30237"
+        }, 
+        {
+            "lat": "49.10635", 
+            "name": "Surrey", 
+            "long": "-122.82509"
+        }, 
+        {
+            "lat": "54.51634", 
+            "name": "Terrace", 
+            "long": "-128.60345"
+        }, 
+        {
+            "lat": "49.24966", 
+            "name": "Vancouver", 
+            "long": "-123.11934"
+        }, 
+        {
+            "lat": "50.26729", 
+            "name": "Vernon", 
+            "long": "-119.27337"
+        }, 
+        {
+            "lat": "48.43294", 
+            "name": "Victoria", 
+            "long": "-123.3693"
+        }, 
+        {
+            "lat": "49.28333", 
+            "name": "West End", 
+            "long": "-123.13333"
+        }, 
+        {
+            "lat": "49.01636", 
+            "name": "White Rock", 
+            "long": "-122.8026"
+        }, 
+        {
+            "lat": "50.36386", 
+            "name": "Okanagan", 
+            "long": "-119.34997"
+        }, 
+        {
+            "lat": "49.8625", 
+            "name": "West Kelowna", 
+            "long": "-119.58333"
+        }, 
+        {
+            "lat": "49.08938", 
+            "name": "Ladner", 
+            "long": "-123.08241"
+        }, 
+        {
+            "lat": "49.16473", 
+            "name": "Walnut Grove", 
+            "long": "-122.64042"
+        }, 
+        {
+            "lat": "49.36672", 
+            "name": "West Vancouver", 
+            "long": "-123.16652"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "48.55009", 
+            "name": "Alma", 
+            "long": "-71.6491"
+        }, 
+        {
+            "lat": "48.56688", 
+            "name": "Amos", 
+            "long": "-78.11624"
+        }, 
+        {
+            "lat": "49.21679", 
+            "name": "Baie-Comeau", 
+            "long": "-68.14894"
+        }, 
+        {
+            "lat": "45.43341", 
+            "name": "Beaconsfield", 
+            "long": "-73.86586"
+        }, 
+        {
+            "lat": "45.56678", 
+            "name": "Beloeil", 
+            "long": "-73.19915"
+        }, 
+        {
+            "lat": "45.66678", 
+            "name": "Blainville", 
+            "long": "-73.88249"
+        }, 
+        {
+            "lat": "45.61678", 
+            "name": "Boisbriand", 
+            "long": "-73.83249"
+        }, 
+        {
+            "lat": "45.59104", 
+            "name": "Boucherville", 
+            "long": "-73.43605"
+        }, 
+        {
+            "lat": "45.45008", 
+            "name": "Brossard", 
+            "long": "-73.46583"
+        }, 
+        {
+            "lat": "45.38338", 
+            "name": "Candiac", 
+            "long": "-73.51587"
+        }, 
+        {
+            "lat": "45.45008", 
+            "name": "Chambly", 
+            "long": "-73.28246"
+        }, 
+        {
+            "lat": "45.38338", 
+            "name": "Ch&#226;teauguay", 
+            "long": "-73.74919"
+        }, 
+        {
+            "lat": "45.46536", 
+            "name": "C&#244;te-Saint-Luc", 
+            "long": "-73.66585"
+        }, 
+        {
+            "lat": "45.53455", 
+            "name": "Deux-Montagnes", 
+            "long": "-73.90168"
+        }, 
+        {
+            "lat": "45.49452", 
+            "name": "Dollard-Des Ormeaux", 
+            "long": "-73.82419"
+        }, 
+        {
+            "lat": "45.4473", 
+            "name": "Dorval", 
+            "long": "-73.75335"
+        }, 
+        {
+            "lat": "45.88336", 
+            "name": "Drummondville", 
+            "long": "-72.48241"
+        }, 
+        {
+            "lat": "45.47723", 
+            "name": "Gatineau", 
+            "long": "-75.70164"
+        }, 
+        {
+            "lat": "45.40008", 
+            "name": "Granby", 
+            "long": "-72.73243"
+        }, 
+        {
+            "lat": "46.01677", 
+            "name": "Joliette", 
+            "long": "-73.44915"
+        }, 
+        {
+            "lat": "45.45008", 
+            "name": "Kirkland", 
+            "long": "-73.86586"
+        }, 
+        {
+            "lat": "45.41678", 
+            "name": "La Prairie", 
+            "long": "-73.49917"
+        }, 
+        {
+            "lat": "45.82318", 
+            "name": "L'Assomption", 
+            "long": "-73.4294"
+        }, 
+        {
+            "lat": "45.56995", 
+            "name": "Laval", 
+            "long": "-73.692"
+        }, 
+        {
+            "lat": "45.53121", 
+            "name": "Longueuil", 
+            "long": "-73.51806"
+        }, 
+        {
+            "lat": "45.26678", 
+            "name": "Magog", 
+            "long": "-72.14909"
+        }, 
+        {
+            "lat": "45.74965", 
+            "name": "Mascouche", 
+            "long": "-73.59956"
+        }, 
+        {
+            "lat": "45.65008", 
+            "name": "Mirabel", 
+            "long": "-74.08251"
+        }, 
+        {
+            "lat": "45.50884", 
+            "name": "Montr&#233;al", 
+            "long": "-73.58781"
+        }, 
+        {
+            "lat": "45.51675", 
+            "name": "Mont-Royal", 
+            "long": "-73.64918"
+        }, 
+        {
+            "lat": "45.56678", 
+            "name": "Mont-Saint-Hilaire", 
+            "long": "-73.19915"
+        }, 
+        {
+            "lat": "45.44868", 
+            "name": "Pointe-Claire", 
+            "long": "-73.81669"
+        }, 
+        {
+            "lat": "45.74222", 
+            "name": "Repentigny", 
+            "long": "-73.45008"
+        }, 
+        {
+            "lat": "48.23656", 
+            "name": "Rouyn-Noranda", 
+            "long": "-79.02311"
+        }, 
+        {
+            "lat": "48.41675", 
+            "name": "Saguenay", 
+            "long": "-71.06573"
+        }, 
+        {
+            "lat": "45.53338", 
+            "name": "Saint-Basile-le-Grand", 
+            "long": "-73.28246"
+        }, 
+        {
+            "lat": "45.53341", 
+            "name": "Saint-Bruno-de-Montarville", 
+            "long": "-73.34916"
+        }, 
+        {
+            "lat": "45.36678", 
+            "name": "Saint-Constant", 
+            "long": "-73.56588"
+        }, 
+        {
+            "lat": "46.31836", 
+            "name": "Sainte-Catherine", 
+            "long": "-72.56632"
+        }, 
+        {
+            "lat": "45.58338", 
+            "name": "Sainte-Julie", 
+            "long": "-73.33246"
+        }, 
+        {
+            "lat": "45.63922", 
+            "name": "Sainte-Th&#233;r&#232;se", 
+            "long": "-73.82757"
+        }, 
+        {
+            "lat": "45.565", 
+            "name": "Saint-Eustache", 
+            "long": "-73.90554"
+        }, 
+        {
+            "lat": "45.63076", 
+            "name": "Saint-Hyacinthe", 
+            "long": "-72.95699"
+        }, 
+        {
+            "lat": "45.30713", 
+            "name": "Saint-Jean-sur-Richelieu", 
+            "long": "-73.26259"
+        }, 
+        {
+            "lat": "45.78036", 
+            "name": "Saint-J&#233;r&#244;me", 
+            "long": "-74.00365"
+        }, 
+        {
+            "lat": "45.50008", 
+            "name": "Saint-Laurent", 
+            "long": "-73.66585"
+        }, 
+        {
+            "lat": "45.40008", 
+            "name": "Saint-Lazare", 
+            "long": "-74.13256"
+        }, 
+        {
+            "lat": "45.58773", 
+            "name": "Saint-L&#233;onard", 
+            "long": "-73.59501"
+        }, 
+        {
+            "lat": "45.25008", 
+            "name": "Salaberry-de-Valleyfield", 
+            "long": "-74.13253"
+        }, 
+        {
+            "lat": "50.20011", 
+            "name": "Sept-&#206;les", 
+            "long": "-66.38208"
+        }, 
+        {
+            "lat": "46.56675", 
+            "name": "Shawinigan", 
+            "long": "-72.74913"
+        }, 
+        {
+            "lat": "45.40008", 
+            "name": "Sherbrooke", 
+            "long": "-71.89908"
+        }, 
+        {
+            "lat": "46.03336", 
+            "name": "Sorel-Tracy", 
+            "long": "-73.11585"
+        }, 
+        {
+            "lat": "45.70004", 
+            "name": "Terrebonne", 
+            "long": "-73.64732"
+        }, 
+        {
+            "lat": "46.34515", 
+            "name": "Trois-Rivi&#232;res", 
+            "long": "-72.5477"
+        }, 
+        {
+            "lat": "48.10018", 
+            "name": "Val-d'Or", 
+            "long": "-77.7828"
+        }, 
+        {
+            "lat": "45.68338", 
+            "name": "Varennes", 
+            "long": "-73.43246"
+        }, 
+        {
+            "lat": "45.40008", 
+            "name": "Vaudreuil-Dorion", 
+            "long": "-74.03251"
+        }, 
+        {
+            "lat": "46.05007", 
+            "name": "Victoriaville", 
+            "long": "-71.96579"
+        }, 
+        {
+            "lat": "45.48341", 
+            "name": "Westmount", 
+            "long": "-73.59918"
+        }, 
+        {
+            "lat": "46.81228", 
+            "name": "Qu&#233;bec", 
+            "long": "-71.21454"
+        }, 
+        {
+            "lat": "46.80326", 
+            "name": "L&#233;vis", 
+            "long": "-71.17793"
+        }, 
+        {
+            "lat": "48.44879", 
+            "name": "Rimouski", 
+            "long": "-68.52396"
+        }, 
+        {
+            "lat": "47.82699", 
+            "name": "Rivi&#232;re-du-Loup", 
+            "long": "-69.54243"
+        }, 
+        {
+            "lat": "46.79392", 
+            "name": "L'Ancienne-Lorette", 
+            "long": "-71.35191"
+        }, 
+        {
+            "lat": "46.09371", 
+            "name": "Thetford-Mines", 
+            "long": "-71.30539"
+        }, 
+        {
+            "lat": "46.66667", 
+            "name": "Bellechasse Regional County Municipality", 
+            "long": "-70.71667"
+        }, 
+        {
+            "lat": "48.41648", 
+            "name": "Jonqui&#232;re", 
+            "long": "-71.24884"
+        }, 
+        {
+            "lat": "46.74064", 
+            "name": "Saint-Augustin-de-Desmaures", 
+            "long": "-71.45131"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "62.456", 
+            "name": "Yellowknife", 
+            "long": "-114.35255"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "51.30011", 
+            "name": "Airdrie", 
+            "long": "-114.03528"
+        }, 
+        {
+            "lat": "51.05011", 
+            "name": "Calgary", 
+            "long": "-114.08529"
+        }, 
+        {
+            "lat": "53.01684", 
+            "name": "Camrose", 
+            "long": "-112.83525"
+        }, 
+        {
+            "lat": "51.18341", 
+            "name": "Cochrane", 
+            "long": "-114.46871"
+        }, 
+        {
+            "lat": "53.55014", 
+            "name": "Edmonton", 
+            "long": "-113.46871"
+        }, 
+        {
+            "lat": "56.72676", 
+            "name": "Fort McMurray", 
+            "long": "-111.38103"
+        }, 
+        {
+            "lat": "55.16667", 
+            "name": "Grande Prairie", 
+            "long": "-118.80271"
+        }, 
+        {
+            "lat": "53.26682", 
+            "name": "Leduc", 
+            "long": "-113.55201"
+        }, 
+        {
+            "lat": "49.69999", 
+            "name": "Lethbridge", 
+            "long": "-112.81856"
+        }, 
+        {
+            "lat": "50.05006", 
+            "name": "Medicine Hat", 
+            "long": "-110.66834"
+        }, 
+        {
+            "lat": "52.26682", 
+            "name": "Red Deer", 
+            "long": "-113.802"
+        }, 
+        {
+            "lat": "53.51684", 
+            "name": "Sherwood Park", 
+            "long": "-113.3187"
+        }, 
+        {
+            "lat": "53.53344", 
+            "name": "Spruce Grove", 
+            "long": "-113.91874"
+        }, 
+        {
+            "lat": "53.63344", 
+            "name": "St. Albert", 
+            "long": "-113.63533"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "44.67134", 
+            "name": "Dartmouth", 
+            "long": "-63.57719"
+        }, 
+        {
+            "lat": "46.19695", 
+            "name": "Glace Bay", 
+            "long": "-59.95698"
+        }, 
+        {
+            "lat": "45.58344", 
+            "name": "New Glasgow", 
+            "long": "-62.64863"
+        }, 
+        {
+            "lat": "45.36685", 
+            "name": "Truro", 
+            "long": "-63.26538"
+        }, 
+        {
+            "lat": "44.64533", 
+            "name": "Halifax", 
+            "long": "-63.57239"
+        }, 
+        {
+            "lat": "46.1351", 
+            "name": "Sydney", 
+            "long": "-60.1831"
+        }, 
+        {
+            "lat": "44.67244", 
+            "name": "Cole Harbour", 
+            "long": "-63.47506"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "46.07844", 
+            "name": "Dieppe", 
+            "long": "-64.68735"
+        }, 
+        {
+            "lat": "45.94541", 
+            "name": "Fredericton", 
+            "long": "-66.66558"
+        }, 
+        {
+            "lat": "47.02895", 
+            "name": "Miramichi", 
+            "long": "-65.50186"
+        }, 
+        {
+            "lat": "46.11594", 
+            "name": "Moncton", 
+            "long": "-64.80186"
+        }, 
+        {
+            "lat": "45.27271", 
+            "name": "Saint John", 
+            "long": "-66.06766"
+        }, 
+        {
+            "lat": "47.3737", 
+            "name": "Edmundston", 
+            "long": "-68.32512"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "49.84692", 
+            "name": "Brandon", 
+            "long": "-99.95306"
+        }, 
+        {
+            "lat": "49.8844", 
+            "name": "Winnipeg", 
+            "long": "-97.14704"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "43.85012", 
+            "name": "Ajax", 
+            "long": "-79.03288"
+        }, 
+        {
+            "lat": "44.40011", 
+            "name": "Barrie", 
+            "long": "-79.66634"
+        }, 
+        {
+            "lat": "44.16682", 
+            "name": "Belleville", 
+            "long": "-77.38277"
+        }, 
+        {
+            "lat": "44.11681", 
+            "name": "Bradford West Gwillimbury", 
+            "long": "-79.61633"
+        }, 
+        {
+            "lat": "43.68341", 
+            "name": "Brampton", 
+            "long": "-79.76633"
+        }, 
+        {
+            "lat": "43.1334", 
+            "name": "Brant", 
+            "long": "-80.34967"
+        }, 
+        {
+            "lat": "43.1334", 
+            "name": "Brantford", 
+            "long": "-80.26636"
+        }, 
+        {
+            "lat": "44.59132", 
+            "name": "Brockville", 
+            "long": "-75.68705"
+        }, 
+        {
+            "lat": "43.38621", 
+            "name": "Burlington", 
+            "long": "-79.83713"
+        }, 
+        {
+            "lat": "43.3601", 
+            "name": "Cambridge", 
+            "long": "-80.31269"
+        }, 
+        {
+            "lat": "45.5501", 
+            "name": "Clarence-Rockland", 
+            "long": "-75.29101"
+        }, 
+        {
+            "lat": "43.95977", 
+            "name": "Cobourg", 
+            "long": "-78.16515"
+        }, 
+        {
+            "lat": "44.4834", 
+            "name": "Collingwood", 
+            "long": "-80.21638"
+        }, 
+        {
+            "lat": "45.01809", 
+            "name": "Cornwall", 
+            "long": "-74.72815"
+        }, 
+        {
+            "lat": "43.65421", 
+            "name": "Etobicoke", 
+            "long": "-79.56711"
+        }, 
+        {
+            "lat": "42.90012", 
+            "name": "Fort Erie", 
+            "long": "-78.93286"
+        }, 
+        {
+            "lat": "46.49", 
+            "name": "Greater Sudbury", 
+            "long": "-80.99001"
+        }, 
+        {
+            "lat": "44.25012", 
+            "name": "Greater Napanee", 
+            "long": "-76.94944"
+        }, 
+        {
+            "lat": "43.54594", 
+            "name": "Guelph", 
+            "long": "-80.25599"
+        }, 
+        {
+            "lat": "43.25011", 
+            "name": "Hamilton", 
+            "long": "-79.84963"
+        }, 
+        {
+            "lat": "45.33341", 
+            "name": "Huntsville", 
+            "long": "-79.21632"
+        }, 
+        {
+            "lat": "44.25011", 
+            "name": "Keswick", 
+            "long": "-79.46632"
+        }, 
+        {
+            "lat": "44.22976", 
+            "name": "Kingston", 
+            "long": "-76.48098"
+        }, 
+        {
+            "lat": "43.42537", 
+            "name": "Kitchener", 
+            "long": "-80.5112"
+        }, 
+        {
+            "lat": "42.98339", 
+            "name": "London", 
+            "long": "-81.23304"
+        }, 
+        {
+            "lat": "43.86682", 
+            "name": "Markham", 
+            "long": "-79.2663"
+        }, 
+        {
+            "lat": "44.7501", 
+            "name": "Midland", 
+            "long": "-79.88296"
+        }, 
+        {
+            "lat": "43.51681", 
+            "name": "Milton", 
+            "long": "-79.88294"
+        }, 
+        {
+            "lat": "43.5789", 
+            "name": "Mississauga", 
+            "long": "-79.6583"
+        }, 
+        {
+            "lat": "44.05011", 
+            "name": "Newmarket", 
+            "long": "-79.46631"
+        }, 
+        {
+            "lat": "43.10012", 
+            "name": "Niagara Falls", 
+            "long": "-79.06627"
+        }, 
+        {
+            "lat": "42.8334", 
+            "name": "Norfolk County", 
+            "long": "-80.38297"
+        }, 
+        {
+            "lat": "46.3168", 
+            "name": "North Bay", 
+            "long": "-79.46633"
+        }, 
+        {
+            "lat": "43.76681", 
+            "name": "North York", 
+            "long": "-79.4163"
+        }, 
+        {
+            "lat": "43.45011", 
+            "name": "Oakville", 
+            "long": "-79.68292"
+        }, 
+        {
+            "lat": "43.9168", 
+            "name": "Orangeville", 
+            "long": "-80.09967"
+        }, 
+        {
+            "lat": "44.60868", 
+            "name": "Orillia", 
+            "long": "-79.42068"
+        }, 
+        {
+            "lat": "43.90012", 
+            "name": "Oshawa", 
+            "long": "-78.84957"
+        }, 
+        {
+            "lat": "45.41117", 
+            "name": "Ottawa", 
+            "long": "-75.69812"
+        }, 
+        {
+            "lat": "44.56717", 
+            "name": "Owen Sound", 
+            "long": "-80.94349"
+        }, 
+        {
+            "lat": "45.81681", 
+            "name": "Pembroke", 
+            "long": "-77.11616"
+        }, 
+        {
+            "lat": "45.89452", 
+            "name": "Petawawa", 
+            "long": "-77.28007"
+        }, 
+        {
+            "lat": "44.30012", 
+            "name": "Peterborough", 
+            "long": "-78.31623"
+        }, 
+        {
+            "lat": "43.90012", 
+            "name": "Pickering", 
+            "long": "-79.13289"
+        }, 
+        {
+            "lat": "42.90012", 
+            "name": "Port Colborne", 
+            "long": "-79.23288"
+        }, 
+        {
+            "lat": "44.00012", 
+            "name": "Prince Edward", 
+            "long": "-77.24946"
+        }, 
+        {
+            "lat": "44.18342", 
+            "name": "Quinte West", 
+            "long": "-77.56618"
+        }, 
+        {
+            "lat": "46.60873", 
+            "name": "Rayside-Balfour", 
+            "long": "-81.20763"
+        }, 
+        {
+            "lat": "43.87111", 
+            "name": "Richmond Hill", 
+            "long": "-79.43725"
+        }, 
+        {
+            "lat": "42.97866", 
+            "name": "Sarnia", 
+            "long": "-82.40407"
+        }, 
+        {
+            "lat": "46.51677", 
+            "name": "Sault Ste. Marie", 
+            "long": "-84.33325"
+        }, 
+        {
+            "lat": "43.17126", 
+            "name": "St. Catharines", 
+            "long": "-79.24267"
+        }, 
+        {
+            "lat": "43.36679", 
+            "name": "Stratford", 
+            "long": "-80.94972"
+        }, 
+        {
+            "lat": "42.77361", 
+            "name": "St. Thomas", 
+            "long": "-81.18038"
+        }, 
+        {
+            "lat": "43.11682", 
+            "name": "Thorold", 
+            "long": "-79.19958"
+        }, 
+        {
+            "lat": "48.38202", 
+            "name": "Thunder Bay", 
+            "long": "-89.25018"
+        }, 
+        {
+            "lat": "48.46686", 
+            "name": "Timmins", 
+            "long": "-81.33312"
+        }, 
+        {
+            "lat": "43.70011", 
+            "name": "Toronto", 
+            "long": "-79.4163"
+        }, 
+        {
+            "lat": "43.8361", 
+            "name": "Vaughan", 
+            "long": "-79.49827"
+        }, 
+        {
+            "lat": "43.4668", 
+            "name": "Waterloo", 
+            "long": "-80.51639"
+        }, 
+        {
+            "lat": "42.98342", 
+            "name": "Welland", 
+            "long": "-79.24958"
+        }, 
+        {
+            "lat": "42.30008", 
+            "name": "Windsor", 
+            "long": "-83.01654"
+        }, 
+        {
+            "lat": "43.13339", 
+            "name": "Woodstock", 
+            "long": "-80.7497"
+        }, 
+        {
+            "lat": "43.21806", 
+            "name": "Ancaster", 
+            "long": "-79.98716"
+        }, 
+        {
+            "lat": "43.76672", 
+            "name": "Willowdale", 
+            "long": "-79.39909"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "46.23525", 
+            "name": "Charlottetown", 
+            "long": "-63.12671"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "60.71611", 
+            "name": "Whitehorse", 
+            "long": "-135.05375"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "53.28346", 
+            "name": "Lloydminster", 
+            "long": "-110.00157"
+        }, 
+        {
+            "lat": "50.40005", 
+            "name": "Moose Jaw", 
+            "long": "-105.53445"
+        }, 
+        {
+            "lat": "52.77972", 
+            "name": "North Battleford", 
+            "long": "-108.2967"
+        }, 
+        {
+            "lat": "53.20008", 
+            "name": "Prince Albert", 
+            "long": "-105.76772"
+        }, 
+        {
+            "lat": "50.45008", 
+            "name": "Regina", 
+            "long": "-104.6178"
+        }, 
+        {
+            "lat": "52.11679", 
+            "name": "Saskatoon", 
+            "long": "-106.63452"
+        }, 
+        {
+            "lat": "51.2167", 
+            "name": "Yorkton", 
+            "long": "-102.46766"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "47.49989", 
+            "name": "Conception Bay South", 
+            "long": "-52.99806"
+        }, 
+        {
+            "lat": "48.95001", 
+            "name": "Corner Brook", 
+            "long": "-57.95202"
+        }, 
+        {
+            "lat": "47.51659", 
+            "name": "Mount Pearl", 
+            "long": "-52.78135"
+        }, 
+        {
+            "lat": "47.56494", 
+            "name": "St. John's", 
+            "long": "-52.70931"
+        }
+    ]
+}

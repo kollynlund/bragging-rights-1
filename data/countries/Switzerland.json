@@ -1,0 +1,455 @@
+{
+    "BE": [
+        {
+            "lat": "46.75118", 
+            "name": "Thun", 
+            "long": "7.62166"
+        }, 
+        {
+            "lat": "46.77807", 
+            "name": "Steffisburg", 
+            "long": "7.63249"
+        }, 
+        {
+            "lat": "46.92436", 
+            "name": "K&#246;niz", 
+            "long": "7.41457"
+        }, 
+        {
+            "lat": "47.13713", 
+            "name": "Biel/Bienne", 
+            "long": "7.24608"
+        }, 
+        {
+            "lat": "46.94809", 
+            "name": "Bern", 
+            "long": "7.44744"
+        }
+    ], 
+    "LU": [
+        {
+            "lat": "47.05048", 
+            "name": "Luzern", 
+            "long": "8.30635"
+        }, 
+        {
+            "lat": "47.05", 
+            "name": "Littau", 
+            "long": "8.26274"
+        }, 
+        {
+            "lat": "47.03537", 
+            "name": "Kriens", 
+            "long": "8.27631"
+        }, 
+        {
+            "lat": "47.07772", 
+            "name": "Emmen", 
+            "long": "8.27888"
+        }
+    ], 
+    "VD": [
+        {
+            "lat": "46.77852", 
+            "name": "Yverdon-les-Bains", 
+            "long": "6.64115"
+        }, 
+        {
+            "lat": "46.46299", 
+            "name": "Vevey", 
+            "long": "6.84345"
+        }, 
+        {
+            "lat": "46.53989", 
+            "name": "Renens", 
+            "long": "6.5881"
+        }, 
+        {
+            "lat": "46.51027", 
+            "name": "Pully", 
+            "long": "6.66183"
+        }, 
+        {
+            "lat": "46.38318", 
+            "name": "Nyon", 
+            "long": "6.23955"
+        }, 
+        {
+            "lat": "46.43301", 
+            "name": "Montreux", 
+            "long": "6.91143"
+        }, 
+        {
+            "lat": "46.44527", 
+            "name": "Le Ch&#226;telard", 
+            "long": "6.89908"
+        }, 
+        {
+            "lat": "46.516", 
+            "name": "Lausanne", 
+            "long": "6.63282"
+        }
+    ], 
+    "GR": [
+        {
+            "lat": "46.84986", 
+            "name": "Chur", 
+            "long": "9.53287"
+        }
+    ], 
+    "AG": [
+        {
+            "lat": "47.47049", 
+            "name": "Wettingen", 
+            "long": "8.31636"
+        }, 
+        {
+            "lat": "47.47333", 
+            "name": "Baden", 
+            "long": "8.30592"
+        }, 
+        {
+            "lat": "47.39254", 
+            "name": "Aarau", 
+            "long": "8.04422"
+        }
+    ], 
+    "BL": [
+        {
+            "lat": "47.52271", 
+            "name": "Muttenz", 
+            "long": "7.64511"
+        }, 
+        {
+            "lat": "47.55074", 
+            "name": "Allschwil", 
+            "long": "7.53599"
+        }
+    ], 
+    "FR": [
+        {
+            "lat": "46.80237", 
+            "name": "Fribourg", 
+            "long": "7.15128"
+        }
+    ], 
+    "ZG": [
+        {
+            "lat": "47.17242", 
+            "name": "Zug", 
+            "long": "8.51745"
+        }, 
+        {
+            "lat": "47.19625", 
+            "name": "Baar", 
+            "long": "8.52954"
+        }
+    ], 
+    "SH": [
+        {
+            "lat": "47.69732", 
+            "name": "Schaffhausen", 
+            "long": "8.63493"
+        }
+    ], 
+    "NE": [
+        {
+            "lat": "46.99179", 
+            "name": "Neuch&#226;tel", 
+            "long": "6.931"
+        }, 
+        {
+            "lat": "47.09993", 
+            "name": "La Chaux-de-Fonds", 
+            "long": "6.82586"
+        }
+    ], 
+    "TG": [
+        {
+            "lat": "47.65", 
+            "name": "Kreuzlingen", 
+            "long": "9.18333"
+        }, 
+        {
+            "lat": "47.55816", 
+            "name": "Frauenfeld", 
+            "long": "8.89854"
+        }
+    ], 
+    "GE": [
+        {
+            "lat": "46.21702", 
+            "name": "Vernier", 
+            "long": "6.08497"
+        }, 
+        {
+            "lat": "46.18391", 
+            "name": "Onex", 
+            "long": "6.10181"
+        }, 
+        {
+            "lat": "46.23424", 
+            "name": "Meyrin", 
+            "long": "6.08025"
+        }, 
+        {
+            "lat": "46.20222", 
+            "name": "Gen&#232;ve", 
+            "long": "6.14569"
+        }, 
+        {
+            "lat": "46.18096", 
+            "name": "Carouge", 
+            "long": "6.13921"
+        }, 
+        {
+            "lat": "46.18981", 
+            "name": "Lancy", 
+            "long": "6.11441"
+        }
+    ], 
+    "VS": [
+        {
+            "lat": "46.22908", 
+            "name": "Sitten", 
+            "long": "7.35942"
+        }, 
+        {
+            "lat": "46.29192", 
+            "name": "Sierre", 
+            "long": "7.53559"
+        }, 
+        {
+            "lat": "46.25546", 
+            "name": "Monthey", 
+            "long": "6.96066"
+        }
+    ], 
+    "SO": [
+        {
+            "lat": "47.34999", 
+            "name": "Olten", 
+            "long": "7.90329"
+        }, 
+        {
+            "lat": "47.1921", 
+            "name": "Grenchen", 
+            "long": "7.39586"
+        }
+    ], 
+    "TI": [
+        {
+            "lat": "46.01008", 
+            "name": "Lugano", 
+            "long": "8.96004"
+        }, 
+        {
+            "lat": "46.19278", 
+            "name": "Bellinzona", 
+            "long": "9.01703"
+        }
+    ], 
+    "BS": [
+        {
+            "lat": "47.55839", 
+            "name": "Basel", 
+            "long": "7.57327"
+        }, 
+        {
+            "lat": "47.57884", 
+            "name": "Riehen", 
+            "long": "7.64683"
+        }
+    ], 
+    "ZH": [
+        {
+            "lat": "47.36667", 
+            "name": "Z&#252;rich", 
+            "long": "8.55"
+        }, 
+        {
+            "lat": "47.50003", 
+            "name": "Winterthur", 
+            "long": "8.7251"
+        }, 
+        {
+            "lat": "47.34713", 
+            "name": "Uster", 
+            "long": "8.72091"
+        }, 
+        {
+            "lat": "47.42181", 
+            "name": "Z&#252;rich (Kreis 11) / Seebach", 
+            "long": "8.54779"
+        }, 
+        {
+            "lat": "47.40823", 
+            "name": "Z&#252;rich (Kreis 11) / Oerlikon", 
+            "long": "8.54258"
+        }, 
+        {
+            "lat": "47.45152", 
+            "name": "Kloten", 
+            "long": "8.58491"
+        }, 
+        {
+            "lat": "47.25579", 
+            "name": "Horgen", 
+            "long": "8.60027"
+        }, 
+        {
+            "lat": "47.40313", 
+            "name": "Z&#252;rich (Kreis 10) / H&#246;ngg", 
+            "long": "8.4971"
+        }, 
+        {
+            "lat": "47.39724", 
+            "name": "D&#252;bendorf", 
+            "long": "8.61872"
+        }, 
+        {
+            "lat": "47.40165", 
+            "name": "Dietikon", 
+            "long": "8.40015"
+        }, 
+        {
+            "lat": "47.37752", 
+            "name": "Z&#252;rich (Kreis 4)", 
+            "long": "8.52127"
+        }, 
+        {
+            "lat": "47.30997", 
+            "name": "Adliswil", 
+            "long": "8.52462"
+        }, 
+        {
+            "lat": "47.39503", 
+            "name": "Z&#252;rich (Kreis 10) / Wipkingen", 
+            "long": "8.52529"
+        }, 
+        {
+            "lat": "47.41814", 
+            "name": "Z&#252;rich (Kreis 11) / Affoltern", 
+            "long": "8.5122"
+        }, 
+        {
+            "lat": "47.3401", 
+            "name": "Z&#252;rich (Kreis 2) / Wollishofen", 
+            "long": "8.53134"
+        }, 
+        {
+            "lat": "47.37382", 
+            "name": "Z&#252;rich (Kreis 3) / Sihlfeld", 
+            "long": "8.51164"
+        }, 
+        {
+            "lat": "47.3953", 
+            "name": "Z&#252;rich (Kreis 6) / Unterstrass", 
+            "long": "8.53721"
+        }, 
+        {
+            "lat": "47.37398", 
+            "name": "Z&#252;rich (Kreis 9) / Albisrieden", 
+            "long": "8.49007"
+        }, 
+        {
+            "lat": "47.38946", 
+            "name": "Z&#252;rich (Kreis 9) / Altstetten", 
+            "long": "8.48533"
+        }, 
+        {
+            "lat": "47.49494", 
+            "name": "Stadt Winterthur (Kreis 1)", 
+            "long": "8.71954"
+        }, 
+        {
+            "lat": "47.40372", 
+            "name": "Z&#252;rich (Kreis 12)", 
+            "long": "8.57608"
+        }, 
+        {
+            "lat": "47.47646", 
+            "name": "Seen (Kreis 3)", 
+            "long": "8.76996"
+        }, 
+        {
+            "lat": "47.35785", 
+            "name": "Z&#252;rich (Kreis 3)", 
+            "long": "8.50296"
+        }, 
+        {
+            "lat": "47.42326", 
+            "name": "Z&#252;rich (Kreis 11)", 
+            "long": "8.52166"
+        }, 
+        {
+            "lat": "47.38245", 
+            "name": "Z&#252;rich (Kreis 9)", 
+            "long": "8.47993"
+        }, 
+        {
+            "lat": "47.51692", 
+            "name": "Oberwinterthur (Kreis 2)", 
+            "long": "8.76863"
+        }, 
+        {
+            "lat": "47.40773", 
+            "name": "Z&#252;rich (Kreis 10)", 
+            "long": "8.5005"
+        }, 
+        {
+            "lat": "47.33756", 
+            "name": "Z&#252;rich (Kreis 2)", 
+            "long": "8.5211"
+        }, 
+        {
+            "lat": "47.3548", 
+            "name": "Z&#252;rich (Kreis 8)", 
+            "long": "8.56097"
+        }, 
+        {
+            "lat": "47.37328", 
+            "name": "Z&#252;rich (Kreis 7)", 
+            "long": "8.58038"
+        }, 
+        {
+            "lat": "47.39223", 
+            "name": "Z&#252;rich (Kreis 6)", 
+            "long": "8.54381"
+        }
+    ], 
+    "SG": [
+        {
+            "lat": "47.46152", 
+            "name": "Wil", 
+            "long": "9.04552"
+        }, 
+        {
+            "lat": "47.42391", 
+            "name": "Sankt Gallen", 
+            "long": "9.37477"
+        }, 
+        {
+            "lat": "47.22557", 
+            "name": "Rapperswil", 
+            "long": "8.82228"
+        }, 
+        {
+            "lat": "47.22983", 
+            "name": "Jona", 
+            "long": "8.83884"
+        }, 
+        {
+            "lat": "47.41694", 
+            "name": "Gossau", 
+            "long": "9.25125"
+        }
+    ], 
+    "AR": [
+        {
+            "lat": "47.38615", 
+            "name": "Herisau", 
+            "long": "9.27916"
+        }
+    ]
+}

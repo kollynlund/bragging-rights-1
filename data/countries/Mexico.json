@@ -1,0 +1,2871 @@
+{
+    "30": [
+        {
+            "lat": "19.42178", 
+            "name": "Xico", 
+            "long": "-97.00819"
+        }, 
+        {
+            "lat": "19.18095", 
+            "name": "Veracruz", 
+            "long": "-96.1429"
+        }, 
+        {
+            "lat": "20.95773", 
+            "name": "Tuxpan de Rodr&#237;guez Cano", 
+            "long": "-97.40798"
+        }, 
+        {
+            "lat": "19.96268", 
+            "name": "Tlapacoyan", 
+            "long": "-97.21141"
+        }, 
+        {
+            "lat": "21.06611", 
+            "name": "Temapache", 
+            "long": "-97.64207"
+        }, 
+        {
+            "lat": "21.35064", 
+            "name": "Tantoyuca", 
+            "long": "-98.2257"
+        }, 
+        {
+            "lat": "18.46576", 
+            "name": "Santiago Tuxtla", 
+            "long": "-95.3006"
+        }, 
+        {
+            "lat": "18.4487", 
+            "name": "San Andres Tuxtla", 
+            "long": "-95.21327"
+        }, 
+        {
+            "lat": "18.83936", 
+            "name": "R&#237;o Blanco", 
+            "long": "-97.12829"
+        }, 
+        {
+            "lat": "20.53315", 
+            "name": "Poza Rica de Hidalgo", 
+            "long": "-97.45946"
+        }, 
+        {
+            "lat": "19.5633", 
+            "name": "Perote", 
+            "long": "-97.24228"
+        }, 
+        {
+            "lat": "20.44655", 
+            "name": "Papantla de Olarte", 
+            "long": "-97.32495"
+        }, 
+        {
+            "lat": "22.05373", 
+            "name": "P&#225;nuco", 
+            "long": "-98.18498"
+        }, 
+        {
+            "lat": "18.85101", 
+            "name": "Orizaba", 
+            "long": "-97.10084"
+        }, 
+        {
+            "lat": "18.83141", 
+            "name": "Nogales", 
+            "long": "-97.15603"
+        }, 
+        {
+            "lat": "21.35087", 
+            "name": "Naranjos", 
+            "long": "-97.68656"
+        }, 
+        {
+            "lat": "18.07117", 
+            "name": "Villa Nanchital", 
+            "long": "-94.40756"
+        }, 
+        {
+            "lat": "19.92992", 
+            "name": "Misantla", 
+            "long": "-96.85194"
+        }, 
+        {
+            "lat": "17.99925", 
+            "name": "Minatitlan", 
+            "long": "-94.55441"
+        }, 
+        {
+            "lat": "20.07082", 
+            "name": "Mart&#237;nez de la Torre", 
+            "long": "-97.06078"
+        }, 
+        {
+            "lat": "18.62936", 
+            "name": "Lerdo de Tejada", 
+            "long": "-95.51968"
+        }, 
+        {
+            "lat": "17.93333", 
+            "name": "Las Choapas", 
+            "long": "-94.08333"
+        }, 
+        {
+            "lat": "18.6", 
+            "name": "La Isla", 
+            "long": "-96.15"
+        }, 
+        {
+            "lat": "19.53124", 
+            "name": "Xalapa de Enr&#237;quez", 
+            "long": "-96.91589"
+        }, 
+        {
+            "lat": "18.85504", 
+            "name": "Ixtac Zoquitl&#225;n", 
+            "long": "-97.06088"
+        }, 
+        {
+            "lat": "19.14876", 
+            "name": "Huatusco de Chicuellar", 
+            "long": "-96.9676"
+        }, 
+        {
+            "lat": "18.90806", 
+            "name": "Fort&#237;n de las Flores", 
+            "long": "-97"
+        }, 
+        {
+            "lat": "17.99794", 
+            "name": "Cosoleacaque", 
+            "long": "-94.63542"
+        }, 
+        {
+            "lat": "18.36759", 
+            "name": "Cosamaloapan de Carpio", 
+            "long": "-95.79857"
+        }, 
+        {
+            "lat": "18.88584", 
+            "name": "C&#243;rdoba", 
+            "long": "-96.93125"
+        }, 
+        {
+            "lat": "20.48699", 
+            "name": "Coatzintla", 
+            "long": "-97.46823"
+        }, 
+        {
+            "lat": "18.13346", 
+            "name": "Coatzacoalcos", 
+            "long": "-94.44242"
+        }, 
+        {
+            "lat": "19.45229", 
+            "name": "Coatepec", 
+            "long": "-96.96148"
+        }, 
+        {
+            "lat": "18.80615", 
+            "name": "Ciudad Mendoza", 
+            "long": "-97.17777"
+        }, 
+        {
+            "lat": "21.192", 
+            "name": "Cerro Azul", 
+            "long": "-97.74088"
+        }, 
+        {
+            "lat": "18.42131", 
+            "name": "Catemaco", 
+            "long": "-95.11398"
+        }, 
+        {
+            "lat": "18.37477", 
+            "name": "Carlos A. Carrillo", 
+            "long": "-95.75444"
+        }, 
+        {
+            "lat": "19.58893", 
+            "name": "Banderilla", 
+            "long": "-96.93727"
+        }, 
+        {
+            "lat": "18.77143", 
+            "name": "Heroica Alvarado", 
+            "long": "-95.76181"
+        }, 
+        {
+            "lat": "19.76613", 
+            "name": "Altotonga", 
+            "long": "-97.24514"
+        }, 
+        {
+            "lat": "18.15514", 
+            "name": "Allende", 
+            "long": "-94.39289"
+        }, 
+        {
+            "lat": "20.91063", 
+            "name": "&#193;lamo", 
+            "long": "-97.67485"
+        }, 
+        {
+            "lat": "18.13909", 
+            "name": "Agua Dulce", 
+            "long": "-94.14527"
+        }, 
+        {
+            "lat": "17.94885", 
+            "name": "Acayucan", 
+            "long": "-94.91399"
+        }, 
+        {
+            "lat": "20.95361", 
+            "name": "Alto Lucero", 
+            "long": "-97.44194"
+        }, 
+        {
+            "lat": "18.15056", 
+            "name": "Fraccionamiento Ciudad Olmeca", 
+            "long": "-94.5525"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "18.60891", 
+            "name": "Esc&#225;rcega", 
+            "long": "-90.74544"
+        }, 
+        {
+            "lat": "18.64592", 
+            "name": "Ciudad del Carmen", 
+            "long": "-91.82991"
+        }, 
+        {
+            "lat": "19.34441", 
+            "name": "Champot&#243;n", 
+            "long": "-90.72576"
+        }, 
+        {
+            "lat": "19.83803", 
+            "name": "Campeche", 
+            "long": "-90.5277"
+        }
+    ], 
+    "24": [
+        {
+            "lat": "21.25993", 
+            "name": "Tamazunchale", 
+            "long": "-98.78935"
+        }, 
+        {
+            "lat": "21.93032", 
+            "name": "R&#237;o Verde", 
+            "long": "-99.99169"
+        }, 
+        {
+            "lat": "21.98333", 
+            "name": "Ciudad Valles", 
+            "long": "-99.01667"
+        }, 
+        {
+            "lat": "21.94037", 
+            "name": "Ciudad Fern&#225;ndez", 
+            "long": "-100.0117"
+        }, 
+        {
+            "lat": "22.00144", 
+            "name": "Cardenas", 
+            "long": "-99.64247"
+        }, 
+        {
+            "lat": "22.18778", 
+            "name": "Soledad D&#237;ez Guti&#233;rrez", 
+            "long": "-100.94192"
+        }, 
+        {
+            "lat": "22.14982", 
+            "name": "San Luis Potos&#237;", 
+            "long": "-100.97916"
+        }, 
+        {
+            "lat": "23.64824", 
+            "name": "Matehuala", 
+            "long": "-100.64334"
+        }, 
+        {
+            "lat": "22.18306", 
+            "name": "Soledad de Graciano S&#225;nchez", 
+            "long": "-100.94083"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "25.66163", 
+            "name": "Leyva Solano", 
+            "long": "-108.637"
+        }, 
+        {
+            "lat": "24.7661", 
+            "name": "Navolato", 
+            "long": "-107.70225"
+        }, 
+        {
+            "lat": "23.2329", 
+            "name": "Mazatl&#225;n", 
+            "long": "-106.4062"
+        }, 
+        {
+            "lat": "25.79535", 
+            "name": "Los Mochis", 
+            "long": "-108.99244"
+        }, 
+        {
+            "lat": "23.92126", 
+            "name": "La Cruz", 
+            "long": "-106.8925"
+        }, 
+        {
+            "lat": "25.56745", 
+            "name": "Guasave", 
+            "long": "-108.46756"
+        }, 
+        {
+            "lat": "25.46404", 
+            "name": "Guam&#250;chil", 
+            "long": "-108.08199"
+        }, 
+        {
+            "lat": "25.75694", 
+            "name": "Juan Jose Rios", 
+            "long": "-108.8247"
+        }, 
+        {
+            "lat": "22.83253", 
+            "name": "Escuinapa de Hidalgo", 
+            "long": "-105.77539"
+        }, 
+        {
+            "lat": "24.79032", 
+            "name": "Culiac&#225;n", 
+            "long": "-107.38782"
+        }, 
+        {
+            "lat": "24.59167", 
+            "name": "Villa de Costa Rica", 
+            "long": "-107.38836"
+        }, 
+        {
+            "lat": "24.65869", 
+            "name": "Villa Ju&#225;rez", 
+            "long": "-107.54059"
+        }, 
+        {
+            "lat": "24.65667", 
+            "name": "Licenciado Benito Ju&#225;rez (Campo Gobierno)", 
+            "long": "-107.545"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "28.84028", 
+            "name": "Miguel Alem&#225;n (La Doce)", 
+            "long": "-111.4775"
+        }, 
+        {
+            "lat": "32.45612", 
+            "name": "San Luis R&#237;o Colorado", 
+            "long": "-114.77186"
+        }, 
+        {
+            "lat": "31.31716", 
+            "name": "Puerto Pe&#241;asco", 
+            "long": "-113.53799"
+        }, 
+        {
+            "lat": "27.07015", 
+            "name": "Navojoa", 
+            "long": "-109.44391"
+        }, 
+        {
+            "lat": "30.62789", 
+            "name": "Magdalena de Kino", 
+            "long": "-110.96203"
+        }, 
+        {
+            "lat": "26.8261", 
+            "name": "Huatabampo", 
+            "long": "-109.6422"
+        }, 
+        {
+            "lat": "31.30862", 
+            "name": "Nogales", 
+            "long": "-110.94217"
+        }, 
+        {
+            "lat": "30.72043", 
+            "name": "Heroica Caborca", 
+            "long": "-112.15847"
+        }, 
+        {
+            "lat": "29.1026", 
+            "name": "Hermosillo", 
+            "long": "-110.97732"
+        }, 
+        {
+            "lat": "27.91928", 
+            "name": "Heroica Guaymas", 
+            "long": "-110.89755"
+        }, 
+        {
+            "lat": "27.96166", 
+            "name": "Empalme", 
+            "long": "-110.81411"
+        }, 
+        {
+            "lat": "27.48642", 
+            "name": "Ciudad Obreg&#243;n", 
+            "long": "-109.94083"
+        }, 
+        {
+            "lat": "30.98699", 
+            "name": "Cananea", 
+            "long": "-110.29062"
+        }, 
+        {
+            "lat": "31.33071", 
+            "name": "Agua Prieta", 
+            "long": "-109.54876"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "17.98689", 
+            "name": "Villahermosa", 
+            "long": "-92.93028"
+        }, 
+        {
+            "lat": "17.4729", 
+            "name": "Tenosique de Pino Su&#225;rez", 
+            "long": "-91.4236"
+        }, 
+        {
+            "lat": "17.5497", 
+            "name": "Teapa", 
+            "long": "-92.95211"
+        }, 
+        {
+            "lat": "18.40116", 
+            "name": "Paraiso", 
+            "long": "-93.21406"
+        }, 
+        {
+            "lat": "17.76152", 
+            "name": "Macuspana", 
+            "long": "-92.5965"
+        }, 
+        {
+            "lat": "18.17633", 
+            "name": "Jalpa de M&#233;ndez", 
+            "long": "-93.063"
+        }, 
+        {
+            "lat": "17.83386", 
+            "name": "Huimanguillo", 
+            "long": "-93.39198"
+        }, 
+        {
+            "lat": "18.54326", 
+            "name": "Frontera", 
+            "long": "-92.6453"
+        }, 
+        {
+            "lat": "18.06557", 
+            "name": "Cunduac&#225;n", 
+            "long": "-93.17302"
+        }, 
+        {
+            "lat": "18.26316", 
+            "name": "Comalcalco", 
+            "long": "-93.22397"
+        }, 
+        {
+            "lat": "18.00135", 
+            "name": "C&#225;rdenas", 
+            "long": "-93.37559"
+        }, 
+        {
+            "lat": "17.78282", 
+            "name": "R&#237;o de Teapa", 
+            "long": "-92.90042"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "16.32463", 
+            "name": "Santo Domingo Tehuantepec", 
+            "long": "-95.24104"
+        }, 
+        {
+            "lat": "16.33847", 
+            "name": "Santiago Pinotepa Nacional", 
+            "long": "-98.05532"
+        }, 
+        {
+            "lat": "17.02958", 
+            "name": "Santa Cruz Xoxocotl&#225;n", 
+            "long": "-96.73518"
+        }, 
+        {
+            "lat": "18.0883", 
+            "name": "Tuxtepec", 
+            "long": "-96.12535"
+        }, 
+        {
+            "lat": "16.18405", 
+            "name": "Salina Cruz", 
+            "long": "-95.20143"
+        }, 
+        {
+            "lat": "15.87037", 
+            "name": "Puerto Escondido", 
+            "long": "-97.07726"
+        }, 
+        {
+            "lat": "17.06542", 
+            "name": "Oaxaca de Ju&#225;rez", 
+            "long": "-96.72365"
+        }, 
+        {
+            "lat": "16.33276", 
+            "name": "Miahuatl&#225;n de Porfirio D&#237;az", 
+            "long": "-96.59562"
+        }, 
+        {
+            "lat": "16.87902", 
+            "name": "Mat&#237;as Romero", 
+            "long": "-95.03939"
+        }, 
+        {
+            "lat": "16.43603", 
+            "name": "Juchit&#225;n de Zaragoza", 
+            "long": "-95.01975"
+        }, 
+        {
+            "lat": "16.57855", 
+            "name": "San Jer&#243;nimo Ixtepec", 
+            "long": "-95.10223"
+        }, 
+        {
+            "lat": "17.80787", 
+            "name": "Ciudad de Huajuapam de Le&#243;n", 
+            "long": "-97.77956"
+        }, 
+        {
+            "lat": "17.02833", 
+            "name": "San Antonio de la Cal", 
+            "long": "-96.70056"
+        }, 
+        {
+            "lat": "17.26944", 
+            "name": "Heroica Ciudad de Tlaxiaco", 
+            "long": "-97.67917"
+        }, 
+        {
+            "lat": "15.76889", 
+            "name": "Crucecita", 
+            "long": "-96.135"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "19.93372", 
+            "name": "Zacatl&#225;n", 
+            "long": "-97.96119"
+        }, 
+        {
+            "lat": "20.27605", 
+            "name": "Xicotepec de Ju&#225;rez", 
+            "long": "-97.96111"
+        }, 
+        {
+            "lat": "19.02863", 
+            "name": "Tlazcalancingo", 
+            "long": "-98.28334"
+        }, 
+        {
+            "lat": "19.8173", 
+            "name": "Teziutlan", 
+            "long": "-97.35992"
+        }, 
+        {
+            "lat": "18.96923", 
+            "name": "Tepeaca", 
+            "long": "-97.90074"
+        }, 
+        {
+            "lat": "19.06747", 
+            "name": "Tepatlaxco de Hidalgo", 
+            "long": "-97.96595"
+        }, 
+        {
+            "lat": "18.46148", 
+            "name": "Tehuac&#225;n", 
+            "long": "-97.39282"
+        }, 
+        {
+            "lat": "18.88179", 
+            "name": "Tecamachalco", 
+            "long": "-97.73132"
+        }, 
+        {
+            "lat": "19.24968", 
+            "name": "Moyotzingo", 
+            "long": "-98.40473"
+        }, 
+        {
+            "lat": "19.13325", 
+            "name": "San Salvador El Seco", 
+            "long": "-97.64167"
+        }, 
+        {
+            "lat": "19.28431", 
+            "name": "San Martin Texmelucan de Labastida", 
+            "long": "-98.43885"
+        }, 
+        {
+            "lat": "19.09917", 
+            "name": "Sanctorum", 
+            "long": "-98.25417"
+        }, 
+        {
+            "lat": "19.04334", 
+            "name": "Puebla", 
+            "long": "-98.20193"
+        }, 
+        {
+            "lat": "18.89891", 
+            "name": "Palmarito Tochap&#225;n", 
+            "long": "-97.63892"
+        }, 
+        {
+            "lat": "19.07361", 
+            "name": "Santiago Momoxpan", 
+            "long": "-98.26694"
+        }, 
+        {
+            "lat": "18.60151", 
+            "name": "Iz&#250;car de Matamoros", 
+            "long": "-98.46499"
+        }, 
+        {
+            "lat": "19.15945", 
+            "name": "Huejotzingo", 
+            "long": "-98.40734"
+        }, 
+        {
+            "lat": "20.17376", 
+            "name": "Huauchinango", 
+            "long": "-98.05491"
+        }, 
+        {
+            "lat": "19.08912", 
+            "name": "Cuautlancingo", 
+            "long": "-98.27137"
+        }, 
+        {
+            "lat": "18.9894", 
+            "name": "Ciudad Serd&#225;n", 
+            "long": "-97.44702"
+        }, 
+        {
+            "lat": "19.06406", 
+            "name": "Cholula", 
+            "long": "-98.30352"
+        }, 
+        {
+            "lat": "19.83866", 
+            "name": "Chignahuapan", 
+            "long": "-98.03171"
+        }, 
+        {
+            "lat": "18.90815", 
+            "name": "Atlixco", 
+            "long": "-98.43613"
+        }, 
+        {
+            "lat": "19.04611", 
+            "name": "Amozoc de Mota", 
+            "long": "-98.045"
+        }, 
+        {
+            "lat": "18.36886", 
+            "name": "Altepexi", 
+            "long": "-97.29832"
+        }, 
+        {
+            "lat": "18.37831", 
+            "name": "Ajalpan", 
+            "long": "-97.25767"
+        }, 
+        {
+            "lat": "18.98036", 
+            "name": "Acatzingo de Hidalgo", 
+            "long": "-97.78473"
+        }, 
+        {
+            "lat": "18.2025", 
+            "name": "Acatl&#225;n de Osorio", 
+            "long": "-98.04864"
+        }, 
+        {
+            "lat": "19.10412", 
+            "name": "Acajete", 
+            "long": "-97.95104"
+        }, 
+        {
+            "lat": "19.05", 
+            "name": "San Andr&#233;s Cholula", 
+            "long": "-98.3"
+        }, 
+        {
+            "lat": "19.04222", 
+            "name": "Casa Blanca", 
+            "long": "-98.11889"
+        }, 
+        {
+            "lat": "19.29167", 
+            "name": "San Rafael Tlanalapan", 
+            "long": "-98.46806"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "20.5225", 
+            "name": "Tequisquiapan", 
+            "long": "-99.89167"
+        }, 
+        {
+            "lat": "20.3878", 
+            "name": "San Juan del R&#237;o", 
+            "long": "-99.99605"
+        }, 
+        {
+            "lat": "20.74122", 
+            "name": "Santa Rosa Jauregui", 
+            "long": "-100.44843"
+        }, 
+        {
+            "lat": "20.58806", 
+            "name": "Santiago de Quer&#233;taro", 
+            "long": "-100.38806"
+        }, 
+        {
+            "lat": "20.53972", 
+            "name": "El Pueblito", 
+            "long": "-100.44139"
+        }, 
+        {
+            "lat": "20.55083", 
+            "name": "Venceremos", 
+            "long": "-100.39806"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "16.33945", 
+            "name": "Venustiano Carranza", 
+            "long": "-92.56293"
+        }, 
+        {
+            "lat": "16.75973", 
+            "name": "Tuxtla Guti&#233;rrez", 
+            "long": "-93.11308"
+        }, 
+        {
+            "lat": "14.90696", 
+            "name": "Tapachula", 
+            "long": "-92.26185"
+        }, 
+        {
+            "lat": "16.73176", 
+            "name": "San Crist&#243;bal de las Casas", 
+            "long": "-92.64126"
+        }, 
+        {
+            "lat": "15.68618", 
+            "name": "Pijijiapan", 
+            "long": "-93.20938"
+        }, 
+        {
+            "lat": "17.50953", 
+            "name": "Palenque", 
+            "long": "-91.98248"
+        }, 
+        {
+            "lat": "16.76231", 
+            "name": "Ocozocoautla de Espinosa", 
+            "long": "-93.37476"
+        }, 
+        {
+            "lat": "16.90639", 
+            "name": "Ocosingo", 
+            "long": "-92.09374"
+        }, 
+        {
+            "lat": "15.36643", 
+            "name": "Motozintla de Mendoza", 
+            "long": "-92.24812"
+        }, 
+        {
+            "lat": "15.43358", 
+            "name": "Mapastepec", 
+            "long": "-92.90039"
+        }, 
+        {
+            "lat": "16.31265", 
+            "name": "Las Margaritas", 
+            "long": "-91.98107"
+        }, 
+        {
+            "lat": "15.1402", 
+            "name": "Huixtla", 
+            "long": "-92.46587"
+        }, 
+        {
+            "lat": "15.66046", 
+            "name": "Frontera Comalapa", 
+            "long": "-92.14282"
+        }, 
+        {
+            "lat": "17.74058", 
+            "name": "Emiliano Zapata", 
+            "long": "-91.76635"
+        }, 
+        {
+            "lat": "16.24471", 
+            "name": "Comit&#225;n", 
+            "long": "-92.13425"
+        }, 
+        {
+            "lat": "16.68393", 
+            "name": "Cintalapa de Figueroa", 
+            "long": "-93.71814"
+        }, 
+        {
+            "lat": "16.7077", 
+            "name": "Chiapa de Corzo", 
+            "long": "-93.01184"
+        }, 
+        {
+            "lat": "16.79853", 
+            "name": "Berrioz&#225;bal", 
+            "long": "-93.27163"
+        }, 
+        {
+            "lat": "16.0887", 
+            "name": "Tonal&#225;", 
+            "long": "-93.75588"
+        }, 
+        {
+            "lat": "16.2375", 
+            "name": "Arriaga", 
+            "long": "-93.90184"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "19.26722", 
+            "name": "Ciudad de Villa de &#193;lvarez", 
+            "long": "-103.73778"
+        }, 
+        {
+            "lat": "18.91678", 
+            "name": "Tecoman", 
+            "long": "-103.87786"
+        }, 
+        {
+            "lat": "19.11695", 
+            "name": "Manzanillo", 
+            "long": "-104.34214"
+        }, 
+        {
+            "lat": "19.24997", 
+            "name": "Colima", 
+            "long": "-103.72714"
+        }, 
+        {
+            "lat": "18.9378", 
+            "name": "Armeria", 
+            "long": "-103.96417"
+        }, 
+        {
+            "lat": "19.05222", 
+            "name": "Manzanillo", 
+            "long": "-104.31583"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "19.25785", 
+            "name": "Xochimilco", 
+            "long": "-99.10513"
+        }, 
+        {
+            "lat": "19.35867", 
+            "name": "&#193;lvaro Obreg&#243;n", 
+            "long": "-99.20329"
+        }, 
+        {
+            "lat": "19.49016", 
+            "name": "Gustavo A. Madero", 
+            "long": "-99.10978"
+        }, 
+        {
+            "lat": "19.29707", 
+            "name": "Tlalpan", 
+            "long": "-99.16787"
+        }, 
+        {
+            "lat": "19.28348", 
+            "name": "Tlahuac", 
+            "long": "-99.00317"
+        }, 
+        {
+            "lat": "19.41667", 
+            "name": "Polanco", 
+            "long": "-99.2"
+        }, 
+        {
+            "lat": "19.19251", 
+            "name": "Milpa Alta", 
+            "long": "-99.02317"
+        }, 
+        {
+            "lat": "19.33212", 
+            "name": "Magdalena Contreras", 
+            "long": "-99.21118"
+        }, 
+        {
+            "lat": "19.35738", 
+            "name": "Iztapalapa", 
+            "long": "-99.0671"
+        }, 
+        {
+            "lat": "19.39528", 
+            "name": "Iztacalco", 
+            "long": "-99.09778"
+        }, 
+        {
+            "lat": "19.35993", 
+            "name": "Cuajimalpa", 
+            "long": "-99.29388"
+        }, 
+        {
+            "lat": "19.3467", 
+            "name": "Coyoac&#225;n", 
+            "long": "-99.16174"
+        }, 
+        {
+            "lat": "19.42847", 
+            "name": "Mexico City", 
+            "long": "-99.12766"
+        }, 
+        {
+            "lat": "19.48698", 
+            "name": "Azcapotzalco", 
+            "long": "-99.18594"
+        }, 
+        {
+            "lat": "19.32889", 
+            "name": "San Lorenzo Acopilco", 
+            "long": "-99.32556"
+        }, 
+        {
+            "lat": "19.3984", 
+            "name": "Benito Juarez", 
+            "long": "-99.15766"
+        }, 
+        {
+            "lat": "19.44286", 
+            "name": "Venustiano Carranza", 
+            "long": "-99.09724"
+        }, 
+        {
+            "lat": "19.43471", 
+            "name": "Miguel Hidalgo", 
+            "long": "-99.20091"
+        }, 
+        {
+            "lat": "19.44506", 
+            "name": "Cuauht&#233;moc", 
+            "long": "-99.14612"
+        }, 
+        {
+            "lat": "19.38611", 
+            "name": "Colonia del Valle", 
+            "long": "-99.16204"
+        }, 
+        {
+            "lat": "19.38119", 
+            "name": "Colonia Nativitas", 
+            "long": "-99.13685"
+        }, 
+        {
+            "lat": "19.21778", 
+            "name": "San Antonio Tec&#243;mitl", 
+            "long": "-98.98806"
+        }
+    ], 
+    "28": [
+        {
+            "lat": "22.8694", 
+            "name": "Gustavo A. Madero", 
+            "long": "-98.75886"
+        }, 
+        {
+            "lat": "24.84749", 
+            "name": "San Fernando", 
+            "long": "-98.14828"
+        }, 
+        {
+            "lat": "25.6718", 
+            "name": "Valle Hermoso", 
+            "long": "-97.81181"
+        }, 
+        {
+            "lat": "22.27817", 
+            "name": "Tampico", 
+            "long": "-97.86772"
+        }, 
+        {
+            "lat": "25.98729", 
+            "name": "R&#237;o Bravo", 
+            "long": "-98.09414"
+        }, 
+        {
+            "lat": "26.07681", 
+            "name": "Reynosa", 
+            "long": "-98.29748"
+        }, 
+        {
+            "lat": "27.47629", 
+            "name": "Nuevo Laredo", 
+            "long": "-99.51639"
+        }, 
+        {
+            "lat": "22.32085", 
+            "name": "Miramar", 
+            "long": "-97.8595"
+        }, 
+        {
+            "lat": "25.87972", 
+            "name": "Heroica Matamoros", 
+            "long": "-97.50417"
+        }, 
+        {
+            "lat": "22.74304", 
+            "name": "Ciudad Mante", 
+            "long": "-98.9739"
+        }, 
+        {
+            "lat": "23.74174", 
+            "name": "Ciudad Victoria", 
+            "long": "-99.14599"
+        }, 
+        {
+            "lat": "26.35", 
+            "name": "Ciudad Miguel Alem&#225;n", 
+            "long": "-99.1"
+        }, 
+        {
+            "lat": "22.27228", 
+            "name": "Ciudad Madero", 
+            "long": "-97.83623"
+        }, 
+        {
+            "lat": "22.39215", 
+            "name": "Altamira", 
+            "long": "-97.93867"
+        }, 
+        {
+            "lat": "22.25528", 
+            "name": "Tampico", 
+            "long": "-97.86861"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "19.30633", 
+            "name": "Chiautempan", 
+            "long": "-98.21773"
+        }, 
+        {
+            "lat": "19.24333", 
+            "name": "Teolocholco", 
+            "long": "-98.19083"
+        }, 
+        {
+            "lat": "19.32932", 
+            "name": "San Bernardino Contla", 
+            "long": "-98.1664"
+        }, 
+        {
+            "lat": "19.41333", 
+            "name": "Apizaco", 
+            "long": "-98.14358"
+        }, 
+        {
+            "lat": "19.31491", 
+            "name": "Huamantla", 
+            "long": "-97.92321"
+        }, 
+        {
+            "lat": "19.21583", 
+            "name": "Zacatelco", 
+            "long": "-98.23972"
+        }, 
+        {
+            "lat": "19.31905", 
+            "name": "Tlaxcala de Xicohtencatl", 
+            "long": "-98.19982"
+        }, 
+        {
+            "lat": "19.16861", 
+            "name": "Papalotla", 
+            "long": "-98.20389"
+        }, 
+        {
+            "lat": "19.12516", 
+            "name": "Vicente Guerrero", 
+            "long": "-98.16192"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "32.28924", 
+            "name": "Guadalupe Victoria", 
+            "long": "-115.10534"
+        }, 
+        {
+            "lat": "32.5027", 
+            "name": "Tijuana", 
+            "long": "-117.00371"
+        }, 
+        {
+            "lat": "32.56717", 
+            "name": "Tecate", 
+            "long": "-116.62509"
+        }, 
+        {
+            "lat": "31.02468", 
+            "name": "San Felipe", 
+            "long": "-114.83919"
+        }, 
+        {
+            "lat": "32.36044", 
+            "name": "Rosarito", 
+            "long": "-117.04645"
+        }, 
+        {
+            "lat": "32.62781", 
+            "name": "Mexicali", 
+            "long": "-115.45446"
+        }, 
+        {
+            "lat": "31.72099", 
+            "name": "Rodolfo S&#225;nchez Taboada", 
+            "long": "-116.57184"
+        }, 
+        {
+            "lat": "31.86613", 
+            "name": "Ensenada", 
+            "long": "-116.59972"
+        }, 
+        {
+            "lat": "32.40889", 
+            "name": "Las Delicias", 
+            "long": "-116.94361"
+        }, 
+        {
+            "lat": "32.4425", 
+            "name": "P&#243;rticos de San Antonio", 
+            "long": "-117.03417"
+        }, 
+        {
+            "lat": "32.4875", 
+            "name": "Terrazas del Valle", 
+            "long": "-116.82667"
+        }, 
+        {
+            "lat": "32.42389", 
+            "name": "Villa del Prado 2da Secci&#243;n", 
+            "long": "-116.97167"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "22.89088", 
+            "name": "Cabo San Lucas", 
+            "long": "-109.91238"
+        }, 
+        {
+            "lat": "23.05888", 
+            "name": "San Jos&#233; del Cabo", 
+            "long": "-109.69771"
+        }, 
+        {
+            "lat": "24.13811", 
+            "name": "La Paz", 
+            "long": "-110.30973"
+        }, 
+        {
+            "lat": "25.0321", 
+            "name": "Ciudad Constituci&#243;n", 
+            "long": "-111.66256"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "22.22819", 
+            "name": "Rinc&#243;n de Romos", 
+            "long": "-102.32216"
+        }, 
+        {
+            "lat": "21.96111", 
+            "name": "Jes&#250;s Mar&#237;a", 
+            "long": "-102.34333"
+        }, 
+        {
+            "lat": "21.84583", 
+            "name": "Calvillo", 
+            "long": "-102.71849"
+        }, 
+        {
+            "lat": "21.88234", 
+            "name": "Aguascalientes", 
+            "long": "-102.28259"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "29.56689", 
+            "name": "Ojinaga", 
+            "long": "-104.54487"
+        }, 
+        {
+            "lat": "30.41552", 
+            "name": "Nuevo Casas Grandes", 
+            "long": "-107.91166"
+        }, 
+        {
+            "lat": "28.28333", 
+            "name": "Pedro Meoqui", 
+            "long": "-105.48333"
+        }, 
+        {
+            "lat": "29.19366", 
+            "name": "San Pedro Madera", 
+            "long": "-108.14684"
+        }, 
+        {
+            "lat": "28.33333", 
+            "name": "Jim&#233;nez", 
+            "long": "-105.4"
+        }, 
+        {
+            "lat": "26.92961", 
+            "name": "Hidalgo del Parral", 
+            "long": "-105.6662"
+        }, 
+        {
+            "lat": "28.40884", 
+            "name": "Cuauht&#233;moc", 
+            "long": "-106.86319"
+        }, 
+        {
+            "lat": "31.73333", 
+            "name": "Ciudad Ju&#225;rez", 
+            "long": "-106.48333"
+        }, 
+        {
+            "lat": "28.19013", 
+            "name": "Ciudad Delicias", 
+            "long": "-105.47012"
+        }, 
+        {
+            "lat": "27.67842", 
+            "name": "Ciudad Camargo", 
+            "long": "-105.17136"
+        }, 
+        {
+            "lat": "28.63528", 
+            "name": "Chihuahua", 
+            "long": "-106.08889"
+        }, 
+        {
+            "lat": "29.56444", 
+            "name": "Manuel Ojinaga", 
+            "long": "-104.41639"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "26.92814", 
+            "name": "Ciudad Frontera", 
+            "long": "-101.45212"
+        }, 
+        {
+            "lat": "25.54389", 
+            "name": "Torreon", 
+            "long": "-103.41898"
+        }, 
+        {
+            "lat": "25.43333", 
+            "name": "San Pedro", 
+            "long": "-103.21667"
+        }, 
+        {
+            "lat": "27.06193", 
+            "name": "San Buenaventura", 
+            "long": "-101.54891"
+        }, 
+        {
+            "lat": "25.42321", 
+            "name": "Saltillo", 
+            "long": "-101.0053"
+        }, 
+        {
+            "lat": "27.85591", 
+            "name": "Ciudad Sabinas", 
+            "long": "-101.11738"
+        }, 
+        {
+            "lat": "25.53928", 
+            "name": "Ramos Arizpe", 
+            "long": "-100.94742"
+        }, 
+        {
+            "lat": "28.70007", 
+            "name": "Piedras Negras", 
+            "long": "-100.52353"
+        }, 
+        {
+            "lat": "25.44156", 
+            "name": "Parras de la Fuente", 
+            "long": "-102.1792"
+        }, 
+        {
+            "lat": "27.89232", 
+            "name": "Palau", 
+            "long": "-101.42319"
+        }, 
+        {
+            "lat": "27.94028", 
+            "name": "Nueva Rosita", 
+            "long": "-101.21812"
+        }, 
+        {
+            "lat": "28.42071", 
+            "name": "Nava", 
+            "long": "-100.76565"
+        }, 
+        {
+            "lat": "26.90687", 
+            "name": "Monclova", 
+            "long": "-101.42056"
+        }, 
+        {
+            "lat": "27.87933", 
+            "name": "Melchor M&#250;zquiz", 
+            "long": "-101.51615"
+        }, 
+        {
+            "lat": "25.52699", 
+            "name": "Matamoros", 
+            "long": "-103.2285"
+        }, 
+        {
+            "lat": "25.53718", 
+            "name": "Ciudad Lerdo", 
+            "long": "-103.52456"
+        }, 
+        {
+            "lat": "29.32322", 
+            "name": "Ciudad Acu&#241;a", 
+            "long": "-100.95217"
+        }, 
+        {
+            "lat": "26.78932", 
+            "name": "Casta&#241;os", 
+            "long": "-101.43211"
+        }, 
+        {
+            "lat": "28.34124", 
+            "name": "Allende", 
+            "long": "-100.85111"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "20.21081", 
+            "name": "Yuriria", 
+            "long": "-101.13212"
+        }, 
+        {
+            "lat": "20.51452", 
+            "name": "Villagr&#225;n", 
+            "long": "-100.99745"
+        }, 
+        {
+            "lat": "20.39321", 
+            "name": "Valle de Santiago", 
+            "long": "-101.18917"
+        }, 
+        {
+            "lat": "20.14085", 
+            "name": "Uriangato", 
+            "long": "-101.18251"
+        }, 
+        {
+            "lat": "20.94356", 
+            "name": "Silao", 
+            "long": "-101.42703"
+        }, 
+        {
+            "lat": "20.91528", 
+            "name": "San Miguel de Allende", 
+            "long": "-100.74389"
+        }, 
+        {
+            "lat": "21.29861", 
+            "name": "San Luis de la Paz", 
+            "long": "-100.51639"
+        }, 
+        {
+            "lat": "21.00153", 
+            "name": "San Jos&#233; Iturbide", 
+            "long": "-100.38416"
+        }, 
+        {
+            "lat": "21.01843", 
+            "name": "San Francisco del Rinc&#243;n", 
+            "long": "-101.85515"
+        }, 
+        {
+            "lat": "21.47777", 
+            "name": "San Felipe", 
+            "long": "-101.21593"
+        }, 
+        {
+            "lat": "20.21249", 
+            "name": "Salvatierra", 
+            "long": "-100.87923"
+        }, 
+        {
+            "lat": "20.57196", 
+            "name": "Salamanca", 
+            "long": "-101.19154"
+        }, 
+        {
+            "lat": "20.87127", 
+            "name": "Romita", 
+            "long": "-101.51683"
+        }, 
+        {
+            "lat": "20.43222", 
+            "name": "P&#233;njamo", 
+            "long": "-101.72129"
+        }, 
+        {
+            "lat": "20.12571", 
+            "name": "Morole&#243;n", 
+            "long": "-101.19208"
+        }, 
+        {
+            "lat": "21.14972", 
+            "name": "Medina", 
+            "long": "-101.6225"
+        }, 
+        {
+            "lat": "20.99884", 
+            "name": "Marfil", 
+            "long": "-101.28751"
+        }, 
+        {
+            "lat": "21.13052", 
+            "name": "Le&#243;n", 
+            "long": "-101.671"
+        }, 
+        {
+            "lat": "20.64337", 
+            "name": "Santa Cruz de Juventino Rosas", 
+            "long": "-100.99286"
+        }, 
+        {
+            "lat": "20.37266", 
+            "name": "Jaral del Progreso", 
+            "long": "-101.06361"
+        }, 
+        {
+            "lat": "20.67675", 
+            "name": "Irapuato", 
+            "long": "-101.35628"
+        }, 
+        {
+            "lat": "21.01858", 
+            "name": "Guanajuato", 
+            "long": "-101.2591"
+        }, 
+        {
+            "lat": "20.48008", 
+            "name": "Cortazar", 
+            "long": "-100.96067"
+        }, 
+        {
+            "lat": "20.72278", 
+            "name": "Comonfort", 
+            "long": "-100.75946"
+        }, 
+        {
+            "lat": "20.52353", 
+            "name": "Celaya", 
+            "long": "-100.8157"
+        }, 
+        {
+            "lat": "20.54495", 
+            "name": "Apaseo el Grande", 
+            "long": "-100.68462"
+        }, 
+        {
+            "lat": "20.45748", 
+            "name": "Apaseo el Alto", 
+            "long": "-100.6224"
+        }, 
+        {
+            "lat": "20.03024", 
+            "name": "Ac&#225;mbaro", 
+            "long": "-100.72249"
+        }, 
+        {
+            "lat": "20.44997", 
+            "name": "Abasolo", 
+            "long": "-101.53073"
+        }, 
+        {
+            "lat": "21.15611", 
+            "name": "Dolores Hidalgo Cuna de la Independencia Nacional", 
+            "long": "-100.9325"
+        }, 
+        {
+            "lat": "21.135", 
+            "name": "Centro Familiar la Soledad", 
+            "long": "-101.74972"
+        }, 
+        {
+            "lat": "21.15194", 
+            "name": "La Ermita", 
+            "long": "-101.73306"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "25.04389", 
+            "name": "Santiago Papasquiaro", 
+            "long": "-105.41917"
+        }, 
+        {
+            "lat": "24.83078", 
+            "name": "San Miguel de Papasquiaro", 
+            "long": "-105.3364"
+        }, 
+        {
+            "lat": "25.56985", 
+            "name": "Gomez Palacio", 
+            "long": "-103.49588"
+        }, 
+        {
+            "lat": "23.37927", 
+            "name": "Pueblo Nuevo", 
+            "long": "-105.38313"
+        }, 
+        {
+            "lat": "24.02032", 
+            "name": "Victoria de Durango", 
+            "long": "-104.65756"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "20.65002", 
+            "name": "Zacualtip&#225;n", 
+            "long": "-98.65628"
+        }, 
+        {
+            "lat": "20.08363", 
+            "name": "Tulancingo", 
+            "long": "-98.36332"
+        }, 
+        {
+            "lat": "20.05161", 
+            "name": "Tula de Allende", 
+            "long": "-99.34397"
+        }, 
+        {
+            "lat": "20.19073", 
+            "name": "Tezontepec de Aldama", 
+            "long": "-99.27429"
+        }, 
+        {
+            "lat": "19.9063", 
+            "name": "Tepeji de Ocampo", 
+            "long": "-99.34297"
+        }, 
+        {
+            "lat": "20.0357", 
+            "name": "Santiago Tulantepec", 
+            "long": "-98.35639"
+        }, 
+        {
+            "lat": "20.24929", 
+            "name": "Progreso de Alvaro Obregon", 
+            "long": "-99.18988"
+        }, 
+        {
+            "lat": "20.11697", 
+            "name": "Pachuca de Soto", 
+            "long": "-98.73329"
+        }, 
+        {
+            "lat": "20.23031", 
+            "name": "Mixquiahuala de Juarez", 
+            "long": "-99.21396"
+        }, 
+        {
+            "lat": "20.47841", 
+            "name": "Ixmiquilpan", 
+            "long": "-99.21697"
+        }, 
+        {
+            "lat": "21.14", 
+            "name": "Huejutla de Reyes", 
+            "long": "-98.41944"
+        }, 
+        {
+            "lat": "20.03557", 
+            "name": "Cuautepec de Hinojosa", 
+            "long": "-98.31015"
+        }, 
+        {
+            "lat": "19.77557", 
+            "name": "Ciudad Sahagun", 
+            "long": "-98.57471"
+        }, 
+        {
+            "lat": "19.58867", 
+            "name": "Calpulalpan", 
+            "long": "-98.56972"
+        }, 
+        {
+            "lat": "19.71128", 
+            "name": "Apan", 
+            "long": "-98.45086"
+        }, 
+        {
+            "lat": "20.26961", 
+            "name": "Actopan", 
+            "long": "-98.94377"
+        }, 
+        {
+            "lat": "19.87444", 
+            "name": "Don Antonio", 
+            "long": "-98.93472"
+        }, 
+        {
+            "lat": "20.06417", 
+            "name": "La Providencia Siglo XXI", 
+            "long": "-98.71722"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "17.65319", 
+            "name": "Zumpango del R&#237;o", 
+            "long": "-99.52607"
+        }, 
+        {
+            "lat": "17.54042", 
+            "name": "Tlapa de Comonfort", 
+            "long": "-98.57952"
+        }, 
+        {
+            "lat": "17.56732", 
+            "name": "Tixtla de Guerrero", 
+            "long": "-99.39799"
+        }, 
+        {
+            "lat": "18.3674", 
+            "name": "Teloloapan", 
+            "long": "-99.86776"
+        }, 
+        {
+            "lat": "18.55629", 
+            "name": "Taxco de Alarc&#243;n", 
+            "long": "-99.60491"
+        }, 
+        {
+            "lat": "16.69008", 
+            "name": "Ometepec", 
+            "long": "-98.40797"
+        }, 
+        {
+            "lat": "17.24501", 
+            "name": "Malinaltepec", 
+            "long": "-98.67091"
+        }, 
+        {
+            "lat": "18.34928", 
+            "name": "Iguala de la Independencia", 
+            "long": "-99.53936"
+        }, 
+        {
+            "lat": "18.30668", 
+            "name": "Huitzuco de los Figueroa", 
+            "long": "-99.33541"
+        }, 
+        {
+            "lat": "17.5506", 
+            "name": "Chilpancingo de los Bravos", 
+            "long": "-99.50578"
+        }, 
+        {
+            "lat": "17.59459", 
+            "name": "Chilapa de Alvarez", 
+            "long": "-99.17639"
+        }, 
+        {
+            "lat": "16.86336", 
+            "name": "Acapulco de Ju&#225;rez", 
+            "long": "-99.8901"
+        }, 
+        {
+            "lat": "17.64344", 
+            "name": "Ixtapa-Zihuatanejo", 
+            "long": "-101.55212"
+        }, 
+        {
+            "lat": "21.29787", 
+            "name": "San Luis de la Paz", 
+            "long": "-100.51676"
+        }, 
+        {
+            "lat": "17.53768", 
+            "name": "Petatl&#225;n", 
+            "long": "-101.26798"
+        }, 
+        {
+            "lat": "18.3582", 
+            "name": "Ciudad Altamirano", 
+            "long": "-100.66965"
+        }, 
+        {
+            "lat": "17.20667", 
+            "name": "Atoyac de &#193;lvarez", 
+            "long": "-100.43306"
+        }, 
+        {
+            "lat": "18.31847", 
+            "name": "Arcelia", 
+            "long": "-100.28148"
+        }, 
+        {
+            "lat": "18.30111", 
+            "name": "Ciudad de Huitzuco", 
+            "long": "-99.33111"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "19.7967", 
+            "name": "Zumpango", 
+            "long": "-99.09946"
+        }, 
+        {
+            "lat": "19.27022", 
+            "name": "San Miguel Xico Viejo", 
+            "long": "-98.93588"
+        }, 
+        {
+            "lat": "19.41676", 
+            "name": "Villa Cuauht&#233;moc Otzolotepec", 
+            "long": "-99.55872"
+        }, 
+        {
+            "lat": "19.64756", 
+            "name": "Tultitl&#225;n", 
+            "long": "-99.16796"
+        }, 
+        {
+            "lat": "19.685", 
+            "name": "Tultepec", 
+            "long": "-99.12806"
+        }, 
+        {
+            "lat": "19.28786", 
+            "name": "Toluca", 
+            "long": "-99.65324"
+        }, 
+        {
+            "lat": "19.54005", 
+            "name": "Tlalnepantla", 
+            "long": "-99.19538"
+        }, 
+        {
+            "lat": "19.18024", 
+            "name": "Santiago T&#237;anguistenco", 
+            "long": "-99.46644"
+        }, 
+        {
+            "lat": "19.51194", 
+            "name": "Texcoco de Mora", 
+            "long": "-98.88293"
+        }, 
+        {
+            "lat": "19.90944", 
+            "name": "Tequixquiac", 
+            "long": "-99.14472"
+        }, 
+        {
+            "lat": "19.64388", 
+            "name": "Cuautitl&#225;n Izcalli", 
+            "long": "-99.21598"
+        }, 
+        {
+            "lat": "19.71981", 
+            "name": "Tepotzotl&#225;n", 
+            "long": "-99.2237"
+        }, 
+        {
+            "lat": "19.7458", 
+            "name": "Teoloyucan", 
+            "long": "-99.17855"
+        }, 
+        {
+            "lat": "19.42155", 
+            "name": "Santa Mar&#237;a Chimalhuac&#225;n", 
+            "long": "-98.95038"
+        }, 
+        {
+            "lat": "19.5517", 
+            "name": "San Salvador Atenco", 
+            "long": "-98.91867"
+        }, 
+        {
+            "lat": "19.6667", 
+            "name": "San Pablo de las Salinas", 
+            "long": "-99.09527"
+        }, 
+        {
+            "lat": "19.28428", 
+            "name": "San Miguel Zinacantepec", 
+            "long": "-99.73394"
+        }, 
+        {
+            "lat": "19.44999", 
+            "name": "Coatlinch&#225;n", 
+            "long": "-98.87274"
+        }, 
+        {
+            "lat": "19.34317", 
+            "name": "San Francisco Acuautla", 
+            "long": "-98.85557"
+        }, 
+        {
+            "lat": "19.03689", 
+            "name": "Ozumba de Alzate", 
+            "long": "-98.79516"
+        }, 
+        {
+            "lat": "19.63658", 
+            "name": "Nicol&#225;s Romero", 
+            "long": "-99.30682"
+        }, 
+        {
+            "lat": "19.47851", 
+            "name": "Naucalpan de Ju&#225;rez", 
+            "long": "-99.23963"
+        }, 
+        {
+            "lat": "19.36357", 
+            "name": "Los Reyes La Paz", 
+            "long": "-98.97707"
+        }, 
+        {
+            "lat": "18.84369", 
+            "name": "Ixtapan de la Sal", 
+            "long": "-99.67671"
+        }, 
+        {
+            "lat": "19.31556", 
+            "name": "Ixtapaluca", 
+            "long": "-98.88284"
+        }, 
+        {
+            "lat": "19.61725", 
+            "name": "Ecatepec", 
+            "long": "-99.06601"
+        }, 
+        {
+            "lat": "19.67029", 
+            "name": "Cuautitl&#225;n", 
+            "long": "-99.17865"
+        }, 
+        {
+            "lat": "19.63453", 
+            "name": "Coacalco", 
+            "long": "-99.1005"
+        }, 
+        {
+            "lat": "19.40061", 
+            "name": "Ciudad Nezahualcoyotl", 
+            "long": "-99.01483"
+        }, 
+        {
+            "lat": "19.55939", 
+            "name": "Chiconcuac", 
+            "long": "-98.89884"
+        }, 
+        {
+            "lat": "19.41687", 
+            "name": "San Vicente Chicoloapan", 
+            "long": "-98.90202"
+        }, 
+        {
+            "lat": "19.54895", 
+            "name": "Chiautla", 
+            "long": "-98.88236"
+        }, 
+        {
+            "lat": "19.26174", 
+            "name": "Chalco de D&#237;az Covarrubias", 
+            "long": "-98.89775"
+        }, 
+        {
+            "lat": "19.80038", 
+            "name": "Atlacomulco", 
+            "long": "-99.87376"
+        }, 
+        {
+            "lat": "19.58547", 
+            "name": "Ciudad L&#243;pez Mateos", 
+            "long": "-99.26035"
+        }, 
+        {
+            "lat": "19.12384", 
+            "name": "Amecameca de Ju&#225;rez", 
+            "long": "-98.76649"
+        }, 
+        {
+            "lat": "19.30653", 
+            "name": "Santa Mar&#237;a Totoltepec", 
+            "long": "-99.59279"
+        }, 
+        {
+            "lat": "19.35985", 
+            "name": "Huixquilucan", 
+            "long": "-99.35016"
+        }, 
+        {
+            "lat": "19.70246", 
+            "name": "Melchor Ocampo", 
+            "long": "-99.1438"
+        }, 
+        {
+            "lat": "19.68056", 
+            "name": "Huilango", 
+            "long": "-99.25639"
+        }, 
+        {
+            "lat": "19.65791", 
+            "name": "Santiago Teyahualco", 
+            "long": "-99.1234"
+        }, 
+        {
+            "lat": "19.68028", 
+            "name": "Ojo de Agua", 
+            "long": "-99.01"
+        }, 
+        {
+            "lat": "19.60833", 
+            "name": "Buenavista", 
+            "long": "-99.16944"
+        }, 
+        {
+            "lat": "19.19387", 
+            "name": "Valle de Bravo", 
+            "long": "-100.13394"
+        }, 
+        {
+            "lat": "18.90475", 
+            "name": "Tejupilco de Hidalgo", 
+            "long": "-100.15275"
+        }, 
+        {
+            "lat": "19.88733", 
+            "name": "Tanganc&#237;cuaro de Arista", 
+            "long": "-102.20636"
+        }, 
+        {
+            "lat": "20.08886", 
+            "name": "Puru&#225;ndiro", 
+            "long": "-101.51579"
+        }, 
+        {
+            "lat": "19.99482", 
+            "name": "Jiqu&#237;lpan de Ju&#225;rez", 
+            "long": "-102.71969"
+        }, 
+        {
+            "lat": "19.49156", 
+            "name": "Colonia Lindavista", 
+            "long": "-99.12475"
+        }, 
+        {
+            "lat": "19.39694", 
+            "name": "Naucalpan de Ju&#225;rez", 
+            "long": "-99.27667"
+        }, 
+        {
+            "lat": "19.6325", 
+            "name": "Fuentes del Valle", 
+            "long": "-99.13861"
+        }, 
+        {
+            "lat": "19.26028", 
+            "name": "San Salvador Tizatlalli", 
+            "long": "-99.59083"
+        }, 
+        {
+            "lat": "19.3025", 
+            "name": "San Buenaventura", 
+            "long": "-98.86306"
+        }, 
+        {
+            "lat": "19.845", 
+            "name": "Colonia Santa Teresa", 
+            "long": "-99.23333"
+        }, 
+        {
+            "lat": "19.29306", 
+            "name": "San Jer&#243;nimo Cuatro Vientos", 
+            "long": "-98.84167"
+        }, 
+        {
+            "lat": "19.68667", 
+            "name": "San Mart&#237;n Azcatepec", 
+            "long": "-98.97278"
+        }, 
+        {
+            "lat": "19.33972", 
+            "name": "San Isidro", 
+            "long": "-98.95056"
+        }, 
+        {
+            "lat": "19.34472", 
+            "name": "San Jos&#233; Guadalupe Otzacatipan", 
+            "long": "-99.59194"
+        }, 
+        {
+            "lat": "19.34361", 
+            "name": "Emiliano Zapata", 
+            "long": "-98.97472"
+        }, 
+        {
+            "lat": "19.68972", 
+            "name": "Teotihuac&#225;n de Arista", 
+            "long": "-98.86083"
+        }, 
+        {
+            "lat": "19.375", 
+            "name": "Jes&#250;s del Monte", 
+            "long": "-99.29444"
+        }, 
+        {
+            "lat": "19.25417", 
+            "name": "San Jorge Pueblo Nuevo", 
+            "long": "-99.62778"
+        }, 
+        {
+            "lat": "19.61639", 
+            "name": "Ampliaci&#243;n San Mateo (Colonia Solidaridad)", 
+            "long": "-99.14722"
+        }, 
+        {
+            "lat": "19.71306", 
+            "name": "Tec&#225;mac de Felipe Villanueva", 
+            "long": "-98.96833"
+        }, 
+        {
+            "lat": "19.66194", 
+            "name": "Alborada Jaltenco", 
+            "long": "-99.06889"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "19.2366", 
+            "name": "Cihuatl&#225;n", 
+            "long": "-104.56512"
+        }, 
+        {
+            "lat": "20.62248", 
+            "name": "Zapotlanejo", 
+            "long": "-103.06766"
+        }, 
+        {
+            "lat": "19.62749", 
+            "name": "Zapotiltic", 
+            "long": "-103.41752"
+        }, 
+        {
+            "lat": "20.72356", 
+            "name": "Zapopan", 
+            "long": "-103.38479"
+        }, 
+        {
+            "lat": "20.22816", 
+            "name": "Zacoalco de Torres", 
+            "long": "-103.5687"
+        }, 
+        {
+            "lat": "19.55555", 
+            "name": "Tuxpan", 
+            "long": "-103.37587"
+        }, 
+        {
+            "lat": "20.62445", 
+            "name": "Tonal&#225;", 
+            "long": "-103.23423"
+        }, 
+        {
+            "lat": "20.64091", 
+            "name": "Tlaquepaque", 
+            "long": "-103.29327"
+        }, 
+        {
+            "lat": "20.47421", 
+            "name": "Tlajomulco de Z&#250;&#241;iga", 
+            "long": "-103.44654"
+        }, 
+        {
+            "lat": "20.80051", 
+            "name": "Tesist&#225;n", 
+            "long": "-103.46993"
+        }, 
+        {
+            "lat": "20.88197", 
+            "name": "Tequila", 
+            "long": "-103.83569"
+        }, 
+        {
+            "lat": "20.81692", 
+            "name": "Tepatitl&#225;n de Morelos", 
+            "long": "-102.76347"
+        }, 
+        {
+            "lat": "21.43421", 
+            "name": "Teocaltiche", 
+            "long": "-102.57449"
+        }, 
+        {
+            "lat": "19.68006", 
+            "name": "Tamazula de Gordiano", 
+            "long": "-103.2514"
+        }, 
+        {
+            "lat": "20.6536", 
+            "name": "Tala", 
+            "long": "-103.70092"
+        }, 
+        {
+            "lat": "19.88225", 
+            "name": "Sayula", 
+            "long": "-103.60027"
+        }, 
+        {
+            "lat": "20.55056", 
+            "name": "Santa Anita", 
+            "long": "-103.44"
+        }, 
+        {
+            "lat": "20.51667", 
+            "name": "San Sebasti&#225;n el Grande", 
+            "long": "-103.41667"
+        }, 
+        {
+            "lat": "21.03011", 
+            "name": "San Miguel el Alto", 
+            "long": "-102.40414"
+        }, 
+        {
+            "lat": "21.24891", 
+            "name": "San Juan de los Lagos", 
+            "long": "-102.33184"
+        }, 
+        {
+            "lat": "20.54638", 
+            "name": "Nicol&#225;s R Casillas", 
+            "long": "-103.46622"
+        }, 
+        {
+            "lat": "20.617", 
+            "name": "Puerto Vallarta", 
+            "long": "-105.23018"
+        }, 
+        {
+            "lat": "20.3553", 
+            "name": "Ocotl&#225;n", 
+            "long": "-102.77358"
+        }, 
+        {
+            "lat": "20.7565", 
+            "name": "Nuevo M&#233;xico", 
+            "long": "-103.44297"
+        }, 
+        {
+            "lat": "20.57376", 
+            "name": "Las Pintas de Arriba", 
+            "long": "-103.32345"
+        }, 
+        {
+            "lat": "21.3559", 
+            "name": "Lagos de Moreno", 
+            "long": "-101.93399"
+        }, 
+        {
+            "lat": "20.29028", 
+            "name": "La Barca", 
+            "long": "-102.54565"
+        }, 
+        {
+            "lat": "20.28527", 
+            "name": "Jocotepec", 
+            "long": "-103.42897"
+        }, 
+        {
+            "lat": "20.29349", 
+            "name": "Jamay", 
+            "long": "-102.70754"
+        }, 
+        {
+            "lat": "21.16741", 
+            "name": "Jalostotitl&#225;n", 
+            "long": "-102.46386"
+        }, 
+        {
+            "lat": "20.71641", 
+            "name": "Ixtapa", 
+            "long": "-105.20487"
+        }, 
+        {
+            "lat": "20.66682", 
+            "name": "Guadalajara", 
+            "long": "-103.39182"
+        }, 
+        {
+            "lat": "21.52727", 
+            "name": "Encarnaci&#243;n de D&#237;az", 
+            "long": "-102.23975"
+        }, 
+        {
+            "lat": "20.33333", 
+            "name": "El Salto", 
+            "long": "-104.5"
+        }, 
+        {
+            "lat": "19.80603", 
+            "name": "El Grullo", 
+            "long": "-104.21805"
+        }, 
+        {
+            "lat": "19.70466", 
+            "name": "Ciudad Guzm&#225;n", 
+            "long": "-103.4617"
+        }, 
+        {
+            "lat": "20.29616", 
+            "name": "Chapala", 
+            "long": "-103.19123"
+        }, 
+        {
+            "lat": "19.76822", 
+            "name": "Autl&#225;n de Navarro", 
+            "long": "-104.36664"
+        }, 
+        {
+            "lat": "20.55079", 
+            "name": "Atotonilco el Alto", 
+            "long": "-102.50942"
+        }, 
+        {
+            "lat": "20.70519", 
+            "name": "Arandas", 
+            "long": "-102.34635"
+        }, 
+        {
+            "lat": "20.54629", 
+            "name": "Ameca", 
+            "long": "-104.04508"
+        }, 
+        {
+            "lat": "20.51806", 
+            "name": "Hacienda Santa Fe", 
+            "long": "-103.38056"
+        }, 
+        {
+            "lat": "20.56444", 
+            "name": "Las Pintitas", 
+            "long": "-103.30222"
+        }, 
+        {
+            "lat": "20.4925", 
+            "name": "Lomas del Sur", 
+            "long": "-103.4175"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "18.65388", 
+            "name": "Zacatepec", 
+            "long": "-99.19054"
+        }, 
+        {
+            "lat": "18.88333", 
+            "name": "Yecapixtla", 
+            "long": "-98.865"
+        }, 
+        {
+            "lat": "18.88188", 
+            "name": "Yautepec", 
+            "long": "-99.06715"
+        }, 
+        {
+            "lat": "18.68502", 
+            "name": "Xoxocotla", 
+            "long": "-99.24608"
+        }, 
+        {
+            "lat": "19.40513", 
+            "name": "Xonacatl&#225;n", 
+            "long": "-99.52807"
+        }, 
+        {
+            "lat": "18.78121", 
+            "name": "Xochitepec", 
+            "long": "-99.23055"
+        }, 
+        {
+            "lat": "18.63693", 
+            "name": "Tlaquiltenango", 
+            "long": "-99.16208"
+        }, 
+        {
+            "lat": "19.83721", 
+            "name": "Tizayuca", 
+            "long": "-98.97607"
+        }, 
+        {
+            "lat": "18.98603", 
+            "name": "Tepoztl&#225;n", 
+            "long": "-99.09914"
+        }, 
+        {
+            "lat": "19.10446", 
+            "name": "Tenango de Arista", 
+            "long": "-99.5898"
+        }, 
+        {
+            "lat": "18.85528", 
+            "name": "Temixco", 
+            "long": "-99.23072"
+        }, 
+        {
+            "lat": "19.71288", 
+            "name": "Tecamac de Felipe Villanueva", 
+            "long": "-98.96895"
+        }, 
+        {
+            "lat": "19.35638", 
+            "name": "San Pablo Autopan", 
+            "long": "-99.65724"
+        }, 
+        {
+            "lat": "19.26757", 
+            "name": "San Mateo Atenco", 
+            "long": "-99.53214"
+        }, 
+        {
+            "lat": "19.68782", 
+            "name": "Teotihuac&#225;n de Arista", 
+            "long": "-98.86208"
+        }, 
+        {
+            "lat": "18.61472", 
+            "name": "Puente de Ixtla", 
+            "long": "-99.31806"
+        }, 
+        {
+            "lat": "19.27127", 
+            "name": "Ocoyoacac", 
+            "long": "-99.45787"
+        }, 
+        {
+            "lat": "19.25934", 
+            "name": "Metepec", 
+            "long": "-99.60175"
+        }, 
+        {
+            "lat": "19.7755", 
+            "name": "Reyes Acozac", 
+            "long": "-98.98079"
+        }, 
+        {
+            "lat": "19.28881", 
+            "name": "Lerma de Villada", 
+            "long": "-99.51163"
+        }, 
+        {
+            "lat": "18.61472", 
+            "name": "Jojutla", 
+            "long": "-99.18028"
+        }, 
+        {
+            "lat": "18.88139", 
+            "name": "Jiutepec", 
+            "long": "-99.17778"
+        }, 
+        {
+            "lat": "18.83677", 
+            "name": "Emiliano Zapata", 
+            "long": "-99.18207"
+        }, 
+        {
+            "lat": "18.9261", 
+            "name": "Cuernavaca", 
+            "long": "-99.23075"
+        }, 
+        {
+            "lat": "18.80459", 
+            "name": "Cuautla Morelos", 
+            "long": "-98.94555"
+        }, 
+        {
+            "lat": "19.77722", 
+            "name": "Coyotepec", 
+            "long": "-99.21295"
+        }, 
+        {
+            "lat": "19.19354", 
+            "name": "Capulhuac", 
+            "long": "-99.46585"
+        }, 
+        {
+            "lat": "18.50307", 
+            "name": "Axochiapan", 
+            "long": "-98.75219"
+        }, 
+        {
+            "lat": "19.33273", 
+            "name": "San Mateo Otzacatipan", 
+            "long": "-99.60345"
+        }, 
+        {
+            "lat": "18.86861", 
+            "name": "Tres de Mayo", 
+            "long": "-99.20833"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "19.9855", 
+            "name": "Zamora", 
+            "long": "-102.28387"
+        }, 
+        {
+            "lat": "19.81389", 
+            "name": "Zacap&#250;", 
+            "long": "-101.79041"
+        }, 
+        {
+            "lat": "20.33738", 
+            "name": "Yur&#233;cuaro", 
+            "long": "-102.28342"
+        }, 
+        {
+            "lat": "19.41116", 
+            "name": "Uruapan", 
+            "long": "-102.05644"
+        }, 
+        {
+            "lat": "19.18666", 
+            "name": "Tepalcatepec", 
+            "long": "-102.8493"
+        }, 
+        {
+            "lat": "19.23502", 
+            "name": "Tac&#225;mbaro de Codallos", 
+            "long": "-101.45824"
+        }, 
+        {
+            "lat": "20.05859", 
+            "name": "Sahuayo de Morelos", 
+            "long": "-102.71575"
+        }, 
+        {
+            "lat": "19.51594", 
+            "name": "P&#225;tzcuaro", 
+            "long": "-101.60887"
+        }, 
+        {
+            "lat": "19.64745", 
+            "name": "Paracho de Verduzco", 
+            "long": "-102.04897"
+        }, 
+        {
+            "lat": "19.02492", 
+            "name": "Nueva Italia de Ruiz", 
+            "long": "-102.09318"
+        }, 
+        {
+            "lat": "19.70078", 
+            "name": "Morelia", 
+            "long": "-101.18443"
+        }, 
+        {
+            "lat": "19.89167", 
+            "name": "Maravat&#237;o", 
+            "long": "-100.44229"
+        }, 
+        {
+            "lat": "20.34763", 
+            "name": "La Piedad Cavadas", 
+            "long": "-102.02806"
+        }, 
+        {
+            "lat": "17.99583", 
+            "name": "La Orilla", 
+            "long": "-102.22694"
+        }, 
+        {
+            "lat": "18.62926", 
+            "name": "Huetamo de N&#250;&#241;ez", 
+            "long": "-100.897"
+        }, 
+        {
+            "lat": "19.43612", 
+            "name": "Her&#243;ica Zit&#225;cuaro", 
+            "long": "-100.35733"
+        }, 
+        {
+            "lat": "19.69229", 
+            "name": "Ciudad Hidalgo", 
+            "long": "-100.55739"
+        }, 
+        {
+            "lat": "19.08864", 
+            "name": "Apatzing&#225;n", 
+            "long": "-102.35704"
+        }, 
+        {
+            "lat": "18.01932", 
+            "name": "Guacamayas", 
+            "long": "-102.21225"
+        }, 
+        {
+            "lat": "17.97066", 
+            "name": "Ciudad L&#225;zaro C&#225;rdenas", 
+            "long": "-102.22124"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "25.18909", 
+            "name": "Montemorelos", 
+            "long": "-99.82865"
+        }, 
+        {
+            "lat": "24.85908", 
+            "name": "Linares", 
+            "long": "-99.56567"
+        }, 
+        {
+            "lat": "25.58333", 
+            "name": "Cadereyta", 
+            "long": "-99.98333"
+        }, 
+        {
+            "lat": "25.8569", 
+            "name": "Hidalgo", 
+            "long": "-99.61855"
+        }, 
+        {
+            "lat": "25.81147", 
+            "name": "Garc&#237;a", 
+            "long": "-100.5941"
+        }, 
+        {
+            "lat": "25.42533", 
+            "name": "Santiago", 
+            "long": "-100.15205"
+        }, 
+        {
+            "lat": "25.67325", 
+            "name": "Santa Catarina", 
+            "long": "-100.45813"
+        }, 
+        {
+            "lat": "25.74167", 
+            "name": "San Nicol&#225;s de los Garza", 
+            "long": "-100.30222"
+        }, 
+        {
+            "lat": "26.50358", 
+            "name": "Sabinas Hidalgo", 
+            "long": "-100.18187"
+        }, 
+        {
+            "lat": "25.67507", 
+            "name": "Monterrey", 
+            "long": "-100.31847"
+        }, 
+        {
+            "lat": "25.67678", 
+            "name": "Guadalupe", 
+            "long": "-100.25646"
+        }, 
+        {
+            "lat": "25.79516", 
+            "name": "General Escobedo", 
+            "long": "-100.31461"
+        }, 
+        {
+            "lat": "25.65384", 
+            "name": "Garza Garc&#237;a", 
+            "long": "-100.37758"
+        }, 
+        {
+            "lat": "27.24457", 
+            "name": "Ciudad An&#225;huac", 
+            "long": "-100.13229"
+        }, 
+        {
+            "lat": "25.75976", 
+            "name": "Apodaca", 
+            "long": "-100.16287"
+        }, 
+        {
+            "lat": "25.27673", 
+            "name": "Allende", 
+            "long": "-100.01442"
+        }, 
+        {
+            "lat": "27.24056", 
+            "name": "An&#225;huac", 
+            "long": "-100.13222"
+        }, 
+        {
+            "lat": "25.65716", 
+            "name": "San Pedro Garza Garcia", 
+            "long": "-100.40268"
+        }, 
+        {
+            "lat": "25.62944", 
+            "name": "Jardines de la Silla (Jardines)", 
+            "long": "-100.18778"
+        }, 
+        {
+            "lat": "25.90417", 
+            "name": "Fraccionamiento Real Palmas", 
+            "long": "-100.15972"
+        }, 
+        {
+            "lat": "25.78861", 
+            "name": "Parque Industrial Ciudad Mitras", 
+            "long": "-100.44778"
+        }, 
+        {
+            "lat": "25.77583", 
+            "name": "Mitras Poniente", 
+            "long": "-100.42583"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "22.76843", 
+            "name": "Zacatecas", 
+            "long": "-102.58141"
+        }, 
+        {
+            "lat": "23.63466", 
+            "name": "Sombrerete", 
+            "long": "-103.64244"
+        }, 
+        {
+            "lat": "23.82647", 
+            "name": "R&#237;o Grande", 
+            "long": "-103.03034"
+        }, 
+        {
+            "lat": "21.36545", 
+            "name": "Nochistl&#225;n", 
+            "long": "-102.84659"
+        }, 
+        {
+            "lat": "22.27248", 
+            "name": "Loreto", 
+            "long": "-101.98898"
+        }, 
+        {
+            "lat": "22.64862", 
+            "name": "Jerez de Garc&#237;a Salinas", 
+            "long": "-102.99034"
+        }, 
+        {
+            "lat": "22.75305", 
+            "name": "Guadalupe", 
+            "long": "-102.51822"
+        }, 
+        {
+            "lat": "23.18126", 
+            "name": "Fresnillo", 
+            "long": "-102.87136"
+        }, 
+        {
+            "lat": "22.94889", 
+            "name": "V&#237;ctor Rosales", 
+            "long": "-102.70222"
+        }
+    ], 
+    "31": [
+        {
+            "lat": "20.68812", 
+            "name": "Valladolid", 
+            "long": "-88.19936"
+        }, 
+        {
+            "lat": "20.88213", 
+            "name": "Uman", 
+            "long": "-89.74649"
+        }, 
+        {
+            "lat": "21.14284", 
+            "name": "Tizim&#237;n", 
+            "long": "-88.15119"
+        }, 
+        {
+            "lat": "20.39833", 
+            "name": "Ticul", 
+            "long": "-89.53541"
+        }, 
+        {
+            "lat": "20.2052", 
+            "name": "Tecax", 
+            "long": "-89.28522"
+        }, 
+        {
+            "lat": "21.28546", 
+            "name": "Progreso de Castro", 
+            "long": "-89.64744"
+        }, 
+        {
+            "lat": "20.12776", 
+            "name": "Peto", 
+            "long": "-88.92282"
+        }, 
+        {
+            "lat": "20.30734", 
+            "name": "Oxkutzkab", 
+            "long": "-89.41809"
+        }, 
+        {
+            "lat": "21.09571", 
+            "name": "Motul", 
+            "long": "-89.28332"
+        }, 
+        {
+            "lat": "20.97537", 
+            "name": "M&#233;rida", 
+            "long": "-89.61696"
+        }, 
+        {
+            "lat": "20.93482", 
+            "name": "Kanas&#237;n", 
+            "long": "-89.55871"
+        }, 
+        {
+            "lat": "21.01723", 
+            "name": "Hunucm&#225;", 
+            "long": "-89.87551"
+        }, 
+        {
+            "lat": "20.66667", 
+            "name": "Chich&#233;n-Itz&#225;", 
+            "long": "-88.56667"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "20.6274", 
+            "name": "Playa del Carmen", 
+            "long": "-87.07987"
+        }, 
+        {
+            "lat": "19.5775", 
+            "name": "Felipe Carrillo Puerto", 
+            "long": "-88.04529"
+        }, 
+        {
+            "lat": "20.501", 
+            "name": "San Miguel de Cozumel", 
+            "long": "-86.94598"
+        }, 
+        {
+            "lat": "18.51413", 
+            "name": "Chetumal", 
+            "long": "-88.30381"
+        }, 
+        {
+            "lat": "21.17429", 
+            "name": "Canc&#250;n", 
+            "long": "-86.84656"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "21.50951", 
+            "name": "Tepic", 
+            "long": "-104.89569"
+        }, 
+        {
+            "lat": "21.81295", 
+            "name": "Santiago Ixcuintla", 
+            "long": "-105.20844"
+        }, 
+        {
+            "lat": "21.03907", 
+            "name": "Ixtl&#225;n del R&#237;o", 
+            "long": "-104.37116"
+        }, 
+        {
+            "lat": "21.23777", 
+            "name": "Compostela", 
+            "long": "-104.9001"
+        }, 
+        {
+            "lat": "22.49396", 
+            "name": "Acaponeta", 
+            "long": "-105.36369"
+        }
+    ]
+}

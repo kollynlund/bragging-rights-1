@@ -1,0 +1,1147 @@
+{
+    "02": [
+        {
+            "lat": "7.48971", 
+            "name": "Zaragoza", 
+            "long": "-74.86919"
+        }, 
+        {
+            "lat": "6.96321", 
+            "name": "Yarumal", 
+            "long": "-75.41738"
+        }, 
+        {
+            "lat": "6.31696", 
+            "name": "Urrao", 
+            "long": "-76.1342"
+        }, 
+        {
+            "lat": "8.09263", 
+            "name": "Turbo", 
+            "long": "-76.72822"
+        }, 
+        {
+            "lat": "5.71062", 
+            "name": "Sons&#243;n", 
+            "long": "-75.31069"
+        }, 
+        {
+            "lat": "7.07993", 
+            "name": "Segovia", 
+            "long": "-74.6989"
+        }, 
+        {
+            "lat": "6.13833", 
+            "name": "Santuario", 
+            "long": "-75.26417"
+        }, 
+        {
+            "lat": "7.79177", 
+            "name": "San Carlos", 
+            "long": "-74.77316"
+        }, 
+        {
+            "lat": "6.15153", 
+            "name": "Sabaneta", 
+            "long": "-75.61657"
+        }, 
+        {
+            "lat": "6.15515", 
+            "name": "Rionegro", 
+            "long": "-75.37371"
+        }, 
+        {
+            "lat": "6.49156", 
+            "name": "Puerto Berr&#237;o", 
+            "long": "-74.40326"
+        }, 
+        {
+            "lat": "6.25184", 
+            "name": "Medell&#237;n", 
+            "long": "-75.56359"
+        }, 
+        {
+            "lat": "6.17358", 
+            "name": "Marinilla", 
+            "long": "-75.33621"
+        }, 
+        {
+            "lat": "6.15769", 
+            "name": "La Estrella", 
+            "long": "-75.64317"
+        }, 
+        {
+            "lat": "6.03131", 
+            "name": "La Ceja", 
+            "long": "-75.43333"
+        }, 
+        {
+            "lat": "6.18461", 
+            "name": "Itag&#252;&#237;", 
+            "long": "-75.59913"
+        }, 
+        {
+            "lat": "6.17591", 
+            "name": "Envigado", 
+            "long": "-75.59174"
+        }, 
+        {
+            "lat": "7.60347", 
+            "name": "El Bagre", 
+            "long": "-74.80951"
+        }, 
+        {
+            "lat": "6.34633", 
+            "name": "Municipio de Copacabana", 
+            "long": "-75.50888"
+        }, 
+        {
+            "lat": "7.66638", 
+            "name": "Chigorod&#243;", 
+            "long": "-76.68106"
+        }, 
+        {
+            "lat": "7.98654", 
+            "name": "Caucasia", 
+            "long": "-75.19349"
+        }, 
+        {
+            "lat": "6.08236", 
+            "name": "Carmen de Viboral", 
+            "long": "-75.33509"
+        }, 
+        {
+            "lat": "6.09106", 
+            "name": "Caldas", 
+            "long": "-75.63569"
+        }, 
+        {
+            "lat": "6.33732", 
+            "name": "Bello", 
+            "long": "-75.55795"
+        }, 
+        {
+            "lat": "6.43809", 
+            "name": "Barbosa", 
+            "long": "-75.33136"
+        }, 
+        {
+            "lat": "7.88299", 
+            "name": "Apartad&#243;", 
+            "long": "-76.62587"
+        }, 
+        {
+            "lat": "5.6561", 
+            "name": "Los Andes", 
+            "long": "-75.87877"
+        }, 
+        {
+            "lat": "7.75849", 
+            "name": "Carepa", 
+            "long": "-76.65255"
+        }, 
+        {
+            "lat": "5.85389", 
+            "name": "Ciudad Bol&#237;var", 
+            "long": "-76.02528"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "6.46099", 
+            "name": "Tame", 
+            "long": "-71.73004"
+        }, 
+        {
+            "lat": "7.08471", 
+            "name": "Arauca", 
+            "long": "-70.75908"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "6.46838", 
+            "name": "Socorro", 
+            "long": "-73.26022"
+        }, 
+        {
+            "lat": "6.55952", 
+            "name": "San Gil", 
+            "long": "-73.13637"
+        }, 
+        {
+            "lat": "6.98789", 
+            "name": "Piedecuesta", 
+            "long": "-73.04953"
+        }, 
+        {
+            "lat": "6.69903", 
+            "name": "M&#225;laga", 
+            "long": "-72.73233"
+        }, 
+        {
+            "lat": "7.0682", 
+            "name": "Gir&#243;n", 
+            "long": "-73.16981"
+        }, 
+        {
+            "lat": "7.06222", 
+            "name": "Floridablanca", 
+            "long": "-73.08644"
+        }, 
+        {
+            "lat": "7.12539", 
+            "name": "Bucaramanga", 
+            "long": "-73.1198"
+        }, 
+        {
+            "lat": "7.06528", 
+            "name": "Barrancabermeja", 
+            "long": "-73.85472"
+        }, 
+        {
+            "lat": "5.93168", 
+            "name": "Barbosa", 
+            "long": "-73.61507"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "9.52392", 
+            "name": "Tol&#250;", 
+            "long": "-75.58139"
+        }, 
+        {
+            "lat": "8.81136", 
+            "name": "Sucre", 
+            "long": "-74.72084"
+        }, 
+        {
+            "lat": "9.30472", 
+            "name": "Sincelejo", 
+            "long": "-75.39778"
+        }, 
+        {
+            "lat": "9.24391", 
+            "name": "Sinc&#233;", 
+            "long": "-75.14675"
+        }, 
+        {
+            "lat": "9.73586", 
+            "name": "San Onofre", 
+            "long": "-75.52626"
+        }, 
+        {
+            "lat": "8.65972", 
+            "name": "San Marcos", 
+            "long": "-75.12809"
+        }, 
+        {
+            "lat": "8.92901", 
+            "name": "San Benito Abad", 
+            "long": "-75.02709"
+        }, 
+        {
+            "lat": "9.18361", 
+            "name": "Sampu&#233;s", 
+            "long": "-75.38167"
+        }, 
+        {
+            "lat": "9.31505", 
+            "name": "Corozal", 
+            "long": "-75.29283"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "1.08878", 
+            "name": "T&#250;querres", 
+            "long": "-77.61831"
+        }, 
+        {
+            "lat": "1.79861", 
+            "name": "Tumaco", 
+            "long": "-78.81556"
+        }, 
+        {
+            "lat": "1.21361", 
+            "name": "Pasto", 
+            "long": "-77.28111"
+        }, 
+        {
+            "lat": "1.6045", 
+            "name": "La Uni&#243;n", 
+            "long": "-77.13152"
+        }, 
+        {
+            "lat": "0.83018", 
+            "name": "Ipiales", 
+            "long": "-77.64959"
+        }, 
+        {
+            "lat": "2.47691", 
+            "name": "El Charco", 
+            "long": "-78.11049"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "7.83389", 
+            "name": "Villa del Rosario", 
+            "long": "-72.47417"
+        }, 
+        {
+            "lat": "8.36361", 
+            "name": "Puerto Santander", 
+            "long": "-72.4063"
+        }, 
+        {
+            "lat": "7.37565", 
+            "name": "Pamplona", 
+            "long": "-72.64795"
+        }, 
+        {
+            "lat": "8.23773", 
+            "name": "Oca&#241;a", 
+            "long": "-73.35604"
+        }, 
+        {
+            "lat": "7.83793", 
+            "name": "Los Patios", 
+            "long": "-72.5037"
+        }, 
+        {
+            "lat": "7.89391", 
+            "name": "C&#250;cuta", 
+            "long": "-72.50782"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "10.91843", 
+            "name": "Soledad", 
+            "long": "-74.76459"
+        }, 
+        {
+            "lat": "10.75773", 
+            "name": "Santo Tom&#225;s", 
+            "long": "-74.75451"
+        }, 
+        {
+            "lat": "10.3242", 
+            "name": "Santa Luc&#237;a", 
+            "long": "-74.96017"
+        }, 
+        {
+            "lat": "10.62962", 
+            "name": "Sabanalarga", 
+            "long": "-74.92063"
+        }, 
+        {
+            "lat": "10.79115", 
+            "name": "Sabanagrande", 
+            "long": "-74.76059"
+        }, 
+        {
+            "lat": "10.49194", 
+            "name": "Repel&#243;n", 
+            "long": "-75.12917"
+        }, 
+        {
+            "lat": "10.98778", 
+            "name": "Puerto Colombia", 
+            "long": "-74.95472"
+        }, 
+        {
+            "lat": "10.74055", 
+            "name": "Palmar de Varela", 
+            "long": "-74.75443"
+        }, 
+        {
+            "lat": "10.85953", 
+            "name": "Malambo", 
+            "long": "-74.77386"
+        }, 
+        {
+            "lat": "10.89686", 
+            "name": "Galapa", 
+            "long": "-74.886"
+        }, 
+        {
+            "lat": "10.37808", 
+            "name": "Campo de la Cruz", 
+            "long": "-74.88356"
+        }, 
+        {
+            "lat": "10.96854", 
+            "name": "Barranquilla", 
+            "long": "-74.78132"
+        }, 
+        {
+            "lat": "10.79408", 
+            "name": "Baranoa", 
+            "long": "-74.9164"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "4.62306", 
+            "name": "Quimbaya", 
+            "long": "-75.76278"
+        }, 
+        {
+            "lat": "4.56639", 
+            "name": "Montenegro", 
+            "long": "-75.75111"
+        }, 
+        {
+            "lat": "4.45265", 
+            "name": "La Tebaida", 
+            "long": "-75.78746"
+        }, 
+        {
+            "lat": "4.61889", 
+            "name": "Circasia", 
+            "long": "-75.63583"
+        }, 
+        {
+            "lat": "4.52949", 
+            "name": "Calarc&#225;", 
+            "long": "-75.64091"
+        }, 
+        {
+            "lat": "4.53389", 
+            "name": "Armenia", 
+            "long": "-75.68111"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "1.61438", 
+            "name": "Florencia", 
+            "long": "-75.60623"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "3.00945", 
+            "name": "Santander de Quilichao", 
+            "long": "-76.48494"
+        }, 
+        {
+            "lat": "3.23114", 
+            "name": "Puerto Tejada", 
+            "long": "-76.41668"
+        }, 
+        {
+            "lat": "2.43823", 
+            "name": "Popay&#225;n", 
+            "long": "-76.61316"
+        }, 
+        {
+            "lat": "2.06895", 
+            "name": "Pat&#237;a", 
+            "long": "-77.05273"
+        }, 
+        {
+            "lat": "2.65472", 
+            "name": "Belalcazar", 
+            "long": "-75.99278"
+        }, 
+        {
+            "lat": "3.17301", 
+            "name": "Corinto", 
+            "long": "-76.26275"
+        }, 
+        {
+            "lat": "2.75701", 
+            "name": "Morales", 
+            "long": "-76.61723"
+        }
+    ], 
+    "28": [
+        {
+            "lat": "4.20475", 
+            "name": "Melgar", 
+            "long": "-74.64075"
+        }, 
+        {
+            "lat": "5.19889", 
+            "name": "Mariquita", 
+            "long": "-74.89295"
+        }, 
+        {
+            "lat": "4.9218", 
+            "name": "L&#237;bano", 
+            "long": "-75.06232"
+        }, 
+        {
+            "lat": "4.86242", 
+            "name": "L&#233;rida", 
+            "long": "-74.90977"
+        }, 
+        {
+            "lat": "4.43889", 
+            "name": "Ibagu&#233;", 
+            "long": "-75.23222"
+        }, 
+        {
+            "lat": "5.20856", 
+            "name": "Honda", 
+            "long": "-74.73584"
+        }, 
+        {
+            "lat": "5.15264", 
+            "name": "Fresno", 
+            "long": "-75.03624"
+        }, 
+        {
+            "lat": "4.29005", 
+            "name": "Flandes", 
+            "long": "-74.81612"
+        }, 
+        {
+            "lat": "4.14924", 
+            "name": "Espinal", 
+            "long": "-74.88429"
+        }, 
+        {
+            "lat": "3.72315", 
+            "name": "Chaparral", 
+            "long": "-75.48316"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "4.39462", 
+            "name": "Zarzal", 
+            "long": "-76.0715"
+        }, 
+        {
+            "lat": "3.58234", 
+            "name": "Yumbo", 
+            "long": "-76.49146"
+        }, 
+        {
+            "lat": "4.08466", 
+            "name": "Tulu&#225;", 
+            "long": "-76.19536"
+        }, 
+        {
+            "lat": "4.26425", 
+            "name": "Sevilla", 
+            "long": "-75.93085"
+        }, 
+        {
+            "lat": "4.41256", 
+            "name": "Roldanillo", 
+            "long": "-76.15457"
+        }, 
+        {
+            "lat": "3.42111", 
+            "name": "Pradera", 
+            "long": "-76.24472"
+        }, 
+        {
+            "lat": "3.53944", 
+            "name": "Palmira", 
+            "long": "-76.30361"
+        }, 
+        {
+            "lat": "4.53282", 
+            "name": "La Uni&#243;n", 
+            "long": "-76.10318"
+        }, 
+        {
+            "lat": "3.26074", 
+            "name": "Jamund&#237;", 
+            "long": "-76.53499"
+        }, 
+        {
+            "lat": "3.76383", 
+            "name": "Guacar&#237;", 
+            "long": "-76.33292"
+        }, 
+        {
+            "lat": "3.3223", 
+            "name": "Florida", 
+            "long": "-76.2348"
+        }, 
+        {
+            "lat": "3.68549", 
+            "name": "El Cerrito", 
+            "long": "-76.31372"
+        }, 
+        {
+            "lat": "4.74639", 
+            "name": "Cartago", 
+            "long": "-75.91167"
+        }, 
+        {
+            "lat": "3.40671", 
+            "name": "Candelaria", 
+            "long": "-76.34819"
+        }, 
+        {
+            "lat": "3.43722", 
+            "name": "Cali", 
+            "long": "-76.5225"
+        }, 
+        {
+            "lat": "4.3324", 
+            "name": "Caicedonia", 
+            "long": "-75.82665"
+        }, 
+        {
+            "lat": "3.90089", 
+            "name": "Buga", 
+            "long": "-76.29783"
+        }, 
+        {
+            "lat": "3.8801", 
+            "name": "Buenaventura", 
+            "long": "-77.03116"
+        }, 
+        {
+            "lat": "3.58333", 
+            "name": "Buenaventura", 
+            "long": "-77"
+        }, 
+        {
+            "lat": "4.17061", 
+            "name": "Andaluc&#237;a", 
+            "long": "-76.16641"
+        }
+    ], 
+    "24": [
+        {
+            "lat": "4.86806", 
+            "name": "Santa Rosa de Cabal", 
+            "long": "-75.62139"
+        }, 
+        {
+            "lat": "4.81333", 
+            "name": "Pereira", 
+            "long": "-75.69611"
+        }, 
+        {
+            "lat": "4.89972", 
+            "name": "La Virginia", 
+            "long": "-75.8825"
+        }, 
+        {
+            "lat": "4.83916", 
+            "name": "Dos Quebradas", 
+            "long": "-75.66727"
+        }, 
+        {
+            "lat": "5.20087", 
+            "name": "Bel&#233;n de Umbr&#237;a", 
+            "long": "-75.86865"
+        }, 
+        {
+            "lat": "5.33278", 
+            "name": "Anserma", 
+            "long": "-75.79111"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "-4.21528", 
+            "name": "Leticia", 
+            "long": "-69.94056"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "12.58472", 
+            "name": "San Andr&#233;s", 
+            "long": "-81.70056"
+        }
+    ], 
+    "38": [
+        {
+            "lat": "11.24079", 
+            "name": "Santa Marta", 
+            "long": "-74.19904"
+        }, 
+        {
+            "lat": "10.46167", 
+            "name": "Pivijay", 
+            "long": "-74.61621"
+        }, 
+        {
+            "lat": "10.52066", 
+            "name": "Fundaci&#243;n", 
+            "long": "-74.18504"
+        }, 
+        {
+            "lat": "10.61135", 
+            "name": "El Ret&#233;n", 
+            "long": "-74.26824"
+        }, 
+        {
+            "lat": "9.00114", 
+            "name": "El Banco", 
+            "long": "-73.97581"
+        }, 
+        {
+            "lat": "11.00703", 
+            "name": "Ci&#233;naga", 
+            "long": "-74.24765"
+        }, 
+        {
+            "lat": "10.59181", 
+            "name": "Aracataca", 
+            "long": "-74.18983"
+        }, 
+        {
+            "lat": "9.79029", 
+            "name": "Plato", 
+            "long": "-74.78244"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "2.57286", 
+            "name": "San Jos&#233; del Guaviare", 
+            "long": "-72.64591"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "5.69472", 
+            "name": "Quibd&#243;", 
+            "long": "-76.66111"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "10.46314", 
+            "name": "Valledupar", 
+            "long": "-73.25322"
+        }, 
+        {
+            "lat": "9.56228", 
+            "name": "La Jagua de Ibirico", 
+            "long": "-73.33405"
+        }, 
+        {
+            "lat": "10.15031", 
+            "name": "El Copey", 
+            "long": "-73.9614"
+        }, 
+        {
+            "lat": "9.19992", 
+            "name": "Curuman&#237;", 
+            "long": "-73.54274"
+        }, 
+        {
+            "lat": "9.36238", 
+            "name": "Chiriguan&#225;", 
+            "long": "-73.60313"
+        }, 
+        {
+            "lat": "9.25778", 
+            "name": "Chimichagua", 
+            "long": "-73.81228"
+        }, 
+        {
+            "lat": "10.25", 
+            "name": "Ariguan&#237;", 
+            "long": "-74"
+        }, 
+        {
+            "lat": "8.30844", 
+            "name": "Aguachica", 
+            "long": "-73.6166"
+        }, 
+        {
+            "lat": "10.03672", 
+            "name": "Agust&#237;n Codazzi", 
+            "long": "-73.23558"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "8.17361", 
+            "name": "Tierralta", 
+            "long": "-76.05917"
+        }, 
+        {
+            "lat": "8.79577", 
+            "name": "San Carlos", 
+            "long": "-75.69947"
+        }, 
+        {
+            "lat": "8.94617", 
+            "name": "Sahag&#250;n", 
+            "long": "-75.44275"
+        }, 
+        {
+            "lat": "8.4115", 
+            "name": "Planeta Rica", 
+            "long": "-75.58508"
+        }, 
+        {
+            "lat": "8.74798", 
+            "name": "Monter&#237;a", 
+            "long": "-75.88143"
+        }, 
+        {
+            "lat": "7.97917", 
+            "name": "Montel&#237;bano", 
+            "long": "-75.4202"
+        }, 
+        {
+            "lat": "9.23648", 
+            "name": "Lorica", 
+            "long": "-75.8135"
+        }, 
+        {
+            "lat": "8.87443", 
+            "name": "Ci&#233;naga de Oro", 
+            "long": "-75.62028"
+        }, 
+        {
+            "lat": "9.10569", 
+            "name": "Chin&#250;", 
+            "long": "-75.39812"
+        }, 
+        {
+            "lat": "8.88479", 
+            "name": "Ceret&#233;", 
+            "long": "-75.79052"
+        }, 
+        {
+            "lat": "8.31372", 
+            "name": "Ayapel", 
+            "long": "-75.13982"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "0.51328", 
+            "name": "Puerto As&#237;s", 
+            "long": "-76.50075"
+        }, 
+        {
+            "lat": "1.14933", 
+            "name": "Mocoa", 
+            "long": "-76.64661"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "10.60528", 
+            "name": "Villanueva", 
+            "long": "-72.98"
+        }, 
+        {
+            "lat": "10.77107", 
+            "name": "San Juan del Cesar", 
+            "long": "-73.00314"
+        }, 
+        {
+            "lat": "11.54444", 
+            "name": "R&#237;ohacha", 
+            "long": "-72.90722"
+        }, 
+        {
+            "lat": "11.38321", 
+            "name": "Maicao", 
+            "long": "-72.24321"
+        }, 
+        {
+            "lat": "10.88606", 
+            "name": "Fonseca", 
+            "long": "-72.8487"
+        }, 
+        {
+            "lat": "10.95756", 
+            "name": "Barrancas", 
+            "long": "-72.78769"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "1.84966", 
+            "name": "Pitalito", 
+            "long": "-76.04785"
+        }, 
+        {
+            "lat": "2.9273", 
+            "name": "Neiva", 
+            "long": "-75.28189"
+        }, 
+        {
+            "lat": "2.39341", 
+            "name": "La Plata", 
+            "long": "-75.89232"
+        }, 
+        {
+            "lat": "2.19593", 
+            "name": "Garz&#243;n", 
+            "long": "-75.62777"
+        }, 
+        {
+            "lat": "2.68489", 
+            "name": "Campoalegre", 
+            "long": "-75.32311"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "5.02208", 
+            "name": "Zipaquir&#225;", 
+            "long": "-74.00481"
+        }, 
+        {
+            "lat": "5.00886", 
+            "name": "Villeta", 
+            "long": "-74.47226"
+        }, 
+        {
+            "lat": "5.30933", 
+            "name": "Ubat&#233;", 
+            "long": "-73.81575"
+        }, 
+        {
+            "lat": "4.57937", 
+            "name": "Soacha", 
+            "long": "-74.21682"
+        }, 
+        {
+            "lat": "4.48425", 
+            "name": "Sibat&#233;", 
+            "long": "-74.24499"
+        }, 
+        {
+            "lat": "5.13278", 
+            "name": "Pacho", 
+            "long": "-74.15977"
+        }, 
+        {
+            "lat": "4.70592", 
+            "name": "Mosquera", 
+            "long": "-74.23021"
+        }, 
+        {
+            "lat": "4.73245", 
+            "name": "Madrid", 
+            "long": "-74.26419"
+        }, 
+        {
+            "lat": "5.26667", 
+            "name": "La Mesa", 
+            "long": "-73.91667"
+        }, 
+        {
+            "lat": "4.30079", 
+            "name": "Girardot City", 
+            "long": "-74.80754"
+        }, 
+        {
+            "lat": "4.33646", 
+            "name": "Fusagasuga", 
+            "long": "-74.36378"
+        }, 
+        {
+            "lat": "4.71638", 
+            "name": "Funza", 
+            "long": "-74.21195"
+        }, 
+        {
+            "lat": "4.81367", 
+            "name": "Facatativ&#225;", 
+            "long": "-74.35453"
+        }, 
+        {
+            "lat": "4.85876", 
+            "name": "Ch&#237;a", 
+            "long": "-74.05866"
+        }, 
+        {
+            "lat": "4.91857", 
+            "name": "Cajic&#225;", 
+            "long": "-74.02799"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "5.33775", 
+            "name": "Yopal", 
+            "long": "-72.39586"
+        }, 
+        {
+            "lat": "5.28333", 
+            "name": "Villanueva", 
+            "long": "-71.96667"
+        }, 
+        {
+            "lat": "5.17282", 
+            "name": "Aguazul", 
+            "long": "-72.54706"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "5.06242", 
+            "name": "Viterbo", 
+            "long": "-75.87159"
+        }, 
+        {
+            "lat": "5.04492", 
+            "name": "Villamar&#237;a", 
+            "long": "-75.5146"
+        }, 
+        {
+            "lat": "5.40733", 
+            "name": "Salamina", 
+            "long": "-75.48749"
+        }, 
+        {
+            "lat": "5.42164", 
+            "name": "Riosucio", 
+            "long": "-75.70318"
+        }, 
+        {
+            "lat": "5.32472", 
+            "name": "Manzanares", 
+            "long": "-75.15694"
+        }, 
+        {
+            "lat": "5.06889", 
+            "name": "Manizales", 
+            "long": "-75.51738"
+        }, 
+        {
+            "lat": "5.44783", 
+            "name": "La Dorada", 
+            "long": "-74.66311"
+        }, 
+        {
+            "lat": "4.9825", 
+            "name": "Chinchin&#225;", 
+            "long": "-75.60361"
+        }, 
+        {
+            "lat": "5.61161", 
+            "name": "Aguadas", 
+            "long": "-75.45624"
+        }
+    ], 
+    "36": [
+        {
+            "lat": "5.53528", 
+            "name": "Tunja", 
+            "long": "-73.36778"
+        }, 
+        {
+            "lat": "5.71434", 
+            "name": "Sogamoso", 
+            "long": "-72.93391"
+        }, 
+        {
+            "lat": "5.97584", 
+            "name": "Puerto Boyac&#225;", 
+            "long": "-74.58845"
+        }, 
+        {
+            "lat": "5.8245", 
+            "name": "Duitama", 
+            "long": "-73.03408"
+        }, 
+        {
+            "lat": "5.61637", 
+            "name": "Chiquinquir&#225;", 
+            "long": "-73.81748"
+        }
+    ], 
+    "35": [
+        {
+            "lat": "10.32944", 
+            "name": "Turbaco", 
+            "long": "-75.41137"
+        }, 
+        {
+            "lat": "9.95157", 
+            "name": "San Juan Nepomuceno", 
+            "long": "-75.08198"
+        }, 
+        {
+            "lat": "9.82767", 
+            "name": "San Jacinto", 
+            "long": "-75.1217"
+        }, 
+        {
+            "lat": "8.2752", 
+            "name": "Morales", 
+            "long": "-73.86884"
+        }, 
+        {
+            "lat": "9.24194", 
+            "name": "Momp&#243;s", 
+            "long": "-74.42667"
+        }, 
+        {
+            "lat": "9.9832", 
+            "name": "Mar&#237;a la Baja", 
+            "long": "-75.30155"
+        }, 
+        {
+            "lat": "9.24202", 
+            "name": "Magangu&#233;", 
+            "long": "-74.75467"
+        }, 
+        {
+            "lat": "9.7174", 
+            "name": "El Carmen de Bol&#237;var", 
+            "long": "-75.12023"
+        }, 
+        {
+            "lat": "10.39972", 
+            "name": "Cartagena", 
+            "long": "-75.51444"
+        }, 
+        {
+            "lat": "10.25444", 
+            "name": "Arjona", 
+            "long": "-75.34389"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "4.60971", 
+            "name": "Bogot&#225;", 
+            "long": "-74.08175"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "4.142", 
+            "name": "Villavicencio", 
+            "long": "-73.62664"
+        }, 
+        {
+            "lat": "3.69637", 
+            "name": "San Mart&#237;n", 
+            "long": "-73.69957"
+        }, 
+        {
+            "lat": "4.09912", 
+            "name": "Puerto L&#243;pez", 
+            "long": "-72.95647"
+        }, 
+        {
+            "lat": "3.54625", 
+            "name": "Granada", 
+            "long": "-73.70687"
+        }, 
+        {
+            "lat": "3.98695", 
+            "name": "Acac&#237;as", 
+            "long": "-73.75797"
+        }
+    ]
+}

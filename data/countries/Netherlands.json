@@ -1,0 +1,1316 @@
+{
+    "11": [
+        {
+            "lat": "51.8175", 
+            "name": "Zwijndrecht", 
+            "long": "4.63333"
+        }, 
+        {
+            "lat": "52.0575", 
+            "name": "Zoetermeer", 
+            "long": "4.49306"
+        }, 
+        {
+            "lat": "52.14583", 
+            "name": "Wassenaar", 
+            "long": "4.40278"
+        }, 
+        {
+            "lat": "52.045", 
+            "name": "Waddinxveen", 
+            "long": "4.65139"
+        }, 
+        {
+            "lat": "52.1275", 
+            "name": "Voorschoten", 
+            "long": "4.44861"
+        }, 
+        {
+            "lat": "52.22167", 
+            "name": "Voorhout", 
+            "long": "4.48472"
+        }, 
+        {
+            "lat": "52.07417", 
+            "name": "Voorburg", 
+            "long": "4.35972"
+        }, 
+        {
+            "lat": "51.9125", 
+            "name": "Vlaardingen", 
+            "long": "4.34167"
+        }, 
+        {
+            "lat": "51.845", 
+            "name": "Spijkenisse", 
+            "long": "4.32917"
+        }, 
+        {
+            "lat": "51.82083", 
+            "name": "Sliedrecht", 
+            "long": "4.77639"
+        }, 
+        {
+            "lat": "52.00167", 
+            "name": "'s-Gravenzande", 
+            "long": "4.16528"
+        }, 
+        {
+            "lat": "52.07667", 
+            "name": "The Hague", 
+            "long": "4.29861"
+        }, 
+        {
+            "lat": "51.91917", 
+            "name": "Schiedam", 
+            "long": "4.38889"
+        }, 
+        {
+            "lat": "52.10461", 
+            "name": "Scheveningen", 
+            "long": "4.27557"
+        }, 
+        {
+            "lat": "51.9225", 
+            "name": "Rotterdam", 
+            "long": "4.47917"
+        }, 
+        {
+            "lat": "52.03634", 
+            "name": "Rijswijk", 
+            "long": "4.32501"
+        }, 
+        {
+            "lat": "51.8725", 
+            "name": "Ridderkerk", 
+            "long": "4.60278"
+        }, 
+        {
+            "lat": "51.8575", 
+            "name": "Rhoon", 
+            "long": "4.42222"
+        }, 
+        {
+            "lat": "52.01954", 
+            "name": "Pijnacker", 
+            "long": "4.42946"
+        }, 
+        {
+            "lat": "51.83167", 
+            "name": "Papendrecht", 
+            "long": "4.6875"
+        }, 
+        {
+            "lat": "51.82417", 
+            "name": "Oud-Beijerland", 
+            "long": "4.4125"
+        }, 
+        {
+            "lat": "52.18", 
+            "name": "Oegstgeest", 
+            "long": "4.46944"
+        }, 
+        {
+            "lat": "52.26167", 
+            "name": "Noordwijkerhout", 
+            "long": "4.49306"
+        }, 
+        {
+            "lat": "52.234", 
+            "name": "Noordwijk-Binnen", 
+            "long": "4.44474"
+        }, 
+        {
+            "lat": "51.99417", 
+            "name": "Naaldwijk", 
+            "long": "4.20972"
+        }, 
+        {
+            "lat": "51.7575", 
+            "name": "Middelharnis", 
+            "long": "4.16528"
+        }, 
+        {
+            "lat": "51.92333", 
+            "name": "Maassluis", 
+            "long": "4.25"
+        }, 
+        {
+            "lat": "52.26", 
+            "name": "Lisse", 
+            "long": "4.55694"
+        }, 
+        {
+            "lat": "52.15833", 
+            "name": "Leiderdorp", 
+            "long": "4.52917"
+        }, 
+        {
+            "lat": "52.15833", 
+            "name": "Leiden", 
+            "long": "4.49306"
+        }, 
+        {
+            "lat": "51.89333", 
+            "name": "Leerdam", 
+            "long": "5.09167"
+        }, 
+        {
+            "lat": "51.91667", 
+            "name": "Krimpen aan den IJssel", 
+            "long": "4.60278"
+        }, 
+        {
+            "lat": "52.20333", 
+            "name": "Katwijk aan Zee", 
+            "long": "4.39861"
+        }, 
+        {
+            "lat": "52.29083", 
+            "name": "Hillegom", 
+            "long": "4.58333"
+        }, 
+        {
+            "lat": "51.84417", 
+            "name": "Hendrik-Ido-Ambacht", 
+            "long": "4.63889"
+        }, 
+        {
+            "lat": "51.83333", 
+            "name": "Hellevoetsluis", 
+            "long": "4.13333"
+        }, 
+        {
+            "lat": "52.01667", 
+            "name": "Gouda", 
+            "long": "4.70833"
+        }, 
+        {
+            "lat": "51.83652", 
+            "name": "Gorinchem", 
+            "long": "4.97243"
+        }, 
+        {
+            "lat": "51.81", 
+            "name": "Dordrecht", 
+            "long": "4.67361"
+        }, 
+        {
+            "lat": "52.00667", 
+            "name": "Delft", 
+            "long": "4.35556"
+        }, 
+        {
+            "lat": "51.90488", 
+            "name": "Delfshaven", 
+            "long": "4.45315"
+        }, 
+        {
+            "lat": "51.92917", 
+            "name": "Capelle aan den IJssel", 
+            "long": "4.57778"
+        }, 
+        {
+            "lat": "52.075", 
+            "name": "Boskoop", 
+            "long": "4.65556"
+        }, 
+        {
+            "lat": "52.0825", 
+            "name": "Bodegraven", 
+            "long": "4.75"
+        }, 
+        {
+            "lat": "51.99", 
+            "name": "Bergschenhoek", 
+            "long": "4.49861"
+        }, 
+        {
+            "lat": "52.0775", 
+            "name": "Benthuizen", 
+            "long": "4.54444"
+        }, 
+        {
+            "lat": "51.85667", 
+            "name": "Barendrecht", 
+            "long": "4.53472"
+        }, 
+        {
+            "lat": "52.12917", 
+            "name": "Alphen aan den Rijn", 
+            "long": "4.65546"
+        }, 
+        {
+            "lat": "51.86583", 
+            "name": "Alblasserdam", 
+            "long": "4.66111"
+        }, 
+        {
+            "lat": "51.99313", 
+            "name": "Berkel en Rodenrijs", 
+            "long": "4.47865"
+        }, 
+        {
+            "lat": "52.04098", 
+            "name": "Ypenburg", 
+            "long": "4.36981"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "52.13833", 
+            "name": "Zutphen", 
+            "long": "6.20139"
+        }, 
+        {
+            "lat": "51.93", 
+            "name": "Zevenaar", 
+            "long": "6.07083"
+        }, 
+        {
+            "lat": "51.81", 
+            "name": "Zaltbommel", 
+            "long": "5.24444"
+        }, 
+        {
+            "lat": "51.92648", 
+            "name": "Wisch", 
+            "long": "6.41705"
+        }, 
+        {
+            "lat": "51.9725", 
+            "name": "Winterswijk", 
+            "long": "6.71944"
+        }, 
+        {
+            "lat": "51.80917", 
+            "name": "Wijchen", 
+            "long": "5.725"
+        }, 
+        {
+            "lat": "51.95583", 
+            "name": "Westervoort", 
+            "long": "5.97222"
+        }, 
+        {
+            "lat": "51.97", 
+            "name": "Wageningen", 
+            "long": "5.66667"
+        }, 
+        {
+            "lat": "52.17", 
+            "name": "Voorst", 
+            "long": "6.14167"
+        }, 
+        {
+            "lat": "51.995", 
+            "name": "Velp", 
+            "long": "5.97361"
+        }, 
+        {
+            "lat": "51.88667", 
+            "name": "Tiel", 
+            "long": "5.42917"
+        }, 
+        {
+            "lat": "52.25917", 
+            "name": "Putten", 
+            "long": "5.60694"
+        }, 
+        {
+            "lat": "52.445", 
+            "name": "Oldebroek", 
+            "long": "5.90139"
+        }, 
+        {
+            "lat": "52.37917", 
+            "name": "Nunspeet", 
+            "long": "5.78611"
+        }, 
+        {
+            "lat": "51.8425", 
+            "name": "Nijmegen", 
+            "long": "5.85278"
+        }, 
+        {
+            "lat": "52.22", 
+            "name": "Nijkerk", 
+            "long": "5.48611"
+        }, 
+        {
+            "lat": "51.8327", 
+            "name": "Lindenholt", 
+            "long": "5.7934"
+        }, 
+        {
+            "lat": "51.98667", 
+            "name": "Lichtenvoorde", 
+            "long": "6.56667"
+        }, 
+        {
+            "lat": "52.30833", 
+            "name": "Horst", 
+            "long": "5.58194"
+        }, 
+        {
+            "lat": "52.38723", 
+            "name": "Heerde", 
+            "long": "6.04016"
+        }, 
+        {
+            "lat": "52.34167", 
+            "name": "Harderwijk", 
+            "long": "5.62083"
+        }, 
+        {
+            "lat": "51.77667", 
+            "name": "Groesbeek", 
+            "long": "5.93611"
+        }, 
+        {
+            "lat": "51.87333", 
+            "name": "Gendringen", 
+            "long": "6.37639"
+        }, 
+        {
+            "lat": "51.88083", 
+            "name": "Geldermalsen", 
+            "long": "5.28889"
+        }, 
+        {
+            "lat": "52.29833", 
+            "name": "Ermelo", 
+            "long": "5.62222"
+        }, 
+        {
+            "lat": "52.3475", 
+            "name": "Epe", 
+            "long": "5.98333"
+        }, 
+        {
+            "lat": "51.91917", 
+            "name": "Elst", 
+            "long": "5.84167"
+        }, 
+        {
+            "lat": "52.4475", 
+            "name": "Elburg", 
+            "long": "5.84306"
+        }, 
+        {
+            "lat": "52.1", 
+            "name": "Eibergen", 
+            "long": "6.64861"
+        }, 
+        {
+            "lat": "52.03333", 
+            "name": "Ede", 
+            "long": "5.65833"
+        }, 
+        {
+            "lat": "51.94667", 
+            "name": "Duiven", 
+            "long": "6.01389"
+        }, 
+        {
+            "lat": "51.88833", 
+            "name": "Druten", 
+            "long": "5.60556"
+        }, 
+        {
+            "lat": "51.965", 
+            "name": "Doetinchem", 
+            "long": "6.28889"
+        }, 
+        {
+            "lat": "51.955", 
+            "name": "Culemborg", 
+            "long": "5.22778"
+        }, 
+        {
+            "lat": "52.09", 
+            "name": "Brummen", 
+            "long": "6.15556"
+        }, 
+        {
+            "lat": "51.86083", 
+            "name": "Beuningen", 
+            "long": "5.76667"
+        }, 
+        {
+            "lat": "52.14", 
+            "name": "Barneveld", 
+            "long": "5.58472"
+        }, 
+        {
+            "lat": "51.98", 
+            "name": "Arnhem", 
+            "long": "5.91111"
+        }, 
+        {
+            "lat": "52.21", 
+            "name": "Apeldoorn", 
+            "long": "5.96944"
+        }, 
+        {
+            "lat": "51.925", 
+            "name": "Aalten", 
+            "long": "6.58056"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "52.69583", 
+            "name": "Meppel", 
+            "long": "6.19444"
+        }, 
+        {
+            "lat": "52.7225", 
+            "name": "Hoogeveen", 
+            "long": "6.47639"
+        }, 
+        {
+            "lat": "52.77917", 
+            "name": "Emmen", 
+            "long": "6.90694"
+        }, 
+        {
+            "lat": "52.92333", 
+            "name": "Borger", 
+            "long": "6.79306"
+        }, 
+        {
+            "lat": "52.99667", 
+            "name": "Assen", 
+            "long": "6.5625"
+        }, 
+        {
+            "lat": "53.04417", 
+            "name": "Anloo", 
+            "long": "6.70139"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "51.47167", 
+            "name": "Zundert", 
+            "long": "4.65556"
+        }, 
+        {
+            "lat": "51.42897", 
+            "name": "Woensdrecht", 
+            "long": "4.30355"
+        }, 
+        {
+            "lat": "51.81", 
+            "name": "Werkendam", 
+            "long": "4.89444"
+        }, 
+        {
+            "lat": "51.6825", 
+            "name": "Waalwijk", 
+            "long": "5.07083"
+        }, 
+        {
+            "lat": "51.38667", 
+            "name": "Waalre", 
+            "long": "5.44444"
+        }, 
+        {
+            "lat": "51.65333", 
+            "name": "Vught", 
+            "long": "5.2875"
+        }, 
+        {
+            "lat": "51.41833", 
+            "name": "Veldhoven", 
+            "long": "5.40278"
+        }, 
+        {
+            "lat": "51.61667", 
+            "name": "Veghel", 
+            "long": "5.54861"
+        }, 
+        {
+            "lat": "51.35083", 
+            "name": "Valkenswaard", 
+            "long": "5.45972"
+        }, 
+        {
+            "lat": "51.66083", 
+            "name": "Uden", 
+            "long": "5.61944"
+        }, 
+        {
+            "lat": "51.44889", 
+            "name": "Tongelre", 
+            "long": "5.51978"
+        }, 
+        {
+            "lat": "51.55551", 
+            "name": "Tilburg", 
+            "long": "5.0913"
+        }, 
+        {
+            "lat": "51.58417", 
+            "name": "Steenbergen", 
+            "long": "4.31944"
+        }, 
+        {
+            "lat": "51.385", 
+            "name": "Someren", 
+            "long": "5.71111"
+        }, 
+        {
+            "lat": "51.5675", 
+            "name": "Sint-Oedenrode", 
+            "long": "5.45972"
+        }, 
+        {
+            "lat": "51.69917", 
+            "name": "'s-Hertogenbosch", 
+            "long": "5.30417"
+        }, 
+        {
+            "lat": "51.6225", 
+            "name": "Schijndel", 
+            "long": "5.43194"
+        }, 
+        {
+            "lat": "51.53167", 
+            "name": "Rucphen", 
+            "long": "4.55833"
+        }, 
+        {
+            "lat": "51.53083", 
+            "name": "Roosendaal", 
+            "long": "4.46528"
+        }, 
+        {
+            "lat": "51.765", 
+            "name": "Oss", 
+            "long": "5.51806"
+        }, 
+        {
+            "lat": "51.645", 
+            "name": "Oosterhout", 
+            "long": "4.85972"
+        }, 
+        {
+            "lat": "51.57917", 
+            "name": "Oisterwijk", 
+            "long": "5.18889"
+        }, 
+        {
+            "lat": "51.47", 
+            "name": "Nuenen", 
+            "long": "5.55278"
+        }, 
+        {
+            "lat": "51.6275", 
+            "name": "Loon op Zand", 
+            "long": "5.075"
+        }, 
+        {
+            "lat": "51.60794", 
+            "name": "Hoge Vucht", 
+            "long": "4.7915"
+        }, 
+        {
+            "lat": "51.48583", 
+            "name": "Hilvarenbeek", 
+            "long": "5.1375"
+        }, 
+        {
+            "lat": "51.73417", 
+            "name": "Heusden", 
+            "long": "5.13889"
+        }, 
+        {
+            "lat": "51.48167", 
+            "name": "Helmond", 
+            "long": "5.66111"
+        }, 
+        {
+            "lat": "51.73362", 
+            "name": "Heesch", 
+            "long": "5.52672"
+        }, 
+        {
+            "lat": "51.52083", 
+            "name": "Goirle", 
+            "long": "5.06667"
+        }, 
+        {
+            "lat": "51.42167", 
+            "name": "Geldrop", 
+            "long": "5.55972"
+        }, 
+        {
+            "lat": "51.70167", 
+            "name": "Geertruidenberg", 
+            "long": "4.85694"
+        }, 
+        {
+            "lat": "51.44083", 
+            "name": "Eindhoven", 
+            "long": "5.47778"
+        }, 
+        {
+            "lat": "51.3575", 
+            "name": "Eersel", 
+            "long": "5.31806"
+        }, 
+        {
+            "lat": "51.70667", 
+            "name": "Drimmelen", 
+            "long": "4.80417"
+        }, 
+        {
+            "lat": "51.62667", 
+            "name": "Dongen", 
+            "long": "4.93889"
+        }, 
+        {
+            "lat": "51.73083", 
+            "name": "Cuijk", 
+            "long": "5.87917"
+        }, 
+        {
+            "lat": "51.30417", 
+            "name": "Cranendonck", 
+            "long": "5.58889"
+        }, 
+        {
+            "lat": "51.58656", 
+            "name": "Breda", 
+            "long": "4.77596"
+        }, 
+        {
+            "lat": "51.59083", 
+            "name": "Boxtel", 
+            "long": "5.32917"
+        }, 
+        {
+            "lat": "51.36833", 
+            "name": "Bladel", 
+            "long": "5.22083"
+        }, 
+        {
+            "lat": "51.5075", 
+            "name": "Best", 
+            "long": "5.39028"
+        }, 
+        {
+            "lat": "51.31917", 
+            "name": "Bergeijk", 
+            "long": "5.35833"
+        }, 
+        {
+            "lat": "51.495", 
+            "name": "Bergen op Zoom", 
+            "long": "4.29167"
+        }, 
+        {
+            "lat": "51.40417", 
+            "name": "Asten", 
+            "long": "5.74861"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "52.37487", 
+            "name": "Zandvoort", 
+            "long": "4.53409"
+        }, 
+        {
+            "lat": "52.45313", 
+            "name": "Zaanstad", 
+            "long": "4.81356"
+        }, 
+        {
+            "lat": "52.43854", 
+            "name": "Zaandam", 
+            "long": "4.82643"
+        }, 
+        {
+            "lat": "52.3075", 
+            "name": "Weesp", 
+            "long": "5.04167"
+        }, 
+        {
+            "lat": "52.495", 
+            "name": "Volendam", 
+            "long": "5.07083"
+        }, 
+        {
+            "lat": "52.46", 
+            "name": "Velsen-Zuid", 
+            "long": "4.65"
+        }, 
+        {
+            "lat": "52.2375", 
+            "name": "Uithoorn", 
+            "long": "4.82639"
+        }, 
+        {
+            "lat": "52.7875", 
+            "name": "Schagen", 
+            "long": "4.79861"
+        }, 
+        {
+            "lat": "52.505", 
+            "name": "Purmerend", 
+            "long": "4.95972"
+        }, 
+        {
+            "lat": "52.29583", 
+            "name": "Naarden", 
+            "long": "5.1625"
+        }, 
+        {
+            "lat": "52.77167", 
+            "name": "Medemblik", 
+            "long": "5.10556"
+        }, 
+        {
+            "lat": "52.29917", 
+            "name": "Huizen", 
+            "long": "5.24167"
+        }, 
+        {
+            "lat": "52.6425", 
+            "name": "Hoorn", 
+            "long": "5.05972"
+        }, 
+        {
+            "lat": "52.3025", 
+            "name": "Hoofddorp", 
+            "long": "4.68889"
+        }, 
+        {
+            "lat": "52.22333", 
+            "name": "Hilversum", 
+            "long": "5.17639"
+        }, 
+        {
+            "lat": "52.60252", 
+            "name": "Heiloo", 
+            "long": "4.68815"
+        }, 
+        {
+            "lat": "52.67144", 
+            "name": "Heerhugowaard", 
+            "long": "4.84862"
+        }, 
+        {
+            "lat": "52.34992", 
+            "name": "Heemstede", 
+            "long": "4.62301"
+        }, 
+        {
+            "lat": "52.51108", 
+            "name": "Heemskerk", 
+            "long": "4.67165"
+        }, 
+        {
+            "lat": "52.73416", 
+            "name": "Harenkarspel", 
+            "long": "4.77682"
+        }, 
+        {
+            "lat": "52.38084", 
+            "name": "Haarlem", 
+            "long": "4.63683"
+        }, 
+        {
+            "lat": "52.70333", 
+            "name": "Enkhuizen", 
+            "long": "5.29167"
+        }, 
+        {
+            "lat": "52.33964", 
+            "name": "Diemen", 
+            "long": "4.96256"
+        }, 
+        {
+            "lat": "52.95988", 
+            "name": "Den Helder", 
+            "long": "4.75933"
+        }, 
+        {
+            "lat": "52.54833", 
+            "name": "Castricum", 
+            "long": "4.66944"
+        }, 
+        {
+            "lat": "52.27333", 
+            "name": "Bussum", 
+            "long": "5.16111"
+        }, 
+        {
+            "lat": "52.67417", 
+            "name": "Broek op Langedijk", 
+            "long": "4.80556"
+        }, 
+        {
+            "lat": "52.43417", 
+            "name": "Broek in Waterland", 
+            "long": "4.99583"
+        }, 
+        {
+            "lat": "52.4025", 
+            "name": "Bloemendaal", 
+            "long": "4.62222"
+        }, 
+        {
+            "lat": "52.48333", 
+            "name": "Beverwijk", 
+            "long": "4.65694"
+        }, 
+        {
+            "lat": "52.37403", 
+            "name": "Amsterdam", 
+            "long": "4.88969"
+        }, 
+        {
+            "lat": "52.30083", 
+            "name": "Amstelveen", 
+            "long": "4.86389"
+        }, 
+        {
+            "lat": "52.63167", 
+            "name": "Alkmaar", 
+            "long": "4.74861"
+        }, 
+        {
+            "lat": "52.25917", 
+            "name": "Aalsmeer", 
+            "long": "4.75972"
+        }, 
+        {
+            "lat": "52.3075", 
+            "name": "Amsterdam-Zuidoost", 
+            "long": "4.97222"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "53.14417", 
+            "name": "Winschoten", 
+            "long": "7.03472"
+        }, 
+        {
+            "lat": "53.0275", 
+            "name": "Vlagtwedde", 
+            "long": "7.10833"
+        }, 
+        {
+            "lat": "53.10667", 
+            "name": "Veendam", 
+            "long": "6.87917"
+        }, 
+        {
+            "lat": "52.98947", 
+            "name": "Stadskanaal", 
+            "long": "6.9504"
+        }, 
+        {
+            "lat": "53.1625", 
+            "name": "Leek", 
+            "long": "6.37639"
+        }, 
+        {
+            "lat": "53.23235", 
+            "name": "Korrewegwijk", 
+            "long": "6.56804"
+        }, 
+        {
+            "lat": "53.16167", 
+            "name": "Hoogezand", 
+            "long": "6.76111"
+        }, 
+        {
+            "lat": "53.17209", 
+            "name": "Haren", 
+            "long": "6.60931"
+        }, 
+        {
+            "lat": "53.21917", 
+            "name": "Groningen", 
+            "long": "6.56667"
+        }, 
+        {
+            "lat": "53.33", 
+            "name": "Delfzijl", 
+            "long": "6.91806"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "52.33", 
+            "name": "Zeewolde", 
+            "long": "5.54167"
+        }, 
+        {
+            "lat": "52.6625", 
+            "name": "Urk", 
+            "long": "5.60139"
+        }, 
+        {
+            "lat": "52.50833", 
+            "name": "Lelystad", 
+            "long": "5.475"
+        }, 
+        {
+            "lat": "52.71083", 
+            "name": "Emmeloord", 
+            "long": "5.74861"
+        }, 
+        {
+            "lat": "52.525", 
+            "name": "Dronten", 
+            "long": "5.71806"
+        }, 
+        {
+            "lat": "52.37025", 
+            "name": "Almere Stad", 
+            "long": "5.21413"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "52.87545", 
+            "name": "Wolvega", 
+            "long": "5.99691"
+        }, 
+        {
+            "lat": "53.03297", 
+            "name": "Sneek", 
+            "long": "5.6589"
+        }, 
+        {
+            "lat": "53.20139", 
+            "name": "Leeuwarden", 
+            "long": "5.80859"
+        }, 
+        {
+            "lat": "52.95929", 
+            "name": "Heerenveen", 
+            "long": "5.91854"
+        }, 
+        {
+            "lat": "53.17477", 
+            "name": "Harlingen", 
+            "long": "5.42244"
+        }, 
+        {
+            "lat": "53.11254", 
+            "name": "Drachten", 
+            "long": "6.0989"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "52.09", 
+            "name": "Zeist", 
+            "long": "5.23333"
+        }, 
+        {
+            "lat": "52.085", 
+            "name": "Woerden", 
+            "long": "4.88333"
+        }, 
+        {
+            "lat": "51.97417", 
+            "name": "Wijk bij Duurstede", 
+            "long": "5.34167"
+        }, 
+        {
+            "lat": "51.9925", 
+            "name": "Vianen", 
+            "long": "5.09167"
+        }, 
+        {
+            "lat": "52.02863", 
+            "name": "Veenendaal", 
+            "long": "5.55891"
+        }, 
+        {
+            "lat": "52.09083", 
+            "name": "Utrecht", 
+            "long": "5.12222"
+        }, 
+        {
+            "lat": "52.17333", 
+            "name": "Soest", 
+            "long": "5.29167"
+        }, 
+        {
+            "lat": "51.95917", 
+            "name": "Rhenen", 
+            "long": "5.56806"
+        }, 
+        {
+            "lat": "52.02917", 
+            "name": "Nieuwegein", 
+            "long": "5.08056"
+        }, 
+        {
+            "lat": "52.20667", 
+            "name": "Mijdrecht", 
+            "long": "4.8625"
+        }, 
+        {
+            "lat": "52.13917", 
+            "name": "Maarssen", 
+            "long": "5.04167"
+        }, 
+        {
+            "lat": "52.1325", 
+            "name": "Leusden", 
+            "long": "5.43194"
+        }, 
+        {
+            "lat": "52.02", 
+            "name": "IJsselstein", 
+            "long": "5.04306"
+        }, 
+        {
+            "lat": "52.02833", 
+            "name": "Houten", 
+            "long": "5.16806"
+        }, 
+        {
+            "lat": "52.05333", 
+            "name": "Driebergen-Rijsenburg", 
+            "long": "5.28056"
+        }, 
+        {
+            "lat": "52.11", 
+            "name": "De Bilt", 
+            "long": "5.18056"
+        }, 
+        {
+            "lat": "52.24304", 
+            "name": "Bunschoten", 
+            "long": "5.37884"
+        }, 
+        {
+            "lat": "52.21167", 
+            "name": "Baarn", 
+            "long": "5.2875"
+        }, 
+        {
+            "lat": "52.155", 
+            "name": "Amersfoort", 
+            "long": "5.3875"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "52.5125", 
+            "name": "Zwolle", 
+            "long": "6.09444"
+        }, 
+        {
+            "lat": "52.35917", 
+            "name": "Wierden", 
+            "long": "6.59306"
+        }, 
+        {
+            "lat": "52.4075", 
+            "name": "Tubbergen", 
+            "long": "6.78472"
+        }, 
+        {
+            "lat": "52.7875", 
+            "name": "Steenwijk", 
+            "long": "6.12083"
+        }, 
+        {
+            "lat": "52.645", 
+            "name": "Staphorst", 
+            "long": "6.21111"
+        }, 
+        {
+            "lat": "52.38583", 
+            "name": "Raalte", 
+            "long": "6.275"
+        }, 
+        {
+            "lat": "52.31333", 
+            "name": "Oldenzaal", 
+            "long": "6.92917"
+        }, 
+        {
+            "lat": "52.26083", 
+            "name": "Losser", 
+            "long": "7.00417"
+        }, 
+        {
+            "lat": "52.555", 
+            "name": "Kampen", 
+            "long": "5.91111"
+        }, 
+        {
+            "lat": "52.26583", 
+            "name": "Hengelo", 
+            "long": "6.79306"
+        }, 
+        {
+            "lat": "52.57583", 
+            "name": "Hardenberg", 
+            "long": "6.61944"
+        }, 
+        {
+            "lat": "52.15667", 
+            "name": "Haaksbergen", 
+            "long": "6.73889"
+        }, 
+        {
+            "lat": "52.21833", 
+            "name": "Enschede", 
+            "long": "6.89583"
+        }, 
+        {
+            "lat": "52.255", 
+            "name": "Deventer", 
+            "long": "6.16389"
+        }, 
+        {
+            "lat": "52.51167", 
+            "name": "Dalfsen", 
+            "long": "6.25694"
+        }, 
+        {
+            "lat": "52.30136", 
+            "name": "Borne", 
+            "long": "6.7482"
+        }, 
+        {
+            "lat": "52.35667", 
+            "name": "Almelo", 
+            "long": "6.6625"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "51.25167", 
+            "name": "Weert", 
+            "long": "5.70694"
+        }, 
+        {
+            "lat": "51.525", 
+            "name": "Venray", 
+            "long": "5.975"
+        }, 
+        {
+            "lat": "51.37", 
+            "name": "Venlo", 
+            "long": "6.16806"
+        }, 
+        {
+            "lat": "51.34417", 
+            "name": "Tegelen", 
+            "long": "6.13611"
+        }, 
+        {
+            "lat": "50.99833", 
+            "name": "Sittard", 
+            "long": "5.86944"
+        }, 
+        {
+            "lat": "51.19417", 
+            "name": "Roermond", 
+            "long": "5.9875"
+        }, 
+        {
+            "lat": "50.9175", 
+            "name": "Nuth", 
+            "long": "5.88611"
+        }, 
+        {
+            "lat": "51.28583", 
+            "name": "Nederweert", 
+            "long": "5.74861"
+        }, 
+        {
+            "lat": "50.8875", 
+            "name": "Meerssen", 
+            "long": "5.75"
+        }, 
+        {
+            "lat": "50.84833", 
+            "name": "Maastricht", 
+            "long": "5.68889"
+        }, 
+        {
+            "lat": "50.86583", 
+            "name": "Kerkrade", 
+            "long": "6.0625"
+        }, 
+        {
+            "lat": "50.92387", 
+            "name": "Hoensbroek", 
+            "long": "5.92528"
+        }, 
+        {
+            "lat": "50.88365", 
+            "name": "Heerlen", 
+            "long": "5.98154"
+        }, 
+        {
+            "lat": "51.69833", 
+            "name": "Gennep", 
+            "long": "5.97361"
+        }, 
+        {
+            "lat": "50.94667", 
+            "name": "Brunssum", 
+            "long": "5.97083"
+        }, 
+        {
+            "lat": "51.03167", 
+            "name": "Born", 
+            "long": "5.80972"
+        }, 
+        {
+            "lat": "50.94083", 
+            "name": "Beek", 
+            "long": "5.79722"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "51.4425", 
+            "name": "Vlissingen", 
+            "long": "3.57361"
+        }, 
+        {
+            "lat": "51.54833", 
+            "name": "Veere", 
+            "long": "3.66667"
+        }, 
+        {
+            "lat": "51.33583", 
+            "name": "Terneuzen", 
+            "long": "3.82778"
+        }, 
+        {
+            "lat": "51.5", 
+            "name": "Middelburg", 
+            "long": "3.61389"
+        }, 
+        {
+            "lat": "51.50417", 
+            "name": "Goes", 
+            "long": "3.88889"
+        }, 
+        {
+            "lat": "51.42333", 
+            "name": "Borssele", 
+            "long": "3.73472"
+        }
+    ]
+}

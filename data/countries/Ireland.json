@@ -1,0 +1,170 @@
+{
+    "U": [
+        {
+            "lat": "54.95", 
+            "name": "Letterkenny", 
+            "long": "-7.73333"
+        }
+    ], 
+    "C": [
+        {
+            "lat": "54.26969", 
+            "name": "Sligo", 
+            "long": "-8.46943"
+        }, 
+        {
+            "lat": "53.27194", 
+            "name": "Gaillimh", 
+            "long": "-9.04889"
+        }
+    ], 
+    "M": [
+        {
+            "lat": "52.25833", 
+            "name": "Waterford", 
+            "long": "-7.11194"
+        }, 
+        {
+            "lat": "52.27042", 
+            "name": "Tralee", 
+            "long": "-9.70264"
+        }, 
+        {
+            "lat": "52.66472", 
+            "name": "Luimneach", 
+            "long": "-8.62306"
+        }, 
+        {
+            "lat": "52.84361", 
+            "name": "Ennis", 
+            "long": "-8.98639"
+        }, 
+        {
+            "lat": "51.89797", 
+            "name": "Cork", 
+            "long": "-8.47061"
+        }, 
+        {
+            "lat": "52.355", 
+            "name": "Cluain Meala", 
+            "long": "-7.70389"
+        }
+    ], 
+    "L": [
+        {
+            "lat": "52.33417", 
+            "name": "Loch Garman", 
+            "long": "-6.4575"
+        }, 
+        {
+            "lat": "53.2859", 
+            "name": "Tallaght", 
+            "long": "-6.37344"
+        }, 
+        {
+            "lat": "53.45972", 
+            "name": "Swords", 
+            "long": "-6.21806"
+        }, 
+        {
+            "lat": "53.18194", 
+            "name": "Droichead Nua", 
+            "long": "-6.79667"
+        }, 
+        {
+            "lat": "53.65278", 
+            "name": "Navan", 
+            "long": "-6.68139"
+        }, 
+        {
+            "lat": "53.21583", 
+            "name": "Naas", 
+            "long": "-6.66694"
+        }, 
+        {
+            "lat": "53.53333", 
+            "name": "An Muileann gCearr", 
+            "long": "-7.35"
+        }, 
+        {
+            "lat": "53.45083", 
+            "name": "Malahide", 
+            "long": "-6.15444"
+        }, 
+        {
+            "lat": "53.35736", 
+            "name": "Lucan", 
+            "long": "-6.44859"
+        }, 
+        {
+            "lat": "53.36583", 
+            "name": "Leixlip", 
+            "long": "-6.49556"
+        }, 
+        {
+            "lat": "52.65417", 
+            "name": "Kilkenny", 
+            "long": "-7.25222"
+        }, 
+        {
+            "lat": "53.38917", 
+            "name": "Finglas", 
+            "long": "-6.29694"
+        }, 
+        {
+            "lat": "53.29395", 
+            "name": "D&#250;n Laoghaire", 
+            "long": "-6.13586"
+        }, 
+        {
+            "lat": "54", 
+            "name": "Dundalk", 
+            "long": "-6.41667"
+        }, 
+        {
+            "lat": "53.33306", 
+            "name": "Dublin", 
+            "long": "-6.24889"
+        }, 
+        {
+            "lat": "53.71889", 
+            "name": "Drogheda", 
+            "long": "-6.34778"
+        }, 
+        {
+            "lat": "53.33861", 
+            "name": "Celbridge", 
+            "long": "-6.54361"
+        }, 
+        {
+            "lat": "52.84083", 
+            "name": "Carlow", 
+            "long": "-6.92611"
+        }, 
+        {
+            "lat": "53.38806", 
+            "name": "Blanchardstown", 
+            "long": "-6.37556"
+        }, 
+        {
+            "lat": "53.61278", 
+            "name": "Balbriggan", 
+            "long": "-6.18194"
+        }, 
+        {
+            "lat": "53.43333", 
+            "name": "Athlone", 
+            "long": "-7.95"
+        }, 
+        {
+            "lat": "53.2747", 
+            "name": "Sandyford", 
+            "long": "-6.2253"
+        }, 
+        {
+            "lat": "53.39845", 
+            "name": "Donaghmede", 
+            "long": "-6.16179"
+        }
+    ]
+}

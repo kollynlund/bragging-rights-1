@@ -1,0 +1,266 @@
+{
+    "02": [
+        {
+            "lat": "52.8926", 
+            "name": "Zhlobin", 
+            "long": "30.024"
+        }, 
+        {
+            "lat": "52.6329", 
+            "name": "Svyetlahorsk", 
+            "long": "29.7389"
+        }, 
+        {
+            "lat": "53.0934", 
+            "name": "Rahachow", 
+            "long": "30.0495"
+        }, 
+        {
+            "lat": "52.3617", 
+            "name": "Rechytsa", 
+            "long": "30.3916"
+        }, 
+        {
+            "lat": "52.0495", 
+            "name": "Mazyr", 
+            "long": "29.2456"
+        }, 
+        {
+            "lat": "52.1323", 
+            "name": "Kalinkavichy", 
+            "long": "29.3257"
+        }, 
+        {
+            "lat": "52.4345", 
+            "name": "Gomel", 
+            "long": "30.9754"
+        }, 
+        {
+            "lat": "52.4089", 
+            "name": "Dobrush", 
+            "long": "31.3237"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "53.1561", 
+            "name": "Vawkavysk", 
+            "long": "24.4513"
+        }, 
+        {
+            "lat": "54.4798", 
+            "name": "Smarhon&#8217;", 
+            "long": "26.3957"
+        }, 
+        {
+            "lat": "53.0869", 
+            "name": "Slonim", 
+            "long": "25.3163"
+        }, 
+        {
+            "lat": "53.6014", 
+            "name": "Shchuchin", 
+            "long": "24.7465"
+        }, 
+        {
+            "lat": "53.5942", 
+            "name": "Navahrudak", 
+            "long": "25.8191"
+        }, 
+        {
+            "lat": "53.4122", 
+            "name": "Masty", 
+            "long": "24.5387"
+        }, 
+        {
+            "lat": "53.88333", 
+            "name": "Lida", 
+            "long": "25.29972"
+        }, 
+        {
+            "lat": "53.6884", 
+            "name": "Hrodna", 
+            "long": "23.8258"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "52.556", 
+            "name": "Pruzhany", 
+            "long": "24.4573"
+        }, 
+        {
+            "lat": "52.1229", 
+            "name": "Pinsk", 
+            "long": "26.0951"
+        }, 
+        {
+            "lat": "52.2472", 
+            "name": "Luninyets", 
+            "long": "26.8047"
+        }, 
+        {
+            "lat": "52.2138", 
+            "name": "Kobryn", 
+            "long": "24.3564"
+        }, 
+        {
+            "lat": "52.709", 
+            "name": "Ivatsevichy", 
+            "long": "25.3401"
+        }, 
+        {
+            "lat": "52.5314", 
+            "name": "Byaroza", 
+            "long": "24.9786"
+        }, 
+        {
+            "lat": "52.09755", 
+            "name": "Brest", 
+            "long": "23.68775"
+        }, 
+        {
+            "lat": "53.1327", 
+            "name": "Baranovichi", 
+            "long": "26.0139"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "53.3011", 
+            "name": "Asipovichy", 
+            "long": "28.6386"
+        }, 
+        {
+            "lat": "53.9168", 
+            "name": "Mahilyow", 
+            "long": "30.3449"
+        }, 
+        {
+            "lat": "53.7125", 
+            "name": "Krychaw", 
+            "long": "31.717"
+        }, 
+        {
+            "lat": "54.2862", 
+            "name": "Horki", 
+            "long": "30.9863"
+        }, 
+        {
+            "lat": "53.521", 
+            "name": "Bykhaw", 
+            "long": "30.2454"
+        }, 
+        {
+            "lat": "53.1384", 
+            "name": "Babruysk", 
+            "long": "29.2214"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "55.1904", 
+            "name": "Vitebsk", 
+            "long": "30.2049"
+        }, 
+        {
+            "lat": "55.4879", 
+            "name": "Polatsk", 
+            "long": "28.7856"
+        }, 
+        {
+            "lat": "55.11676", 
+            "name": "Pastavy", 
+            "long": "26.83263"
+        }, 
+        {
+            "lat": "54.5081", 
+            "name": "Orsha", 
+            "long": "30.4172"
+        }, 
+        {
+            "lat": "55.5318", 
+            "name": "Navapolatsk", 
+            "long": "28.5987"
+        }, 
+        {
+            "lat": "54.8814", 
+            "name": "Lyepyel&#8217;", 
+            "long": "28.699"
+        }, 
+        {
+            "lat": "55.1384", 
+            "name": "Hlybokaye", 
+            "long": "27.6905"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "53.88333", 
+            "name": "Novoye Medvezhino", 
+            "long": "27.45"
+        }, 
+        {
+            "lat": "53.9", 
+            "name": "Minsk", 
+            "long": "27.56667"
+        }, 
+        {
+            "lat": "53.8579", 
+            "name": "Malinovka", 
+            "long": "27.4374"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "54.0985", 
+            "name": "Horad Zhodzina", 
+            "long": "28.3331"
+        }, 
+        {
+            "lat": "54.4914", 
+            "name": "Vilyeyka", 
+            "long": "26.9111"
+        }, 
+        {
+            "lat": "53.4785", 
+            "name": "Stowbtsy", 
+            "long": "26.7434"
+        }, 
+        {
+            "lat": "53.0274", 
+            "name": "Slutsk", 
+            "long": "27.5597"
+        }, 
+        {
+            "lat": "52.7876", 
+            "name": "Salihorsk", 
+            "long": "27.5415"
+        }, 
+        {
+            "lat": "53.509", 
+            "name": "Mar&#8217;&#8217;ina Horka", 
+            "long": "28.147"
+        }, 
+        {
+            "lat": "54.3167", 
+            "name": "Maladzyechna", 
+            "long": "26.854"
+        }, 
+        {
+            "lat": "53.944", 
+            "name": "Kalodzishchy", 
+            "long": "27.7823"
+        }, 
+        {
+            "lat": "53.6832", 
+            "name": "Dzyarzhynsk", 
+            "long": "27.138"
+        }, 
+        {
+            "lat": "54.2279", 
+            "name": "Horad Barysaw", 
+            "long": "28.505"
+        }
+    ]
+}

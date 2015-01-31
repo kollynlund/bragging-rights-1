@@ -1,0 +1,246 @@
+{
+    "SE": [
+        {
+            "lat": "44.84306", 
+            "name": "Zemun", 
+            "long": "20.40111"
+        }, 
+        {
+            "lat": "43.90358", 
+            "name": "Zaje&#269;ar", 
+            "long": "22.26405"
+        }, 
+        {
+            "lat": "42.55139", 
+            "name": "Vranje", 
+            "long": "21.90028"
+        }, 
+        {
+            "lat": "43.61694", 
+            "name": "Trstenik", 
+            "long": "21.0025"
+        }, 
+        {
+            "lat": "44.67653", 
+            "name": "Srem&#269;ica", 
+            "long": "20.39232"
+        }, 
+        {
+            "lat": "44.36548", 
+            "name": "Smederevska Palanka", 
+            "long": "20.95885"
+        }, 
+        {
+            "lat": "44.66278", 
+            "name": "Smederevo", 
+            "long": "20.93"
+        }, 
+        {
+            "lat": "43.23417", 
+            "name": "Prokuplje", 
+            "long": "21.58806"
+        }, 
+        {
+            "lat": "44.62133", 
+            "name": "Po&#382;arevac", 
+            "long": "21.18782"
+        }, 
+        {
+            "lat": "43.15306", 
+            "name": "Pirot", 
+            "long": "22.58611"
+        }, 
+        {
+            "lat": "44.65486", 
+            "name": "Obrenovac", 
+            "long": "20.20017"
+        }, 
+        {
+            "lat": "43.13667", 
+            "name": "Novi Pazar", 
+            "long": "20.51222"
+        }, 
+        {
+            "lat": "43.32472", 
+            "name": "Ni&#353;", 
+            "long": "21.90333"
+        }, 
+        {
+            "lat": "44.22639", 
+            "name": "Negotin", 
+            "long": "22.53083"
+        }, 
+        {
+            "lat": "42.99806", 
+            "name": "Leskovac", 
+            "long": "21.94611"
+        }, 
+        {
+            "lat": "44.38534", 
+            "name": "Lazarevac", 
+            "long": "20.2557"
+        }, 
+        {
+            "lat": "43.58", 
+            "name": "Kru&#353;evac", 
+            "long": "21.33389"
+        }, 
+        {
+            "lat": "43.72583", 
+            "name": "Kraljevo", 
+            "long": "20.68944"
+        }, 
+        {
+            "lat": "44.01667", 
+            "name": "Kragujevac", 
+            "long": "20.91667"
+        }, 
+        {
+            "lat": "43.97713", 
+            "name": "Jagodina", 
+            "long": "21.26121"
+        }, 
+        {
+            "lat": "44.02603", 
+            "name": "Gornji Milanovac", 
+            "long": "20.46152"
+        }, 
+        {
+            "lat": "43.9275", 
+            "name": "&#262;uprija", 
+            "long": "21.37"
+        }, 
+        {
+            "lat": "43.89139", 
+            "name": "&#268;a&#269;ak", 
+            "long": "20.34972"
+        }, 
+        {
+            "lat": "44.07488", 
+            "name": "Bor", 
+            "long": "22.09591"
+        }, 
+        {
+            "lat": "44.80401", 
+            "name": "Belgrade", 
+            "long": "20.46513"
+        }, 
+        {
+            "lat": "44.30694", 
+            "name": "Aran&#273;elovac", 
+            "long": "20.56"
+        }, 
+        {
+            "lat": "44.27513", 
+            "name": "Valjevo", 
+            "long": "19.89821"
+        }, 
+        {
+            "lat": "43.85861", 
+            "name": "U&#382;ice", 
+            "long": "19.84878"
+        }, 
+        {
+            "lat": "44.74667", 
+            "name": "&#352;abac", 
+            "long": "19.69"
+        }, 
+        {
+            "lat": "43.56634", 
+            "name": "Knjazevac", 
+            "long": "22.25701"
+        }
+    ], 
+    "VO": [
+        {
+            "lat": "45.38361", 
+            "name": "Zrenjanin", 
+            "long": "20.38194"
+        }, 
+        {
+            "lat": "45.11667", 
+            "name": "Vr&#353;ac", 
+            "long": "21.30361"
+        }, 
+        {
+            "lat": "44.985", 
+            "name": "Stara Pazova", 
+            "long": "20.16083"
+        }, 
+        {
+            "lat": "45.9275", 
+            "name": "Senta", 
+            "long": "20.07722"
+        }, 
+        {
+            "lat": "44.87083", 
+            "name": "Pan&#269;evo", 
+            "long": "20.64028"
+        }, 
+        {
+            "lat": "44.94366", 
+            "name": "Nova Pazova", 
+            "long": "20.21931"
+        }, 
+        {
+            "lat": "45.82972", 
+            "name": "Kikinda", 
+            "long": "20.46528"
+        }, 
+        {
+            "lat": "45.04816", 
+            "name": "In&#273;ija", 
+            "long": "20.08165"
+        }, 
+        {
+            "lat": "45.61632", 
+            "name": "Be&#269;ej", 
+            "long": "20.03331"
+        }, 
+        {
+            "lat": "45.57139", 
+            "name": "Vrbas", 
+            "long": "19.64083"
+        }, 
+        {
+            "lat": "46.1", 
+            "name": "Subotica", 
+            "long": "19.66667"
+        }, 
+        {
+            "lat": "44.97639", 
+            "name": "Sremska Mitrovica", 
+            "long": "19.61222"
+        }, 
+        {
+            "lat": "45.77417", 
+            "name": "Sombor", 
+            "long": "19.11222"
+        }, 
+        {
+            "lat": "45.00806", 
+            "name": "Ruma", 
+            "long": "19.82222"
+        }, 
+        {
+            "lat": "45.25167", 
+            "name": "Novi Sad", 
+            "long": "19.83694"
+        }, 
+        {
+            "lat": "45.81516", 
+            "name": "Ba&#269;ka Topola", 
+            "long": "19.6318"
+        }, 
+        {
+            "lat": "45.25083", 
+            "name": "Ba&#269;ka Palanka", 
+            "long": "19.39194"
+        }, 
+        {
+            "lat": "45.67111", 
+            "name": "Apatin", 
+            "long": "18.98472"
+        }
+    ]
+}

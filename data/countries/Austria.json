@@ -1,0 +1,193 @@
+{
+    "02": [
+        {
+            "lat": "46.84056", 
+            "name": "Wolfsberg", 
+            "long": "14.84417"
+        }, 
+        {
+            "lat": "46.61028", 
+            "name": "Villach", 
+            "long": "13.85583"
+        }, 
+        {
+            "lat": "46.8", 
+            "name": "Spittal an der Drau", 
+            "long": "13.5"
+        }, 
+        {
+            "lat": "46.62472", 
+            "name": "Klagenfurt am W&#246;rthersee", 
+            "long": "14.30528"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "47.8", 
+            "name": "Wiener Neustadt", 
+            "long": "16.25"
+        }, 
+        {
+            "lat": "48.4", 
+            "name": "Weinzierl bei Krems", 
+            "long": "15.6"
+        }, 
+        {
+            "lat": "48.01485", 
+            "name": "Traiskirchen", 
+            "long": "16.29324"
+        }, 
+        {
+            "lat": "47.71565", 
+            "name": "Ternitz", 
+            "long": "16.03575"
+        }, 
+        {
+            "lat": "48.13333", 
+            "name": "Schwechat", 
+            "long": "16.46667"
+        }, 
+        {
+            "lat": "48.2", 
+            "name": "Sankt P&#246;lten", 
+            "long": "15.63333"
+        }, 
+        {
+            "lat": "48.08605", 
+            "name": "M&#246;dling", 
+            "long": "16.28921"
+        }, 
+        {
+            "lat": "48.40921", 
+            "name": "Krems an der Donau", 
+            "long": "15.61415"
+        }, 
+        {
+            "lat": "48.30521", 
+            "name": "Klosterneuburg", 
+            "long": "16.32522"
+        }, 
+        {
+            "lat": "48.00543", 
+            "name": "Baden", 
+            "long": "16.23264"
+        }, 
+        {
+            "lat": "48.1229", 
+            "name": "Amstetten", 
+            "long": "14.87206"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "47.3765", 
+            "name": "Leoben", 
+            "long": "15.09144"
+        }, 
+        {
+            "lat": "47.44458", 
+            "name": "Kapfenberg", 
+            "long": "15.29331"
+        }, 
+        {
+            "lat": "47.06667", 
+            "name": "Graz", 
+            "long": "15.45"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "47.58333", 
+            "name": "Kufstein", 
+            "long": "12.16667"
+        }, 
+        {
+            "lat": "47.26266", 
+            "name": "Innsbruck", 
+            "long": "11.39454"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "48.16667", 
+            "name": "Wels", 
+            "long": "14.03333"
+        }, 
+        {
+            "lat": "48.22656", 
+            "name": "Traun", 
+            "long": "14.23459"
+        }, 
+        {
+            "lat": "48.04274", 
+            "name": "Steyr", 
+            "long": "14.42127"
+        }, 
+        {
+            "lat": "48.30639", 
+            "name": "Linz", 
+            "long": "14.28611"
+        }, 
+        {
+            "lat": "48.27965", 
+            "name": "Leonding", 
+            "long": "14.2533"
+        }, 
+        {
+            "lat": "48.25628", 
+            "name": "Braunau am Inn", 
+            "long": "13.04343"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "47.79941", 
+            "name": "Salzburg", 
+            "long": "13.04399"
+        }, 
+        {
+            "lat": "47.42681", 
+            "name": "Saalfelden am Steinernen Meer", 
+            "long": "12.848"
+        }, 
+        {
+            "lat": "47.68333", 
+            "name": "Hallein", 
+            "long": "13.1"
+        }, 
+        {
+            "lat": "47.965", 
+            "name": "Ansfelden", 
+            "long": "13.04944"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "47.42642", 
+            "name": "Lustenau", 
+            "long": "9.65851"
+        }, 
+        {
+            "lat": "47.23306", 
+            "name": "Feldkirch", 
+            "long": "9.6"
+        }, 
+        {
+            "lat": "47.41427", 
+            "name": "Dornbirn", 
+            "long": "9.74195"
+        }, 
+        {
+            "lat": "47.50311", 
+            "name": "Bregenz", 
+            "long": "9.7471"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "48.20849", 
+            "name": "Vienna", 
+            "long": "16.37208"
+        }
+    ]
+}

@@ -1,0 +1,5274 @@
+{
+    "11": [
+        {
+            "lat": "52.216", 
+            "name": "Zossen", 
+            "long": "13.44909"
+        }, 
+        {
+            "lat": "53.16118", 
+            "name": "Wittstock", 
+            "long": "12.48287"
+        }, 
+        {
+            "lat": "53.00543", 
+            "name": "Wittenberge", 
+            "long": "11.75032"
+        }, 
+        {
+            "lat": "52.37874", 
+            "name": "Werder", 
+            "long": "12.934"
+        }, 
+        {
+            "lat": "52.74196", 
+            "name": "Wandlitz", 
+            "long": "13.45799"
+        }, 
+        {
+            "lat": "53.11865", 
+            "name": "Templin", 
+            "long": "13.5022"
+        }, 
+        {
+            "lat": "52.4031", 
+            "name": "Teltow", 
+            "long": "13.26014"
+        }, 
+        {
+            "lat": "52.57859", 
+            "name": "Strausberg", 
+            "long": "13.88741"
+        }, 
+        {
+            "lat": "51.52517", 
+            "name": "Senftenberg", 
+            "long": "14.00164"
+        }, 
+        {
+            "lat": "53.05963", 
+            "name": "Schwedt (Oder)", 
+            "long": "14.28154"
+        }, 
+        {
+            "lat": "52.60659", 
+            "name": "Rathenow", 
+            "long": "12.33696"
+        }, 
+        {
+            "lat": "53.31625", 
+            "name": "Prenzlau", 
+            "long": "13.86261"
+        }, 
+        {
+            "lat": "52.39886", 
+            "name": "Potsdam", 
+            "long": "13.06566"
+        }, 
+        {
+            "lat": "52.75577", 
+            "name": "Oranienburg", 
+            "long": "13.24197"
+        }, 
+        {
+            "lat": "52.92815", 
+            "name": "Neuruppin", 
+            "long": "12.80311"
+        }, 
+        {
+            "lat": "52.52985", 
+            "name": "Neuenhagen", 
+            "long": "13.68914"
+        }, 
+        {
+            "lat": "52.60701", 
+            "name": "Nauen", 
+            "long": "12.87374"
+        }, 
+        {
+            "lat": "52.30322", 
+            "name": "Ludwigsfelde", 
+            "long": "13.25405"
+        }, 
+        {
+            "lat": "52.09029", 
+            "name": "Luckenwalde", 
+            "long": "13.16772"
+        }, 
+        {
+            "lat": "51.86217", 
+            "name": "L&#252;bbenau", 
+            "long": "13.95168"
+        }, 
+        {
+            "lat": "51.48813", 
+            "name": "Lauchhammer", 
+            "long": "13.76623"
+        }, 
+        {
+            "lat": "52.30141", 
+            "name": "K&#246;nigs Wusterhausen", 
+            "long": "13.633"
+        }, 
+        {
+            "lat": "52.40786", 
+            "name": "Kleinmachnow", 
+            "long": "13.22514"
+        }, 
+        {
+            "lat": "52.67631", 
+            "name": "Hohen Neuendorf", 
+            "long": "13.27775"
+        }, 
+        {
+            "lat": "52.63598", 
+            "name": "Hennigsdorf", 
+            "long": "13.20419"
+        }, 
+        {
+            "lat": "51.94987", 
+            "name": "Guben", 
+            "long": "14.71447"
+        }, 
+        {
+            "lat": "52.36067", 
+            "name": "F&#252;rstenwalde", 
+            "long": "14.06185"
+        }, 
+        {
+            "lat": "52.34714", 
+            "name": "Frankfurt (Oder)", 
+            "long": "14.55062"
+        }, 
+        {
+            "lat": "51.73544", 
+            "name": "Forst", 
+            "long": "14.63971"
+        }, 
+        {
+            "lat": "51.63388", 
+            "name": "Finsterwalde", 
+            "long": "13.70662"
+        }, 
+        {
+            "lat": "52.56014", 
+            "name": "Falkensee", 
+            "long": "13.0927"
+        }, 
+        {
+            "lat": "52.15", 
+            "name": "Eisenh&#252;ttenstadt", 
+            "long": "14.65"
+        }, 
+        {
+            "lat": "52.83492", 
+            "name": "Eberswalde", 
+            "long": "13.81951"
+        }, 
+        {
+            "lat": "51.75769", 
+            "name": "Cottbus", 
+            "long": "14.32888"
+        }, 
+        {
+            "lat": "52.41667", 
+            "name": "Brandenburg an der Havel", 
+            "long": "12.55"
+        }, 
+        {
+            "lat": "52.67982", 
+            "name": "Bernau bei Berlin", 
+            "long": "13.58708"
+        }, 
+        {
+            "lat": "53.01499", 
+            "name": "Angerm&#252;nde", 
+            "long": "13.99924"
+        }, 
+        {
+            "lat": "51.56971", 
+            "name": "Spremberg", 
+            "long": "14.37355"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "49.4424", 
+            "name": "Zirndorf", 
+            "long": "10.95414"
+        }, 
+        {
+            "lat": "49.79391", 
+            "name": "W&#252;rzburg", 
+            "long": "9.95121"
+        }, 
+        {
+            "lat": "47.91289", 
+            "name": "Wolfratshausen", 
+            "long": "11.42166"
+        }, 
+        {
+            "lat": "49.3523", 
+            "name": "Wendelstein", 
+            "long": "11.15069"
+        }, 
+        {
+            "lat": "49.03095", 
+            "name": "Wei&#223;enburg in Bayern", 
+            "long": "10.97221"
+        }, 
+        {
+            "lat": "47.84147", 
+            "name": "Weilheim", 
+            "long": "11.15484"
+        }, 
+        {
+            "lat": "49.67682", 
+            "name": "Weiden", 
+            "long": "12.15613"
+        }, 
+        {
+            "lat": "48.20854", 
+            "name": "Waldkraiburg", 
+            "long": "12.39893"
+        }, 
+        {
+            "lat": "48.62695", 
+            "name": "Vilshofen", 
+            "long": "13.19222"
+        }, 
+        {
+            "lat": "48.10537", 
+            "name": "Vaterstetten", 
+            "long": "11.76825"
+        }, 
+        {
+            "lat": "48.28038", 
+            "name": "Unterschlei&#223;heim", 
+            "long": "11.57684"
+        }, 
+        {
+            "lat": "48.06598", 
+            "name": "Unterhaching", 
+            "long": "11.61564"
+        }, 
+        {
+            "lat": "47.86825", 
+            "name": "Traunstein", 
+            "long": "12.64335"
+        }, 
+        {
+            "lat": "47.96269", 
+            "name": "Traunreut", 
+            "long": "12.59231"
+        }, 
+        {
+            "lat": "48.0486", 
+            "name": "Taufkirchen", 
+            "long": "11.61701"
+        }, 
+        {
+            "lat": "49.50126", 
+            "name": "Sulzbach-Rosenberg", 
+            "long": "11.74598"
+        }, 
+        {
+            "lat": "48.88126", 
+            "name": "Straubing", 
+            "long": "12.57385"
+        }, 
+        {
+            "lat": "48.00193", 
+            "name": "Starnberg", 
+            "long": "11.34416"
+        }, 
+        {
+            "lat": "47.51821", 
+            "name": "Sonthofen", 
+            "long": "10.28262"
+        }, 
+        {
+            "lat": "48.32441", 
+            "name": "Senden", 
+            "long": "10.04442"
+        }, 
+        {
+            "lat": "50.17058", 
+            "name": "Selb", 
+            "long": "12.13054"
+        }, 
+        {
+            "lat": "50.04937", 
+            "name": "Schweinfurt", 
+            "long": "10.22175"
+        }, 
+        {
+            "lat": "49.32534", 
+            "name": "Schwandorf in Bayern", 
+            "long": "12.1098"
+        }, 
+        {
+            "lat": "49.33047", 
+            "name": "Schwabach", 
+            "long": "11.02346"
+        }, 
+        {
+            "lat": "48.56067", 
+            "name": "Schrobenhausen", 
+            "long": "11.26071"
+        }, 
+        {
+            "lat": "49.24762", 
+            "name": "Roth", 
+            "long": "11.09111"
+        }, 
+        {
+            "lat": "47.85637", 
+            "name": "Rosenheim", 
+            "long": "12.12247"
+        }, 
+        {
+            "lat": "49.03451", 
+            "name": "Regensburg", 
+            "long": "12.11923"
+        }, 
+        {
+            "lat": "48.15", 
+            "name": "Puchheim", 
+            "long": "11.35"
+        }, 
+        {
+            "lat": "48.53053", 
+            "name": "Pfaffenhofen an der Ilm", 
+            "long": "11.505"
+        }, 
+        {
+            "lat": "47.75293", 
+            "name": "Penzberg", 
+            "long": "11.377"
+        }, 
+        {
+            "lat": "48.5665", 
+            "name": "Passau", 
+            "long": "13.43122"
+        }, 
+        {
+            "lat": "48.14146", 
+            "name": "Pasing", 
+            "long": "11.45599"
+        }, 
+        {
+            "lat": "48.06489", 
+            "name": "Ottobrunn", 
+            "long": "11.66327"
+        }, 
+        {
+            "lat": "48.2", 
+            "name": "Olching", 
+            "long": "11.33333"
+        }, 
+        {
+            "lat": "49.42275", 
+            "name": "Oberasbach", 
+            "long": "10.95766"
+        }, 
+        {
+            "lat": "49.45421", 
+            "name": "N&#252;rnberg", 
+            "long": "11.07752"
+        }, 
+        {
+            "lat": "48.85122", 
+            "name": "N&#246;rdlingen", 
+            "long": "10.48868"
+        }, 
+        {
+            "lat": "48.39279", 
+            "name": "Neu-Ulm", 
+            "long": "10.01112"
+        }, 
+        {
+            "lat": "50.32975", 
+            "name": "Neustadt bei Coburg", 
+            "long": "11.12058"
+        }, 
+        {
+            "lat": "49.28028", 
+            "name": "Neumarkt in der Oberpfalz", 
+            "long": "11.46278"
+        }, 
+        {
+            "lat": "48.31588", 
+            "name": "Neufahrn bei Freising", 
+            "long": "11.66316"
+        }, 
+        {
+            "lat": "48.73218", 
+            "name": "Neuburg an der Donau", 
+            "long": "11.18709"
+        }, 
+        {
+            "lat": "48.13743", 
+            "name": "Munich", 
+            "long": "11.57549"
+        }, 
+        {
+            "lat": "48.2467", 
+            "name": "M&#252;hldorf", 
+            "long": "12.52155"
+        }, 
+        {
+            "lat": "48.47089", 
+            "name": "Moosburg", 
+            "long": "11.93811"
+        }, 
+        {
+            "lat": "47.98372", 
+            "name": "Memmingen", 
+            "long": "10.18527"
+        }, 
+        {
+            "lat": "50.00443", 
+            "name": "Marktredwitz", 
+            "long": "12.08593"
+        }, 
+        {
+            "lat": "47.77964", 
+            "name": "Marktoberdorf", 
+            "long": "10.61713"
+        }, 
+        {
+            "lat": "49.98922", 
+            "name": "Lohr am Main", 
+            "long": "9.57223"
+        }, 
+        {
+            "lat": "47.54612", 
+            "name": "Lindau", 
+            "long": "9.68431"
+        }, 
+        {
+            "lat": "50.14567", 
+            "name": "Lichtenfels", 
+            "long": "11.05928"
+        }, 
+        {
+            "lat": "49.51386", 
+            "name": "Lauf an der Pegnitz", 
+            "long": "11.28247"
+        }, 
+        {
+            "lat": "48.52961", 
+            "name": "Landshut", 
+            "long": "12.16179"
+        }, 
+        {
+            "lat": "48.04819", 
+            "name": "Landsberg am Lech", 
+            "long": "10.88282"
+        }, 
+        {
+            "lat": "50.10068", 
+            "name": "Kulmbach", 
+            "long": "11.45032"
+        }, 
+        {
+            "lat": "50.23963", 
+            "name": "Kronach", 
+            "long": "11.33308"
+        }, 
+        {
+            "lat": "48.27506", 
+            "name": "K&#246;nigsbrunn", 
+            "long": "10.89178"
+        }, 
+        {
+            "lat": "47.84965", 
+            "name": "Kolbermoor", 
+            "long": "12.06696"
+        }, 
+        {
+            "lat": "49.73973", 
+            "name": "Kitzingen", 
+            "long": "10.15072"
+        }, 
+        {
+            "lat": "47.72674", 
+            "name": "Kempten (Allg&#228;u)", 
+            "long": "10.31389"
+        }, 
+        {
+            "lat": "48.91725", 
+            "name": "Kelheim", 
+            "long": "11.88618"
+        }, 
+        {
+            "lat": "47.88238", 
+            "name": "Kaufbeuren", 
+            "long": "10.62192"
+        }, 
+        {
+            "lat": "49.96034", 
+            "name": "Karlstadt", 
+            "long": "9.77239"
+        }, 
+        {
+            "lat": "48.21667", 
+            "name": "Karlsfeld", 
+            "long": "11.46667"
+        }, 
+        {
+            "lat": "48.76508", 
+            "name": "Ingolstadt", 
+            "long": "11.42372"
+        }, 
+        {
+            "lat": "48.22336", 
+            "name": "Illertissen", 
+            "long": "10.10347"
+        }, 
+        {
+            "lat": "47.87663", 
+            "name": "Holzkirchen", 
+            "long": "11.70181"
+        }, 
+        {
+            "lat": "50.31297", 
+            "name": "Hof", 
+            "long": "11.91261"
+        }, 
+        {
+            "lat": "49.56798", 
+            "name": "Herzogenaurach", 
+            "long": "10.88565"
+        }, 
+        {
+            "lat": "48.10881", 
+            "name": "Haar", 
+            "long": "11.72653"
+        }, 
+        {
+            "lat": "49.11663", 
+            "name": "Gunzenhausen", 
+            "long": "10.75971"
+        }, 
+        {
+            "lat": "48.45599", 
+            "name": "G&#252;nzburg", 
+            "long": "10.27695"
+        }, 
+        {
+            "lat": "49.91985", 
+            "name": "Gro&#223;ostheim", 
+            "long": "9.07596"
+        }, 
+        {
+            "lat": "48.2", 
+            "name": "Gr&#246;benzell", 
+            "long": "11.36667"
+        }, 
+        {
+            "lat": "48.10755", 
+            "name": "Gilching", 
+            "long": "11.2936"
+        }, 
+        {
+            "lat": "48.42432", 
+            "name": "Gersthofen", 
+            "long": "10.87273"
+        }, 
+        {
+            "lat": "48.13392", 
+            "name": "Germering", 
+            "long": "11.3765"
+        }, 
+        {
+            "lat": "47.85775", 
+            "name": "Geretsried", 
+            "long": "11.48054"
+        }, 
+        {
+            "lat": "48.06919", 
+            "name": "Gauting", 
+            "long": "11.37703"
+        }, 
+        {
+            "lat": "47.49209", 
+            "name": "Garmisch-Partenkirchen", 
+            "long": "11.09576"
+        }, 
+        {
+            "lat": "48.24896", 
+            "name": "Garching bei M&#252;nchen", 
+            "long": "11.65101"
+        }, 
+        {
+            "lat": "49.47593", 
+            "name": "F&#252;rth", 
+            "long": "10.98856"
+        }, 
+        {
+            "lat": "48.17904", 
+            "name": "F&#252;rstenfeldbruck", 
+            "long": "11.2547"
+        }, 
+        {
+            "lat": "48.35693", 
+            "name": "Friedberg", 
+            "long": "10.98461"
+        }, 
+        {
+            "lat": "48.40351", 
+            "name": "Freising", 
+            "long": "11.74876"
+        }, 
+        {
+            "lat": "47.84085", 
+            "name": "Freilassing", 
+            "long": "12.98114"
+        }, 
+        {
+            "lat": "49.71754", 
+            "name": "Forchheim", 
+            "long": "11.05877"
+        }, 
+        {
+            "lat": "49.59099", 
+            "name": "Erlangen", 
+            "long": "11.00783"
+        }, 
+        {
+            "lat": "48.30603", 
+            "name": "Erding", 
+            "long": "11.90686"
+        }, 
+        {
+            "lat": "48.71804", 
+            "name": "Donauw&#246;rth", 
+            "long": "10.7793"
+        }, 
+        {
+            "lat": "48.64244", 
+            "name": "Dingolfing", 
+            "long": "12.49283"
+        }, 
+        {
+            "lat": "48.58153", 
+            "name": "Dillingen an der Donau", 
+            "long": "10.49527"
+        }, 
+        {
+            "lat": "48.84085", 
+            "name": "Deggendorf", 
+            "long": "12.96068"
+        }, 
+        {
+            "lat": "48.26", 
+            "name": "Dachau", 
+            "long": "11.43402"
+        }, 
+        {
+            "lat": "50.25937", 
+            "name": "Coburg", 
+            "long": "10.96384"
+        }, 
+        {
+            "lat": "49.22565", 
+            "name": "Cham", 
+            "long": "12.65501"
+        }, 
+        {
+            "lat": "48.16925", 
+            "name": "Burghausen", 
+            "long": "12.83139"
+        }, 
+        {
+            "lat": "47.87859", 
+            "name": "Bruckm&#252;hl", 
+            "long": "11.91098"
+        }, 
+        {
+            "lat": "48.15221", 
+            "name": "Bogenhausen", 
+            "long": "11.61585"
+        }, 
+        {
+            "lat": "48.27091", 
+            "name": "Bobingen", 
+            "long": "10.8339"
+        }, 
+        {
+            "lat": "49.94782", 
+            "name": "Bayreuth", 
+            "long": "11.57893"
+        }, 
+        {
+            "lat": "49.89873", 
+            "name": "Bamberg", 
+            "long": "10.90067"
+        }, 
+        {
+            "lat": "47.76111", 
+            "name": "Bad T&#246;lz", 
+            "long": "11.5589"
+        }, 
+        {
+            "lat": "47.72947", 
+            "name": "Bad Reichenhall", 
+            "long": "12.87819"
+        }, 
+        {
+            "lat": "50.32174", 
+            "name": "Bad Neustadt an der Saale", 
+            "long": "10.20673"
+        }, 
+        {
+            "lat": "50.20228", 
+            "name": "Bad Kissingen", 
+            "long": "10.07784"
+        }, 
+        {
+            "lat": "47.8638", 
+            "name": "Bad Aibling", 
+            "long": "12.01055"
+        }, 
+        {
+            "lat": "48.37154", 
+            "name": "Augsburg", 
+            "long": "10.89851"
+        }, 
+        {
+            "lat": "49.97704", 
+            "name": "Aschaffenburg", 
+            "long": "9.15214"
+        }, 
+        {
+            "lat": "49.30481", 
+            "name": "Ansbach", 
+            "long": "10.5931"
+        }, 
+        {
+            "lat": "49.44287", 
+            "name": "Amberg", 
+            "long": "11.86267"
+        }, 
+        {
+            "lat": "50.0888", 
+            "name": "Alzenau in Unterfranken", 
+            "long": "9.06455"
+        }, 
+        {
+            "lat": "49.3856", 
+            "name": "Altdorf", 
+            "long": "11.3573"
+        }, 
+        {
+            "lat": "48.45755", 
+            "name": "Aichach", 
+            "long": "11.13413"
+        }, 
+        {
+            "lat": "47.7044", 
+            "name": "Burg Unter-Falkenstein", 
+            "long": "12.10466"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "50.72724", 
+            "name": "Zwickau", 
+            "long": "12.48839"
+        }, 
+        {
+            "lat": "50.89772", 
+            "name": "Zittau", 
+            "long": "14.80764"
+        }, 
+        {
+            "lat": "51.3707", 
+            "name": "Wurzen", 
+            "long": "12.73939"
+        }, 
+        {
+            "lat": "50.73604", 
+            "name": "Werdau", 
+            "long": "12.37534"
+        }, 
+        {
+            "lat": "51.50403", 
+            "name": "Wei&#223;wasser", 
+            "long": "14.64017"
+        }, 
+        {
+            "lat": "51.56016", 
+            "name": "Torgau", 
+            "long": "12.99617"
+        }, 
+        {
+            "lat": "50.53791", 
+            "name": "Schwarzenberg", 
+            "long": "12.78522"
+        }, 
+        {
+            "lat": "50.59465", 
+            "name": "Schneeberg", 
+            "long": "12.64139"
+        }, 
+        {
+            "lat": "51.39678", 
+            "name": "Schkeuditz", 
+            "long": "12.22141"
+        }, 
+        {
+            "lat": "51.30777", 
+            "name": "Riesa", 
+            "long": "13.29168"
+        }, 
+        {
+            "lat": "50.62279", 
+            "name": "Reichenbach/Vogtland", 
+            "long": "12.30344"
+        }, 
+        {
+            "lat": "51.10654", 
+            "name": "Radebeul", 
+            "long": "13.66047"
+        }, 
+        {
+            "lat": "51.11112", 
+            "name": "Radeberg", 
+            "long": "13.91199"
+        }, 
+        {
+            "lat": "50.4973", 
+            "name": "Plauen", 
+            "long": "12.13782"
+        }, 
+        {
+            "lat": "50.95843", 
+            "name": "Pirna", 
+            "long": "13.93702"
+        }, 
+        {
+            "lat": "51.30001", 
+            "name": "Oschatz", 
+            "long": "13.10984"
+        }, 
+        {
+            "lat": "50.98622", 
+            "name": "Mittweida", 
+            "long": "12.97537"
+        }, 
+        {
+            "lat": "51.16158", 
+            "name": "Meissen", 
+            "long": "13.4737"
+        }, 
+        {
+            "lat": "50.84688", 
+            "name": "Meerane", 
+            "long": "12.46473"
+        }, 
+        {
+            "lat": "51.2755", 
+            "name": "Markkleeberg", 
+            "long": "12.36906"
+        }, 
+        {
+            "lat": "51.09954", 
+            "name": "L&#246;bau", 
+            "long": "14.66738"
+        }, 
+        {
+            "lat": "50.85882", 
+            "name": "Limbach-Oberfrohna", 
+            "long": "12.76165"
+        }, 
+        {
+            "lat": "51.33962", 
+            "name": "Leipzig", 
+            "long": "12.37129"
+        }, 
+        {
+            "lat": "51.26798", 
+            "name": "Kamenz", 
+            "long": "14.09374"
+        }, 
+        {
+            "lat": "51.43787", 
+            "name": "Hoyerswerda", 
+            "long": "14.23549"
+        }, 
+        {
+            "lat": "50.80064", 
+            "name": "Hohenstein-Ernstthal", 
+            "long": "12.71287"
+        }, 
+        {
+            "lat": "50.97221", 
+            "name": "Heidenau", 
+            "long": "13.86741"
+        }, 
+        {
+            "lat": "51.28951", 
+            "name": "Gro&#223;enhain", 
+            "long": "13.5335"
+        }, 
+        {
+            "lat": "51.23367", 
+            "name": "Grimma", 
+            "long": "12.71959"
+        }, 
+        {
+            "lat": "51.15518", 
+            "name": "G&#246;rlitz", 
+            "long": "14.98853"
+        }, 
+        {
+            "lat": "50.81987", 
+            "name": "Glauchau", 
+            "long": "12.54493"
+        }, 
+        {
+            "lat": "51.00166", 
+            "name": "Freital", 
+            "long": "13.6488"
+        }, 
+        {
+            "lat": "50.91089", 
+            "name": "Freiberg", 
+            "long": "13.33881"
+        }, 
+        {
+            "lat": "50.91297", 
+            "name": "Frankenberg", 
+            "long": "13.04011"
+        }, 
+        {
+            "lat": "51.45984", 
+            "name": "Eilenburg", 
+            "long": "12.63338"
+        }, 
+        {
+            "lat": "51.05089", 
+            "name": "Dresden", 
+            "long": "13.73832"
+        }, 
+        {
+            "lat": "51.1221", 
+            "name": "D&#246;beln", 
+            "long": "13.11027"
+        }, 
+        {
+            "lat": "51.52546", 
+            "name": "Delitzsch", 
+            "long": "12.34284"
+        }, 
+        {
+            "lat": "50.81644", 
+            "name": "Crimmitschau", 
+            "long": "12.39045"
+        }, 
+        {
+            "lat": "51.13204", 
+            "name": "Coswig", 
+            "long": "13.58312"
+        }, 
+        {
+            "lat": "50.8357", 
+            "name": "Chemnitz", 
+            "long": "12.92922"
+        }, 
+        {
+            "lat": "51.12416", 
+            "name": "Borna", 
+            "long": "12.49639"
+        }, 
+        {
+            "lat": "51.62355", 
+            "name": "Bitterfeld-Wolfen", 
+            "long": "12.32395"
+        }, 
+        {
+            "lat": "51.18035", 
+            "name": "Bautzen", 
+            "long": "14.43494"
+        }, 
+        {
+            "lat": "50.51155", 
+            "name": "Auerbach", 
+            "long": "12.40083"
+        }, 
+        {
+            "lat": "50.59034", 
+            "name": "Aue", 
+            "long": "12.70657"
+        }, 
+        {
+            "lat": "50.57953", 
+            "name": "Annaberg-Buchholz", 
+            "long": "13.00627"
+        }, 
+        {
+            "lat": "51.2357", 
+            "name": "Haselbachtal", 
+            "long": "14.02576"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "53.89314", 
+            "name": "Wismar", 
+            "long": "11.45286"
+        }, 
+        {
+            "lat": "53.5204", 
+            "name": "Waren", 
+            "long": "12.67985"
+        }, 
+        {
+            "lat": "54.30911", 
+            "name": "Stralsund", 
+            "long": "13.0818"
+        }, 
+        {
+            "lat": "53.62937", 
+            "name": "Schwerin", 
+            "long": "11.41316"
+        }, 
+        {
+            "lat": "54.0887", 
+            "name": "Rostock", 
+            "long": "12.14049"
+        }, 
+        {
+            "lat": "54.2422", 
+            "name": "Ribnitz-Damgarten", 
+            "long": "12.45666"
+        }, 
+        {
+            "lat": "53.42631", 
+            "name": "Parchim", 
+            "long": "11.84875"
+        }, 
+        {
+            "lat": "53.3613", 
+            "name": "Neustrelitz", 
+            "long": "13.07292"
+        }, 
+        {
+            "lat": "53.56414", 
+            "name": "Neubrandenburg", 
+            "long": "13.27532"
+        }, 
+        {
+            "lat": "53.7972", 
+            "name": "G&#252;strow", 
+            "long": "12.17337"
+        }, 
+        {
+            "lat": "54.09311", 
+            "name": "Greifswald", 
+            "long": "13.38786"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "52.42377", 
+            "name": "Wunstorf", 
+            "long": "9.43585"
+        }, 
+        {
+            "lat": "52.42452", 
+            "name": "Wolfsburg", 
+            "long": "10.7815"
+        }, 
+        {
+            "lat": "52.16442", 
+            "name": "Wolfenb&#252;ttel", 
+            "long": "10.54095"
+        }, 
+        {
+            "lat": "53.57674", 
+            "name": "Wittmund", 
+            "long": "7.77839"
+        }, 
+        {
+            "lat": "53.35753", 
+            "name": "Winsen", 
+            "long": "10.21282"
+        }, 
+        {
+            "lat": "53.52998", 
+            "name": "Wilhelmshaven", 
+            "long": "8.11253"
+        }, 
+        {
+            "lat": "52.89446", 
+            "name": "Wildeshausen", 
+            "long": "8.43375"
+        }, 
+        {
+            "lat": "53.25682", 
+            "name": "Westerstede", 
+            "long": "7.92737"
+        }, 
+        {
+            "lat": "53.16332", 
+            "name": "Weener", 
+            "long": "7.35052"
+        }, 
+        {
+            "lat": "53.06667", 
+            "name": "Wardenburg", 
+            "long": "8.2"
+        }, 
+        {
+            "lat": "52.86147", 
+            "name": "Walsrode", 
+            "long": "9.5926"
+        }, 
+        {
+            "lat": "52.35", 
+            "name": "Wallenhorst", 
+            "long": "8.01667"
+        }, 
+        {
+            "lat": "52.92343", 
+            "name": "Verden", 
+            "long": "9.23491"
+        }, 
+        {
+            "lat": "52.72632", 
+            "name": "Vechta", 
+            "long": "8.28598"
+        }, 
+        {
+            "lat": "52.26038", 
+            "name": "Vechelde", 
+            "long": "10.36491"
+        }, 
+        {
+            "lat": "53.39693", 
+            "name": "Varel", 
+            "long": "8.13621"
+        }, 
+        {
+            "lat": "51.6569", 
+            "name": "Uslar", 
+            "long": "9.63501"
+        }, 
+        {
+            "lat": "52.96572", 
+            "name": "Uelzen", 
+            "long": "10.56111"
+        }, 
+        {
+            "lat": "52.91345", 
+            "name": "Syke", 
+            "long": "8.82209"
+        }, 
+        {
+            "lat": "53.03333", 
+            "name": "Stuhr", 
+            "long": "8.75"
+        }, 
+        {
+            "lat": "52.32333", 
+            "name": "Stadthagen", 
+            "long": "9.20311"
+        }, 
+        {
+            "lat": "53.59337", 
+            "name": "Stade", 
+            "long": "9.47629"
+        }, 
+        {
+            "lat": "52.20845", 
+            "name": "Springe", 
+            "long": "9.55416"
+        }, 
+        {
+            "lat": "52.98638", 
+            "name": "Soltau", 
+            "long": "9.84338"
+        }, 
+        {
+            "lat": "52.31394", 
+            "name": "Sehnde", 
+            "long": "9.9682"
+        }, 
+        {
+            "lat": "53.4", 
+            "name": "Seevetal", 
+            "long": "9.96667"
+        }, 
+        {
+            "lat": "51.89095", 
+            "name": "Seesen", 
+            "long": "10.17847"
+        }, 
+        {
+            "lat": "52.39635", 
+            "name": "Seelze", 
+            "long": "9.59727"
+        }, 
+        {
+            "lat": "53.23333", 
+            "name": "Schwanewede", 
+            "long": "8.6"
+        }, 
+        {
+            "lat": "53.53333", 
+            "name": "Schortens", 
+            "long": "7.95"
+        }, 
+        {
+            "lat": "53.11685", 
+            "name": "Schneverdingen", 
+            "long": "9.79524"
+        }, 
+        {
+            "lat": "52.23495", 
+            "name": "Sarstedt", 
+            "long": "9.85411"
+        }, 
+        {
+            "lat": "53.11125", 
+            "name": "Rotenburg", 
+            "long": "9.41082"
+        }, 
+        {
+            "lat": "52.31939", 
+            "name": "Ronnenberg", 
+            "long": "9.65544"
+        }, 
+        {
+            "lat": "52.18604", 
+            "name": "Rinteln", 
+            "long": "9.07917"
+        }, 
+        {
+            "lat": "53.25", 
+            "name": "Rastede", 
+            "long": "8.2"
+        }, 
+        {
+            "lat": "52.31928", 
+            "name": "Peine", 
+            "long": "10.2352"
+        }, 
+        {
+            "lat": "53.07738", 
+            "name": "Papenburg", 
+            "long": "7.40444"
+        }, 
+        {
+            "lat": "53.05", 
+            "name": "Oyten", 
+            "long": "9.01667"
+        }, 
+        {
+            "lat": "53.22698", 
+            "name": "Osterholz-Scharmbeck", 
+            "long": "8.79528"
+        }, 
+        {
+            "lat": "52.27264", 
+            "name": "Osnabr&#252;ck", 
+            "long": "8.0498"
+        }, 
+        {
+            "lat": "53.14118", 
+            "name": "Oldenburg", 
+            "long": "8.21467"
+        }, 
+        {
+            "lat": "51.70662", 
+            "name": "Northeim", 
+            "long": "9.99997"
+        }, 
+        {
+            "lat": "52.43081", 
+            "name": "Nordhorn", 
+            "long": "7.06833"
+        }, 
+        {
+            "lat": "53.4861", 
+            "name": "Nordenham", 
+            "long": "8.48093"
+        }, 
+        {
+            "lat": "53.59552", 
+            "name": "Norden", 
+            "long": "7.20639"
+        }, 
+        {
+            "lat": "52.6461", 
+            "name": "Nienburg", 
+            "long": "9.22086"
+        }, 
+        {
+            "lat": "53.46667", 
+            "name": "Neu Wulmstorf", 
+            "long": "9.8"
+        }, 
+        {
+            "lat": "52.50462", 
+            "name": "Neustadt am R&#252;benberge", 
+            "long": "9.45871"
+        }, 
+        {
+            "lat": "52.98569", 
+            "name": "Munster", 
+            "long": "10.08756"
+        }, 
+        {
+            "lat": "51.41505", 
+            "name": "Hannoversch M&#252;nden", 
+            "long": "9.65046"
+        }, 
+        {
+            "lat": "52.69064", 
+            "name": "Meppen", 
+            "long": "7.29097"
+        }, 
+        {
+            "lat": "52.20197", 
+            "name": "Melle", 
+            "long": "8.33826"
+        }, 
+        {
+            "lat": "53.2509", 
+            "name": "L&#252;neburg", 
+            "long": "10.41409"
+        }, 
+        {
+            "lat": "53.46667", 
+            "name": "Loxstedt", 
+            "long": "8.65"
+        }, 
+        {
+            "lat": "52.66625", 
+            "name": "Lohne", 
+            "long": "8.2375"
+        }, 
+        {
+            "lat": "52.52143", 
+            "name": "Lingen", 
+            "long": "7.31845"
+        }, 
+        {
+            "lat": "53.13333", 
+            "name": "Lilienthal", 
+            "long": "8.91667"
+        }, 
+        {
+            "lat": "52.37193", 
+            "name": "Lehrte", 
+            "long": "9.97919"
+        }, 
+        {
+            "lat": "53.23157", 
+            "name": "Leer", 
+            "long": "7.461"
+        }, 
+        {
+            "lat": "52.44758", 
+            "name": "Langenhagen", 
+            "long": "9.73741"
+        }, 
+        {
+            "lat": "53.60554", 
+            "name": "Langen", 
+            "long": "8.59509"
+        }, 
+        {
+            "lat": "52.31506", 
+            "name": "Laatzen", 
+            "long": "9.79739"
+        }, 
+        {
+            "lat": "52.25116", 
+            "name": "K&#246;nigslutter am Elm", 
+            "long": "10.81683"
+        }, 
+        {
+            "lat": "52.47093", 
+            "name": "Isernhagen Farster Bauerschaft", 
+            "long": "9.84179"
+        }, 
+        {
+            "lat": "53.10766", 
+            "name": "Hude", 
+            "long": "8.46322"
+        }, 
+        {
+            "lat": "51.82798", 
+            "name": "Holzminden", 
+            "long": "9.4455"
+        }, 
+        {
+            "lat": "52.15077", 
+            "name": "Hildesheim", 
+            "long": "9.95112"
+        }, 
+        {
+            "lat": "52.17269", 
+            "name": "Hessisch Oldendorf", 
+            "long": "9.24913"
+        }, 
+        {
+            "lat": "52.31425", 
+            "name": "Hemmingen", 
+            "long": "9.72359"
+        }, 
+        {
+            "lat": "52.2279", 
+            "name": "Helmstedt", 
+            "long": "11.00985"
+        }, 
+        {
+            "lat": "52.79262", 
+            "name": "Haren", 
+            "long": "7.24142"
+        }, 
+        {
+            "lat": "52.37052", 
+            "name": "Hannover", 
+            "long": "9.73322"
+        }, 
+        {
+            "lat": "52.10397", 
+            "name": "Hameln", 
+            "long": "9.35623"
+        }, 
+        {
+            "lat": "51.53443", 
+            "name": "G&#246;ttingen", 
+            "long": "9.93228"
+        }, 
+        {
+            "lat": "51.90425", 
+            "name": "Goslar", 
+            "long": "10.42766"
+        }, 
+        {
+            "lat": "52.47774", 
+            "name": "Gifhorn", 
+            "long": "10.5511"
+        }, 
+        {
+            "lat": "52.20296", 
+            "name": "Georgsmarienh&#252;tte", 
+            "long": "8.0448"
+        }, 
+        {
+            "lat": "52.41371", 
+            "name": "Garbsen", 
+            "long": "9.5899"
+        }, 
+        {
+            "lat": "53.03333", 
+            "name": "Ganderkesee", 
+            "long": "8.53333"
+        }, 
+        {
+            "lat": "53.0226", 
+            "name": "Friesoythe", 
+            "long": "7.85764"
+        }, 
+        {
+            "lat": "53.36745", 
+            "name": "Emden", 
+            "long": "7.20778"
+        }, 
+        {
+            "lat": "51.82018", 
+            "name": "Einbeck", 
+            "long": "9.86961"
+        }, 
+        {
+            "lat": "53.12699", 
+            "name": "Edewecht", 
+            "long": "7.98406"
+        }, 
+        {
+            "lat": "51.51312", 
+            "name": "Duderstadt", 
+            "long": "10.25951"
+        }, 
+        {
+            "lat": "52.60783", 
+            "name": "Diepholz", 
+            "long": "8.37005"
+        }, 
+        {
+            "lat": "53.0511", 
+            "name": "Delmenhorst", 
+            "long": "8.63091"
+        }, 
+        {
+            "lat": "52.52157", 
+            "name": "Damme", 
+            "long": "8.19793"
+        }, 
+        {
+            "lat": "53.87176", 
+            "name": "Cuxhaven", 
+            "long": "8.69087"
+        }, 
+        {
+            "lat": "52.84754", 
+            "name": "Cloppenburg", 
+            "long": "8.045"
+        }, 
+        {
+            "lat": "51.80949", 
+            "name": "Clausthal-Zellerfeld", 
+            "long": "10.33821"
+        }, 
+        {
+            "lat": "52.62264", 
+            "name": "Celle", 
+            "long": "10.08047"
+        }, 
+        {
+            "lat": "53.46716", 
+            "name": "Buxtehude", 
+            "long": "9.68636"
+        }, 
+        {
+            "lat": "52.44628", 
+            "name": "Burgdorf", 
+            "long": "10.0064"
+        }, 
+        {
+            "lat": "52.26065", 
+            "name": "B&#252;ckeburg", 
+            "long": "9.04939"
+        }, 
+        {
+            "lat": "53.32641", 
+            "name": "Buchholz in der Nordheide", 
+            "long": "9.86812"
+        }, 
+        {
+            "lat": "53.48458", 
+            "name": "Bremerv&#246;rde", 
+            "long": "9.14306"
+        }, 
+        {
+            "lat": "52.26594", 
+            "name": "Braunschweig", 
+            "long": "10.52673"
+        }, 
+        {
+            "lat": "52.40881", 
+            "name": "Bramsche", 
+            "long": "7.97288"
+        }, 
+        {
+            "lat": "53.33333", 
+            "name": "Brake (Unterweser)", 
+            "long": "8.48333"
+        }, 
+        {
+            "lat": "52.85059", 
+            "name": "Bassum", 
+            "long": "8.72791"
+        }, 
+        {
+            "lat": "53.18333", 
+            "name": "Bad Zwischenahn", 
+            "long": "8"
+        }, 
+        {
+            "lat": "51.98589", 
+            "name": "Bad Pyrmont", 
+            "long": "9.25246"
+        }, 
+        {
+            "lat": "52.19551", 
+            "name": "Bad M&#252;nder am Deister", 
+            "long": "9.46421"
+        }, 
+        {
+            "lat": "51.88268", 
+            "name": "Bad Harzburg", 
+            "long": "10.56157"
+        }, 
+        {
+            "lat": "52.31667", 
+            "name": "Bad Essen", 
+            "long": "8.33333"
+        }, 
+        {
+            "lat": "52.31814", 
+            "name": "Bad Bentheim", 
+            "long": "7.16343"
+        }, 
+        {
+            "lat": "53.46919", 
+            "name": "Aurich", 
+            "long": "7.48232"
+        }, 
+        {
+            "lat": "51.98382", 
+            "name": "Alfeld", 
+            "long": "9.81989"
+        }, 
+        {
+            "lat": "53.01416", 
+            "name": "Achim", 
+            "long": "9.0263"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "51.9662", 
+            "name": "Zerbst", 
+            "long": "12.08517"
+        }, 
+        {
+            "lat": "51.04962", 
+            "name": "Zeitz", 
+            "long": "12.1369"
+        }, 
+        {
+            "lat": "51.66122", 
+            "name": "Wolfen", 
+            "long": "12.26873"
+        }, 
+        {
+            "lat": "51.83652", 
+            "name": "Wernigerode", 
+            "long": "10.78216"
+        }, 
+        {
+            "lat": "51.20148", 
+            "name": "Wei&#223;enfels", 
+            "long": "11.96843"
+        }, 
+        {
+            "lat": "52.6069", 
+            "name": "Stendal", 
+            "long": "11.85867"
+        }, 
+        {
+            "lat": "51.85186", 
+            "name": "Sta&#223;furt", 
+            "long": "11.58508"
+        }, 
+        {
+            "lat": "52.01682", 
+            "name": "Sch&#246;nebeck", 
+            "long": "11.7307"
+        }, 
+        {
+            "lat": "51.47221", 
+            "name": "Sangerhausen", 
+            "long": "11.29533"
+        }, 
+        {
+            "lat": "52.85435", 
+            "name": "Salzwedel", 
+            "long": "11.1525"
+        }, 
+        {
+            "lat": "51.78843", 
+            "name": "Quedlinburg", 
+            "long": "11.15006"
+        }, 
+        {
+            "lat": "52.03039", 
+            "name": "Oschersleben", 
+            "long": "11.22898"
+        }, 
+        {
+            "lat": "52.15", 
+            "name": "Neue Neustadt", 
+            "long": "11.63333"
+        }, 
+        {
+            "lat": "51.14987", 
+            "name": "Naumburg", 
+            "long": "11.80979"
+        }, 
+        {
+            "lat": "51.35478", 
+            "name": "Merseburg", 
+            "long": "11.98923"
+        }, 
+        {
+            "lat": "52.12773", 
+            "name": "Magdeburg", 
+            "long": "11.62916"
+        }, 
+        {
+            "lat": "51.75185", 
+            "name": "K&#246;then", 
+            "long": "11.97093"
+        }, 
+        {
+            "lat": "51.6503", 
+            "name": "Hettstedt", 
+            "long": "11.51146"
+        }, 
+        {
+            "lat": "51.5", 
+            "name": "Halle (Saale)", 
+            "long": "12"
+        }, 
+        {
+            "lat": "52.28906", 
+            "name": "Haldensleben I", 
+            "long": "11.40982"
+        }, 
+        {
+            "lat": "51.89562", 
+            "name": "Halberstadt", 
+            "long": "11.05622"
+        }, 
+        {
+            "lat": "51.83864", 
+            "name": "Dessau", 
+            "long": "12.24555"
+        }, 
+        {
+            "lat": "52.27152", 
+            "name": "Burg bei Magdeburg", 
+            "long": "11.85493"
+        }, 
+        {
+            "lat": "51.79025", 
+            "name": "Blankenburg", 
+            "long": "10.95509"
+        }, 
+        {
+            "lat": "51.79464", 
+            "name": "Bernburg", 
+            "long": "11.7401"
+        }, 
+        {
+            "lat": "51.75742", 
+            "name": "Aschersleben", 
+            "long": "11.46084"
+        }, 
+        {
+            "lat": "51.47924", 
+            "name": "Halle Neustadt", 
+            "long": "11.91605"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "53.6", 
+            "name": "Winterhude", 
+            "long": "10"
+        }, 
+        {
+            "lat": "53.5922", 
+            "name": "Stellingen", 
+            "long": "9.9287"
+        }, 
+        {
+            "lat": "53.61028", 
+            "name": "Steilshoop", 
+            "long": "10.05917"
+        }, 
+        {
+            "lat": "53.65385", 
+            "name": "Sasel", 
+            "long": "10.11184"
+        }, 
+        {
+            "lat": "53.65917", 
+            "name": "Poppenb&#252;ttel", 
+            "long": "10.08472"
+        }, 
+        {
+            "lat": "53.66556", 
+            "name": "Langenhorn", 
+            "long": "10.00137"
+        }, 
+        {
+            "lat": "53.64773", 
+            "name": "Hummelsb&#252;ttel", 
+            "long": "10.04149"
+        }, 
+        {
+            "lat": "53.46057", 
+            "name": "Harburg", 
+            "long": "9.98388"
+        }, 
+        {
+            "lat": "53.56667", 
+            "name": "Wandsbek", 
+            "long": "10.1"
+        }, 
+        {
+            "lat": "53.56667", 
+            "name": "Marienthal", 
+            "long": "10.08333"
+        }, 
+        {
+            "lat": "53.55", 
+            "name": "Hamburg-Mitte", 
+            "long": "10.01667"
+        }, 
+        {
+            "lat": "53.56667", 
+            "name": "Eimsb&#252;ttel", 
+            "long": "9.98333"
+        }, 
+        {
+            "lat": "53.55", 
+            "name": "Altona", 
+            "long": "9.93333"
+        }, 
+        {
+            "lat": "53.57532", 
+            "name": "Hamburg", 
+            "long": "10.01534"
+        }, 
+        {
+            "lat": "53.557", 
+            "name": "St. Pauli", 
+            "long": "9.964"
+        }, 
+        {
+            "lat": "53.60697", 
+            "name": "Eidelstedt", 
+            "long": "9.90538"
+        }, 
+        {
+            "lat": "53.48462", 
+            "name": "Bergedorf", 
+            "long": "10.22904"
+        }, 
+        {
+            "lat": "53.6052", 
+            "name": "Barmbek-Nord", 
+            "long": "10.03988"
+        }, 
+        {
+            "lat": "53.60639", 
+            "name": "Farmsen-Berne", 
+            "long": "10.11972"
+        }, 
+        {
+            "lat": "53.58935", 
+            "name": "Hamburg-Nord", 
+            "long": "9.984"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "52.43333", 
+            "name": "Zehlendorf", 
+            "long": "13.25"
+        }, 
+        {
+            "lat": "52.59319", 
+            "name": "Wittenau", 
+            "long": "13.32127"
+        }, 
+        {
+            "lat": "52.48333", 
+            "name": "Wilmersdorf", 
+            "long": "13.31667"
+        }, 
+        {
+            "lat": "52.52462", 
+            "name": "Wilhelmstadt", 
+            "long": "13.17707"
+        }, 
+        {
+            "lat": "52.51708", 
+            "name": "Westend", 
+            "long": "13.27636"
+        }, 
+        {
+            "lat": "52.55632", 
+            "name": "Wei&#223;ensee", 
+            "long": "13.46649"
+        }, 
+        {
+            "lat": "52.54734", 
+            "name": "Wedding", 
+            "long": "13.35594"
+        }, 
+        {
+            "lat": "52.46667", 
+            "name": "Tempelhof", 
+            "long": "13.4"
+        }, 
+        {
+            "lat": "52.57601", 
+            "name": "Tegel", 
+            "long": "13.29389"
+        }, 
+        {
+            "lat": "52.45606", 
+            "name": "Steglitz", 
+            "long": "13.332"
+        }, 
+        {
+            "lat": "52.53661", 
+            "name": "Staaken", 
+            "long": "13.15057"
+        }, 
+        {
+            "lat": "52.46667", 
+            "name": "Sch&#246;neberg", 
+            "long": "13.35"
+        }, 
+        {
+            "lat": "52.47517", 
+            "name": "Schmargendorf", 
+            "long": "13.29071"
+        }, 
+        {
+            "lat": "52.50146", 
+            "name": "Rummelsburg", 
+            "long": "13.4934"
+        }, 
+        {
+            "lat": "52.42407", 
+            "name": "Rudow", 
+            "long": "13.48529"
+        }, 
+        {
+            "lat": "52.56667", 
+            "name": "Reinickendorf", 
+            "long": "13.33333"
+        }, 
+        {
+            "lat": "52.53878", 
+            "name": "Prenzlauer Berg", 
+            "long": "13.42443"
+        }, 
+        {
+            "lat": "52.56926", 
+            "name": "Pankow", 
+            "long": "13.40186"
+        }, 
+        {
+            "lat": "52.46106", 
+            "name": "Obersch&#246;neweide", 
+            "long": "13.52108"
+        }, 
+        {
+            "lat": "52.4344", 
+            "name": "Nikolassee", 
+            "long": "13.20095"
+        }, 
+        {
+            "lat": "52.58483", 
+            "name": "Niedersch&#246;nhausen", 
+            "long": "13.40272"
+        }, 
+        {
+            "lat": "52.52635", 
+            "name": "Moabit", 
+            "long": "13.33903"
+        }, 
+        {
+            "lat": "52.54525", 
+            "name": "Marzahn", 
+            "long": "13.56983"
+        }, 
+        {
+            "lat": "52.59841", 
+            "name": "M&#228;rkisches Viertel", 
+            "long": "13.35766"
+        }, 
+        {
+            "lat": "52.41868", 
+            "name": "Marienfelde", 
+            "long": "13.36723"
+        }, 
+        {
+            "lat": "52.4378", 
+            "name": "Mariendorf", 
+            "long": "13.38109"
+        }, 
+        {
+            "lat": "52.50935", 
+            "name": "Mahlsdorf", 
+            "long": "13.61373"
+        }, 
+        {
+            "lat": "52.4333", 
+            "name": "Lichterfelde", 
+            "long": "13.30762"
+        }, 
+        {
+            "lat": "52.39844", 
+            "name": "Lichtenrade", 
+            "long": "13.40637"
+        }, 
+        {
+            "lat": "52.51395", 
+            "name": "Lichtenberg", 
+            "long": "13.49975"
+        }, 
+        {
+            "lat": "52.43623", 
+            "name": "Lankwitz", 
+            "long": "13.3459"
+        }, 
+        {
+            "lat": "52.49973", 
+            "name": "Kreuzberg", 
+            "long": "13.40338"
+        }, 
+        {
+            "lat": "52.4455", 
+            "name": "K&#246;penick", 
+            "long": "13.57455"
+        }, 
+        {
+            "lat": "52.44254", 
+            "name": "Berlin K&#246;penick", 
+            "long": "13.58228"
+        }, 
+        {
+            "lat": "52.51732", 
+            "name": "Kaulsdorf", 
+            "long": "13.58871"
+        }, 
+        {
+            "lat": "52.60904", 
+            "name": "Karow", 
+            "long": "13.48117"
+        }, 
+        {
+            "lat": "52.48419", 
+            "name": "Karlshorst", 
+            "long": "13.53185"
+        }, 
+        {
+            "lat": "52.44653", 
+            "name": "Johannisthal", 
+            "long": "13.5066"
+        }, 
+        {
+            "lat": "52.61131", 
+            "name": "Hermsdorf", 
+            "long": "13.31783"
+        }, 
+        {
+            "lat": "52.53319", 
+            "name": "Hellersdorf", 
+            "long": "13.6088"
+        }, 
+        {
+            "lat": "52.61449", 
+            "name": "Heiligensee", 
+            "long": "13.24501"
+        }, 
+        {
+            "lat": "52.55877", 
+            "name": "Hakenfelde", 
+            "long": "13.20831"
+        }, 
+        {
+            "lat": "52.55035", 
+            "name": "Gesundbrunnen", 
+            "long": "13.39139"
+        }, 
+        {
+            "lat": "52.63336", 
+            "name": "Frohnau", 
+            "long": "13.29024"
+        }, 
+        {
+            "lat": "52.51559", 
+            "name": "Friedrichshain", 
+            "long": "13.45482"
+        }, 
+        {
+            "lat": "52.45052", 
+            "name": "Friedrichshagen", 
+            "long": "13.62463"
+        }, 
+        {
+            "lat": "52.50575", 
+            "name": "Friedrichsfelde", 
+            "long": "13.50812"
+        }, 
+        {
+            "lat": "52.47133", 
+            "name": "Friedenau", 
+            "long": "13.32813"
+        }, 
+        {
+            "lat": "52.4581", 
+            "name": "Dahlem", 
+            "long": "13.28702"
+        }, 
+        {
+            "lat": "52.51667", 
+            "name": "Charlottenburg", 
+            "long": "13.28333"
+        }, 
+        {
+            "lat": "52.432", 
+            "name": "Buckow", 
+            "long": "13.46018"
+        }, 
+        {
+            "lat": "52.60242", 
+            "name": "Franz&#246;sisch Buchholz", 
+            "long": "13.43019"
+        }, 
+        {
+            "lat": "52.44293", 
+            "name": "Britz", 
+            "long": "13.43388"
+        }, 
+        {
+            "lat": "52.50906", 
+            "name": "Biesdorf", 
+            "long": "13.5534"
+        }, 
+        {
+            "lat": "52.52437", 
+            "name": "Berlin", 
+            "long": "13.41053"
+        }, 
+        {
+            "lat": "52.46583", 
+            "name": "Baumschulenweg", 
+            "long": "13.48523"
+        }, 
+        {
+            "lat": "52.41116", 
+            "name": "Altglienicke", 
+            "long": "13.5355"
+        }, 
+        {
+            "lat": "52.43548", 
+            "name": "Adlershof", 
+            "long": "13.54825"
+        }, 
+        {
+            "lat": "52.425", 
+            "name": "Gropiusstadt", 
+            "long": "13.46667"
+        }, 
+        {
+            "lat": "52.53048", 
+            "name": "Charlottenburg-Nord", 
+            "long": "13.29371"
+        }, 
+        {
+            "lat": "52.52003", 
+            "name": "Mitte", 
+            "long": "13.40489"
+        }, 
+        {
+            "lat": "52.5511", 
+            "name": "Spandau", 
+            "long": "13.19921"
+        }, 
+        {
+            "lat": "52.48388", 
+            "name": "Berlin Sch&#246;neberg", 
+            "long": "13.3477"
+        }, 
+        {
+            "lat": "52.49376", 
+            "name": "Berlin Treptow", 
+            "long": "13.44469"
+        }, 
+        {
+            "lat": "52.55191", 
+            "name": "Falkenhagener Feld", 
+            "long": "13.16802"
+        }, 
+        {
+            "lat": "52.56681", 
+            "name": "Neu-Hohensch&#246;nhausen", 
+            "long": "13.51255"
+        }, 
+        {
+            "lat": "52.54608", 
+            "name": "Alt-Hohensch&#246;nhausen", 
+            "long": "13.5013"
+        }, 
+        {
+            "lat": "52.52921", 
+            "name": "Fennpfuhl", 
+            "long": "13.47267"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "53.55021", 
+            "name": "Bremerhaven", 
+            "long": "8.57673"
+        }, 
+        {
+            "lat": "53.07516", 
+            "name": "Bremen", 
+            "long": "8.80777"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "49.24686", 
+            "name": "Zweibr&#252;cken", 
+            "long": "7.36977"
+        }, 
+        {
+            "lat": "49.04888", 
+            "name": "W&#246;rth am Rhein", 
+            "long": "8.25959"
+        }, 
+        {
+            "lat": "49.63278", 
+            "name": "Worms", 
+            "long": "8.35916"
+        }, 
+        {
+            "lat": "49.98596", 
+            "name": "Wittlich", 
+            "long": "6.89308"
+        }, 
+        {
+            "lat": "49.75565", 
+            "name": "Trier", 
+            "long": "6.63935"
+        }, 
+        {
+            "lat": "49.32083", 
+            "name": "Speyer", 
+            "long": "8.43111"
+        }, 
+        {
+            "lat": "50.54384", 
+            "name": "Sinzig", 
+            "long": "7.24639"
+        }, 
+        {
+            "lat": "49.38417", 
+            "name": "Schifferstadt", 
+            "long": "8.3775"
+        }, 
+        {
+            "lat": "50.57879", 
+            "name": "Remagen", 
+            "long": "7.22703"
+        }, 
+        {
+            "lat": "49.20145", 
+            "name": "Pirmasens", 
+            "long": "7.60529"
+        }, 
+        {
+            "lat": "49.97756", 
+            "name": "Nieder-Ingelheim", 
+            "long": "8.07246"
+        }, 
+        {
+            "lat": "50.4336", 
+            "name": "Neuwied", 
+            "long": "7.47057"
+        }, 
+        {
+            "lat": "49.35009", 
+            "name": "Neustadt", 
+            "long": "8.13886"
+        }, 
+        {
+            "lat": "50.32797", 
+            "name": "Mayen", 
+            "long": "7.22277"
+        }, 
+        {
+            "lat": "49.98419", 
+            "name": "Mainz", 
+            "long": "8.2791"
+        }, 
+        {
+            "lat": "49.48121", 
+            "name": "Ludwigshafen am Rhein", 
+            "long": "8.44641"
+        }, 
+        {
+            "lat": "49.19844", 
+            "name": "Landau in der Pfalz", 
+            "long": "8.11692"
+        }, 
+        {
+            "lat": "50.3", 
+            "name": "Lahnstein", 
+            "long": "7.61667"
+        }, 
+        {
+            "lat": "49.70045", 
+            "name": "Konz", 
+            "long": "6.57652"
+        }, 
+        {
+            "lat": "50.35357", 
+            "name": "Koblenz", 
+            "long": "7.57883"
+        }, 
+        {
+            "lat": "49.443", 
+            "name": "Kaiserslautern", 
+            "long": "7.77161"
+        }, 
+        {
+            "lat": "49.71443", 
+            "name": "Idar-Oberstein", 
+            "long": "7.30776"
+        }, 
+        {
+            "lat": "49.36278", 
+            "name": "Ha&#223;loch", 
+            "long": "8.25806"
+        }, 
+        {
+            "lat": "49.22306", 
+            "name": "Germersheim", 
+            "long": "8.36389"
+        }, 
+        {
+            "lat": "49.53414", 
+            "name": "Frankenthal", 
+            "long": "8.35357"
+        }, 
+        {
+            "lat": "50.23085", 
+            "name": "Boppard", 
+            "long": "7.58992"
+        }, 
+        {
+            "lat": "49.96675", 
+            "name": "Bingen am Rhein", 
+            "long": "7.8992"
+        }, 
+        {
+            "lat": "50.42289", 
+            "name": "Bendorf", 
+            "long": "7.57924"
+        }, 
+        {
+            "lat": "50.54322", 
+            "name": "Bad Neuenahr-Ahrweiler", 
+            "long": "7.1113"
+        }, 
+        {
+            "lat": "49.8414", 
+            "name": "Bad Kreuznach", 
+            "long": "7.86713"
+        }, 
+        {
+            "lat": "49.4618", 
+            "name": "Bad D&#252;rkheim", 
+            "long": "8.17236"
+        }, 
+        {
+            "lat": "50.43109", 
+            "name": "Andernach", 
+            "long": "7.40425"
+        }, 
+        {
+            "lat": "49.74657", 
+            "name": "Alzey", 
+            "long": "8.11513"
+        }, 
+        {
+            "lat": "49.45937", 
+            "name": "Gartenstadt", 
+            "long": "8.40377"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "51.34103", 
+            "name": "Witzenhausen", 
+            "long": "9.8554"
+        }, 
+        {
+            "lat": "50.08258", 
+            "name": "Wiesbaden", 
+            "long": "8.24932"
+        }, 
+        {
+            "lat": "50.56109", 
+            "name": "Wetzlar", 
+            "long": "8.50495"
+        }, 
+        {
+            "lat": "49.9039", 
+            "name": "Weiterstadt", 
+            "long": "8.58874"
+        }, 
+        {
+            "lat": "49.54033", 
+            "name": "Viernheim", 
+            "long": "8.5782"
+        }, 
+        {
+            "lat": "50.14993", 
+            "name": "Taunusstein", 
+            "long": "8.15206"
+        }, 
+        {
+            "lat": "50.82261", 
+            "name": "Stadtallendorf", 
+            "long": "9.01294"
+        }, 
+        {
+            "lat": "50.0432", 
+            "name": "Seligenstadt", 
+            "long": "8.97394"
+        }, 
+        {
+            "lat": "50.93333", 
+            "name": "Schwalmstadt", 
+            "long": "9.21667"
+        }, 
+        {
+            "lat": "50.34891", 
+            "name": "Schl&#252;chtern", 
+            "long": "9.52532"
+        }, 
+        {
+            "lat": "49.98955", 
+            "name": "R&#252;sselsheim", 
+            "long": "8.42251"
+        }, 
+        {
+            "lat": "49.82923", 
+            "name": "Reinheim", 
+            "long": "8.83572"
+        }, 
+        {
+            "lat": "49.80557", 
+            "name": "Pfungstadt", 
+            "long": "8.60307"
+        }, 
+        {
+            "lat": "50.10061", 
+            "name": "Offenbach", 
+            "long": "8.76647"
+        }, 
+        {
+            "lat": "50.20731", 
+            "name": "Oberursel", 
+            "long": "8.57747"
+        }, 
+        {
+            "lat": "50.07139", 
+            "name": "Obertshausen", 
+            "long": "8.85123"
+        }, 
+        {
+            "lat": "49.83078", 
+            "name": "Ober-Ramstadt", 
+            "long": "8.74887"
+        }, 
+        {
+            "lat": "50.23805", 
+            "name": "Nidderau", 
+            "long": "8.86704"
+        }, 
+        {
+            "lat": "50.4133", 
+            "name": "Nidda", 
+            "long": "9.00638"
+        }, 
+        {
+            "lat": "50.04832", 
+            "name": "Neu Isenburg", 
+            "long": "8.69406"
+        }, 
+        {
+            "lat": "50.31667", 
+            "name": "Neu-Anspach", 
+            "long": "8.5"
+        }, 
+        {
+            "lat": "50.11667", 
+            "name": "M&#252;hlheim am Main", 
+            "long": "8.83333"
+        }, 
+        {
+            "lat": "49.67569", 
+            "name": "Michelstadt", 
+            "long": "9.00373"
+        }, 
+        {
+            "lat": "50.80904", 
+            "name": "Marburg an der Lahn", 
+            "long": "8.77069"
+        }, 
+        {
+            "lat": "50.15", 
+            "name": "Maintal", 
+            "long": "8.83333"
+        }, 
+        {
+            "lat": "50.3836", 
+            "name": "Limburg an der Lahn", 
+            "long": "8.0503"
+        }, 
+        {
+            "lat": "49.98955", 
+            "name": "Langen", 
+            "long": "8.66852"
+        }, 
+        {
+            "lat": "49.59786", 
+            "name": "Lampertheim", 
+            "long": "8.4725"
+        }, 
+        {
+            "lat": "50.5442", 
+            "name": "K&#252;nzell", 
+            "long": "9.71792"
+        }, 
+        {
+            "lat": "50.18424", 
+            "name": "Kronberg", 
+            "long": "8.5232"
+        }, 
+        {
+            "lat": "51.27561", 
+            "name": "Korbach", 
+            "long": "8.873"
+        }, 
+        {
+            "lat": "50.17943", 
+            "name": "K&#246;nigstein im Taunus", 
+            "long": "8.47132"
+        }, 
+        {
+            "lat": "50.8272", 
+            "name": "Kirchhain", 
+            "long": "8.92806"
+        }, 
+        {
+            "lat": "50.13703", 
+            "name": "Kelkheim (Taunus)", 
+            "long": "8.4502"
+        }, 
+        {
+            "lat": "51.31667", 
+            "name": "Kassel", 
+            "long": "9.5"
+        }, 
+        {
+            "lat": "50.23019", 
+            "name": "Karben", 
+            "long": "8.77155"
+        }, 
+        {
+            "lat": "50.21773", 
+            "name": "Idstein", 
+            "long": "8.26679"
+        }, 
+        {
+            "lat": "50.67966", 
+            "name": "H&#252;nfeld", 
+            "long": "9.76727"
+        }, 
+        {
+            "lat": "50.09019", 
+            "name": "Hofheim am Taunus", 
+            "long": "8.4493"
+        }, 
+        {
+            "lat": "51.49607", 
+            "name": "Hofgeismar", 
+            "long": "9.385"
+        }, 
+        {
+            "lat": "50.01436", 
+            "name": "Hochheim am Main", 
+            "long": "8.35218"
+        }, 
+        {
+            "lat": "50.05553", 
+            "name": "Heusenstamm", 
+            "long": "8.80076"
+        }, 
+        {
+            "lat": "50.68135", 
+            "name": "Herborn", 
+            "long": "8.30369"
+        }, 
+        {
+            "lat": "49.64145", 
+            "name": "Heppenheim an der Bergstrasse", 
+            "long": "8.63206"
+        }, 
+        {
+            "lat": "50.07854", 
+            "name": "Hattersheim", 
+            "long": "8.47552"
+        }, 
+        {
+            "lat": "50.13423", 
+            "name": "Hanau am Main", 
+            "long": "8.91418"
+        }, 
+        {
+            "lat": "50.74162", 
+            "name": "Haiger", 
+            "long": "8.20778"
+        }, 
+        {
+            "lat": "49.86899", 
+            "name": "Gro&#223;-Umstadt", 
+            "long": "8.9321"
+        }, 
+        {
+            "lat": "49.92139", 
+            "name": "Gro&#223;-Gerau", 
+            "long": "8.48255"
+        }, 
+        {
+            "lat": "49.86085", 
+            "name": "Griesheim", 
+            "long": "8.5725"
+        }, 
+        {
+            "lat": "49.9711", 
+            "name": "Ginsheim-Gustavsburg", 
+            "long": "8.34532"
+        }, 
+        {
+            "lat": "50.58727", 
+            "name": "Gie&#223;en", 
+            "long": "8.67554"
+        }, 
+        {
+            "lat": "50.20164", 
+            "name": "Gelnhausen", 
+            "long": "9.18742"
+        }, 
+        {
+            "lat": "50.55162", 
+            "name": "Fulda", 
+            "long": "9.67518"
+        }, 
+        {
+            "lat": "50.24962", 
+            "name": "Friedrichsdorf", 
+            "long": "8.64281"
+        }, 
+        {
+            "lat": "50.33739", 
+            "name": "Friedberg", 
+            "long": "8.75591"
+        }, 
+        {
+            "lat": "50.11552", 
+            "name": "Frankfurt am Main", 
+            "long": "8.68417"
+        }, 
+        {
+            "lat": "51.0589", 
+            "name": "Frankenberg", 
+            "long": "8.80077"
+        }, 
+        {
+            "lat": "50.01311", 
+            "name": "Fl&#246;rsheim", 
+            "long": "8.42779"
+        }, 
+        {
+            "lat": "51.18386", 
+            "name": "Eschwege", 
+            "long": "10.05329"
+        }, 
+        {
+            "lat": "50.14328", 
+            "name": "Eschborn", 
+            "long": "8.57111"
+        }, 
+        {
+            "lat": "50.02858", 
+            "name": "Eltville", 
+            "long": "8.11754"
+        }, 
+        {
+            "lat": "50.01997", 
+            "name": "Dreieich", 
+            "long": "8.69611"
+        }, 
+        {
+            "lat": "50.74114", 
+            "name": "Dillenburg", 
+            "long": "8.28699"
+        }, 
+        {
+            "lat": "50.00976", 
+            "name": "Dietzenbach", 
+            "long": "8.77783"
+        }, 
+        {
+            "lat": "49.89738", 
+            "name": "Dieburg", 
+            "long": "8.84613"
+        }, 
+        {
+            "lat": "49.87167", 
+            "name": "Darmstadt", 
+            "long": "8.65027"
+        }, 
+        {
+            "lat": "50.43395", 
+            "name": "Butzbach", 
+            "long": "8.67122"
+        }, 
+        {
+            "lat": "49.64266", 
+            "name": "B&#252;rstadt", 
+            "long": "8.45936"
+        }, 
+        {
+            "lat": "50.29013", 
+            "name": "B&#252;dingen", 
+            "long": "9.1114"
+        }, 
+        {
+            "lat": "50.17853", 
+            "name": "Bruchk&#246;bel", 
+            "long": "8.92315"
+        }, 
+        {
+            "lat": "49.68369", 
+            "name": "Bensheim", 
+            "long": "8.61839"
+        }, 
+        {
+            "lat": "51.25182", 
+            "name": "Baunatal", 
+            "long": "9.40747"
+        }, 
+        {
+            "lat": "51.11963", 
+            "name": "Bad Wildungen", 
+            "long": "9.12475"
+        }, 
+        {
+            "lat": "50.17866", 
+            "name": "Bad Vilbel", 
+            "long": "8.73756"
+        }, 
+        {
+            "lat": "50.1408", 
+            "name": "Bad Soden am Taunus", 
+            "long": "8.50449"
+        }, 
+        {
+            "lat": "50.36463", 
+            "name": "Bad Nauheim", 
+            "long": "8.73859"
+        }, 
+        {
+            "lat": "50.22683", 
+            "name": "Bad Homburg vor der H&#246;he", 
+            "long": "8.61816"
+        }, 
+        {
+            "lat": "50.87197", 
+            "name": "Bad Hersfeld", 
+            "long": "9.70891"
+        }, 
+        {
+            "lat": "49.96519", 
+            "name": "Babenhausen", 
+            "long": "8.95129"
+        }, 
+        {
+            "lat": "51.37982", 
+            "name": "Bad Arolsen", 
+            "long": "9.01445"
+        }, 
+        {
+            "lat": "50.75185", 
+            "name": "Alsfeld", 
+            "long": "9.27082"
+        }, 
+        {
+            "lat": "51.35806", 
+            "name": "Vellmar", 
+            "long": "9.47974"
+        }, 
+        {
+            "lat": "49.99472", 
+            "name": "M&#246;rfelden-Walldorf", 
+            "long": "8.58361"
+        }, 
+        {
+            "lat": "49.83411", 
+            "name": "Riedstadt", 
+            "long": "8.49621"
+        }, 
+        {
+            "lat": "50.02627", 
+            "name": "Rodgau", 
+            "long": "8.88588"
+        }, 
+        {
+            "lat": "49.765", 
+            "name": "Seeheim-Jugenheim", 
+            "long": "8.65194"
+        }, 
+        {
+            "lat": "50.08309", 
+            "name": "Niederrad", 
+            "long": "8.62852"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "53.58374", 
+            "name": "Wedel", 
+            "long": "9.69835"
+        }, 
+        {
+            "lat": "53.68769", 
+            "name": "Uetersen", 
+            "long": "9.66394"
+        }, 
+        {
+            "lat": "53.8922", 
+            "name": "Stockelsdorf", 
+            "long": "10.64713"
+        }, 
+        {
+            "lat": "54.52156", 
+            "name": "Schleswig", 
+            "long": "9.5586"
+        }, 
+        {
+            "lat": "54.30663", 
+            "name": "Rendsburg", 
+            "long": "9.66313"
+        }, 
+        {
+            "lat": "53.51703", 
+            "name": "Reinbek", 
+            "long": "10.2488"
+        }, 
+        {
+            "lat": "53.95", 
+            "name": "Ratekau", 
+            "long": "10.73333"
+        }, 
+        {
+            "lat": "53.72831", 
+            "name": "Quickborn", 
+            "long": "9.90934"
+        }, 
+        {
+            "lat": "54.2354", 
+            "name": "Preetz", 
+            "long": "10.27795"
+        }, 
+        {
+            "lat": "53.66732", 
+            "name": "Pinneberg", 
+            "long": "9.78936"
+        }, 
+        {
+            "lat": "53.6859", 
+            "name": "Norderstedt", 
+            "long": "9.98041"
+        }, 
+        {
+            "lat": "54.10707", 
+            "name": "Neustadt in Holstein", 
+            "long": "10.8145"
+        }, 
+        {
+            "lat": "54.07477", 
+            "name": "Neum&#252;nster", 
+            "long": "9.98195"
+        }, 
+        {
+            "lat": "53.61702", 
+            "name": "M&#246;lln", 
+            "long": "10.68742"
+        }, 
+        {
+            "lat": "53.86893", 
+            "name": "L&#252;beck", 
+            "long": "10.68729"
+        }, 
+        {
+            "lat": "54.32133", 
+            "name": "Kiel", 
+            "long": "10.13489"
+        }, 
+        {
+            "lat": "53.83292", 
+            "name": "Kaltenkirchen", 
+            "long": "9.9581"
+        }, 
+        {
+            "lat": "53.92099", 
+            "name": "Itzehoe", 
+            "long": "9.51529"
+        }, 
+        {
+            "lat": "54.4858", 
+            "name": "Husum", 
+            "long": "9.05239"
+        }, 
+        {
+            "lat": "54.19579", 
+            "name": "Heide", 
+            "long": "9.0988"
+        }, 
+        {
+            "lat": "53.63333", 
+            "name": "Halstenbek", 
+            "long": "9.85"
+        }, 
+        {
+            "lat": "53.5441", 
+            "name": "Glinde", 
+            "long": "10.20048"
+        }, 
+        {
+            "lat": "53.43575", 
+            "name": "Geesthacht", 
+            "long": "10.3779"
+        }, 
+        {
+            "lat": "54.78431", 
+            "name": "Flensburg", 
+            "long": "9.43961"
+        }, 
+        {
+            "lat": "54.14054", 
+            "name": "Eutin", 
+            "long": "10.60751"
+        }, 
+        {
+            "lat": "53.75396", 
+            "name": "Elmshorn", 
+            "long": "9.65339"
+        }, 
+        {
+            "lat": "54.46854", 
+            "name": "Eckernf&#246;rde", 
+            "long": "9.83824"
+        }, 
+        {
+            "lat": "53.94313", 
+            "name": "Bad Segeberg", 
+            "long": "10.30215"
+        }, 
+        {
+            "lat": "53.91887", 
+            "name": "Bad Schwartau", 
+            "long": "10.69691"
+        }, 
+        {
+            "lat": "53.81167", 
+            "name": "Bad Oldesloe", 
+            "long": "10.37417"
+        }, 
+        {
+            "lat": "53.67515", 
+            "name": "Ahrensburg", 
+            "long": "10.22593"
+        }, 
+        {
+            "lat": "53.79132", 
+            "name": "Henstedt-Ulzburg", 
+            "long": "9.97979"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "48.87563", 
+            "name": "Winnenden", 
+            "long": "9.39819"
+        }, 
+        {
+            "lat": "49.29504", 
+            "name": "Wiesloch", 
+            "long": "8.69846"
+        }, 
+        {
+            "lat": "49.759", 
+            "name": "Wertheim", 
+            "long": "9.50852"
+        }, 
+        {
+            "lat": "48.67124", 
+            "name": "Wendlingen am Neckar", 
+            "long": "9.37632"
+        }, 
+        {
+            "lat": "48.81311", 
+            "name": "Weinstadt-Endersbach", 
+            "long": "9.36387"
+        }, 
+        {
+            "lat": "49.54887", 
+            "name": "Weinheim", 
+            "long": "8.66697"
+        }, 
+        {
+            "lat": "47.81009", 
+            "name": "Weingarten", 
+            "long": "9.63863"
+        }, 
+        {
+            "lat": "48.74953", 
+            "name": "Weil der Stadt", 
+            "long": "8.87176"
+        }, 
+        {
+            "lat": "47.59331", 
+            "name": "Weil am Rhein", 
+            "long": "7.62082"
+        }, 
+        {
+            "lat": "47.6895", 
+            "name": "Wangen im Allg&#228;u", 
+            "long": "9.83247"
+        }, 
+        {
+            "lat": "47.62323", 
+            "name": "Waldshut-Tiengen", 
+            "long": "8.21717"
+        }, 
+        {
+            "lat": "48.09585", 
+            "name": "Waldkirch", 
+            "long": "7.96371"
+        }, 
+        {
+            "lat": "48.83241", 
+            "name": "Waiblingen", 
+            "long": "9.31641"
+        }, 
+        {
+            "lat": "49.24991", 
+            "name": "Wagh&#228;usel", 
+            "long": "8.51257"
+        }, 
+        {
+            "lat": "48.06226", 
+            "name": "Villingen-Schwenningen", 
+            "long": "8.49358"
+        }, 
+        {
+            "lat": "48.93563", 
+            "name": "Vaihingen an der Enz", 
+            "long": "8.96045"
+        }, 
+        {
+            "lat": "47.91933", 
+            "name": "Unterkrozingen", 
+            "long": "7.69045"
+        }, 
+        {
+            "lat": "48.39841", 
+            "name": "Ulm", 
+            "long": "9.99155"
+        }, 
+        {
+            "lat": "47.76977", 
+            "name": "&#220;berlingen", 
+            "long": "9.17136"
+        }, 
+        {
+            "lat": "47.98464", 
+            "name": "Tuttlingen", 
+            "long": "8.8177"
+        }, 
+        {
+            "lat": "48.52266", 
+            "name": "T&#252;bingen", 
+            "long": "9.05222"
+        }, 
+        {
+            "lat": "48.07667", 
+            "name": "Trossingen", 
+            "long": "8.64409"
+        }, 
+        {
+            "lat": "47.66857", 
+            "name": "Tettnang", 
+            "long": "9.59132"
+        }, 
+        {
+            "lat": "48.78232", 
+            "name": "Stuttgart", 
+            "long": "9.17702"
+        }, 
+        {
+            "lat": "47.85105", 
+            "name": "Stockach", 
+            "long": "9.0091"
+        }, 
+        {
+            "lat": "49.2529", 
+            "name": "Sinsheim", 
+            "long": "8.87867"
+        }, 
+        {
+            "lat": "47.75935", 
+            "name": "Singen", 
+            "long": "8.8403"
+        }, 
+        {
+            "lat": "48.7", 
+            "name": "Sindelfingen", 
+            "long": "9.01667"
+        }, 
+        {
+            "lat": "48.08829", 
+            "name": "Sigmaringen", 
+            "long": "9.23033"
+        }, 
+        {
+            "lat": "49.38217", 
+            "name": "Schwetzingen", 
+            "long": "8.5823"
+        }, 
+        {
+            "lat": "49.11127", 
+            "name": "Schw&#228;bisch Hall", 
+            "long": "9.73908"
+        }, 
+        {
+            "lat": "48.79947", 
+            "name": "Schw&#228;bisch Gm&#252;nd", 
+            "long": "9.79809"
+        }, 
+        {
+            "lat": "48.22399", 
+            "name": "Schramberg", 
+            "long": "8.38583"
+        }, 
+        {
+            "lat": "48.80537", 
+            "name": "Schorndorf", 
+            "long": "9.52721"
+        }, 
+        {
+            "lat": "47.65105", 
+            "name": "Schopfheim", 
+            "long": "7.82089"
+        }, 
+        {
+            "lat": "48.01676", 
+            "name": "Saulgau", 
+            "long": "9.50064"
+        }, 
+        {
+            "lat": "48.16783", 
+            "name": "Rottweil", 
+            "long": "8.62719"
+        }, 
+        {
+            "lat": "48.47629", 
+            "name": "Rottenburg", 
+            "long": "8.93528"
+        }, 
+        {
+            "lat": "47.56013", 
+            "name": "Rheinfelden (Baden)", 
+            "long": "7.78715"
+        }, 
+        {
+            "lat": "48.49144", 
+            "name": "Reutlingen", 
+            "long": "9.20427"
+        }, 
+        {
+            "lat": "48.76974", 
+            "name": "Renningen", 
+            "long": "8.93871"
+        }, 
+        {
+            "lat": "47.78198", 
+            "name": "Ravensburg", 
+            "long": "9.61062"
+        }, 
+        {
+            "lat": "48.85851", 
+            "name": "Rastatt", 
+            "long": "8.20965"
+        }, 
+        {
+            "lat": "47.74194", 
+            "name": "Radolfzell am Bodensee", 
+            "long": "8.97098"
+        }, 
+        {
+            "lat": "48.46458", 
+            "name": "Pfullingen", 
+            "long": "9.22796"
+        }, 
+        {
+            "lat": "48.88436", 
+            "name": "Pforzheim", 
+            "long": "8.69892"
+        }, 
+        {
+            "lat": "49.19884", 
+            "name": "&#214;hringen", 
+            "long": "9.5072"
+        }, 
+        {
+            "lat": "48.47377", 
+            "name": "Offenburg", 
+            "long": "7.94495"
+        }, 
+        {
+            "lat": "48.53241", 
+            "name": "Oberkirch", 
+            "long": "8.07864"
+        }, 
+        {
+            "lat": "48.62565", 
+            "name": "N&#252;rtingen", 
+            "long": "9.34203"
+        }, 
+        {
+            "lat": "49.18912", 
+            "name": "Neckarsulm", 
+            "long": "9.22527"
+        }, 
+        {
+            "lat": "48.5498", 
+            "name": "Nagold", 
+            "long": "8.72366"
+        }, 
+        {
+            "lat": "47.8082", 
+            "name": "M&#252;llheim", 
+            "long": "7.63035"
+        }, 
+        {
+            "lat": "48.84232", 
+            "name": "Stuttgart M&#252;hlhausen", 
+            "long": "9.23028"
+        }, 
+        {
+            "lat": "48.94754", 
+            "name": "M&#252;hlacker", 
+            "long": "8.83675"
+        }, 
+        {
+            "lat": "48.40567", 
+            "name": "M&#246;ssingen", 
+            "long": "9.05419"
+        }, 
+        {
+            "lat": "49.35357", 
+            "name": "Mosbach", 
+            "long": "9.15106"
+        }, 
+        {
+            "lat": "48.53695", 
+            "name": "Metzingen", 
+            "long": "9.2833"
+        }, 
+        {
+            "lat": "48.93964", 
+            "name": "Marbach am Neckar", 
+            "long": "9.25995"
+        }, 
+        {
+            "lat": "49.49671", 
+            "name": "Mannheim", 
+            "long": "8.47955"
+        }, 
+        {
+            "lat": "48.89731", 
+            "name": "Ludwigsburg", 
+            "long": "9.19161"
+        }, 
+        {
+            "lat": "47.61497", 
+            "name": "L&#246;rrach", 
+            "long": "7.66457"
+        }, 
+        {
+            "lat": "47.82672", 
+            "name": "Leutkirch im Allg&#228;u", 
+            "long": "10.0205"
+        }, 
+        {
+            "lat": "48.8", 
+            "name": "Leonberg", 
+            "long": "9.01667"
+        }, 
+        {
+            "lat": "48.69406", 
+            "name": "Leinfelden-Echterdingen", 
+            "long": "9.16809"
+        }, 
+        {
+            "lat": "49.34737", 
+            "name": "Leimen", 
+            "long": "8.68733"
+        }, 
+        {
+            "lat": "48.22786", 
+            "name": "Laupheim", 
+            "long": "9.87874"
+        }, 
+        {
+            "lat": "48.34042", 
+            "name": "Lahr", 
+            "long": "7.86886"
+        }, 
+        {
+            "lat": "49.2818", 
+            "name": "K&#252;nzelsau", 
+            "long": "9.68352"
+        }, 
+        {
+            "lat": "48.86158", 
+            "name": "Kornwestheim", 
+            "long": "9.18569"
+        }, 
+        {
+            "lat": "48.83218", 
+            "name": "Korntal", 
+            "long": "9.1214"
+        }, 
+        {
+            "lat": "47.66033", 
+            "name": "Konstanz", 
+            "long": "9.17582"
+        }, 
+        {
+            "lat": "48.64683", 
+            "name": "Kirchheim unter Teck", 
+            "long": "9.45378"
+        }, 
+        {
+            "lat": "48.57297", 
+            "name": "Kehl", 
+            "long": "7.81523"
+        }, 
+        {
+            "lat": "49.00937", 
+            "name": "Karlsruhe", 
+            "long": "8.40444"
+        }, 
+        {
+            "lat": "48.44423", 
+            "name": "Horb am Neckar", 
+            "long": "8.6913"
+        }, 
+        {
+            "lat": "49.32334", 
+            "name": "Hockenheim", 
+            "long": "8.55194"
+        }, 
+        {
+            "lat": "48.59523", 
+            "name": "Herrenberg", 
+            "long": "8.86648"
+        }, 
+        {
+            "lat": "49.13995", 
+            "name": "Heilbronn", 
+            "long": "9.22054"
+        }, 
+        {
+            "lat": "48.67798", 
+            "name": "Heidenheim an der Brenz", 
+            "long": "10.15162"
+        }, 
+        {
+            "lat": "49.40768", 
+            "name": "Heidelberg", 
+            "long": "8.69079"
+        }, 
+        {
+            "lat": "48.35149", 
+            "name": "Hechingen", 
+            "long": "8.96317"
+        }, 
+        {
+            "lat": "48.70354", 
+            "name": "G&#246;ppingen", 
+            "long": "9.65209"
+        }, 
+        {
+            "lat": "48.62219", 
+            "name": "Giengen an der Brenz", 
+            "long": "10.24312"
+        }, 
+        {
+            "lat": "48.79954", 
+            "name": "Gerlingen", 
+            "long": "9.06316"
+        }, 
+        {
+            "lat": "48.62423", 
+            "name": "Geislingen an der Steige", 
+            "long": "9.82736"
+        }, 
+        {
+            "lat": "48.8", 
+            "name": "Gaggenau", 
+            "long": "8.33333"
+        }, 
+        {
+            "lat": "47.65689", 
+            "name": "Friedrichshafen", 
+            "long": "9.47554"
+        }, 
+        {
+            "lat": "48.46695", 
+            "name": "Freudenstadt", 
+            "long": "8.41371"
+        }, 
+        {
+            "lat": "47.9959", 
+            "name": "Freiburg", 
+            "long": "7.85222"
+        }, 
+        {
+            "lat": "48.93196", 
+            "name": "Freiberg am Neckar", 
+            "long": "9.2024"
+        }, 
+        {
+            "lat": "48.80867", 
+            "name": "Stuttgart Feuerbach", 
+            "long": "9.15719"
+        }, 
+        {
+            "lat": "48.80912", 
+            "name": "Fellbach", 
+            "long": "9.27697"
+        }, 
+        {
+            "lat": "48.94094", 
+            "name": "Ettlingen", 
+            "long": "8.40763"
+        }, 
+        {
+            "lat": "48.73961", 
+            "name": "Esslingen", 
+            "long": "9.30473"
+        }, 
+        {
+            "lat": "49.13645", 
+            "name": "Eppingen", 
+            "long": "8.91229"
+        }, 
+        {
+            "lat": "48.12096", 
+            "name": "Emmendingen", 
+            "long": "7.85359"
+        }, 
+        {
+            "lat": "48.96164", 
+            "name": "Ellwangen", 
+            "long": "10.13173"
+        }, 
+        {
+            "lat": "48.69515", 
+            "name": "Eislingen", 
+            "long": "9.70676"
+        }, 
+        {
+            "lat": "48.28259", 
+            "name": "Ehingen", 
+            "long": "9.72749"
+        }, 
+        {
+            "lat": "49.09006", 
+            "name": "Eggenstein-Leopoldshafen", 
+            "long": "8.39879"
+        }, 
+        {
+            "lat": "48.716", 
+            "name": "Ebersbach an der Fils", 
+            "long": "9.5236"
+        }, 
+        {
+            "lat": "49.4668", 
+            "name": "Eberbach", 
+            "long": "8.99016"
+        }, 
+        {
+            "lat": "47.95514", 
+            "name": "Donaueschingen", 
+            "long": "8.49707"
+        }, 
+        {
+            "lat": "48.82672", 
+            "name": "Ditzingen", 
+            "long": "9.06703"
+        }, 
+        {
+            "lat": "49.13444", 
+            "name": "Crailsheim", 
+            "long": "10.07193"
+        }, 
+        {
+            "lat": "48.71419", 
+            "name": "Calw", 
+            "long": "8.74031"
+        }, 
+        {
+            "lat": "48.69676", 
+            "name": "B&#252;hl", 
+            "long": "8.13523"
+        }, 
+        {
+            "lat": "49.52416", 
+            "name": "Buchen", 
+            "long": "9.32293"
+        }, 
+        {
+            "lat": "49.12426", 
+            "name": "Bruchsal", 
+            "long": "8.59804"
+        }, 
+        {
+            "lat": "49.03685", 
+            "name": "Bretten", 
+            "long": "8.70745"
+        }, 
+        {
+            "lat": "49.07787", 
+            "name": "Brackenheim", 
+            "long": "9.06601"
+        }, 
+        {
+            "lat": "48.68212", 
+            "name": "B&#246;blingen", 
+            "long": "9.01171"
+        }, 
+        {
+            "lat": "48.94407", 
+            "name": "Bietigheim-Bissingen", 
+            "long": "9.11755"
+        }, 
+        {
+            "lat": "48.09345", 
+            "name": "Biberach an der Ri&#223;", 
+            "long": "9.79053"
+        }, 
+        {
+            "lat": "48.27525", 
+            "name": "Balingen", 
+            "long": "8.85464"
+        }, 
+        {
+            "lat": "48.50318", 
+            "name": "Baiersbronn", 
+            "long": "8.37699"
+        }, 
+        {
+            "lat": "47.92027", 
+            "name": "Bad Waldsee", 
+            "long": "9.7549"
+        }, 
+        {
+            "lat": "47.55371", 
+            "name": "Bad S&#228;ckingen", 
+            "long": "7.94612"
+        }, 
+        {
+            "lat": "49.23848", 
+            "name": "Bad Rappenau", 
+            "long": "9.1018"
+        }, 
+        {
+            "lat": "49.4925", 
+            "name": "Bad Mergentheim", 
+            "long": "9.77361"
+        }, 
+        {
+            "lat": "48.7606", 
+            "name": "Baden-Baden", 
+            "long": "8.23975"
+        }, 
+        {
+            "lat": "48.94743", 
+            "name": "Backnang", 
+            "long": "9.43718"
+        }, 
+        {
+            "lat": "48.21644", 
+            "name": "Albstadt", 
+            "long": "9.02596"
+        }, 
+        {
+            "lat": "48.63115", 
+            "name": "Achern", 
+            "long": "8.07607"
+        }, 
+        {
+            "lat": "48.83777", 
+            "name": "Aalen", 
+            "long": "10.0933"
+        }, 
+        {
+            "lat": "49.56526", 
+            "name": "Lauda-K&#246;nigshofen", 
+            "long": "9.70816"
+        }, 
+        {
+            "lat": "48.65698", 
+            "name": "Filderstadt", 
+            "long": "9.22049"
+        }, 
+        {
+            "lat": "48.72704", 
+            "name": "Ostfildern", 
+            "long": "9.24954"
+        }, 
+        {
+            "lat": "48.9685", 
+            "name": "Rheinstetten", 
+            "long": "8.30704"
+        }, 
+        {
+            "lat": "48.78363", 
+            "name": "Stuttgart-Ost", 
+            "long": "9.21032"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "49.26667", 
+            "name": "Wadgassen", 
+            "long": "6.78333"
+        }, 
+        {
+            "lat": "49.54122", 
+            "name": "Wadern", 
+            "long": "6.88774"
+        }, 
+        {
+            "lat": "49.25162", 
+            "name": "V&#246;lklingen", 
+            "long": "6.85873"
+        }, 
+        {
+            "lat": "49.29882", 
+            "name": "Sulzbach", 
+            "long": "7.05696"
+        }, 
+        {
+            "lat": "49.3", 
+            "name": "Schwalbach", 
+            "long": "6.81667"
+        }, 
+        {
+            "lat": "49.43333", 
+            "name": "Schmelz", 
+            "long": "6.85"
+        }, 
+        {
+            "lat": "49.36667", 
+            "name": "Schiffweiler", 
+            "long": "7.13333"
+        }, 
+        {
+            "lat": "49.46633", 
+            "name": "Sankt Wendel", 
+            "long": "7.16814"
+        }, 
+        {
+            "lat": "49.27697", 
+            "name": "Sankt Ingbert", 
+            "long": "7.11672"
+        }, 
+        {
+            "lat": "49.31366", 
+            "name": "Saarlouis", 
+            "long": "6.75154"
+        }, 
+        {
+            "lat": "49.2354", 
+            "name": "Saarbr&#252;cken", 
+            "long": "6.98165"
+        }, 
+        {
+            "lat": "49.3", 
+            "name": "Riegelsberg", 
+            "long": "6.93333"
+        }, 
+        {
+            "lat": "49.2855", 
+            "name": "P&#252;ttlingen", 
+            "long": "6.88723"
+        }, 
+        {
+            "lat": "49.40133", 
+            "name": "Ottweiler", 
+            "long": "7.16424"
+        }, 
+        {
+            "lat": "49.34449", 
+            "name": "Neunkirchen", 
+            "long": "7.18045"
+        }, 
+        {
+            "lat": "49.44331", 
+            "name": "Merzig", 
+            "long": "6.63874"
+        }, 
+        {
+            "lat": "49.5099", 
+            "name": "Losheim", 
+            "long": "6.74549"
+        }, 
+        {
+            "lat": "49.41122", 
+            "name": "Lebach", 
+            "long": "6.90988"
+        }, 
+        {
+            "lat": "49.37362", 
+            "name": "Illingen", 
+            "long": "7.04758"
+        }, 
+        {
+            "lat": "49.32637", 
+            "name": "Homburg", 
+            "long": "7.33867"
+        }, 
+        {
+            "lat": "49.35", 
+            "name": "Heusweiler", 
+            "long": "6.93333"
+        }, 
+        {
+            "lat": "49.4", 
+            "name": "Eppelborn", 
+            "long": "6.96667"
+        }, 
+        {
+            "lat": "49.35557", 
+            "name": "Dillingen", 
+            "long": "6.72781"
+        }, 
+        {
+            "lat": "49.23724", 
+            "name": "Blieskastel", 
+            "long": "7.25617"
+        }, 
+        {
+            "lat": "49.34615", 
+            "name": "Bexbach", 
+            "long": "7.25527"
+        }, 
+        {
+            "lat": "49.4", 
+            "name": "Beckingen", 
+            "long": "6.7"
+        }, 
+        {
+            "lat": "49.36667", 
+            "name": "Rehlingen-Siersburg", 
+            "long": "6.68333"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "50.9803", 
+            "name": "Weimar", 
+            "long": "11.32903"
+        }, 
+        {
+            "lat": "50.60911", 
+            "name": "Suhl", 
+            "long": "10.69401"
+        }, 
+        {
+            "lat": "50.3592", 
+            "name": "Sonneberg", 
+            "long": "11.17463"
+        }, 
+        {
+            "lat": "51.36973", 
+            "name": "Sondershausen", 
+            "long": "10.87011"
+        }, 
+        {
+            "lat": "51.15914", 
+            "name": "S&#246;mmerda", 
+            "long": "11.11524"
+        }, 
+        {
+            "lat": "50.72136", 
+            "name": "Schmalkalden", 
+            "long": "10.44386"
+        }, 
+        {
+            "lat": "50.64826", 
+            "name": "Saalfeld", 
+            "long": "11.36536"
+        }, 
+        {
+            "lat": "50.72043", 
+            "name": "Rudolstadt", 
+            "long": "11.34046"
+        }, 
+        {
+            "lat": "51.5018", 
+            "name": "Nordhausen", 
+            "long": "10.7957"
+        }, 
+        {
+            "lat": "51.20896", 
+            "name": "M&#252;hlhausen", 
+            "long": "10.45275"
+        }, 
+        {
+            "lat": "50.56787", 
+            "name": "Meiningen", 
+            "long": "10.41521"
+        }, 
+        {
+            "lat": "50.92878", 
+            "name": "Jena", 
+            "long": "11.5899"
+        }, 
+        {
+            "lat": "50.68322", 
+            "name": "Ilmenau", 
+            "long": "10.91858"
+        }, 
+        {
+            "lat": "51.37819", 
+            "name": "Heilbad Heiligenstadt", 
+            "long": "10.13744"
+        }, 
+        {
+            "lat": "50.65778", 
+            "name": "Greiz", 
+            "long": "12.19918"
+        }, 
+        {
+            "lat": "50.94823", 
+            "name": "Gotha", 
+            "long": "10.70193"
+        }, 
+        {
+            "lat": "50.88029", 
+            "name": "Gera", 
+            "long": "12.08187"
+        }, 
+        {
+            "lat": "50.9787", 
+            "name": "Erfurt", 
+            "long": "11.03283"
+        }, 
+        {
+            "lat": "50.9807", 
+            "name": "Eisenach", 
+            "long": "10.31522"
+        }, 
+        {
+            "lat": "50.81342", 
+            "name": "Bad Salzungen", 
+            "long": "10.2361"
+        }, 
+        {
+            "lat": "51.10771", 
+            "name": "Bad Langensalza", 
+            "long": "10.646"
+        }, 
+        {
+            "lat": "50.84048", 
+            "name": "Arnstadt", 
+            "long": "10.95198"
+        }, 
+        {
+            "lat": "51.02624", 
+            "name": "Apolda", 
+            "long": "11.51638"
+        }, 
+        {
+            "lat": "50.98763", 
+            "name": "Altenburg", 
+            "long": "12.43684"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "50.69447", 
+            "name": "Zulpich", 
+            "long": "6.65414"
+        }, 
+        {
+            "lat": "51.65877", 
+            "name": "Xanten", 
+            "long": "6.45297"
+        }, 
+        {
+            "lat": "50.81809", 
+            "name": "W&#252;rselen", 
+            "long": "6.1347"
+        }, 
+        {
+            "lat": "51.27027", 
+            "name": "Wuppertal", 
+            "long": "7.16755"
+        }, 
+        {
+            "lat": "51.28195", 
+            "name": "W&#252;lfrath", 
+            "long": "7.03821"
+        }, 
+        {
+            "lat": "51.44362", 
+            "name": "Witten", 
+            "long": "7.35258"
+        }, 
+        {
+            "lat": "51.1161", 
+            "name": "Wipperf&#252;rth", 
+            "long": "7.39865"
+        }, 
+        {
+            "lat": "50.81667", 
+            "name": "Wilnsdorf", 
+            "long": "8.1"
+        }, 
+        {
+            "lat": "51.26371", 
+            "name": "Willich", 
+            "long": "6.54734"
+        }, 
+        {
+            "lat": "50.9495", 
+            "name": "Wiehl", 
+            "long": "7.55062"
+        }, 
+        {
+            "lat": "51.38747", 
+            "name": "Wetter (Ruhr)", 
+            "long": "7.39277"
+        }, 
+        {
+            "lat": "50.82709", 
+            "name": "Wesseling", 
+            "long": "6.9747"
+        }, 
+        {
+            "lat": "51.6669", 
+            "name": "Wesel", 
+            "long": "6.62037"
+        }, 
+        {
+            "lat": "51.66446", 
+            "name": "Werne", 
+            "long": "7.63421"
+        }, 
+        {
+            "lat": "51.1397", 
+            "name": "Wermelskirchen", 
+            "long": "7.21583"
+        }, 
+        {
+            "lat": "51.55493", 
+            "name": "Werl", 
+            "long": "7.91403"
+        }, 
+        {
+            "lat": "51.26011", 
+            "name": "Werdohl", 
+            "long": "7.76608"
+        }, 
+        {
+            "lat": "50.96667", 
+            "name": "Wenden", 
+            "long": "7.86667"
+        }, 
+        {
+            "lat": "50.76667", 
+            "name": "Weilerswist", 
+            "long": "6.83333"
+        }, 
+        {
+            "lat": "51.14221", 
+            "name": "Wegberg", 
+            "long": "6.28436"
+        }, 
+        {
+            "lat": "51.10009", 
+            "name": "Wassenberg", 
+            "long": "6.15484"
+        }, 
+        {
+            "lat": "51.44488", 
+            "name": "Warstein", 
+            "long": "8.34851"
+        }, 
+        {
+            "lat": "51.95109", 
+            "name": "Warendorf", 
+            "long": "7.98756"
+        }, 
+        {
+            "lat": "51.49011", 
+            "name": "Warburg", 
+            "long": "9.14641"
+        }, 
+        {
+            "lat": "51.62125", 
+            "name": "Waltrop", 
+            "long": "7.40238"
+        }, 
+        {
+            "lat": "50.87576", 
+            "name": "Waldbr&#246;l", 
+            "long": "7.61688"
+        }, 
+        {
+            "lat": "50.63333", 
+            "name": "Wachtberg", 
+            "long": "7.1"
+        }, 
+        {
+            "lat": "52.03792", 
+            "name": "Vreden", 
+            "long": "6.828"
+        }, 
+        {
+            "lat": "51.59703", 
+            "name": "Voerde", 
+            "long": "6.6863"
+        }, 
+        {
+            "lat": "52.1653", 
+            "name": "Vlotho", 
+            "long": "8.85996"
+        }, 
+        {
+            "lat": "51.25435", 
+            "name": "Viersen", 
+            "long": "6.39441"
+        }, 
+        {
+            "lat": "52.04009", 
+            "name": "Versmold", 
+            "long": "8.15272"
+        }, 
+        {
+            "lat": "51.88333", 
+            "name": "Verl", 
+            "long": "8.51667"
+        }, 
+        {
+            "lat": "51.33537", 
+            "name": "Velbert", 
+            "long": "7.04348"
+        }, 
+        {
+            "lat": "51.53795", 
+            "name": "Unna", 
+            "long": "7.68969"
+        }, 
+        {
+            "lat": "50.93333", 
+            "name": "&#220;bach-Palenberg", 
+            "long": "6.11667"
+        }, 
+        {
+            "lat": "50.80901", 
+            "name": "Troisdorf", 
+            "long": "7.14968"
+        }, 
+        {
+            "lat": "51.32092", 
+            "name": "T&#246;nisvorst", 
+            "long": "6.49412"
+        }, 
+        {
+            "lat": "51.97995", 
+            "name": "Telgte", 
+            "long": "7.78293"
+        }, 
+        {
+            "lat": "51.3281", 
+            "name": "Sundern", 
+            "long": "8.00369"
+        }, 
+        {
+            "lat": "51.4419", 
+            "name": "Straelen", 
+            "long": "6.26639"
+        }, 
+        {
+            "lat": "50.77368", 
+            "name": "Stolberg", 
+            "long": "6.22595"
+        }, 
+        {
+            "lat": "52", 
+            "name": "Steinhagen", 
+            "long": "8.4"
+        }, 
+        {
+            "lat": "52.15045", 
+            "name": "Steinfurt", 
+            "long": "7.33664"
+        }, 
+        {
+            "lat": "51.99399", 
+            "name": "Stadtlohn", 
+            "long": "6.91918"
+        }, 
+        {
+            "lat": "51.34669", 
+            "name": "Sprockh&#246;vel", 
+            "long": "7.24343"
+        }, 
+        {
+            "lat": "52.14021", 
+            "name": "Spenge", 
+            "long": "8.48475"
+        }, 
+        {
+            "lat": "51.17343", 
+            "name": "Solingen", 
+            "long": "7.0845"
+        }, 
+        {
+            "lat": "51.57558", 
+            "name": "Soest", 
+            "long": "8.10619"
+        }, 
+        {
+            "lat": "50.6", 
+            "name": "Simmerath", 
+            "long": "6.3"
+        }, 
+        {
+            "lat": "50.87481", 
+            "name": "Siegen", 
+            "long": "8.02431"
+        }, 
+        {
+            "lat": "50.80019", 
+            "name": "Siegburg", 
+            "long": "7.20769"
+        }, 
+        {
+            "lat": "51.85", 
+            "name": "Senden", 
+            "long": "7.5"
+        }, 
+        {
+            "lat": "51.69689", 
+            "name": "Selm", 
+            "long": "7.46809"
+        }, 
+        {
+            "lat": "51.44387", 
+            "name": "Schwerte", 
+            "long": "7.5675"
+        }, 
+        {
+            "lat": "51.28635", 
+            "name": "Schwelm", 
+            "long": "7.29388"
+        }, 
+        {
+            "lat": "51.21667", 
+            "name": "Schwalmtal", 
+            "long": "6.26667"
+        }, 
+        {
+            "lat": "51.15473", 
+            "name": "Schmallenberg", 
+            "long": "8.28505"
+        }, 
+        {
+            "lat": "50.77538", 
+            "name": "Sankt Augustin", 
+            "long": "7.197"
+        }, 
+        {
+            "lat": "51.6717", 
+            "name": "Salzkotten", 
+            "long": "8.60092"
+        }, 
+        {
+            "lat": "50.89559", 
+            "name": "R&#246;srath", 
+            "long": "7.18175"
+        }, 
+        {
+            "lat": "51.80924", 
+            "name": "Rietberg", 
+            "long": "8.42841"
+        }, 
+        {
+            "lat": "52.28509", 
+            "name": "Rheine", 
+            "long": "7.44055"
+        }, 
+        {
+            "lat": "51.54649", 
+            "name": "Rheinberg", 
+            "long": "6.59525"
+        }, 
+        {
+            "lat": "50.62562", 
+            "name": "Rheinbach", 
+            "long": "6.94911"
+        }, 
+        {
+            "lat": "51.83537", 
+            "name": "Rhede", 
+            "long": "6.69602"
+        }, 
+        {
+            "lat": "51.84967", 
+            "name": "Rheda-Wiedenbr&#252;ck", 
+            "long": "8.30017"
+        }, 
+        {
+            "lat": "51.17983", 
+            "name": "Remscheid", 
+            "long": "7.1925"
+        }, 
+        {
+            "lat": "51.76263", 
+            "name": "Rees", 
+            "long": "6.39778"
+        }, 
+        {
+            "lat": "51.61379", 
+            "name": "Recklinghausen", 
+            "long": "7.19738"
+        }, 
+        {
+            "lat": "51.29724", 
+            "name": "Ratingen", 
+            "long": "6.84929"
+        }, 
+        {
+            "lat": "52.43367", 
+            "name": "Rahden", 
+            "long": "8.61263"
+        }, 
+        {
+            "lat": "51.20219", 
+            "name": "Radevormwald", 
+            "long": "7.36027"
+        }, 
+        {
+            "lat": "50.99965", 
+            "name": "Pulheim", 
+            "long": "6.80632"
+        }, 
+        {
+            "lat": "52.23779", 
+            "name": "Porta Westfalica", 
+            "long": "8.91901"
+        }, 
+        {
+            "lat": "51.20949", 
+            "name": "Plettenberg", 
+            "long": "7.87261"
+        }, 
+        {
+            "lat": "52.37513", 
+            "name": "Petershagen", 
+            "long": "8.96538"
+        }, 
+        {
+            "lat": "51.71905", 
+            "name": "Paderborn", 
+            "long": "8.75439"
+        }, 
+        {
+            "lat": "50.93275", 
+            "name": "Overath", 
+            "long": "7.28389"
+        }, 
+        {
+            "lat": "51.05521", 
+            "name": "Opladen", 
+            "long": "7.01931"
+        }, 
+        {
+            "lat": "51.35613", 
+            "name": "Olsberg", 
+            "long": "8.48899"
+        }, 
+        {
+            "lat": "51.02899", 
+            "name": "Olpe", 
+            "long": "7.85139"
+        }, 
+        {
+            "lat": "51.95453", 
+            "name": "Oerlinghausen", 
+            "long": "8.6622"
+        }, 
+        {
+            "lat": "51.64198", 
+            "name": "Oer-Erkenschwick", 
+            "long": "7.26451"
+        }, 
+        {
+            "lat": "51.8289", 
+            "name": "Oelde", 
+            "long": "8.14724"
+        }, 
+        {
+            "lat": "51.03333", 
+            "name": "Odenthal", 
+            "long": "7.11667"
+        }, 
+        {
+            "lat": "52.20802", 
+            "name": "Ochtrup", 
+            "long": "7.18988"
+        }, 
+        {
+            "lat": "51.47311", 
+            "name": "Oberhausen", 
+            "long": "6.88074"
+        }, 
+        {
+            "lat": "50.9", 
+            "name": "N&#252;mbrecht", 
+            "long": "7.55"
+        }, 
+        {
+            "lat": "51.93333", 
+            "name": "Nottuln", 
+            "long": "7.35"
+        }, 
+        {
+            "lat": "51.2", 
+            "name": "Niederkr&#252;chten", 
+            "long": "6.21667"
+        }, 
+        {
+            "lat": "50.81503", 
+            "name": "Niederkassel", 
+            "long": "7.03777"
+        }, 
+        {
+            "lat": "51.19807", 
+            "name": "Neuss", 
+            "long": "6.68504"
+        }, 
+        {
+            "lat": "51.13434", 
+            "name": "Neubr&#252;ck", 
+            "long": "6.63857"
+        }, 
+        {
+            "lat": "51.31667", 
+            "name": "Nettetal", 
+            "long": "6.28333"
+        }, 
+        {
+            "lat": "50.91667", 
+            "name": "Netphen", 
+            "long": "8.1"
+        }, 
+        {
+            "lat": "51.96236", 
+            "name": "M&#252;nster", 
+            "long": "7.62571"
+        }, 
+        {
+            "lat": "51.43333", 
+            "name": "M&#252;lheim (Ruhr)", 
+            "long": "6.88333"
+        }, 
+        {
+            "lat": "50.91667", 
+            "name": "Much", 
+            "long": "7.4"
+        }, 
+        {
+            "lat": "51.09162", 
+            "name": "Monheim am Rhein", 
+            "long": "6.89217"
+        }, 
+        {
+            "lat": "51.18539", 
+            "name": "M&#246;nchengladbach", 
+            "long": "6.44172"
+        }, 
+        {
+            "lat": "51.45342", 
+            "name": "Moers", 
+            "long": "6.6326"
+        }, 
+        {
+            "lat": "52.28953", 
+            "name": "Minden", 
+            "long": "8.91455"
+        }, 
+        {
+            "lat": "51.2504", 
+            "name": "Mettmann", 
+            "long": "6.97536"
+        }, 
+        {
+            "lat": "51.3502", 
+            "name": "Meschede", 
+            "long": "8.28332"
+        }, 
+        {
+            "lat": "51.44337", 
+            "name": "Menden", 
+            "long": "7.77825"
+        }, 
+        {
+            "lat": "51.1074", 
+            "name": "Meinerzhagen", 
+            "long": "7.64838"
+        }, 
+        {
+            "lat": "51.46667", 
+            "name": "Meiderich", 
+            "long": "6.76667"
+        }, 
+        {
+            "lat": "51.26118", 
+            "name": "Meerbusch", 
+            "long": "6.6717"
+        }, 
+        {
+            "lat": "50.62388", 
+            "name": "Meckenheim", 
+            "long": "7.02942"
+        }, 
+        {
+            "lat": "50.59304", 
+            "name": "Mechernich", 
+            "long": "6.65224"
+        }, 
+        {
+            "lat": "51.46171", 
+            "name": "Marsberg", 
+            "long": "8.84949"
+        }, 
+        {
+            "lat": "51.65671", 
+            "name": "Marl", 
+            "long": "7.09038"
+        }, 
+        {
+            "lat": "51.61634", 
+            "name": "L&#252;nen", 
+            "long": "7.52872"
+        }, 
+        {
+            "lat": "51.7683", 
+            "name": "L&#252;dinghausen", 
+            "long": "7.44379"
+        }, 
+        {
+            "lat": "51.21977", 
+            "name": "L&#252;denscheid", 
+            "long": "7.6273"
+        }, 
+        {
+            "lat": "52.30699", 
+            "name": "L&#252;bbecke", 
+            "long": "8.61423"
+        }, 
+        {
+            "lat": "50.83868", 
+            "name": "Lohmar", 
+            "long": "7.21399"
+        }, 
+        {
+            "lat": "51.67369", 
+            "name": "Lippstadt", 
+            "long": "8.34482"
+        }, 
+        {
+            "lat": "51.01959", 
+            "name": "Lindlar", 
+            "long": "7.37758"
+        }, 
+        {
+            "lat": "51.0303", 
+            "name": "Leverkusen", 
+            "long": "6.98432"
+        }, 
+        {
+            "lat": "52.01246", 
+            "name": "Leopoldsh&#246;he", 
+            "long": "8.69834"
+        }, 
+        {
+            "lat": "51.11721", 
+            "name": "Lennestadt", 
+            "long": "8.06707"
+        }, 
+        {
+            "lat": "52.18661", 
+            "name": "Lengerich", 
+            "long": "7.86043"
+        }, 
+        {
+            "lat": "52.02786", 
+            "name": "Lemgo", 
+            "long": "8.89901"
+        }, 
+        {
+            "lat": "51.10628", 
+            "name": "Leichlingen", 
+            "long": "7.01873"
+        }, 
+        {
+            "lat": "51.10821", 
+            "name": "Langenfeld", 
+            "long": "6.94831"
+        }, 
+        {
+            "lat": "51.99223", 
+            "name": "Lage", 
+            "long": "8.79301"
+        }, 
+        {
+            "lat": "50.93139", 
+            "name": "Bad Laasphe", 
+            "long": "8.42502"
+        }, 
+        {
+            "lat": "51.05", 
+            "name": "K&#252;rten", 
+            "long": "7.26667"
+        }, 
+        {
+            "lat": "50.96775", 
+            "name": "Kreuztal", 
+            "long": "7.98848"
+        }, 
+        {
+            "lat": "50.74699", 
+            "name": "Kreuzau", 
+            "long": "6.49069"
+        }, 
+        {
+            "lat": "51.33921", 
+            "name": "Krefeld", 
+            "long": "6.58615"
+        }, 
+        {
+            "lat": "51.19139", 
+            "name": "Korschenbroich", 
+            "long": "6.51352"
+        }, 
+        {
+            "lat": "50.68376", 
+            "name": "K&#246;nigswinter", 
+            "long": "7.18675"
+        }, 
+        {
+            "lat": "50.93333", 
+            "name": "K&#246;ln", 
+            "long": "6.95"
+        }, 
+        {
+            "lat": "51.78826", 
+            "name": "Kleve", 
+            "long": "6.13865"
+        }, 
+        {
+            "lat": "52.2", 
+            "name": "Kirchlengern", 
+            "long": "8.63333"
+        }, 
+        {
+            "lat": "51.13403", 
+            "name": "Kierspe", 
+            "long": "7.59075"
+        }, 
+        {
+            "lat": "51.58243", 
+            "name": "Kevelaer", 
+            "long": "6.24603"
+        }, 
+        {
+            "lat": "50.86991", 
+            "name": "Kerpen", 
+            "long": "6.69691"
+        }, 
+        {
+            "lat": "51.36432", 
+            "name": "Kempen", 
+            "long": "6.41858"
+        }, 
+        {
+            "lat": "51.50467", 
+            "name": "Kamp-Lintfort", 
+            "long": "6.54587"
+        }, 
+        {
+            "lat": "51.59231", 
+            "name": "Kamen", 
+            "long": "7.6638"
+        }, 
+        {
+            "lat": "51.22929", 
+            "name": "Kaarst", 
+            "long": "6.61883"
+        }, 
+        {
+            "lat": "50.92149", 
+            "name": "J&#252;lich", 
+            "long": "6.36267"
+        }, 
+        {
+            "lat": "51.1", 
+            "name": "J&#252;chen", 
+            "long": "6.5"
+        }, 
+        {
+            "lat": "51.37547", 
+            "name": "Iserlohn", 
+            "long": "7.70281"
+        }, 
+        {
+            "lat": "52.27964", 
+            "name": "Ibbenb&#252;ren", 
+            "long": "7.71457"
+        }, 
+        {
+            "lat": "50.87079", 
+            "name": "H&#252;rth", 
+            "long": "6.86761"
+        }, 
+        {
+            "lat": "51.14979", 
+            "name": "H&#252;ckeswagen", 
+            "long": "7.34471"
+        }, 
+        {
+            "lat": "51.0555", 
+            "name": "H&#252;ckelhoven", 
+            "long": "6.22658"
+        }, 
+        {
+            "lat": "51.77501", 
+            "name": "H&#246;xter", 
+            "long": "9.38155"
+        }, 
+        {
+            "lat": "51.81667", 
+            "name": "H&#246;velhof", 
+            "long": "8.65"
+        }, 
+        {
+            "lat": "52.29763", 
+            "name": "H&#246;rstel", 
+            "long": "7.58382"
+        }, 
+        {
+            "lat": "51.5", 
+            "name": "Holzwickede", 
+            "long": "7.63333"
+        }, 
+        {
+            "lat": "51.41943", 
+            "name": "Hochfeld", 
+            "long": "6.75462"
+        }, 
+        {
+            "lat": "52.33333", 
+            "name": "Hille", 
+            "long": "8.75"
+        }, 
+        {
+            "lat": "51.16818", 
+            "name": "Hilden", 
+            "long": "6.93093"
+        }, 
+        {
+            "lat": "50.99687", 
+            "name": "Hilchenbach", 
+            "long": "8.11062"
+        }, 
+        {
+            "lat": "52.16667", 
+            "name": "Hiddenhausen", 
+            "long": "8.61667"
+        }, 
+        {
+            "lat": "50.87067", 
+            "name": "Herzogenrath", 
+            "long": "6.10136"
+        }, 
+        {
+            "lat": "51.59638", 
+            "name": "Herten", 
+            "long": "7.14387"
+        }, 
+        {
+            "lat": "51.5388", 
+            "name": "Herne", 
+            "long": "7.22572"
+        }, 
+        {
+            "lat": "52.11457", 
+            "name": "Herford", 
+            "long": "8.67343"
+        }, 
+        {
+            "lat": "51.39999", 
+            "name": "Herdecke", 
+            "long": "7.43584"
+        }, 
+        {
+            "lat": "50.77555", 
+            "name": "Hennef", 
+            "long": "7.28308"
+        }, 
+        {
+            "lat": "51.38707", 
+            "name": "Hemer", 
+            "long": "7.77019"
+        }, 
+        {
+            "lat": "51.06358", 
+            "name": "Heinsberg", 
+            "long": "6.0998"
+        }, 
+        {
+            "lat": "51.32662", 
+            "name": "Heiligenhaus", 
+            "long": "6.97106"
+        }, 
+        {
+            "lat": "51.39894", 
+            "name": "Hattingen", 
+            "long": "7.18557"
+        }, 
+        {
+            "lat": "51.96224", 
+            "name": "Harsewinkel", 
+            "long": "8.22766"
+        }, 
+        {
+            "lat": "51.73262", 
+            "name": "Hamminkeln", 
+            "long": "6.59031"
+        }, 
+        {
+            "lat": "51.68033", 
+            "name": "Hamm", 
+            "long": "7.82089"
+        }, 
+        {
+            "lat": "51.18612", 
+            "name": "Halver", 
+            "long": "7.49817"
+        }, 
+        {
+            "lat": "51.74297", 
+            "name": "Haltern", 
+            "long": "7.18163"
+        }, 
+        {
+            "lat": "52.06007", 
+            "name": "Halle", 
+            "long": "8.36083"
+        }, 
+        {
+            "lat": "51.36081", 
+            "name": "Hagen", 
+            "long": "7.47168"
+        }, 
+        {
+            "lat": "51.19382", 
+            "name": "Haan", 
+            "long": "7.0133"
+        }, 
+        {
+            "lat": "51.90693", 
+            "name": "G&#252;tersloh", 
+            "long": "8.37853"
+        }, 
+        {
+            "lat": "51.02608", 
+            "name": "Gummersbach", 
+            "long": "7.56473"
+        }, 
+        {
+            "lat": "52.21099", 
+            "name": "Gronau", 
+            "long": "7.02238"
+        }, 
+        {
+            "lat": "51.09102", 
+            "name": "Grevenbroich", 
+            "long": "6.5827"
+        }, 
+        {
+            "lat": "52.09364", 
+            "name": "Greven", 
+            "long": "7.59396"
+        }, 
+        {
+            "lat": "51.3363", 
+            "name": "Grefrath", 
+            "long": "6.34072"
+        }, 
+        {
+            "lat": "51.67873", 
+            "name": "Goch", 
+            "long": "6.15895"
+        }, 
+        {
+            "lat": "51.57077", 
+            "name": "Gladbeck", 
+            "long": "6.98593"
+        }, 
+        {
+            "lat": "51.31971", 
+            "name": "Gevelsberg", 
+            "long": "7.3392"
+        }, 
+        {
+            "lat": "51.64091", 
+            "name": "Geseke", 
+            "long": "8.5109"
+        }, 
+        {
+            "lat": "51.954", 
+            "name": "Gescher", 
+            "long": "7.00481"
+        }, 
+        {
+            "lat": "51.5075", 
+            "name": "Gelsenkirchen", 
+            "long": "7.12283"
+        }, 
+        {
+            "lat": "51.51908", 
+            "name": "Geldern", 
+            "long": "6.32363"
+        }, 
+        {
+            "lat": "50.96745", 
+            "name": "Geilenkirchen", 
+            "long": "6.11763"
+        }, 
+        {
+            "lat": "51.47563", 
+            "name": "Fr&#246;ndenberg", 
+            "long": "7.76946"
+        }, 
+        {
+            "lat": "50.89741", 
+            "name": "Freudenberg", 
+            "long": "7.87415"
+        }, 
+        {
+            "lat": "50.91485", 
+            "name": "Frechen", 
+            "long": "6.8118"
+        }, 
+        {
+            "lat": "51.16667", 
+            "name": "Finnentrop", 
+            "long": "7.96667"
+        }, 
+        {
+            "lat": "50.66057", 
+            "name": "Euskirchen", 
+            "long": "6.78722"
+        }, 
+        {
+            "lat": "51.45657", 
+            "name": "Essen", 
+            "long": "7.01228"
+        }, 
+        {
+            "lat": "52.38251", 
+            "name": "Espelkamp", 
+            "long": "8.62127"
+        }, 
+        {
+            "lat": "50.81854", 
+            "name": "Eschweiler", 
+            "long": "6.27184"
+        }, 
+        {
+            "lat": "51.6127", 
+            "name": "Erwitte", 
+            "long": "8.3384"
+        }, 
+        {
+            "lat": "51.22235", 
+            "name": "Erkrath", 
+            "long": "6.90831"
+        }, 
+        {
+            "lat": "51.07947", 
+            "name": "Erkelenz", 
+            "long": "6.31531"
+        }, 
+        {
+            "lat": "50.81481", 
+            "name": "Erftstadt", 
+            "long": "6.79387"
+        }, 
+        {
+            "lat": "51.83843", 
+            "name": "Ennigerloh", 
+            "long": "8.03093"
+        }, 
+        {
+            "lat": "51.29848", 
+            "name": "Ennepetal", 
+            "long": "7.3629"
+        }, 
+        {
+            "lat": "52.14063", 
+            "name": "Enger", 
+            "long": "8.55772"
+        }, 
+        {
+            "lat": "50.98333", 
+            "name": "Engelskirchen", 
+            "long": "7.4"
+        }, 
+        {
+            "lat": "52.1734", 
+            "name": "Emsdetten", 
+            "long": "7.52781"
+        }, 
+        {
+            "lat": "51.83933", 
+            "name": "Emmerich", 
+            "long": "6.24792"
+        }, 
+        {
+            "lat": "50.93739", 
+            "name": "Elsdorf", 
+            "long": "6.56828"
+        }, 
+        {
+            "lat": "50.76667", 
+            "name": "Eitorf", 
+            "long": "7.45"
+        }, 
+        {
+            "lat": "51.22172", 
+            "name": "D&#252;sseldorf", 
+            "long": "6.77616"
+        }, 
+        {
+            "lat": "50.80434", 
+            "name": "D&#252;ren", 
+            "long": "6.49299"
+        }, 
+        {
+            "lat": "51.83149", 
+            "name": "D&#252;lmen", 
+            "long": "7.28075"
+        }, 
+        {
+            "lat": "51.43247", 
+            "name": "Duisburg", 
+            "long": "6.76516"
+        }, 
+        {
+            "lat": "51.79535", 
+            "name": "Drensteinfurt", 
+            "long": "7.73815"
+        }, 
+        {
+            "lat": "51.51494", 
+            "name": "Dortmund", 
+            "long": "7.466"
+        }, 
+        {
+            "lat": "51.66166", 
+            "name": "Dorsten", 
+            "long": "6.96514"
+        }, 
+        {
+            "lat": "51.09683", 
+            "name": "Dormagen", 
+            "long": "6.83167"
+        }, 
+        {
+            "lat": "51.56227", 
+            "name": "Dinslaken", 
+            "long": "6.7434"
+        }, 
+        {
+            "lat": "51.93855", 
+            "name": "Detmold", 
+            "long": "8.87318"
+        }, 
+        {
+            "lat": "51.76503", 
+            "name": "Delbr&#252;ck", 
+            "long": "8.56223"
+        }, 
+        {
+            "lat": "51.66667", 
+            "name": "Datteln", 
+            "long": "7.38333"
+        }, 
+        {
+            "lat": "51.94349", 
+            "name": "Coesfeld", 
+            "long": "7.16809"
+        }, 
+        {
+            "lat": "51.55657", 
+            "name": "Castrop-Rauxel", 
+            "long": "7.31155"
+        }, 
+        {
+            "lat": "51.1", 
+            "name": "Burscheid", 
+            "long": "7.11667"
+        }, 
+        {
+            "lat": "51.55109", 
+            "name": "B&#252;ren", 
+            "long": "8.55956"
+        }, 
+        {
+            "lat": "52.19837", 
+            "name": "B&#252;nde", 
+            "long": "8.58644"
+        }, 
+        {
+            "lat": "50.82928", 
+            "name": "Br&#252;hl", 
+            "long": "6.90499"
+        }, 
+        {
+            "lat": "51.24053", 
+            "name": "Br&#252;ggen", 
+            "long": "6.18376"
+        }, 
+        {
+            "lat": "51.39462", 
+            "name": "Brilon", 
+            "long": "8.57146"
+        }, 
+        {
+            "lat": "51.7175", 
+            "name": "Brakel", 
+            "long": "9.18596"
+        }, 
+        {
+            "lat": "51.52392", 
+            "name": "Bottrop", 
+            "long": "6.9285"
+        }, 
+        {
+            "lat": "50.76313", 
+            "name": "Bornheim", 
+            "long": "6.99089"
+        }, 
+        {
+            "lat": "51.84382", 
+            "name": "Borken", 
+            "long": "6.85774"
+        }, 
+        {
+            "lat": "50.73438", 
+            "name": "Bonn", 
+            "long": "7.09549"
+        }, 
+        {
+            "lat": "51.6", 
+            "name": "B&#246;nen", 
+            "long": "7.76667"
+        }, 
+        {
+            "lat": "51.48165", 
+            "name": "Bochum", 
+            "long": "7.21648"
+        }, 
+        {
+            "lat": "51.83879", 
+            "name": "Bocholt", 
+            "long": "6.61531"
+        }, 
+        {
+            "lat": "51.94331", 
+            "name": "Blomberg", 
+            "long": "9.09067"
+        }, 
+        {
+            "lat": "52.03333", 
+            "name": "Bielefeld", 
+            "long": "8.53333"
+        }, 
+        {
+            "lat": "51.66801", 
+            "name": "Beverungen", 
+            "long": "9.37417"
+        }, 
+        {
+            "lat": "51.02496", 
+            "name": "Bergneustadt", 
+            "long": "7.65599"
+        }, 
+        {
+            "lat": "51.61633", 
+            "name": "Bergkamen", 
+            "long": "7.64451"
+        }, 
+        {
+            "lat": "50.9856", 
+            "name": "Bergisch Gladbach", 
+            "long": "7.13298"
+        }, 
+        {
+            "lat": "50.95572", 
+            "name": "Bergheim", 
+            "long": "6.63986"
+        }, 
+        {
+            "lat": "50.99258", 
+            "name": "Bedburg", 
+            "long": "6.57128"
+        }, 
+        {
+            "lat": "51.75571", 
+            "name": "Beckum", 
+            "long": "8.04075"
+        }, 
+        {
+            "lat": "52.20737", 
+            "name": "Bahnhof L&#246;hne", 
+            "long": "8.7149"
+        }, 
+        {
+            "lat": "50.90964", 
+            "name": "Baesweiler", 
+            "long": "6.18874"
+        }, 
+        {
+            "lat": "52.0862", 
+            "name": "Bad Salzuflen", 
+            "long": "8.74434"
+        }, 
+        {
+            "lat": "52.20699", 
+            "name": "Bad Oeynhausen", 
+            "long": "8.80365"
+        }, 
+        {
+            "lat": "50.55667", 
+            "name": "Bad M&#252;nstereifel", 
+            "long": "6.76424"
+        }, 
+        {
+            "lat": "51.78333", 
+            "name": "Bad Lippspringe", 
+            "long": "8.81683"
+        }, 
+        {
+            "lat": "50.64336", 
+            "name": "Bad Honnef", 
+            "long": "7.2278"
+        }, 
+        {
+            "lat": "51.73297", 
+            "name": "Bad Driburg", 
+            "long": "9.01969"
+        }, 
+        {
+            "lat": "51.05224", 
+            "name": "Bad Berleburg", 
+            "long": "8.39227"
+        }, 
+        {
+            "lat": "51.12645", 
+            "name": "Attendorn", 
+            "long": "7.90333"
+        }, 
+        {
+            "lat": "51.78333", 
+            "name": "Ascheberg", 
+            "long": "7.61667"
+        }, 
+        {
+            "lat": "51.38333", 
+            "name": "Arnsberg", 
+            "long": "8.08333"
+        }, 
+        {
+            "lat": "51.29472", 
+            "name": "Altena", 
+            "long": "7.67337"
+        }, 
+        {
+            "lat": "50.87673", 
+            "name": "Alsdorf", 
+            "long": "6.16399"
+        }, 
+        {
+            "lat": "50.73333", 
+            "name": "Alfter", 
+            "long": "7.01667"
+        }, 
+        {
+            "lat": "51.76338", 
+            "name": "Ahlen", 
+            "long": "7.8887"
+        }, 
+        {
+            "lat": "52.07936", 
+            "name": "Ahaus", 
+            "long": "7.01344"
+        }, 
+        {
+            "lat": "50.77664", 
+            "name": "Aachen", 
+            "long": "6.08342"
+        }, 
+        {
+            "lat": "50.93331", 
+            "name": "Altstadt Sud", 
+            "long": "6.95954"
+        }, 
+        {
+            "lat": "50.93893", 
+            "name": "Altstadt Nord", 
+            "long": "6.95752"
+        }, 
+        {
+            "lat": "50.96983", 
+            "name": "Bilderstoeckchen", 
+            "long": "6.92997"
+        }, 
+        {
+            "lat": "51.50168", 
+            "name": "Bochum-Hordel", 
+            "long": "7.1756"
+        }
+    ]
+}

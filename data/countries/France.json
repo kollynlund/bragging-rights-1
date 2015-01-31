@@ -1,0 +1,3216 @@
+{
+    "A1": [
+        {
+            "lat": "48.2", 
+            "name": "Sens", 
+            "long": "3.28333"
+        }, 
+        {
+            "lat": "46.7306", 
+            "name": "Saint-Leu", 
+            "long": "4.50083"
+        }, 
+        {
+            "lat": "46.98956", 
+            "name": "Nevers", 
+            "long": "3.159"
+        }, 
+        {
+            "lat": "46.66667", 
+            "name": "Montceau-les-Mines", 
+            "long": "4.36667"
+        }, 
+        {
+            "lat": "46.3", 
+            "name": "M&#226;con", 
+            "long": "4.83333"
+        }, 
+        {
+            "lat": "46.80714", 
+            "name": "Le Creusot", 
+            "long": "4.41632"
+        }, 
+        {
+            "lat": "47.31667", 
+            "name": "Dijon", 
+            "long": "5.01667"
+        }, 
+        {
+            "lat": "47.29323", 
+            "name": "Chen&#244;ve", 
+            "long": "5.00457"
+        }, 
+        {
+            "lat": "46.78333", 
+            "name": "Chalon-sur-Sa&#244;ne", 
+            "long": "4.85"
+        }, 
+        {
+            "lat": "47.03333", 
+            "name": "Beaune", 
+            "long": "4.83333"
+        }, 
+        {
+            "lat": "47.8", 
+            "name": "Auxerre", 
+            "long": "3.56667"
+        }, 
+        {
+            "lat": "46.95", 
+            "name": "Autun", 
+            "long": "4.3"
+        }
+    ], 
+    "A3": [
+        {
+            "lat": "47.21667", 
+            "name": "Vierzon", 
+            "long": "2.08333"
+        }, 
+        {
+            "lat": "47.8", 
+            "name": "Vend&#244;me", 
+            "long": "1.06667"
+        }, 
+        {
+            "lat": "47.38333", 
+            "name": "Tours", 
+            "long": "0.68333"
+        }, 
+        {
+            "lat": "47.95013", 
+            "name": "Saran", 
+            "long": "1.87601"
+        }, 
+        {
+            "lat": "47.38623", 
+            "name": "Saint-Pierre-des-Corps", 
+            "long": "0.74849"
+        }, 
+        {
+            "lat": "47.91127", 
+            "name": "Saint-Jean-de-la-Ruelle", 
+            "long": "1.86483"
+        }, 
+        {
+            "lat": "47.91303", 
+            "name": "Saint-Jean-de-Braye", 
+            "long": "1.97705"
+        }, 
+        {
+            "lat": "47.4", 
+            "name": "Saint-Cyr-sur-Loire", 
+            "long": "0.66667"
+        }, 
+        {
+            "lat": "47.36357", 
+            "name": "Saint-Avertin", 
+            "long": "0.73993"
+        }, 
+        {
+            "lat": "47.36667", 
+            "name": "Romorantin-Lanthenay", 
+            "long": "1.75"
+        }, 
+        {
+            "lat": "47.90289", 
+            "name": "Orl&#233;ans", 
+            "long": "1.90389"
+        }, 
+        {
+            "lat": "47.86219", 
+            "name": "Olivet", 
+            "long": "1.8991"
+        }, 
+        {
+            "lat": "48", 
+            "name": "Montargis", 
+            "long": "2.75"
+        }, 
+        {
+            "lat": "48.43689", 
+            "name": "Luc&#233;", 
+            "long": "1.46359"
+        }, 
+        {
+            "lat": "47.35223", 
+            "name": "Jou&#233;-l&#233;s-Tours", 
+            "long": "0.66905"
+        }, 
+        {
+            "lat": "47.69332", 
+            "name": "Gien", 
+            "long": "2.63094"
+        }, 
+        {
+            "lat": "47.93328", 
+            "name": "Fleury-les-Aubrais", 
+            "long": "1.91811"
+        }, 
+        {
+            "lat": "48.73333", 
+            "name": "Dreux", 
+            "long": "1.36667"
+        }, 
+        {
+            "lat": "46.81667", 
+            "name": "Ch&#226;teauroux", 
+            "long": "1.7"
+        }, 
+        {
+            "lat": "48.08333", 
+            "name": "Ch&#226;teaudun", 
+            "long": "1.33333"
+        }, 
+        {
+            "lat": "48.44685", 
+            "name": "Chartres", 
+            "long": "1.48925"
+        }, 
+        {
+            "lat": "47.08333", 
+            "name": "Bourges", 
+            "long": "2.4"
+        }, 
+        {
+            "lat": "47.58333", 
+            "name": "Blois", 
+            "long": "1.33333"
+        }
+    ], 
+    "A2": [
+        {
+            "lat": "48.11776", 
+            "name": "Vitr&#233;", 
+            "long": "-1.20577"
+        }, 
+        {
+            "lat": "47.66667", 
+            "name": "Vannes", 
+            "long": "-2.75"
+        }, 
+        {
+            "lat": "48.65", 
+            "name": "Saint-Malo", 
+            "long": "-2.01667"
+        }, 
+        {
+            "lat": "48.51513", 
+            "name": "Saint-Brieuc", 
+            "long": "-2.76838"
+        }, 
+        {
+            "lat": "48.11198", 
+            "name": "Rennes", 
+            "long": "-1.67429"
+        }, 
+        {
+            "lat": "48", 
+            "name": "Quimper", 
+            "long": "-4.1"
+        }, 
+        {
+            "lat": "48.06667", 
+            "name": "Pontivy", 
+            "long": "-2.98333"
+        }, 
+        {
+            "lat": "47.73333", 
+            "name": "Ploemeur", 
+            "long": "-3.43333"
+        }, 
+        {
+            "lat": "48.58333", 
+            "name": "Morlaix", 
+            "long": "-3.83333"
+        }, 
+        {
+            "lat": "47.75", 
+            "name": "Lorient", 
+            "long": "-3.36667"
+        }, 
+        {
+            "lat": "48.73333", 
+            "name": "Lannion", 
+            "long": "-3.46667"
+        }, 
+        {
+            "lat": "47.76132", 
+            "name": "Lanester", 
+            "long": "-3.33965"
+        }, 
+        {
+            "lat": "48.45252", 
+            "name": "Landerneau", 
+            "long": "-4.25252"
+        }, 
+        {
+            "lat": "48.35", 
+            "name": "Foug&#232;res", 
+            "long": "-1.2"
+        }, 
+        {
+            "lat": "48.09542", 
+            "name": "Douarnenez", 
+            "long": "-4.32904"
+        }, 
+        {
+            "lat": "47.87502", 
+            "name": "Concarneau", 
+            "long": "-3.92245"
+        }, 
+        {
+            "lat": "48.1212", 
+            "name": "Cesson-S&#233;vign&#233;", 
+            "long": "-1.603"
+        }, 
+        {
+            "lat": "48.4", 
+            "name": "Brest", 
+            "long": "-4.48333"
+        }
+    ], 
+    "A5": [
+        {
+            "lat": "42.70278", 
+            "name": "Bastia", 
+            "long": "9.45"
+        }, 
+        {
+            "lat": "41.92723", 
+            "name": "Ajaccio", 
+            "long": "8.73462"
+        }
+    ], 
+    "A4": [
+        {
+            "lat": "48.73333", 
+            "name": "Vitry-le-Fran&#231;ois", 
+            "long": "4.58333"
+        }, 
+        {
+            "lat": "48.3", 
+            "name": "Troyes", 
+            "long": "4.08333"
+        }, 
+        {
+            "lat": "49.7", 
+            "name": "Sedan", 
+            "long": "4.95"
+        }, 
+        {
+            "lat": "48.63333", 
+            "name": "Saint-Dizier", 
+            "long": "4.95"
+        }, 
+        {
+            "lat": "49.25", 
+            "name": "Reims", 
+            "long": "4.03333"
+        }, 
+        {
+            "lat": "49.05", 
+            "name": "&#201;pernay", 
+            "long": "3.95"
+        }, 
+        {
+            "lat": "48.11121", 
+            "name": "Chaumont", 
+            "long": "5.14134"
+        }, 
+        {
+            "lat": "49.76667", 
+            "name": "Charleville-M&#233;zi&#232;res", 
+            "long": "4.71667"
+        }, 
+        {
+            "lat": "48.95393", 
+            "name": "Ch&#226;lons-en-Champagne", 
+            "long": "4.36724"
+        }
+    ], 
+    "A7": [
+        {
+            "lat": "49.09292", 
+            "name": "Vernon", 
+            "long": "1.46332"
+        }, 
+        {
+            "lat": "49.40972", 
+            "name": "Sotteville-l&#232;s-Rouen", 
+            "long": "1.09005"
+        }, 
+        {
+            "lat": "49.37794", 
+            "name": "Saint-&#201;tienne-du-Rouvray", 
+            "long": "1.10467"
+        }, 
+        {
+            "lat": "49.44313", 
+            "name": "Rouen", 
+            "long": "1.09932"
+        }, 
+        {
+            "lat": "49.46307", 
+            "name": "Mont-Saint-Aignan", 
+            "long": "1.09364"
+        }, 
+        {
+            "lat": "49.54518", 
+            "name": "Montivilliers", 
+            "long": "0.18769"
+        }, 
+        {
+            "lat": "49.21667", 
+            "name": "Louviers", 
+            "long": "1.16667"
+        }, 
+        {
+            "lat": "49.41338", 
+            "name": "Le Petit-Quevilly", 
+            "long": "1.06155"
+        }, 
+        {
+            "lat": "49.4938", 
+            "name": "Le Havre", 
+            "long": "0.10767"
+        }, 
+        {
+            "lat": "49.40076", 
+            "name": "Le Grand-Quevilly", 
+            "long": "1.04582"
+        }, 
+        {
+            "lat": "49.75787", 
+            "name": "F&#233;camp", 
+            "long": "0.37457"
+        }, 
+        {
+            "lat": "49.02414", 
+            "name": "&#201;vreux", 
+            "long": "1.15082"
+        }, 
+        {
+            "lat": "49.28669", 
+            "name": "Elbeuf", 
+            "long": "1.00288"
+        }, 
+        {
+            "lat": "49.93333", 
+            "name": "Dieppe", 
+            "long": "1.08333"
+        }, 
+        {
+            "lat": "49.55858", 
+            "name": "Cayenne", 
+            "long": "1.62803"
+        }, 
+        {
+            "lat": "49.44065", 
+            "name": "Canteleu", 
+            "long": "1.02459"
+        }
+    ], 
+    "A6": [
+        {
+            "lat": "47.63333", 
+            "name": "Vesoul", 
+            "long": "6.16667"
+        }, 
+        {
+            "lat": "46.90347", 
+            "name": "Pontarlier", 
+            "long": "6.35542"
+        }, 
+        {
+            "lat": "47.51667", 
+            "name": "Montb&#233;liard", 
+            "long": "6.8"
+        }, 
+        {
+            "lat": "46.66667", 
+            "name": "Lons-le-Saunier", 
+            "long": "5.55"
+        }, 
+        {
+            "lat": "47.1", 
+            "name": "Dole", 
+            "long": "5.5"
+        }, 
+        {
+            "lat": "47.24878", 
+            "name": "Besan&#231;on", 
+            "long": "6.01815"
+        }, 
+        {
+            "lat": "47.63333", 
+            "name": "Belfort", 
+            "long": "6.86667"
+        }, 
+        {
+            "lat": "47.48327", 
+            "name": "Audincourt", 
+            "long": "6.85341"
+        }
+    ], 
+    "A9": [
+        {
+            "lat": "43.4028", 
+            "name": "S&#232;te", 
+            "long": "3.69278"
+        }, 
+        {
+            "lat": "42.69764", 
+            "name": "Perpignan", 
+            "long": "2.89541"
+        }, 
+        {
+            "lat": "43.83333", 
+            "name": "N&#238;mes", 
+            "long": "4.35"
+        }, 
+        {
+            "lat": "43.18333", 
+            "name": "Narbonne", 
+            "long": "3"
+        }, 
+        {
+            "lat": "43.61092", 
+            "name": "Montpellier", 
+            "long": "3.87723"
+        }, 
+        {
+            "lat": "43.6181", 
+            "name": "Mauguio", 
+            "long": "4.00739"
+        }, 
+        {
+            "lat": "43.67778", 
+            "name": "Lunel", 
+            "long": "4.13611"
+        }, 
+        {
+            "lat": "43.56752", 
+            "name": "Lattes", 
+            "long": "3.9046"
+        }, 
+        {
+            "lat": "43.44848", 
+            "name": "Frontignan", 
+            "long": "3.754"
+        }, 
+        {
+            "lat": "43.63333", 
+            "name": "Castelnau-le-Lez", 
+            "long": "3.9"
+        }, 
+        {
+            "lat": "43.21667", 
+            "name": "Carcassonne", 
+            "long": "2.35"
+        }, 
+        {
+            "lat": "43.34122", 
+            "name": "B&#233;ziers", 
+            "long": "3.21402"
+        }, 
+        {
+            "lat": "44.1599", 
+            "name": "Bagnols-sur-C&#232;ze", 
+            "long": "4.61776"
+        }, 
+        {
+            "lat": "44.13333", 
+            "name": "Al&#232;s", 
+            "long": "4.08333"
+        }, 
+        {
+            "lat": "43.31083", 
+            "name": "Agde", 
+            "long": "3.47583"
+        }
+    ], 
+    "A8": [
+        {
+            "lat": "48.71785", 
+            "name": "Yerres", 
+            "long": "2.49338"
+        }, 
+        {
+            "lat": "48.78716", 
+            "name": "Vitry-sur-Seine", 
+            "long": "2.40332"
+        }, 
+        {
+            "lat": "48.67211", 
+            "name": "Viry-Ch&#226;tillon", 
+            "long": "2.39318"
+        }, 
+        {
+            "lat": "48.80078", 
+            "name": "Viroflay", 
+            "long": "2.16181"
+        }, 
+        {
+            "lat": "48.8486", 
+            "name": "Vincennes", 
+            "long": "2.43769"
+        }, 
+        {
+            "lat": "48.831", 
+            "name": "Villiers-sur-Marne", 
+            "long": "2.54844"
+        }, 
+        {
+            "lat": "49.00875", 
+            "name": "Villiers-le-Bel", 
+            "long": "2.39819"
+        }, 
+        {
+            "lat": "48.96203", 
+            "name": "Villepinte", 
+            "long": "2.53253"
+        }, 
+        {
+            "lat": "48.94208", 
+            "name": "Villeparisis", 
+            "long": "2.61463"
+        }, 
+        {
+            "lat": "48.73219", 
+            "name": "Villeneuve-Saint-Georges", 
+            "long": "2.44925"
+        }, 
+        {
+            "lat": "48.73684", 
+            "name": "Villeneuve-le-Roi", 
+            "long": "2.40081"
+        }, 
+        {
+            "lat": "48.93935", 
+            "name": "Villeneuve-la-Garenne", 
+            "long": "2.31478"
+        }, 
+        {
+            "lat": "48.88333", 
+            "name": "Villemomble", 
+            "long": "2.5"
+        }, 
+        {
+            "lat": "48.7939", 
+            "name": "Villejuif", 
+            "long": "2.35992"
+        }, 
+        {
+            "lat": "48.70291", 
+            "name": "Vigneux-sur-Seine", 
+            "long": "2.41357"
+        }, 
+        {
+            "lat": "48.8", 
+            "name": "Versailles", 
+            "long": "2.13333"
+        }, 
+        {
+            "lat": "48.74565", 
+            "name": "Verri&#232;res-le-Buisson", 
+            "long": "2.26796"
+        }, 
+        {
+            "lat": "48.97388", 
+            "name": "Verneuil-sur-Seine", 
+            "long": "1.9648"
+        }, 
+        {
+            "lat": "48.78198", 
+            "name": "V&#233;lizy-Villacoublay", 
+            "long": "2.19395"
+        }, 
+        {
+            "lat": "49.03333", 
+            "name": "Vaur&#233;al", 
+            "long": "2.03333"
+        }, 
+        {
+            "lat": "48.82345", 
+            "name": "Vanves", 
+            "long": "2.29025"
+        }, 
+        {
+            "lat": "48.94956", 
+            "name": "Tremblay-en-France", 
+            "long": "2.5684"
+        }, 
+        {
+            "lat": "48.77413", 
+            "name": "Trappes", 
+            "long": "2.01781"
+        }, 
+        {
+            "lat": "48.85", 
+            "name": "Torcy", 
+            "long": "2.65"
+        }, 
+        {
+            "lat": "48.76496", 
+            "name": "Thiais", 
+            "long": "2.3961"
+        }, 
+        {
+            "lat": "49.02542", 
+            "name": "Taverny", 
+            "long": "2.21691"
+        }, 
+        {
+            "lat": "48.87143", 
+            "name": "Suresnes", 
+            "long": "2.22929"
+        }, 
+        {
+            "lat": "48.76872", 
+            "name": "Sucy-en-Brie", 
+            "long": "2.53474"
+        }, 
+        {
+            "lat": "48.95", 
+            "name": "Stains", 
+            "long": "2.38333"
+        }, 
+        {
+            "lat": "48.98813", 
+            "name": "Soisy-sous-Montmorency", 
+            "long": "2.30156"
+        }, 
+        {
+            "lat": "48.82292", 
+            "name": "S&#232;vres", 
+            "long": "2.21757"
+        }, 
+        {
+            "lat": "48.94472", 
+            "name": "Sevran", 
+            "long": "2.52746"
+        }, 
+        {
+            "lat": "48.77644", 
+            "name": "Sceaux", 
+            "long": "2.29026"
+        }, 
+        {
+            "lat": "48.67677", 
+            "name": "Savigny-sur-Orge", 
+            "long": "2.34835"
+        }, 
+        {
+            "lat": "48.57409", 
+            "name": "Savigny-le-Temple", 
+            "long": "2.58287"
+        }, 
+        {
+            "lat": "48.9482", 
+            "name": "Sartrouville", 
+            "long": "2.19169"
+        }, 
+        {
+            "lat": "49", 
+            "name": "Sarcelles", 
+            "long": "2.38333"
+        }, 
+        {
+            "lat": "48.96667", 
+            "name": "Sannois", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "49.04353", 
+            "name": "Saint-Ouen-l&#8217;Aum&#244;ne", 
+            "long": "2.12134"
+        }, 
+        {
+            "lat": "48.9", 
+            "name": "Saint-Ouen", 
+            "long": "2.33333"
+        }, 
+        {
+            "lat": "48.63479", 
+            "name": "Saint-Michel-sur-Orge", 
+            "long": "2.30831"
+        }, 
+        {
+            "lat": "48.79395", 
+            "name": "Saint-Maur-des-Foss&#233;s", 
+            "long": "2.49323"
+        }, 
+        {
+            "lat": "48.83864", 
+            "name": "Saint-Mand&#233;", 
+            "long": "2.41579"
+        }, 
+        {
+            "lat": "49.01667", 
+            "name": "Saint-Leu-la-For&#234;t", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "48.9735", 
+            "name": "Saint-Gratien", 
+            "long": "2.28729"
+        }, 
+        {
+            "lat": "48.9", 
+            "name": "Saint-Germain-en-Laye", 
+            "long": "2.08333"
+        }, 
+        {
+            "lat": "48.64682", 
+            "name": "Sainte-Genevi&#232;ve-des-Bois", 
+            "long": "2.31965"
+        }, 
+        {
+            "lat": "48.93333", 
+            "name": "Saint-Denis", 
+            "long": "2.36667"
+        }, 
+        {
+            "lat": "48.79865", 
+            "name": "Saint-Cyr-l&#8217;&#201;cole", 
+            "long": "2.06814"
+        }, 
+        {
+            "lat": "48.84598", 
+            "name": "Saint-Cloud", 
+            "long": "2.20289"
+        }, 
+        {
+            "lat": "48.8765", 
+            "name": "Rueil-Malmaison", 
+            "long": "2.18967"
+        }, 
+        {
+            "lat": "48.87017", 
+            "name": "Rosny-sous-Bois", 
+            "long": "2.4991"
+        }, 
+        {
+            "lat": "48.8854", 
+            "name": "Romainville", 
+            "long": "2.43482"
+        }, 
+        {
+            "lat": "48.79159", 
+            "name": "Roissy-en-Brie", 
+            "long": "2.64747"
+        }, 
+        {
+            "lat": "48.6511", 
+            "name": "Ris-Orangis", 
+            "long": "2.41406"
+        }, 
+        {
+            "lat": "48.65", 
+            "name": "Rambouillet", 
+            "long": "1.83333"
+        }, 
+        {
+            "lat": "48.88341", 
+            "name": "Puteaux", 
+            "long": "2.23894"
+        }, 
+        {
+            "lat": "49.05", 
+            "name": "Pontoise", 
+            "long": "2.1"
+        }, 
+        {
+            "lat": "48.92902", 
+            "name": "Poissy", 
+            "long": "2.04952"
+        }, 
+        {
+            "lat": "48.82319", 
+            "name": "Plaisir", 
+            "long": "1.9541"
+        }, 
+        {
+            "lat": "48.96691", 
+            "name": "Pierrefitte-sur-Seine", 
+            "long": "2.36104"
+        }, 
+        {
+            "lat": "48.85341", 
+            "name": "Paris", 
+            "long": "2.3488"
+        }, 
+        {
+            "lat": "48.89437", 
+            "name": "Pantin", 
+            "long": "2.40935"
+        }, 
+        {
+            "lat": "48.71667", 
+            "name": "Palaiseau", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "48.76699", 
+            "name": "Ozoir-la-Ferri&#232;re", 
+            "long": "2.66871"
+        }, 
+        {
+            "lat": "49.05937", 
+            "name": "Osny", 
+            "long": "2.06183"
+        }, 
+        {
+            "lat": "48.69572", 
+            "name": "Orsay", 
+            "long": "2.18727"
+        }, 
+        {
+            "lat": "48.74792", 
+            "name": "Orly", 
+            "long": "2.39253"
+        }, 
+        {
+            "lat": "48.89148", 
+            "name": "Noisy-le-Sec", 
+            "long": "2.46451"
+        }, 
+        {
+            "lat": "48.84979", 
+            "name": "Noisy-le-Grand", 
+            "long": "2.56266"
+        }, 
+        {
+            "lat": "48.84868", 
+            "name": "Noisiel", 
+            "long": "2.62435"
+        }, 
+        {
+            "lat": "48.83333", 
+            "name": "Nogent-sur-Marne", 
+            "long": "2.48333"
+        }, 
+        {
+            "lat": "48.8846", 
+            "name": "Neuilly-sur-Seine", 
+            "long": "2.26965"
+        }, 
+        {
+            "lat": "48.85373", 
+            "name": "Neuilly-sur-Marne", 
+            "long": "2.54903"
+        }, 
+        {
+            "lat": "48.86342", 
+            "name": "Neuilly-Plaisance", 
+            "long": "2.506"
+        }, 
+        {
+            "lat": "48.89198", 
+            "name": "Nanterre", 
+            "long": "2.20675"
+        }, 
+        {
+            "lat": "48.66181", 
+            "name": "Morsang-sur-Orge", 
+            "long": "2.35338"
+        }, 
+        {
+            "lat": "48.8162", 
+            "name": "Montrouge", 
+            "long": "2.31393"
+        }, 
+        {
+            "lat": "48.86415", 
+            "name": "Montreuil", 
+            "long": "2.44322"
+        }, 
+        {
+            "lat": "48.98826", 
+            "name": "Montmorency", 
+            "long": "2.3434"
+        }, 
+        {
+            "lat": "48.98201", 
+            "name": "Montigny-l&#232;s-Cormeilles", 
+            "long": "2.20035"
+        }, 
+        {
+            "lat": "48.76636", 
+            "name": "Montigny-le-Bretonneux", 
+            "long": "2.03405"
+        }, 
+        {
+            "lat": "48.70543", 
+            "name": "Montgeron", 
+            "long": "2.45039"
+        }, 
+        {
+            "lat": "48.8982", 
+            "name": "Montfermeil", 
+            "long": "2.57913"
+        }, 
+        {
+            "lat": "48.90924", 
+            "name": "Montesson", 
+            "long": "2.13754"
+        }, 
+        {
+            "lat": "48.38333", 
+            "name": "Montereau-Fault-Yonne", 
+            "long": "2.95"
+        }, 
+        {
+            "lat": "48.62605", 
+            "name": "Moissy-Cramayel", 
+            "long": "2.60125"
+        }, 
+        {
+            "lat": "48.98333", 
+            "name": "Mitry-Mory", 
+            "long": "2.61667"
+        }, 
+        {
+            "lat": "48.81381", 
+            "name": "Meudon", 
+            "long": "2.235"
+        }, 
+        {
+            "lat": "48.53333", 
+            "name": "Melun", 
+            "long": "2.66667"
+        }, 
+        {
+            "lat": "48.96014", 
+            "name": "Meaux", 
+            "long": "2.87885"
+        }, 
+        {
+            "lat": "48.76486", 
+            "name": "Maurepas", 
+            "long": "1.92923"
+        }, 
+        {
+            "lat": "48.72692", 
+            "name": "Massy", 
+            "long": "2.28301"
+        }, 
+        {
+            "lat": "48.86667", 
+            "name": "Marly-le-Roi", 
+            "long": "2.08333"
+        }, 
+        {
+            "lat": "48.97374", 
+            "name": "Mantes-la-Ville", 
+            "long": "1.70253"
+        }, 
+        {
+            "lat": "48.98333", 
+            "name": "Mantes-la-Jolie", 
+            "long": "1.71667"
+        }, 
+        {
+            "lat": "48.81999", 
+            "name": "Malakoff", 
+            "long": "2.29998"
+        }, 
+        {
+            "lat": "48.95264", 
+            "name": "Maisons-Laffitte", 
+            "long": "2.14521"
+        }, 
+        {
+            "lat": "48.81171", 
+            "name": "Maisons-Alfort", 
+            "long": "2.43945"
+        }, 
+        {
+            "lat": "48.69503", 
+            "name": "Longjumeau", 
+            "long": "2.30735"
+        }, 
+        {
+            "lat": "48.83541", 
+            "name": "Lognes", 
+            "long": "2.62998"
+        }, 
+        {
+            "lat": "48.9193", 
+            "name": "Livry-Gargan", 
+            "long": "2.54305"
+        }, 
+        {
+            "lat": "48.7448", 
+            "name": "Limeil-Br&#233;vannes", 
+            "long": "2.48705"
+        }, 
+        {
+            "lat": "48.99553", 
+            "name": "Limay", 
+            "long": "1.74081"
+        }, 
+        {
+            "lat": "48.78333", 
+            "name": "L'Ha&#255;-les-Roses", 
+            "long": "2.33333"
+        }, 
+        {
+            "lat": "48.89281", 
+            "name": "Le V&#233;sinet", 
+            "long": "2.13308"
+        }, 
+        {
+            "lat": "48.89389", 
+            "name": "Levallois-Perret", 
+            "long": "2.28864"
+        }, 
+        {
+            "lat": "48.90683", 
+            "name": "Les Pavillons-sous-Bois", 
+            "long": "2.50648"
+        }, 
+        {
+            "lat": "48.99173", 
+            "name": "Les Mureaux", 
+            "long": "1.90972"
+        }, 
+        {
+            "lat": "48.87992", 
+            "name": "Les Lilas", 
+            "long": "2.42057"
+        }, 
+        {
+            "lat": "48.82206", 
+            "name": "Les Clayes-sous-Bois", 
+            "long": "1.98677"
+        }, 
+        {
+            "lat": "48.88549", 
+            "name": "Le Pr&#233;-Saint-Gervais", 
+            "long": "2.40422"
+        }, 
+        {
+            "lat": "48.81074", 
+            "name": "Le Plessis-Tr&#233;vise", 
+            "long": "2.57363"
+        }, 
+        {
+            "lat": "48.78889", 
+            "name": "Le Plessis-Robinson", 
+            "long": "2.27078"
+        }, 
+        {
+            "lat": "48.85", 
+            "name": "Le Perreux-sur-Marne", 
+            "long": "2.5"
+        }, 
+        {
+            "lat": "48.89317", 
+            "name": "Le Pecq", 
+            "long": "2.10371"
+        }, 
+        {
+            "lat": "48.53157", 
+            "name": "Le M&#233;e-sur-Seine", 
+            "long": "2.62829"
+        }, 
+        {
+            "lat": "48.81471", 
+            "name": "Le Kremlin-Bic&#234;tre", 
+            "long": "2.36073"
+        }, 
+        {
+            "lat": "48.8222", 
+            "name": "Le Chesnay", 
+            "long": "2.12213"
+        }, 
+        {
+            "lat": "48.93872", 
+            "name": "Le Blanc-Mesnil", 
+            "long": "2.46138"
+        }, 
+        {
+            "lat": "48.86667", 
+            "name": "Lagny-sur-Marne", 
+            "long": "2.71667"
+        }, 
+        {
+            "lat": "48.90472", 
+            "name": "La Garenne-Colombes", 
+            "long": "2.2469"
+        }, 
+        {
+            "lat": "48.92805", 
+            "name": "La Courneuve", 
+            "long": "2.39627"
+        }, 
+        {
+            "lat": "48.85029", 
+            "name": "La Celle-Saint-Cloud", 
+            "long": "2.14523"
+        }, 
+        {
+            "lat": "49.01068", 
+            "name": "Jouy-le-Moutier", 
+            "long": "2.04028"
+        }, 
+        {
+            "lat": "48.82538", 
+            "name": "Joinville-le-Pont", 
+            "long": "2.47458"
+        }, 
+        {
+            "lat": "48.81568", 
+            "name": "Ivry-sur-Seine", 
+            "long": "2.38487"
+        }, 
+        {
+            "lat": "48.82104", 
+            "name": "Issy-les-Moulineaux", 
+            "long": "2.27718"
+        }, 
+        {
+            "lat": "48.92161", 
+            "name": "Houilles", 
+            "long": "2.19263"
+        }, 
+        {
+            "lat": "48.98994", 
+            "name": "Herblay", 
+            "long": "2.1699"
+        }, 
+        {
+            "lat": "48.77334", 
+            "name": "Guyancourt", 
+            "long": "2.07393"
+        }, 
+        {
+            "lat": "48.65412", 
+            "name": "Grigny", 
+            "long": "2.39343"
+        }, 
+        {
+            "lat": "49.01367", 
+            "name": "Goussainville", 
+            "long": "2.46595"
+        }, 
+        {
+            "lat": "48.98693", 
+            "name": "Gonesse", 
+            "long": "2.44892"
+        }, 
+        {
+            "lat": "48.68333", 
+            "name": "Gif-sur-Yvette", 
+            "long": "2.13333"
+        }, 
+        {
+            "lat": "48.81294", 
+            "name": "Gentilly", 
+            "long": "2.3417"
+        }, 
+        {
+            "lat": "48.93333", 
+            "name": "Gennevilliers", 
+            "long": "2.3"
+        }, 
+        {
+            "lat": "48.96791", 
+            "name": "Garges-l&#232;s-Gonesse", 
+            "long": "2.39781"
+        }, 
+        {
+            "lat": "48.84226", 
+            "name": "Garches", 
+            "long": "2.18232"
+        }, 
+        {
+            "lat": "48.88333", 
+            "name": "Gagny", 
+            "long": "2.53333"
+        }, 
+        {
+            "lat": "48.75568", 
+            "name": "Fresnes", 
+            "long": "2.32241"
+        }, 
+        {
+            "lat": "48.98333", 
+            "name": "Franconville", 
+            "long": "2.23333"
+        }, 
+        {
+            "lat": "48.85442", 
+            "name": "Fontenay-sous-Bois", 
+            "long": "2.48268"
+        }, 
+        {
+            "lat": "48.79325", 
+            "name": "Fontenay-aux-Roses", 
+            "long": "2.29275"
+        }, 
+        {
+            "lat": "48.4", 
+            "name": "Fontainebleau", 
+            "long": "2.7"
+        }, 
+        {
+            "lat": "48.63333", 
+            "name": "&#201;vry", 
+            "long": "2.45"
+        }, 
+        {
+            "lat": "48.43333", 
+            "name": "&#201;tampes", 
+            "long": "2.15"
+        }, 
+        {
+            "lat": "48.99004", 
+            "name": "Ermont", 
+            "long": "2.25804"
+        }, 
+        {
+            "lat": "49.01667", 
+            "name": "&#201;ragny", 
+            "long": "2.1"
+        }, 
+        {
+            "lat": "48.9535", 
+            "name": "&#201;pinay-sur-Seine", 
+            "long": "2.31514"
+        }, 
+        {
+            "lat": "48.78421", 
+            "name": "&#201;lancourt", 
+            "long": "1.9552"
+        }, 
+        {
+            "lat": "48.99712", 
+            "name": "Eaubonne", 
+            "long": "2.28249"
+        }, 
+        {
+            "lat": "48.68466", 
+            "name": "Draveil", 
+            "long": "2.41418"
+        }, 
+        {
+            "lat": "48.92578", 
+            "name": "Drancy", 
+            "long": "2.44533"
+        }, 
+        {
+            "lat": "49.02782", 
+            "name": "Domont", 
+            "long": "2.32638"
+        }, 
+        {
+            "lat": "48.97674", 
+            "name": "Deuil-la-Barre", 
+            "long": "2.32722"
+        }, 
+        {
+            "lat": "48.51667", 
+            "name": "Dammarie-les-Lys", 
+            "long": "2.65"
+        }, 
+        {
+            "lat": "48.78333", 
+            "name": "Cr&#233;teil", 
+            "long": "2.46667"
+        }, 
+        {
+            "lat": "48.89672", 
+            "name": "Courbevoie", 
+            "long": "2.25666"
+        }, 
+        {
+            "lat": "48.81451", 
+            "name": "Coulommiers", 
+            "long": "3.08498"
+        }, 
+        {
+            "lat": "48.97111", 
+            "name": "Cormeilles-en-Parisis", 
+            "long": "2.20491"
+        }, 
+        {
+            "lat": "48.60603", 
+            "name": "Corbeil-Essonnes", 
+            "long": "2.48757"
+        }, 
+        {
+            "lat": "49.00158", 
+            "name": "Conflans-Sainte-Honorine", 
+            "long": "2.09694"
+        }, 
+        {
+            "lat": "48.66497", 
+            "name": "Combs-la-Ville", 
+            "long": "2.56957"
+        }, 
+        {
+            "lat": "48.79813", 
+            "name": "Pontault-Combault", 
+            "long": "2.60676"
+        }, 
+        {
+            "lat": "48.91882", 
+            "name": "Colombes", 
+            "long": "2.25404"
+        }, 
+        {
+            "lat": "48.9102", 
+            "name": "Clichy-sous-Bois", 
+            "long": "2.55323"
+        }, 
+        {
+            "lat": "48.90018", 
+            "name": "Clichy", 
+            "long": "2.30952"
+        }, 
+        {
+            "lat": "48.80299", 
+            "name": "Clamart", 
+            "long": "2.26692"
+        }, 
+        {
+            "lat": "48.76846", 
+            "name": "Choisy-le-Roi", 
+            "long": "2.41874"
+        }, 
+        {
+            "lat": "48.71489", 
+            "name": "Chilly-Mazarin", 
+            "long": "2.31638"
+        }, 
+        {
+            "lat": "48.76476", 
+            "name": "Chevilly-Larue", 
+            "long": "2.3503"
+        }, 
+        {
+            "lat": "48.79702", 
+            "name": "Chennevi&#232;res-sur-Marne", 
+            "long": "2.54046"
+        }, 
+        {
+            "lat": "48.88109", 
+            "name": "Chelles", 
+            "long": "2.59295"
+        }, 
+        {
+            "lat": "48.80565", 
+            "name": "Chaville", 
+            "long": "2.18864"
+        }, 
+        {
+            "lat": "48.8898", 
+            "name": "Chatou", 
+            "long": "2.15863"
+        }, 
+        {
+            "lat": "48.8024", 
+            "name": "Ch&#226;tillon", 
+            "long": "2.29346"
+        }, 
+        {
+            "lat": "48.76507", 
+            "name": "Ch&#226;tenay-Malabry", 
+            "long": "2.26655"
+        }, 
+        {
+            "lat": "48.82209", 
+            "name": "Charenton-le-Pont", 
+            "long": "2.41217"
+        }, 
+        {
+            "lat": "48.85", 
+            "name": "Champs-sur-Marne", 
+            "long": "2.6"
+        }, 
+        {
+            "lat": "48.81642", 
+            "name": "Champigny-sur-Marne", 
+            "long": "2.49366"
+        }, 
+        {
+            "lat": "49.03645", 
+            "name": "Cergy", 
+            "long": "2.07613"
+        }, 
+        {
+            "lat": "48.94952", 
+            "name": "Carri&#232;res-sous-Poissy", 
+            "long": "2.04068"
+        }, 
+        {
+            "lat": "48.79632", 
+            "name": "Cachan", 
+            "long": "2.33661"
+        }, 
+        {
+            "lat": "48.83811", 
+            "name": "Bry-sur-Marne", 
+            "long": "2.52488"
+        }, 
+        {
+            "lat": "48.6942", 
+            "name": "Brunoy", 
+            "long": "2.49223"
+        }, 
+        {
+            "lat": "48.68333", 
+            "name": "Brie-Comte-Robert", 
+            "long": "2.61667"
+        }, 
+        {
+            "lat": "48.61135", 
+            "name": "Br&#233;tigny-sur-Orge", 
+            "long": "2.30593"
+        }, 
+        {
+            "lat": "48.77888", 
+            "name": "Bourg-la-Reine", 
+            "long": "2.31781"
+        }, 
+        {
+            "lat": "48.83333", 
+            "name": "Boulogne-Billancourt", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "48.7695", 
+            "name": "Bonneuil-sur-Marne", 
+            "long": "2.4793"
+        }, 
+        {
+            "lat": "48.9018", 
+            "name": "Bondy", 
+            "long": "2.48931"
+        }, 
+        {
+            "lat": "48.75149", 
+            "name": "Boissy-Saint-L&#233;ger", 
+            "long": "2.51163"
+        }, 
+        {
+            "lat": "48.91936", 
+            "name": "Bois-Colombes", 
+            "long": "2.27485"
+        }, 
+        {
+            "lat": "48.9", 
+            "name": "Bobigny", 
+            "long": "2.45"
+        }, 
+        {
+            "lat": "48.92426", 
+            "name": "Bezons", 
+            "long": "2.2128"
+        }, 
+        {
+            "lat": "48.86667", 
+            "name": "Bagnolet", 
+            "long": "2.41667"
+        }, 
+        {
+            "lat": "48.79565", 
+            "name": "Bagneux", 
+            "long": "2.30796"
+        }, 
+        {
+            "lat": "48.40219", 
+            "name": "Avon", 
+            "long": "2.72022"
+        }, 
+        {
+            "lat": "48.93814", 
+            "name": "Aulnay-sous-Bois", 
+            "long": "2.49402"
+        }, 
+        {
+            "lat": "48.91667", 
+            "name": "Aubervilliers", 
+            "long": "2.38333"
+        }, 
+        {
+            "lat": "48.70522", 
+            "name": "Athis-Mons", 
+            "long": "2.39147"
+        }, 
+        {
+            "lat": "48.91667", 
+            "name": "Asni&#232;res-sur-Seine", 
+            "long": "2.28333"
+        }, 
+        {
+            "lat": "48.95", 
+            "name": "Argenteuil", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "48.79993", 
+            "name": "Arcueil", 
+            "long": "2.33256"
+        }, 
+        {
+            "lat": "48.75", 
+            "name": "Antony", 
+            "long": "2.3"
+        }, 
+        {
+            "lat": "48.80575", 
+            "name": "Alfortville", 
+            "long": "2.4204"
+        }, 
+        {
+            "lat": "48.96115", 
+            "name": "Ach&#232;res", 
+            "long": "2.06882"
+        }, 
+        {
+            "lat": "48.68167", 
+            "name": "Les Ulis", 
+            "long": "2.16944"
+        }, 
+        {
+            "lat": "48.89198", 
+            "name": "La Defense", 
+            "long": "2.23881"
+        }, 
+        {
+            "lat": "48.77186", 
+            "name": "Saint-Quentin-en-Yvelines", 
+            "long": "2.01891"
+        }, 
+        {
+            "lat": "49.03894", 
+            "name": "Cergy-Pontoise", 
+            "long": "2.07805"
+        }
+    ], 
+    "C1": [
+        {
+            "lat": "47.8078", 
+            "name": "Wittenheim", 
+            "long": "7.33702"
+        }, 
+        {
+            "lat": "48.58392", 
+            "name": "Strasbourg", 
+            "long": "7.74553"
+        }, 
+        {
+            "lat": "48.26667", 
+            "name": "S&#233;lestat", 
+            "long": "7.45"
+        }, 
+        {
+            "lat": "48.60749", 
+            "name": "Schiltigheim", 
+            "long": "7.74931"
+        }, 
+        {
+            "lat": "47.58836", 
+            "name": "Saint-Louis", 
+            "long": "7.56247"
+        }, 
+        {
+            "lat": "47.75", 
+            "name": "Mulhouse", 
+            "long": "7.33333"
+        }, 
+        {
+            "lat": "48.55752", 
+            "name": "Lingolsheim", 
+            "long": "7.68253"
+        }, 
+        {
+            "lat": "47.78088", 
+            "name": "Illzach", 
+            "long": "7.34662"
+        }, 
+        {
+            "lat": "48.52894", 
+            "name": "Illkirch-Graffenstaden", 
+            "long": "7.71523"
+        }, 
+        {
+            "lat": "48.81557", 
+            "name": "Haguenau", 
+            "long": "7.79051"
+        }, 
+        {
+            "lat": "48.08333", 
+            "name": "Colmar", 
+            "long": "7.36667"
+        }, 
+        {
+            "lat": "48.61612", 
+            "name": "Bischheim", 
+            "long": "7.75343"
+        }
+    ], 
+    "99": [
+        {
+            "lat": "49.63829", 
+            "name": "Tourlaville", 
+            "long": "-1.56639"
+        }, 
+        {
+            "lat": "49.11624", 
+            "name": "Saint-L&#244;", 
+            "long": "-1.09031"
+        }, 
+        {
+            "lat": "49.62612", 
+            "name": "Octeville", 
+            "long": "-1.64349"
+        }, 
+        {
+            "lat": "49.1466", 
+            "name": "Lisieux", 
+            "long": "0.22925"
+        }, 
+        {
+            "lat": "49.21088", 
+            "name": "H&#233;rouville-Saint-Clair", 
+            "long": "-0.30653"
+        }, 
+        {
+            "lat": "48.73722", 
+            "name": "Flers", 
+            "long": "-0.57466"
+        }, 
+        {
+            "lat": "49.64868", 
+            "name": "&#201;queurdreville-Hainneville", 
+            "long": "-1.65306"
+        }, 
+        {
+            "lat": "49.63984", 
+            "name": "Cherbourg-Octeville", 
+            "long": "-1.61636"
+        }, 
+        {
+            "lat": "49.18585", 
+            "name": "Caen", 
+            "long": "-0.35912"
+        }, 
+        {
+            "lat": "49.27732", 
+            "name": "Bayeux", 
+            "long": "-0.7039"
+        }, 
+        {
+            "lat": "48.75", 
+            "name": "Argentan", 
+            "long": "-0.01667"
+        }, 
+        {
+            "lat": "48.43333", 
+            "name": "Alen&#231;on", 
+            "long": "0.08333"
+        }
+    ], 
+    "98": [
+        {
+            "lat": "46.11667", 
+            "name": "Vichy", 
+            "long": "3.41667"
+        }, 
+        {
+            "lat": "45.9", 
+            "name": "Riom", 
+            "long": "3.11667"
+        }, 
+        {
+            "lat": "46.56667", 
+            "name": "Moulins", 
+            "long": "3.33333"
+        }, 
+        {
+            "lat": "46.33333", 
+            "name": "Montlu&#231;on", 
+            "long": "2.6"
+        }, 
+        {
+            "lat": "45.04366", 
+            "name": "Le Puy-en-Velay", 
+            "long": "3.88523"
+        }, 
+        {
+            "lat": "45.55", 
+            "name": "Issoire", 
+            "long": "3.25"
+        }, 
+        {
+            "lat": "45.73543", 
+            "name": "Cournon-d&#8217;Auvergne", 
+            "long": "3.19608"
+        }, 
+        {
+            "lat": "45.77966", 
+            "name": "Clermont-Ferrand", 
+            "long": "3.08628"
+        }, 
+        {
+            "lat": "45.77559", 
+            "name": "Chamali&#232;res", 
+            "long": "3.0631"
+        }, 
+        {
+            "lat": "44.91667", 
+            "name": "Aurillac", 
+            "long": "2.45"
+        }
+    ], 
+    "97": [
+        {
+            "lat": "44.40854", 
+            "name": "Villeneuve-sur-Lot", 
+            "long": "0.70415"
+        }, 
+        {
+            "lat": "44.77327", 
+            "name": "Villenave-d&#8217;Ornon", 
+            "long": "-0.5442"
+        }, 
+        {
+            "lat": "44.80477", 
+            "name": "Talence", 
+            "long": "-0.59543"
+        }, 
+        {
+            "lat": "44.89692", 
+            "name": "Saint-M&#233;dard-en-Jalles", 
+            "long": "-0.72136"
+        }, 
+        {
+            "lat": "44.81011", 
+            "name": "Pessac", 
+            "long": "-0.64129"
+        }, 
+        {
+            "lat": "45.18333", 
+            "name": "P&#233;rigueux", 
+            "long": "0.71667"
+        }, 
+        {
+            "lat": "43.3", 
+            "name": "Pau", 
+            "long": "-0.36667"
+        }, 
+        {
+            "lat": "43.89022", 
+            "name": "Mont-de-Marsan", 
+            "long": "-0.49713"
+        }, 
+        {
+            "lat": "44.83248", 
+            "name": "M&#233;rignac", 
+            "long": "-0.63381"
+        }, 
+        {
+            "lat": "44.5", 
+            "name": "Marmande", 
+            "long": "0.16667"
+        }, 
+        {
+            "lat": "44.87495", 
+            "name": "Lormont", 
+            "long": "-0.51782"
+        }, 
+        {
+            "lat": "44.91667", 
+            "name": "Libourne", 
+            "long": "-0.23333"
+        }, 
+        {
+            "lat": "44.866", 
+            "name": "Le Bouscat", 
+            "long": "-0.59411"
+        }, 
+        {
+            "lat": "44.62875", 
+            "name": "La Teste-de-Buch", 
+            "long": "-1.14059"
+        }, 
+        {
+            "lat": "44.63333", 
+            "name": "Gujan-Mestras", 
+            "long": "-1.06667"
+        }, 
+        {
+            "lat": "44.77262", 
+            "name": "Gradignan", 
+            "long": "-0.61393"
+        }, 
+        {
+            "lat": "44.83238", 
+            "name": "Floirac", 
+            "long": "-0.51411"
+        }, 
+        {
+            "lat": "44.88352", 
+            "name": "Eysines", 
+            "long": "-0.64686"
+        }, 
+        {
+            "lat": "43.71032", 
+            "name": "Dax", 
+            "long": "-1.05366"
+        }, 
+        {
+            "lat": "44.74345", 
+            "name": "Cestas", 
+            "long": "-0.67905"
+        }, 
+        {
+            "lat": "44.8559", 
+            "name": "Cenon", 
+            "long": "-0.51839"
+        }, 
+        {
+            "lat": "44.84044", 
+            "name": "Bordeaux", 
+            "long": "-0.5805"
+        }, 
+        {
+            "lat": "44.91248", 
+            "name": "Blanquefort", 
+            "long": "-0.63663"
+        }, 
+        {
+            "lat": "43.48012", 
+            "name": "Biarritz", 
+            "long": "-1.55558"
+        }, 
+        {
+            "lat": "44.85", 
+            "name": "Bergerac", 
+            "long": "0.48333"
+        }, 
+        {
+            "lat": "44.80845", 
+            "name": "B&#232;gles", 
+            "long": "-0.54809"
+        }, 
+        {
+            "lat": "43.48333", 
+            "name": "Bayonne", 
+            "long": "-1.48333"
+        }, 
+        {
+            "lat": "43.47664", 
+            "name": "Anglet", 
+            "long": "-1.51346"
+        }, 
+        {
+            "lat": "44.2", 
+            "name": "Agen", 
+            "long": "0.63333"
+        }
+    ], 
+    "B4": [
+        {
+            "lat": "50.70118", 
+            "name": "Wattrelos", 
+            "long": "3.21812"
+        }, 
+        {
+            "lat": "50.67043", 
+            "name": "Wasquehal", 
+            "long": "3.13382"
+        }, 
+        {
+            "lat": "50.35", 
+            "name": "Valenciennes", 
+            "long": "3.53333"
+        }, 
+        {
+            "lat": "50.72391", 
+            "name": "Tourcoing", 
+            "long": "3.16117"
+        }, 
+        {
+            "lat": "50.36159", 
+            "name": "Sin-le-Noble", 
+            "long": "3.13113"
+        }, 
+        {
+            "lat": "51.03116", 
+            "name": "Saint-Pol-sur-Mer", 
+            "long": "2.33983"
+        }, 
+        {
+            "lat": "50.75", 
+            "name": "Saint-Omer", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "50.44718", 
+            "name": "Saint-Amand-les-Eaux", 
+            "long": "3.43076"
+        }, 
+        {
+            "lat": "50.69421", 
+            "name": "Roubaix", 
+            "long": "3.17456"
+        }, 
+        {
+            "lat": "50.59883", 
+            "name": "Ronchin", 
+            "long": "3.09056"
+        }, 
+        {
+            "lat": "50.70535", 
+            "name": "Outreau", 
+            "long": "1.5897"
+        }, 
+        {
+            "lat": "50.63333", 
+            "name": "Mons-en-Bar&#339;ul", 
+            "long": "3.11667"
+        }, 
+        {
+            "lat": "50.27875", 
+            "name": "Maubeuge", 
+            "long": "3.97267"
+        }, 
+        {
+            "lat": "50.66667", 
+            "name": "Marcq-en-Bar&#339;ul", 
+            "long": "3.08333"
+        }, 
+        {
+            "lat": "50.60982", 
+            "name": "Loos", 
+            "long": "3.01874"
+        }, 
+        {
+            "lat": "50.64358", 
+            "name": "Lomme", 
+            "long": "2.98715"
+        }, 
+        {
+            "lat": "50.63297", 
+            "name": "Lille", 
+            "long": "3.05858"
+        }, 
+        {
+            "lat": "50.4198", 
+            "name": "Li&#233;vin", 
+            "long": "2.78068"
+        }, 
+        {
+            "lat": "50.43302", 
+            "name": "Lens", 
+            "long": "2.82791"
+        }, 
+        {
+            "lat": "50.65", 
+            "name": "Lambersart", 
+            "long": "3.03333"
+        }, 
+        {
+            "lat": "50.64603", 
+            "name": "La Madeleine", 
+            "long": "3.07585"
+        }, 
+        {
+            "lat": "50.41359", 
+            "name": "H&#233;nin-Beaumont", 
+            "long": "2.96485"
+        }, 
+        {
+            "lat": "50.65256", 
+            "name": "Hem", 
+            "long": "3.18681"
+        }, 
+        {
+            "lat": "50.72374", 
+            "name": "Hazebrouck", 
+            "long": "2.53729"
+        }, 
+        {
+            "lat": "50.25077", 
+            "name": "Hautmont", 
+            "long": "3.92143"
+        }, 
+        {
+            "lat": "50.60826", 
+            "name": "Haubourdin", 
+            "long": "2.99143"
+        }, 
+        {
+            "lat": "50.78628", 
+            "name": "Halluin", 
+            "long": "3.12611"
+        }, 
+        {
+            "lat": "51.0154", 
+            "name": "Grande-Synthe", 
+            "long": "2.29975"
+        }, 
+        {
+            "lat": "50.58333", 
+            "name": "Faches-Thumesnil", 
+            "long": "3.06667"
+        }, 
+        {
+            "lat": "51.03297", 
+            "name": "Dunkerque", 
+            "long": "2.377"
+        }, 
+        {
+            "lat": "50.36667", 
+            "name": "Douai", 
+            "long": "3.06667"
+        }, 
+        {
+            "lat": "50.3293", 
+            "name": "Denain", 
+            "long": "3.3943"
+        }, 
+        {
+            "lat": "50.67846", 
+            "name": "Croix", 
+            "long": "3.1493"
+        }, 
+        {
+            "lat": "51.02288", 
+            "name": "Coudekerque-Branche", 
+            "long": "2.39359"
+        }, 
+        {
+            "lat": "50.49235", 
+            "name": "Carvin", 
+            "long": "2.95815"
+        }, 
+        {
+            "lat": "50.16667", 
+            "name": "Cambrai", 
+            "long": "3.23333"
+        }, 
+        {
+            "lat": "50.95194", 
+            "name": "Calais", 
+            "long": "1.85635"
+        }, 
+        {
+            "lat": "50.48333", 
+            "name": "Bruay-la-Buissi&#232;re", 
+            "long": "2.55"
+        }, 
+        {
+            "lat": "50.71667", 
+            "name": "Boulogne-sur-Mer", 
+            "long": "1.61667"
+        }, 
+        {
+            "lat": "50.53333", 
+            "name": "B&#233;thune", 
+            "long": "2.63333"
+        }, 
+        {
+            "lat": "50.4", 
+            "name": "Berck", 
+            "long": "1.6"
+        }, 
+        {
+            "lat": "50.40704", 
+            "name": "Berck-Plage", 
+            "long": "1.56446"
+        }, 
+        {
+            "lat": "50.41038", 
+            "name": "Avion", 
+            "long": "2.83053"
+        }, 
+        {
+            "lat": "50.29301", 
+            "name": "Arras", 
+            "long": "2.78186"
+        }, 
+        {
+            "lat": "50.68568", 
+            "name": "Armenti&#232;res", 
+            "long": "2.88214"
+        }, 
+        {
+            "lat": "50.61669", 
+            "name": "Villeneuve-d'Ascq", 
+            "long": "3.16664"
+        }
+    ], 
+    "B5": [
+        {
+            "lat": "47.16869", 
+            "name": "Vertou", 
+            "long": "-1.46929"
+        }, 
+        {
+            "lat": "47.26667", 
+            "name": "Saumur", 
+            "long": "-0.08333"
+        }, 
+        {
+            "lat": "47.20768", 
+            "name": "Saint-S&#233;bastien-sur-Loire", 
+            "long": "-1.50332"
+        }, 
+        {
+            "lat": "47.28333", 
+            "name": "Saint-Nazaire", 
+            "long": "-2.2"
+        }, 
+        {
+            "lat": "47.21765", 
+            "name": "Saint-Herblain", 
+            "long": "-1.64841"
+        }, 
+        {
+            "lat": "47.18144", 
+            "name": "Rez&#233;", 
+            "long": "-1.54965"
+        }, 
+        {
+            "lat": "47.27095", 
+            "name": "Orvault", 
+            "long": "-1.6219"
+        }, 
+        {
+            "lat": "47.21725", 
+            "name": "Nantes", 
+            "long": "-1.55336"
+        }, 
+        {
+            "lat": "48.3", 
+            "name": "Mayenne", 
+            "long": "-0.61667"
+        }, 
+        {
+            "lat": "46.5", 
+            "name": "Les Sables-d'Olonne", 
+            "long": "-1.78333"
+        }, 
+        {
+            "lat": "46.86667", 
+            "name": "Les Herbiers", 
+            "long": "-1.01667"
+        }, 
+        {
+            "lat": "48", 
+            "name": "Le Mans", 
+            "long": "0.2"
+        }, 
+        {
+            "lat": "48.06667", 
+            "name": "Laval", 
+            "long": "-0.76667"
+        }, 
+        {
+            "lat": "46.66667", 
+            "name": "La Roche-sur-Yon", 
+            "long": "-1.43333"
+        }, 
+        {
+            "lat": "47.69815", 
+            "name": "La Fl&#232;che", 
+            "long": "-0.07553"
+        }, 
+        {
+            "lat": "47.29583", 
+            "name": "La Chapelle-sur-Erdre", 
+            "long": "-1.55309"
+        }, 
+        {
+            "lat": "47.32911", 
+            "name": "Gu&#233;rande", 
+            "long": "-2.42829"
+        }, 
+        {
+            "lat": "46.46667", 
+            "name": "Fontenay-le-Comte", 
+            "long": "-0.81667"
+        }, 
+        {
+            "lat": "47.29221", 
+            "name": "La Baule-Escoublac", 
+            "long": "-2.36395"
+        }, 
+        {
+            "lat": "47.21508", 
+            "name": "Cou&#235;ron", 
+            "long": "-1.72171"
+        }, 
+        {
+            "lat": "47.06667", 
+            "name": "Cholet", 
+            "long": "-0.88333"
+        }, 
+        {
+            "lat": "46.84363", 
+            "name": "Challans", 
+            "long": "-1.87491"
+        }, 
+        {
+            "lat": "47.29821", 
+            "name": "Carquefou", 
+            "long": "-1.49024"
+        }, 
+        {
+            "lat": "47.17762", 
+            "name": "Bouguenais", 
+            "long": "-1.62143"
+        }, 
+        {
+            "lat": "47.46667", 
+            "name": "Angers", 
+            "long": "-0.55"
+        }
+    ], 
+    "B6": [
+        {
+            "lat": "49.65607", 
+            "name": "Tergnier", 
+            "long": "3.30107"
+        }, 
+        {
+            "lat": "49.38167", 
+            "name": "Soissons", 
+            "long": "3.32361"
+        }, 
+        {
+            "lat": "49.2", 
+            "name": "Senlis", 
+            "long": "2.58333"
+        }, 
+        {
+            "lat": "49.84889", 
+            "name": "Saint-Quentin", 
+            "long": "3.28757"
+        }, 
+        {
+            "lat": "49.58333", 
+            "name": "Noyon", 
+            "long": "3"
+        }, 
+        {
+            "lat": "49.27158", 
+            "name": "Nogent-sur-Oise", 
+            "long": "2.47074"
+        }, 
+        {
+            "lat": "49.56667", 
+            "name": "Laon", 
+            "long": "3.61667"
+        }, 
+        {
+            "lat": "49.23359", 
+            "name": "Cr&#233;py-en-Valois", 
+            "long": "2.88807"
+        }, 
+        {
+            "lat": "49.25672", 
+            "name": "Creil", 
+            "long": "2.48477"
+        }, 
+        {
+            "lat": "49.41794", 
+            "name": "Compi&#232;gne", 
+            "long": "2.82606"
+        }, 
+        {
+            "lat": "49.05", 
+            "name": "Ch&#226;teau-Thierry", 
+            "long": "3.4"
+        }, 
+        {
+            "lat": "49.43333", 
+            "name": "Beauvais", 
+            "long": "2.08333"
+        }, 
+        {
+            "lat": "49.9", 
+            "name": "Amiens", 
+            "long": "2.3"
+        }, 
+        {
+            "lat": "50.1", 
+            "name": "Abbeville", 
+            "long": "1.83333"
+        }
+    ], 
+    "B7": [
+        {
+            "lat": "45.75", 
+            "name": "Saintes", 
+            "long": "-0.63333"
+        }, 
+        {
+            "lat": "45.62846", 
+            "name": "Royan", 
+            "long": "-1.0281"
+        }, 
+        {
+            "lat": "45.93333", 
+            "name": "Rochefort", 
+            "long": "-0.98333"
+        }, 
+        {
+            "lat": "46.58333", 
+            "name": "Poitiers", 
+            "long": "0.33333"
+        }, 
+        {
+            "lat": "46.32313", 
+            "name": "Niort", 
+            "long": "-0.45877"
+        }, 
+        {
+            "lat": "46.16667", 
+            "name": "La Rochelle", 
+            "long": "-1.15"
+        }, 
+        {
+            "lat": "45.7", 
+            "name": "Cognac", 
+            "long": "-0.33333"
+        }, 
+        {
+            "lat": "46.8", 
+            "name": "Ch&#226;tellerault", 
+            "long": "0.53333"
+        }, 
+        {
+            "lat": "46.85", 
+            "name": "Bressuire", 
+            "long": "-0.48333"
+        }, 
+        {
+            "lat": "45.65", 
+            "name": "Angoul&#234;me", 
+            "long": "0.15"
+        }
+    ], 
+    "B1": [
+        {
+            "lat": "45.26667", 
+            "name": "Tulle", 
+            "long": "1.76667"
+        }, 
+        {
+            "lat": "45.83153", 
+            "name": "Limoges", 
+            "long": "1.25781"
+        }, 
+        {
+            "lat": "46.16667", 
+            "name": "Gu&#233;ret", 
+            "long": "1.86667"
+        }, 
+        {
+            "lat": "45.15", 
+            "name": "Brive-la-Gaillarde", 
+            "long": "1.53333"
+        }
+    ], 
+    "B2": [
+        {
+            "lat": "48.67103", 
+            "name": "Villers-l&#232;s-Nancy", 
+            "long": "6.15083"
+        }, 
+        {
+            "lat": "49.16667", 
+            "name": "Verdun", 
+            "long": "5.38333"
+        }, 
+        {
+            "lat": "48.65", 
+            "name": "Vand&#339;uvre-l&#232;s-Nancy", 
+            "long": "6.18333"
+        }, 
+        {
+            "lat": "48.68333", 
+            "name": "Toul", 
+            "long": "5.9"
+        }, 
+        {
+            "lat": "49.36667", 
+            "name": "Thionville", 
+            "long": "6.16667"
+        }, 
+        {
+            "lat": "49.10995", 
+            "name": "Sarreguemines", 
+            "long": "7.06747"
+        }, 
+        {
+            "lat": "48.28333", 
+            "name": "Saint-Di&#233;-des-Vosges", 
+            "long": "6.95"
+        }, 
+        {
+            "lat": "49.1027", 
+            "name": "Saint-Avold", 
+            "long": "6.70064"
+        }, 
+        {
+            "lat": "48.90786", 
+            "name": "Pont-&#224;-Mousson", 
+            "long": "6.0589"
+        }, 
+        {
+            "lat": "48.68439", 
+            "name": "Nancy", 
+            "long": "6.18496"
+        }, 
+        {
+            "lat": "49.09435", 
+            "name": "Montigny-l&#232;s-Metz", 
+            "long": "6.15167"
+        }, 
+        {
+            "lat": "49.11911", 
+            "name": "Metz", 
+            "long": "6.17269"
+        }, 
+        {
+            "lat": "48.6", 
+            "name": "Lun&#233;ville", 
+            "long": "6.5"
+        }, 
+        {
+            "lat": "48.68315", 
+            "name": "Laxou", 
+            "long": "6.14799"
+        }, 
+        {
+            "lat": "49.33428", 
+            "name": "Hayange", 
+            "long": "6.05267"
+        }, 
+        {
+            "lat": "49.35571", 
+            "name": "Yutz", 
+            "long": "6.1926"
+        }, 
+        {
+            "lat": "49.18333", 
+            "name": "Forbach", 
+            "long": "6.9"
+        }, 
+        {
+            "lat": "48.18333", 
+            "name": "&#201;pinal", 
+            "long": "6.45"
+        }, 
+        {
+            "lat": "48.78333", 
+            "name": "Bar-le-Duc", 
+            "long": "5.16667"
+        }
+    ], 
+    "B3": [
+        {
+            "lat": "43.58872", 
+            "name": "Tournefeuille", 
+            "long": "1.31922"
+        }, 
+        {
+            "lat": "43.60426", 
+            "name": "Toulouse", 
+            "long": "1.44367"
+        }, 
+        {
+            "lat": "43.23333", 
+            "name": "Tarbes", 
+            "long": "0.08333"
+        }, 
+        {
+            "lat": "44.35258", 
+            "name": "Rodez", 
+            "long": "2.57338"
+        }, 
+        {
+            "lat": "43.56566", 
+            "name": "Plaisance-du-Touch", 
+            "long": "1.29749"
+        }, 
+        {
+            "lat": "43.11667", 
+            "name": "Pamiers", 
+            "long": "1.6"
+        }, 
+        {
+            "lat": "43.46667", 
+            "name": "Muret", 
+            "long": "1.35"
+        }, 
+        {
+            "lat": "44.01667", 
+            "name": "Montauban", 
+            "long": "1.35"
+        }, 
+        {
+            "lat": "44.1", 
+            "name": "Millau", 
+            "long": "3.08333"
+        }, 
+        {
+            "lat": "43.1", 
+            "name": "Lourdes", 
+            "long": "-0.05"
+        }, 
+        {
+            "lat": "43.53635", 
+            "name": "Cugnaux", 
+            "long": "1.34428"
+        }, 
+        {
+            "lat": "43.61247", 
+            "name": "Colomiers", 
+            "long": "1.33278"
+        }, 
+        {
+            "lat": "43.6", 
+            "name": "Castres", 
+            "long": "2.25"
+        }, 
+        {
+            "lat": "44.4491", 
+            "name": "Cahors", 
+            "long": "1.43663"
+        }, 
+        {
+            "lat": "43.63276", 
+            "name": "Blagnac", 
+            "long": "1.39399"
+        }, 
+        {
+            "lat": "43.61111", 
+            "name": "Balma", 
+            "long": "1.49944"
+        }, 
+        {
+            "lat": "43.65", 
+            "name": "Auch", 
+            "long": "0.58333"
+        }, 
+        {
+            "lat": "43.9298", 
+            "name": "Albi", 
+            "long": "2.148"
+        }
+    ], 
+    "B8": [
+        {
+            "lat": "43.46", 
+            "name": "Vitrolles", 
+            "long": "5.24861"
+        }, 
+        {
+            "lat": "43.72256", 
+            "name": "Vence", 
+            "long": "7.11257"
+        }, 
+        {
+            "lat": "43.57803", 
+            "name": "Vallauris", 
+            "long": "7.05451"
+        }, 
+        {
+            "lat": "43.11667", 
+            "name": "Toulon", 
+            "long": "5.93333"
+        }, 
+        {
+            "lat": "44.01023", 
+            "name": "Sorgues", 
+            "long": "4.87381"
+        }, 
+        {
+            "lat": "43.1", 
+            "name": "Six-Fours-les-Plages", 
+            "long": "5.85"
+        }, 
+        {
+            "lat": "43.11783", 
+            "name": "Sanary-sur-Mer", 
+            "long": "5.80007"
+        }, 
+        {
+            "lat": "43.64074", 
+            "name": "Salon-de-Provence", 
+            "long": "5.09545"
+        }, 
+        {
+            "lat": "43.42332", 
+            "name": "Saint-Rapha&#235;l", 
+            "long": "6.7735"
+        }, 
+        {
+            "lat": "43.45214", 
+            "name": "Saint-Maximin-la-Sainte-Baume", 
+            "long": "5.86219"
+        }, 
+        {
+            "lat": "43.67097", 
+            "name": "Saint-Laurent-du-Var", 
+            "long": "7.17606"
+        }, 
+        {
+            "lat": "43.40657", 
+            "name": "Port-de-Bouc", 
+            "long": "4.9809"
+        }, 
+        {
+            "lat": "43.69252", 
+            "name": "Pertuis", 
+            "long": "5.50285"
+        }, 
+        {
+            "lat": "44.1392", 
+            "name": "Orange", 
+            "long": "4.80791"
+        }, 
+        {
+            "lat": "43.70313", 
+            "name": "Nice", 
+            "long": "7.26608"
+        }, 
+        {
+            "lat": "43.59873", 
+            "name": "Mougins", 
+            "long": "7.00434"
+        }, 
+        {
+            "lat": "43.58666", 
+            "name": "Miramas", 
+            "long": "5.00464"
+        }, 
+        {
+            "lat": "43.77649", 
+            "name": "Menton", 
+            "long": "7.50435"
+        }, 
+        {
+            "lat": "43.40735", 
+            "name": "Martigues", 
+            "long": "5.05526"
+        }, 
+        {
+            "lat": "43.29695", 
+            "name": "Marseille", 
+            "long": "5.38107"
+        }, 
+        {
+            "lat": "43.41604", 
+            "name": "Marignane", 
+            "long": "5.21453"
+        }, 
+        {
+            "lat": "43.82883", 
+            "name": "Manosque", 
+            "long": "5.78688"
+        }, 
+        {
+            "lat": "43.55", 
+            "name": "Mandelieu-la-Napoule", 
+            "long": "6.93333"
+        }, 
+        {
+            "lat": "43.91915", 
+            "name": "L&#8217;Isle-sur-la-Sorgue", 
+            "long": "5.05092"
+        }, 
+        {
+            "lat": "43.41028", 
+            "name": "Les Pennes-Mirabeau", 
+            "long": "5.31306"
+        }, 
+        {
+            "lat": "43.96119", 
+            "name": "Le Pontet", 
+            "long": "4.86008"
+        }, 
+        {
+            "lat": "43.57662", 
+            "name": "Le Cannet", 
+            "long": "7.01912"
+        }, 
+        {
+            "lat": "43.13741", 
+            "name": "La Valette-du-Var", 
+            "long": "5.98314"
+        }, 
+        {
+            "lat": "43.09818", 
+            "name": "La Seyne-sur-Mer", 
+            "long": "5.88471"
+        }, 
+        {
+            "lat": "43.12277", 
+            "name": "La Garde", 
+            "long": "6.00745"
+        }, 
+        {
+            "lat": "43.14981", 
+            "name": "La Crau", 
+            "long": "6.07425"
+        }, 
+        {
+            "lat": "43.17476", 
+            "name": "La Ciotat", 
+            "long": "5.60449"
+        }, 
+        {
+            "lat": "43.51667", 
+            "name": "Istres", 
+            "long": "4.98333"
+        }, 
+        {
+            "lat": "43.11954", 
+            "name": "Hy&#232;res", 
+            "long": "6.13897"
+        }, 
+        {
+            "lat": "43.66667", 
+            "name": "Grasse", 
+            "long": "6.91667"
+        }, 
+        {
+            "lat": "43.45491", 
+            "name": "Gardanne", 
+            "long": "5.46913"
+        }, 
+        {
+            "lat": "44.56667", 
+            "name": "Gap", 
+            "long": "6.08333"
+        }, 
+        {
+            "lat": "43.43286", 
+            "name": "Fr&#233;jus", 
+            "long": "6.73524"
+        }, 
+        {
+            "lat": "43.43774", 
+            "name": "Fos-sur-Mer", 
+            "long": "4.94457"
+        }, 
+        {
+            "lat": "43.53333", 
+            "name": "Draguignan", 
+            "long": "6.46667"
+        }, 
+        {
+            "lat": "44.09252", 
+            "name": "Digne-les-Bains", 
+            "long": "6.23199"
+        }, 
+        {
+            "lat": "43.83125", 
+            "name": "Cavaillon", 
+            "long": "5.03586"
+        }, 
+        {
+            "lat": "44.05", 
+            "name": "Carpentras", 
+            "long": "5.05"
+        }, 
+        {
+            "lat": "43.55135", 
+            "name": "Cannes", 
+            "long": "7.01275"
+        }, 
+        {
+            "lat": "43.66459", 
+            "name": "Cagnes-sur-Mer", 
+            "long": "7.15339"
+        }, 
+        {
+            "lat": "43.4", 
+            "name": "Brignoles", 
+            "long": "6.06667"
+        }, 
+        {
+            "lat": "43.94834", 
+            "name": "Avignon", 
+            "long": "4.80892"
+        }, 
+        {
+            "lat": "43.29276", 
+            "name": "Aubagne", 
+            "long": "5.57067"
+        }, 
+        {
+            "lat": "43.67681", 
+            "name": "Arles", 
+            "long": "4.63031"
+        }, 
+        {
+            "lat": "43.56241", 
+            "name": "Antibes", 
+            "long": "7.12777"
+        }, 
+        {
+            "lat": "43.33573", 
+            "name": "Allauch", 
+            "long": "5.48201"
+        }, 
+        {
+            "lat": "43.5283", 
+            "name": "Aix-en-Provence", 
+            "long": "5.44973"
+        }, 
+        {
+            "lat": "43.29814", 
+            "name": "Marseille 01", 
+            "long": "5.38407"
+        }, 
+        {
+            "lat": "43.29664", 
+            "name": "Marseille 02", 
+            "long": "5.37034"
+        }, 
+        {
+            "lat": "43.30257", 
+            "name": "Marseille 03", 
+            "long": "5.37583"
+        }, 
+        {
+            "lat": "43.30213", 
+            "name": "Marseille 04", 
+            "long": "5.40141"
+        }, 
+        {
+            "lat": "43.29551", 
+            "name": "Marseille 05", 
+            "long": "5.40055"
+        }, 
+        {
+            "lat": "43.28764", 
+            "name": "Marseille 06", 
+            "long": "5.37918"
+        }, 
+        {
+            "lat": "43.28289", 
+            "name": "Marseille 07", 
+            "long": "5.36021"
+        }, 
+        {
+            "lat": "43.27083", 
+            "name": "Marseille 08", 
+            "long": "5.3821"
+        }, 
+        {
+            "lat": "43.27889", 
+            "name": "Marseille 10", 
+            "long": "5.41523"
+        }, 
+        {
+            "lat": "43.25433", 
+            "name": "Marseille 09", 
+            "long": "5.4057"
+        }, 
+        {
+            "lat": "43.2907", 
+            "name": "Marseille 11", 
+            "long": "5.4384"
+        }, 
+        {
+            "lat": "43.29614", 
+            "name": "Marseille 12", 
+            "long": "5.43617"
+        }, 
+        {
+            "lat": "43.31856", 
+            "name": "Marseille 13", 
+            "long": "5.40836"
+        }, 
+        {
+            "lat": "43.34447", 
+            "name": "Marseille 14", 
+            "long": "5.38004"
+        }, 
+        {
+            "lat": "43.37224", 
+            "name": "Marseille 15", 
+            "long": "5.35386"
+        }, 
+        {
+            "lat": "43.35982", 
+            "name": "Marseille 16", 
+            "long": "5.33421"
+        }
+    ], 
+    "B9": [
+        {
+            "lat": "45.36395", 
+            "name": "Voiron", 
+            "long": "5.59209"
+        }, 
+        {
+            "lat": "45.76667", 
+            "name": "Villeurbanne", 
+            "long": "4.88333"
+        }, 
+        {
+            "lat": "45.98333", 
+            "name": "Villefranche-sur-Sa&#244;ne", 
+            "long": "4.71667"
+        }, 
+        {
+            "lat": "45.6125", 
+            "name": "Villefontaine", 
+            "long": "5.14558"
+        }, 
+        {
+            "lat": "45.51667", 
+            "name": "Vienne", 
+            "long": "4.86667"
+        }, 
+        {
+            "lat": "45.70254", 
+            "name": "V&#233;nissieux", 
+            "long": "4.87147"
+        }, 
+        {
+            "lat": "45.7818", 
+            "name": "Vaulx-en-Velin", 
+            "long": "4.92085"
+        }, 
+        {
+            "lat": "44.93333", 
+            "name": "Valence", 
+            "long": "4.9"
+        }, 
+        {
+            "lat": "46.36667", 
+            "name": "Thonon-les-Bains", 
+            "long": "6.48333"
+        }, 
+        {
+            "lat": "45.75499", 
+            "name": "Tassin-la-Demi-Lune", 
+            "long": "4.78812"
+        }, 
+        {
+            "lat": "45.88549", 
+            "name": "Seynod", 
+            "long": "6.08831"
+        }, 
+        {
+            "lat": "45.94423", 
+            "name": "Sallanches", 
+            "long": "6.63162"
+        }, 
+        {
+            "lat": "45.69613", 
+            "name": "Saint-Priest", 
+            "long": "4.93891"
+        }, 
+        {
+            "lat": "45.16528", 
+            "name": "Saint-Martin-d&#8217;H&#232;res", 
+            "long": "5.76337"
+        }, 
+        {
+            "lat": "45.69558", 
+            "name": "Saint-Genis-Laval", 
+            "long": "4.7934"
+        }, 
+        {
+            "lat": "45.7088", 
+            "name": "Saint-Fons", 
+            "long": "4.86057"
+        }, 
+        {
+            "lat": "45.43389", 
+            "name": "Saint-&#201;tienne", 
+            "long": "4.39"
+        }, 
+        {
+            "lat": "45.73692", 
+            "name": "Sainte-Foy-l&#232;s-Lyon", 
+            "long": "4.79688"
+        }, 
+        {
+            "lat": "45.23333", 
+            "name": "Saint-&#201;gr&#232;ve", 
+            "long": "5.68333"
+        }, 
+        {
+            "lat": "45.47365", 
+            "name": "Saint-Chamond", 
+            "long": "4.52541"
+        }, 
+        {
+            "lat": "45.04639", 
+            "name": "Romans-sur-Is&#232;re", 
+            "long": "5.0562"
+        }, 
+        {
+            "lat": "46.03333", 
+            "name": "Roanne", 
+            "long": "4.06667"
+        }, 
+        {
+            "lat": "45.81667", 
+            "name": "Rillieux-la-Pape", 
+            "long": "4.9"
+        }, 
+        {
+            "lat": "46.25917", 
+            "name": "Oyonnax", 
+            "long": "5.65727"
+        }, 
+        {
+            "lat": "45.71774", 
+            "name": "Oullins", 
+            "long": "4.80382"
+        }, 
+        {
+            "lat": "44.55838", 
+            "name": "Mont&#233;limar", 
+            "long": "4.75094"
+        }, 
+        {
+            "lat": "45.6", 
+            "name": "Montbrison", 
+            "long": "4.05"
+        }, 
+        {
+            "lat": "45.76667", 
+            "name": "Meyzieu", 
+            "long": "5"
+        }, 
+        {
+            "lat": "45.21988", 
+            "name": "Meylan", 
+            "long": "5.79007"
+        }, 
+        {
+            "lat": "45.74846", 
+            "name": "Lyon", 
+            "long": "4.84671"
+        }, 
+        {
+            "lat": "45.16667", 
+            "name": "Grenoble", 
+            "long": "5.71667"
+        }, 
+        {
+            "lat": "45.58415", 
+            "name": "Givors", 
+            "long": "4.77256"
+        }, 
+        {
+            "lat": "45.19839", 
+            "name": "Fontaine", 
+            "long": "5.68265"
+        }, 
+        {
+            "lat": "45.38732", 
+            "name": "Firminy", 
+            "long": "4.29074"
+        }, 
+        {
+            "lat": "45.77726", 
+            "name": "&#201;cully", 
+            "long": "4.77481"
+        }, 
+        {
+            "lat": "45.1439", 
+            "name": "&#201;chirolles", 
+            "long": "5.72883"
+        }, 
+        {
+            "lat": "45.76899", 
+            "name": "D&#233;cines-Charpieu", 
+            "long": "4.97277"
+        }, 
+        {
+            "lat": "45.9", 
+            "name": "Cran-Gevrier", 
+            "long": "6.1"
+        }, 
+        {
+            "lat": "46.06251", 
+            "name": "Cluses", 
+            "long": "6.57497"
+        }, 
+        {
+            "lat": "45.56667", 
+            "name": "Chamb&#233;ry", 
+            "long": "5.93333"
+        }, 
+        {
+            "lat": "45.79041", 
+            "name": "Caluire-et-Cuire", 
+            "long": "4.84112"
+        }, 
+        {
+            "lat": "45.73333", 
+            "name": "Bron", 
+            "long": "4.91667"
+        }, 
+        {
+            "lat": "45.58333", 
+            "name": "Bourgoin", 
+            "long": "5.28333"
+        }, 
+        {
+            "lat": "44.95601", 
+            "name": "Bourg-l&#232;s-Valence", 
+            "long": "4.91023"
+        }, 
+        {
+            "lat": "46.20574", 
+            "name": "Bourg-en-Bresse", 
+            "long": "5.2258"
+        }, 
+        {
+            "lat": "45.23969", 
+            "name": "Annonay", 
+            "long": "4.67075"
+        }, 
+        {
+            "lat": "46.19439", 
+            "name": "Annemasse", 
+            "long": "6.23775"
+        }, 
+        {
+            "lat": "45.91971", 
+            "name": "Annecy-le-Vieux", 
+            "long": "6.14393"
+        }, 
+        {
+            "lat": "45.9", 
+            "name": "Annecy", 
+            "long": "6.11667"
+        }, 
+        {
+            "lat": "45.67452", 
+            "name": "Albertville", 
+            "long": "6.39061"
+        }, 
+        {
+            "lat": "45.68338", 
+            "name": "Aix-les-Bains", 
+            "long": "5.92241"
+        }, 
+        {
+            "lat": "45.58611", 
+            "name": "Bourgoin-Jallieu", 
+            "long": "5.27361"
+        }
+    ]
+}

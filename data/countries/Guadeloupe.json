@@ -1,0 +1,54 @@
+{
+    "GP": [
+        {
+            "lat": "16.33238", 
+            "name": "Sainte-Rose", 
+            "long": "-61.69793"
+        }, 
+        {
+            "lat": "16.22636", 
+            "name": "Sainte-Anne", 
+            "long": "-61.37919"
+        }, 
+        {
+            "lat": "16.24125", 
+            "name": "Pointe-&#224;-Pitre", 
+            "long": "-61.53614"
+        }, 
+        {
+            "lat": "16.19135", 
+            "name": "Petit-Bourg", 
+            "long": "-61.59159"
+        }, 
+        {
+            "lat": "16.27095", 
+            "name": "Les Abymes", 
+            "long": "-61.50451"
+        }, 
+        {
+            "lat": "16.33315", 
+            "name": "Le Moule", 
+            "long": "-61.34728"
+        }, 
+        {
+            "lat": "16.20685", 
+            "name": "Le Gosier", 
+            "long": "-61.49329"
+        }, 
+        {
+            "lat": "16.04322", 
+            "name": "Capesterre-Belle-Eau", 
+            "long": "-61.56596"
+        }, 
+        {
+            "lat": "15.99854", 
+            "name": "Basse-Terre", 
+            "long": "-61.72548"
+        }, 
+        {
+            "lat": "16.26738", 
+            "name": "Baie-Mahault", 
+            "long": "-61.58543"
+        }
+    ]
+}

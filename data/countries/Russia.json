@@ -1,0 +1,5606 @@
+{
+    "09": [
+        {
+            "lat": "50.2035", 
+            "name": "Valuyki", 
+            "long": "38.1067"
+        }, 
+        {
+            "lat": "50.78543", 
+            "name": "Stroitel&#8217;", 
+            "long": "36.4831"
+        }, 
+        {
+            "lat": "51.29667", 
+            "name": "Staryy Oskol", 
+            "long": "37.84167"
+        }, 
+        {
+            "lat": "50.40967", 
+            "name": "Shebekino", 
+            "long": "36.9136"
+        }, 
+        {
+            "lat": "50.53439", 
+            "name": "Razumnoye", 
+            "long": "36.68462"
+        }, 
+        {
+            "lat": "50.7633", 
+            "name": "Novyy Oskol", 
+            "long": "37.86402"
+        }, 
+        {
+            "lat": "51.28167", 
+            "name": "Gubkin", 
+            "long": "37.54583"
+        }, 
+        {
+            "lat": "50.94095", 
+            "name": "Chernyanka", 
+            "long": "37.80693"
+        }, 
+        {
+            "lat": "50.61074", 
+            "name": "Belgorod", 
+            "long": "36.58015"
+        }, 
+        {
+            "lat": "50.6309", 
+            "name": "Alekseyevka", 
+            "long": "38.6903"
+        }
+    ], 
+    "81": [
+        {
+            "lat": "54.32824", 
+            "name": "Ulyanovsk", 
+            "long": "48.38657"
+        }, 
+        {
+            "lat": "54.14961", 
+            "name": "Novoul&#8217;yanovsk", 
+            "long": "48.38907"
+        }, 
+        {
+            "lat": "53.85672", 
+            "name": "Inza", 
+            "long": "46.35622"
+        }, 
+        {
+            "lat": "54.21386", 
+            "name": "Dimitrovgrad", 
+            "long": "49.61838"
+        }, 
+        {
+            "lat": "53.65533", 
+            "name": "Barysh", 
+            "long": "47.11229"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "57.43931", 
+            "name": "Volgorechensk", 
+            "long": "41.15553"
+        }, 
+        {
+            "lat": "58.36909", 
+            "name": "Shar&#8217;ya", 
+            "long": "45.51558"
+        }, 
+        {
+            "lat": "57.45881", 
+            "name": "Nerekhta", 
+            "long": "40.57471"
+        }, 
+        {
+            "lat": "58.32889", 
+            "name": "Manturovo", 
+            "long": "44.76406"
+        }, 
+        {
+            "lat": "57.76647", 
+            "name": "Kostroma", 
+            "long": "40.92686"
+        }, 
+        {
+            "lat": "58.37884", 
+            "name": "Galich", 
+            "long": "42.34633"
+        }, 
+        {
+            "lat": "58.48067", 
+            "name": "Buy", 
+            "long": "41.53699"
+        }
+    ], 
+    "30": [
+        {
+            "lat": "52.01577", 
+            "name": "Mayma", 
+            "long": "85.90963"
+        }, 
+        {
+            "lat": "47.53757", 
+            "name": "Vyazemskiy", 
+            "long": "134.75556"
+        }, 
+        {
+            "lat": "50.55034", 
+            "name": "Komsomolsk-on-Amur", 
+            "long": "137.00995"
+        }, 
+        {
+            "lat": "48.48271", 
+            "name": "Khabarovsk", 
+            "long": "135.08379"
+        }, 
+        {
+            "lat": "46.81293", 
+            "name": "Bikin", 
+            "long": "134.25012"
+        }, 
+        {
+            "lat": "50.23685", 
+            "name": "Amursk", 
+            "long": "136.88136"
+        }, 
+        {
+            "lat": "48.43776", 
+            "name": "Khabarovsk Vtoroy", 
+            "long": "135.13329"
+        }, 
+        {
+            "lat": "49.09848", 
+            "name": "Vanino", 
+            "long": "140.25313"
+        }, 
+        {
+            "lat": "48.97215", 
+            "name": "Sovetskaya Gavan&#8217;", 
+            "long": "140.28919"
+        }, 
+        {
+            "lat": "53.14657", 
+            "name": "Nikolayevsk-on-Amure", 
+            "long": "140.72287"
+        }
+    ], 
+    "50": [
+        {
+            "lat": "67.63869", 
+            "name": "Nar'yan-Mar", 
+            "long": "53.00371"
+        }
+    ], 
+    "60": [
+        {
+            "lat": "56.34", 
+            "name": "Velikiye Luki", 
+            "long": "30.54517"
+        }, 
+        {
+            "lat": "57.8136", 
+            "name": "Pskov", 
+            "long": "28.3496"
+        }, 
+        {
+            "lat": "57.34395", 
+            "name": "Ostrov", 
+            "long": "28.35368"
+        }, 
+        {
+            "lat": "56.02094", 
+            "name": "Nevel&#8217;", 
+            "long": "29.92844"
+        }
+    ], 
+    "61": [
+        {
+            "lat": "48.02108", 
+            "name": "Zverevo", 
+            "long": "40.12282"
+        }, 
+        {
+            "lat": "47.1474", 
+            "name": "Zimovniki", 
+            "long": "42.4721"
+        }, 
+        {
+            "lat": "46.84518", 
+            "name": "Zernograd", 
+            "long": "40.30834"
+        }, 
+        {
+            "lat": "46.56564", 
+            "name": "Yegorlykskaya", 
+            "long": "40.65621"
+        }, 
+        {
+            "lat": "47.51361", 
+            "name": "Volgodonsk", 
+            "long": "42.15139"
+        }, 
+        {
+            "lat": "47.64611", 
+            "name": "Tsimlyansk", 
+            "long": "42.10194"
+        }, 
+        {
+            "lat": "47.23617", 
+            "name": "Taganrog", 
+            "long": "38.89688"
+        }, 
+        {
+            "lat": "47.70911", 
+            "name": "Shakhty", 
+            "long": "40.21443"
+        }, 
+        {
+            "lat": "47.51943", 
+            "name": "Semikarakorsk", 
+            "long": "40.8112"
+        }, 
+        {
+            "lat": "46.4747", 
+            "name": "Sal&#8217;sk", 
+            "long": "41.54114"
+        }, 
+        {
+            "lat": "47.23135", 
+            "name": "Rostov-na-Donu", 
+            "long": "39.72328"
+        }, 
+        {
+            "lat": "46.70289", 
+            "name": "Proletarsk", 
+            "long": "41.72717"
+        }, 
+        {
+            "lat": "46.87139", 
+            "name": "Orlovskiy", 
+            "long": "42.05917"
+        }, 
+        {
+            "lat": "47.76037", 
+            "name": "Novoshakhtinsk", 
+            "long": "39.93335"
+        }, 
+        {
+            "lat": "47.42018", 
+            "name": "Novocherkassk", 
+            "long": "40.09132"
+        }, 
+        {
+            "lat": "48.35502", 
+            "name": "Morozovsk", 
+            "long": "41.82627"
+        }, 
+        {
+            "lat": "48.92265", 
+            "name": "Millerovo", 
+            "long": "40.39673"
+        }, 
+        {
+            "lat": "47.89221", 
+            "name": "Krasnyy Sulin", 
+            "long": "40.07037"
+        }, 
+        {
+            "lat": "47.58278", 
+            "name": "Konstantinovsk", 
+            "long": "41.09222"
+        }, 
+        {
+            "lat": "48.31779", 
+            "name": "Kamensk-Shakhtinskiy", 
+            "long": "40.25948"
+        }, 
+        {
+            "lat": "48.06212", 
+            "name": "Gukovo", 
+            "long": "39.9355"
+        }, 
+        {
+            "lat": "48.33487", 
+            "name": "Donetsk", 
+            "long": "39.9459"
+        }, 
+        {
+            "lat": "48.18585", 
+            "name": "Belaya Kalitva", 
+            "long": "40.77424"
+        }, 
+        {
+            "lat": "47.13975", 
+            "name": "Bataysk", 
+            "long": "39.75181"
+        }, 
+        {
+            "lat": "47.32411", 
+            "name": "Bagayevskaya", 
+            "long": "40.38791"
+        }, 
+        {
+            "lat": "47.10779", 
+            "name": "Azov", 
+            "long": "39.41648"
+        }, 
+        {
+            "lat": "47.25838", 
+            "name": "Aksay", 
+            "long": "39.86675"
+        }, 
+        {
+            "lat": "47.52972", 
+            "name": "Persianovka", 
+            "long": "39.41833"
+        }
+    ], 
+    "62": [
+        {
+            "lat": "54.35369", 
+            "name": "Sasovo", 
+            "long": "41.91986"
+        }, 
+        {
+            "lat": "53.82486", 
+            "name": "Skopin", 
+            "long": "39.55053"
+        }, 
+        {
+            "lat": "54.3204", 
+            "name": "Shilovo", 
+            "long": "40.874"
+        }, 
+        {
+            "lat": "54.72774", 
+            "name": "Rybnoye", 
+            "long": "39.51731"
+        }, 
+        {
+            "lat": "53.7038", 
+            "name": "Ryazhsk", 
+            "long": "40.1109"
+        }, 
+        {
+            "lat": "54.6269", 
+            "name": "Ryazan&#8217;", 
+            "long": "39.6916"
+        }, 
+        {
+            "lat": "54.0384", 
+            "name": "Novomichurinsk", 
+            "long": "39.7479"
+        }, 
+        {
+            "lat": "54.94111", 
+            "name": "Kasimov", 
+            "long": "41.39528"
+        }
+    ], 
+    "63": [
+        {
+            "lat": "62.03389", 
+            "name": "Yakutsk", 
+            "long": "129.73306"
+        }, 
+        {
+            "lat": "66.42989", 
+            "name": "Udachny", 
+            "long": "112.4021"
+        }, 
+        {
+            "lat": "56.66637", 
+            "name": "Neryungri", 
+            "long": "124.63825"
+        }, 
+        {
+            "lat": "62.53528", 
+            "name": "Mirny", 
+            "long": "113.96111"
+        }, 
+        {
+            "lat": "60.72528", 
+            "name": "Lensk", 
+            "long": "114.92778"
+        }, 
+        {
+            "lat": "65.93381", 
+            "name": "Aykhal", 
+            "long": "111.4834"
+        }, 
+        {
+            "lat": "58.61021", 
+            "name": "Aldan", 
+            "long": "125.39613"
+        }
+    ], 
+    "64": [
+        {
+            "lat": "46.95407", 
+            "name": "Yuzhno-Sakhalinsk", 
+            "long": "142.73603"
+        }, 
+        {
+            "lat": "49.22188", 
+            "name": "Poronaysk", 
+            "long": "143.09694"
+        }, 
+        {
+            "lat": "53.58991", 
+            "name": "Okha", 
+            "long": "142.95313"
+        }, 
+        {
+            "lat": "46.67902", 
+            "name": "Nevel&#8217;sk", 
+            "long": "141.85629"
+        }, 
+        {
+            "lat": "46.6342", 
+            "name": "Korsakov", 
+            "long": "142.77722"
+        }, 
+        {
+            "lat": "47.04737", 
+            "name": "Kholmsk", 
+            "long": "142.05048"
+        }
+    ], 
+    "65": [
+        {
+            "lat": "53.39972", 
+            "name": "Zhigulevsk", 
+            "long": "49.49528"
+        }, 
+        {
+            "lat": "53.5303", 
+            "name": "Tol&#8217;yatti", 
+            "long": "49.3461"
+        }, 
+        {
+            "lat": "53.1585", 
+            "name": "Syzran&#8217;", 
+            "long": "48.4681"
+        }, 
+        {
+            "lat": "53.20007", 
+            "name": "Samara", 
+            "long": "50.15"
+        }, 
+        {
+            "lat": "53.65237", 
+            "name": "Pokhvistnevo", 
+            "long": "52.12738"
+        }, 
+        {
+            "lat": "53.37596", 
+            "name": "Otradnyy", 
+            "long": "51.3452"
+        }, 
+        {
+            "lat": "53.0959", 
+            "name": "Novokuybyshevsk", 
+            "long": "49.9462"
+        }, 
+        {
+            "lat": "52.802", 
+            "name": "Neftegorsk", 
+            "long": "51.166"
+        }, 
+        {
+            "lat": "53.4706", 
+            "name": "Kinel&#8217;-Cherkassy", 
+            "long": "51.47431"
+        }, 
+        {
+            "lat": "53.22571", 
+            "name": "Kinel&#8217;", 
+            "long": "50.62907"
+        }, 
+        {
+            "lat": "52.9771", 
+            "name": "Chapayevsk", 
+            "long": "49.7086"
+        }, 
+        {
+            "lat": "52.982", 
+            "name": "Bezenchuk", 
+            "long": "49.4333"
+        }
+    ], 
+    "66": [
+        {
+            "lat": "60.01667", 
+            "name": "Sosnovka", 
+            "long": "30.35"
+        }, 
+        {
+            "lat": "59.83889", 
+            "name": "Uritsk", 
+            "long": "30.17528"
+        }, 
+        {
+            "lat": "59.98834", 
+            "name": "Staraya Derevnya", 
+            "long": "30.24296"
+        }, 
+        {
+            "lat": "59.83528", 
+            "name": "Sosnovaya Polyana", 
+            "long": "30.14667"
+        }, 
+        {
+            "lat": "59.80917", 
+            "name": "Shushary", 
+            "long": "30.38167"
+        }, 
+        {
+            "lat": "60.09801", 
+            "name": "Sestroretsk", 
+            "long": "29.96378"
+        }, 
+        {
+            "lat": "59.93863", 
+            "name": "Saint Petersburg", 
+            "long": "30.31413"
+        }, 
+        {
+            "lat": "59.71417", 
+            "name": "Pushkin", 
+            "long": "30.39642"
+        }, 
+        {
+            "lat": "59.89565", 
+            "name": "Petrodvorets", 
+            "long": "29.80145"
+        }, 
+        {
+            "lat": "59.88333", 
+            "name": "Peterhof", 
+            "long": "29.9"
+        }, 
+        {
+            "lat": "59.68333", 
+            "name": "Pavlovsk", 
+            "long": "30.43472"
+        }, 
+        {
+            "lat": "60.03947", 
+            "name": "Ozerki", 
+            "long": "30.31128"
+        }, 
+        {
+            "lat": "59.98748", 
+            "name": "Novaya Derevnya", 
+            "long": "30.28682"
+        }, 
+        {
+            "lat": "59.80083", 
+            "name": "Metallostroy", 
+            "long": "30.54778"
+        }, 
+        {
+            "lat": "59.90612", 
+            "name": "Lomonosov", 
+            "long": "29.77253"
+        }, 
+        {
+            "lat": "60.00448", 
+            "name": "Komendantsky aerodrom", 
+            "long": "30.27523"
+        }, 
+        {
+            "lat": "59.85278", 
+            "name": "Kupchino", 
+            "long": "30.35667"
+        }, 
+        {
+            "lat": "59.99541", 
+            "name": "Kronshtadt", 
+            "long": "29.76668"
+        }, 
+        {
+            "lat": "59.73833", 
+            "name": "Krasnoye Selo", 
+            "long": "30.08944"
+        }, 
+        {
+            "lat": "59.75069", 
+            "name": "Kolpino", 
+            "long": "30.58856"
+        }, 
+        {
+            "lat": "60.02427", 
+            "name": "Kolomyagi", 
+            "long": "30.28491"
+        }, 
+        {
+            "lat": "60.03587", 
+            "name": "Grazhdanka", 
+            "long": "30.40518"
+        }, 
+        {
+            "lat": "59.77472", 
+            "name": "Gorelovo", 
+            "long": "30.11971"
+        }, 
+        {
+            "lat": "59.84167", 
+            "name": "Dachnoye", 
+            "long": "30.25583"
+        }, 
+        {
+            "lat": "59.87167", 
+            "name": "Avtovo", 
+            "long": "30.26583"
+        }, 
+        {
+            "lat": "59.84389", 
+            "name": "Obukhovo", 
+            "long": "30.45111"
+        }, 
+        {
+            "lat": "59.96567", 
+            "name": "Petrogradka", 
+            "long": "30.31154"
+        }, 
+        {
+            "lat": "59.94091", 
+            "name": "Vasyl'evsky Ostrov", 
+            "long": "30.25377"
+        }, 
+        {
+            "lat": "59.97305", 
+            "name": "Krasnogvargeisky", 
+            "long": "30.47607"
+        }, 
+        {
+            "lat": "59.90839", 
+            "name": "Admiralteisky", 
+            "long": "30.28484"
+        }, 
+        {
+            "lat": "59.93111", 
+            "name": "Centralniy", 
+            "long": "30.36072"
+        }
+    ], 
+    "67": [
+        {
+            "lat": "51.3513", 
+            "name": "Yershov", 
+            "long": "48.2766"
+        }, 
+        {
+            "lat": "52.04541", 
+            "name": "Vol&#8217;sk", 
+            "long": "47.37993"
+        }, 
+        {
+            "lat": "51.54056", 
+            "name": "Saratov", 
+            "long": "46.00861"
+        }, 
+        {
+            "lat": "52.26041", 
+            "name": "Rtishchevo", 
+            "long": "43.78745"
+        }, 
+        {
+            "lat": "51.40944", 
+            "name": "Privolzhskiy", 
+            "long": "46.04833"
+        }, 
+        {
+            "lat": "52.30639", 
+            "name": "Petrovsk", 
+            "long": "45.39167"
+        }, 
+        {
+            "lat": "50.45917", 
+            "name": "Novouzensk", 
+            "long": "48.14306"
+        }, 
+        {
+            "lat": "51.71111", 
+            "name": "Marks", 
+            "long": "46.74861"
+        }, 
+        {
+            "lat": "51.02389", 
+            "name": "Krasnoarmeysk", 
+            "long": "45.69694"
+        }, 
+        {
+            "lat": "51.5", 
+            "name": "Kalininsk", 
+            "long": "44.4758"
+        }, 
+        {
+            "lat": "51.48389", 
+            "name": "Engel&#8217;s", 
+            "long": "46.10528"
+        }, 
+        {
+            "lat": "51.5502", 
+            "name": "Balashov", 
+            "long": "43.1667"
+        }, 
+        {
+            "lat": "52.02782", 
+            "name": "Balakovo", 
+            "long": "47.8007"
+        }, 
+        {
+            "lat": "51.87185", 
+            "name": "Atkarsk", 
+            "long": "45.00775"
+        }
+    ], 
+    "68": [
+        {
+            "lat": "43.03667", 
+            "name": "Vladikavkaz", 
+            "long": "44.66778"
+        }, 
+        {
+            "lat": "43.74359", 
+            "name": "Mozdok", 
+            "long": "44.65177"
+        }, 
+        {
+            "lat": "43.19217", 
+            "name": "Beslan", 
+            "long": "44.54313"
+        }, 
+        {
+            "lat": "43.1772", 
+            "name": "Ardon", 
+            "long": "44.29702"
+        }, 
+        {
+            "lat": "43.04222", 
+            "name": "Alagir", 
+            "long": "44.22222"
+        }
+    ], 
+    "83": [
+        {
+            "lat": "56.50339", 
+            "name": "Yur&#8217;yev-Pol&#8217;skiy", 
+            "long": "39.67911"
+        }, 
+        {
+            "lat": "56.24057", 
+            "name": "Vyazniki", 
+            "long": "42.15563"
+        }, 
+        {
+            "lat": "56.13655", 
+            "name": "Vladimir", 
+            "long": "40.39658"
+        }, 
+        {
+            "lat": "56.37328", 
+            "name": "Strunino", 
+            "long": "38.58321"
+        }, 
+        {
+            "lat": "55.98553", 
+            "name": "Sobinka", 
+            "long": "40.01111"
+        }, 
+        {
+            "lat": "55.91797", 
+            "name": "Pokrov", 
+            "long": "39.17242"
+        }, 
+        {
+            "lat": "55.92639", 
+            "name": "Petushki", 
+            "long": "39.46104"
+        }, 
+        {
+            "lat": "55.575", 
+            "name": "Murom", 
+            "long": "42.0426"
+        }, 
+        {
+            "lat": "55.3343", 
+            "name": "Melenki", 
+            "long": "41.6295"
+        }, 
+        {
+            "lat": "56.01931", 
+            "name": "Lakinsk", 
+            "long": "39.94848"
+        }, 
+        {
+            "lat": "56.35722", 
+            "name": "Kovrov", 
+            "long": "41.31917"
+        }, 
+        {
+            "lat": "56.29929", 
+            "name": "Kol&#8217;chugino", 
+            "long": "39.38304"
+        }, 
+        {
+            "lat": "56.15273", 
+            "name": "Kirzhach", 
+            "long": "38.85509"
+        }, 
+        {
+            "lat": "56.31667", 
+            "name": "Karabanovo", 
+            "long": "38.7"
+        }, 
+        {
+            "lat": "55.61113", 
+            "name": "Gus&#8217;-Khrustal&#8217;nyy", 
+            "long": "40.65186"
+        }, 
+        {
+            "lat": "56.39516", 
+            "name": "Aleksandrov", 
+            "long": "38.71216"
+        }, 
+        {
+            "lat": "56.0038", 
+            "name": "Raduzhnyy", 
+            "long": "40.33905"
+        }
+    ], 
+    "80": [
+        {
+            "lat": "57.04865", 
+            "name": "Votkinsk", 
+            "long": "53.98717"
+        }, 
+        {
+            "lat": "56.99081", 
+            "name": "Uva", 
+            "long": "52.18517"
+        }, 
+        {
+            "lat": "56.47633", 
+            "name": "Sarapul", 
+            "long": "53.79782"
+        }, 
+        {
+            "lat": "56.44469", 
+            "name": "Mozhga", 
+            "long": "52.22763"
+        }, 
+        {
+            "lat": "56.84976", 
+            "name": "Izhevsk", 
+            "long": "53.20448"
+        }, 
+        {
+            "lat": "57.5549", 
+            "name": "Igra", 
+            "long": "53.0544"
+        }, 
+        {
+            "lat": "58.1393", 
+            "name": "Glazov", 
+            "long": "52.658"
+        }, 
+        {
+            "lat": "57.9787", 
+            "name": "Balezino", 
+            "long": "53.0138"
+        }
+    ], 
+    "52": [
+        {
+            "lat": "57.97472", 
+            "name": "Valday", 
+            "long": "33.2525"
+        }, 
+        {
+            "lat": "57.99439", 
+            "name": "Staraya Russa", 
+            "long": "31.36081"
+        }, 
+        {
+            "lat": "58.59382", 
+            "name": "Pestovo", 
+            "long": "35.80244"
+        }, 
+        {
+            "lat": "58.52131", 
+            "name": "Velikiy Novgorod", 
+            "long": "31.27104"
+        }, 
+        {
+            "lat": "59.11667", 
+            "name": "Chudovo", 
+            "long": "31.68333"
+        }, 
+        {
+            "lat": "58.38778", 
+            "name": "Borovichi", 
+            "long": "33.91546"
+        }
+    ], 
+    "86": [
+        {
+            "lat": "51.67204", 
+            "name": "Voronezh", 
+            "long": "39.1843"
+        }, 
+        {
+            "lat": "51.68525", 
+            "name": "Semiluki", 
+            "long": "39.02787"
+        }, 
+        {
+            "lat": "51.1209", 
+            "name": "Rossosh&#8217;", 
+            "long": "38.5116"
+        }, 
+        {
+            "lat": "50.19828", 
+            "name": "Rossosh&#8217;", 
+            "long": "39.56726"
+        }, 
+        {
+            "lat": "51.68406", 
+            "name": "Pridonskoy", 
+            "long": "39.0727"
+        }, 
+        {
+            "lat": "51.1945", 
+            "name": "Povorino", 
+            "long": "42.2457"
+        }, 
+        {
+            "lat": "50.45778", 
+            "name": "Pavlovsk", 
+            "long": "40.10806"
+        }, 
+        {
+            "lat": "50.8664", 
+            "name": "Ostrogozhsk", 
+            "long": "39.07561"
+        }, 
+        {
+            "lat": "51.30719", 
+            "name": "Novovoronezh", 
+            "long": "39.21732"
+        }, 
+        {
+            "lat": "51.64177", 
+            "name": "Novaya Usman&#8217;", 
+            "long": "39.40863"
+        }, 
+        {
+            "lat": "50.98405", 
+            "name": "Liski", 
+            "long": "39.51545"
+        }, 
+        {
+            "lat": "50.4258", 
+            "name": "Kalach", 
+            "long": "41.0261"
+        }, 
+        {
+            "lat": "51.45792", 
+            "name": "Gribanovskiy", 
+            "long": "41.97637"
+        }, 
+        {
+            "lat": "50.82389", 
+            "name": "Buturlinovka", 
+            "long": "40.60917"
+        }, 
+        {
+            "lat": "51.36713", 
+            "name": "Borisoglebsk", 
+            "long": "42.08494"
+        }, 
+        {
+            "lat": "49.93577", 
+            "name": "Boguchar", 
+            "long": "40.545"
+        }, 
+        {
+            "lat": "51.09611", 
+            "name": "Bobrov", 
+            "long": "40.03333"
+        }, 
+        {
+            "lat": "51.4842", 
+            "name": "Anna", 
+            "long": "40.4299"
+        }
+    ], 
+    "87": [
+        {
+            "lat": "64.91611", 
+            "name": "Tarko-Sale", 
+            "long": "77.77457"
+        }, 
+        {
+            "lat": "66.53", 
+            "name": "Salekhard", 
+            "long": "66.60194"
+        }, 
+        {
+            "lat": "63.19309", 
+            "name": "Noyabrsk", 
+            "long": "75.43728"
+        }, 
+        {
+            "lat": "66.08333", 
+            "name": "Novyy Urengoy", 
+            "long": "76.63333"
+        }, 
+        {
+            "lat": "65.53333", 
+            "name": "Nadym", 
+            "long": "72.51667"
+        }, 
+        {
+            "lat": "66.65722", 
+            "name": "Labytnangi", 
+            "long": "66.41833"
+        }, 
+        {
+            "lat": "64.434", 
+            "name": "Gubkinskiy", 
+            "long": "76.50261"
+        }, 
+        {
+            "lat": "63.78977", 
+            "name": "Muravlenko", 
+            "long": "74.52301"
+        }
+    ], 
+    "84": [
+        {
+            "lat": "50.98448", 
+            "name": "Zhirnovsk", 
+            "long": "44.77347"
+        }, 
+        {
+            "lat": "50.949", 
+            "name": "Yelan&#8217;", 
+            "long": "43.73781"
+        }, 
+        {
+            "lat": "48.78583", 
+            "name": "Volzhskiy", 
+            "long": "44.77973"
+        }, 
+        {
+            "lat": "48.71939", 
+            "name": "Volgograd", 
+            "long": "44.50183"
+        }, 
+        {
+            "lat": "50.8047", 
+            "name": "Uryupinsk", 
+            "long": "42.0138"
+        }, 
+        {
+            "lat": "48.60734", 
+            "name": "Surovikino", 
+            "long": "42.84621"
+        }, 
+        {
+            "lat": "50.05", 
+            "name": "Pallasovka", 
+            "long": "46.88333"
+        }, 
+        {
+            "lat": "50.5287", 
+            "name": "Novoanninskiy", 
+            "long": "42.6747"
+        }, 
+        {
+            "lat": "50.02824", 
+            "name": "Nikolayevsk", 
+            "long": "45.45953"
+        }, 
+        {
+            "lat": "50.06", 
+            "name": "Mikhaylovka", 
+            "long": "43.2379"
+        }, 
+        {
+            "lat": "48.70233", 
+            "name": "Leninsk", 
+            "long": "45.19798"
+        }, 
+        {
+            "lat": "50.32113", 
+            "name": "Kotovo", 
+            "long": "44.80119"
+        }, 
+        {
+            "lat": "47.63009", 
+            "name": "Kotel&#8217;nikovo", 
+            "long": "43.14068"
+        }, 
+        {
+            "lat": "50.09833", 
+            "name": "Kamyshin", 
+            "long": "45.41601"
+        }, 
+        {
+            "lat": "48.69099", 
+            "name": "Kalach-na-Donu", 
+            "long": "43.52638"
+        }, 
+        {
+            "lat": "48.80454", 
+            "name": "Gorodishche", 
+            "long": "44.47439"
+        }, 
+        {
+            "lat": "49.77133", 
+            "name": "Frolovo", 
+            "long": "43.66222"
+        }, 
+        {
+            "lat": "49.05825", 
+            "name": "Dubovka", 
+            "long": "44.829"
+        }
+    ], 
+    "85": [
+        {
+            "lat": "59.2239", 
+            "name": "Vologda", 
+            "long": "39.88398"
+        }, 
+        {
+            "lat": "60.76186", 
+            "name": "Velikiy Ustyug", 
+            "long": "46.31352"
+        }, 
+        {
+            "lat": "59.46167", 
+            "name": "Sokol", 
+            "long": "40.12056"
+        }, 
+        {
+            "lat": "59.20998", 
+            "name": "Sheksna", 
+            "long": "38.51066"
+        }, 
+        {
+            "lat": "58.88", 
+            "name": "Gryazovets", 
+            "long": "40.2525"
+        }, 
+        {
+            "lat": "59.13333", 
+            "name": "Cherepovets", 
+            "long": "37.9"
+        }
+    ], 
+    "24": [
+        {
+            "lat": "46.30778", 
+            "name": "Elista", 
+            "long": "44.25583"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "54.09989", 
+            "name": "Sukhinichi", 
+            "long": "35.34254"
+        }, 
+        {
+            "lat": "55.09681", 
+            "name": "Obninsk", 
+            "long": "36.61006"
+        }, 
+        {
+            "lat": "55.01457", 
+            "name": "Maloyaroslavets", 
+            "long": "36.47185"
+        }, 
+        {
+            "lat": "53.86639", 
+            "name": "Lyudinovo", 
+            "long": "34.44778"
+        }, 
+        {
+            "lat": "54.03746", 
+            "name": "Kozel&#8217;sk", 
+            "long": "35.77159"
+        }, 
+        {
+            "lat": "54.80639", 
+            "name": "Kondrovo", 
+            "long": "35.92778"
+        }, 
+        {
+            "lat": "54.06686", 
+            "name": "Kirov", 
+            "long": "34.29955"
+        }, 
+        {
+            "lat": "54.5293", 
+            "name": "Kaluga", 
+            "long": "36.27542"
+        }, 
+        {
+            "lat": "55.18161", 
+            "name": "Balabanovo", 
+            "long": "36.6606"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "43.85804", 
+            "name": "Zelenchukskaya", 
+            "long": "41.5894"
+        }, 
+        {
+            "lat": "44.0834", 
+            "name": "Ust&#8217;-Dzheguta", 
+            "long": "41.9763"
+        }, 
+        {
+            "lat": "43.93778", 
+            "name": "Uchkeken", 
+            "long": "42.51167"
+        }, 
+        {
+            "lat": "43.77399", 
+            "name": "Karachayevsk", 
+            "long": "41.91419"
+        }, 
+        {
+            "lat": "44.22333", 
+            "name": "Cherkessk", 
+            "long": "42.05778"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "61.07006", 
+            "name": "Vel&#8217;sk", 
+            "long": "42.0983"
+        }, 
+        {
+            "lat": "64.5635", 
+            "name": "Severodvinsk", 
+            "long": "39.8302"
+        }, 
+        {
+            "lat": "63.90692", 
+            "name": "Onega", 
+            "long": "38.11112"
+        }, 
+        {
+            "lat": "61.6656", 
+            "name": "Nyandoma", 
+            "long": "40.2013"
+        }, 
+        {
+            "lat": "64.4165", 
+            "name": "Novodvinsk", 
+            "long": "40.8122"
+        }, 
+        {
+            "lat": "61.33289", 
+            "name": "Mirnyy", 
+            "long": "44.53598"
+        }, 
+        {
+            "lat": "61.25745", 
+            "name": "Kotlas", 
+            "long": "46.64963"
+        }, 
+        {
+            "lat": "61.31433", 
+            "name": "Koryazhma", 
+            "long": "47.16914"
+        }, 
+        {
+            "lat": "64.5401", 
+            "name": "Arkhangel&#8217;sk", 
+            "long": "40.5433"
+        }, 
+        {
+            "lat": "62.76409", 
+            "name": "Mirnyy", 
+            "long": "40.33746"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "57.21276", 
+            "name": "Vichuga", 
+            "long": "41.93012"
+        }, 
+        {
+            "lat": "56.85796", 
+            "name": "Teykovo", 
+            "long": "40.53692"
+        }, 
+        {
+            "lat": "56.84865", 
+            "name": "Shuya", 
+            "long": "41.38833"
+        }, 
+        {
+            "lat": "57.10513", 
+            "name": "Rodniki", 
+            "long": "41.73048"
+        }, 
+        {
+            "lat": "57.38698", 
+            "name": "Privolzhsk", 
+            "long": "41.28666"
+        }, 
+        {
+            "lat": "56.93487", 
+            "name": "Kokhma", 
+            "long": "41.0915"
+        }, 
+        {
+            "lat": "57.43914", 
+            "name": "Kineshma", 
+            "long": "42.12894"
+        }, 
+        {
+            "lat": "56.99719", 
+            "name": "Ivanovo", 
+            "long": "40.97139"
+        }, 
+        {
+            "lat": "57.25363", 
+            "name": "Furmanov", 
+            "long": "41.10849"
+        }
+    ], 
+    "48": [
+        {
+            "lat": "55.65608", 
+            "name": "Zyuzino", 
+            "long": "37.56846"
+        }, 
+        {
+            "lat": "55.61667", 
+            "name": "Zyablikovo", 
+            "long": "37.76667"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Zhulebino", 
+            "long": "37.85"
+        }, 
+        {
+            "lat": "55.9825", 
+            "name": "Zelenograd", 
+            "long": "37.18139"
+        }, 
+        {
+            "lat": "55.73333", 
+            "name": "Zamoskvorech&#8217;ye", 
+            "long": "37.63333"
+        }, 
+        {
+            "lat": "55.60686", 
+            "name": "Yasenevo", 
+            "long": "37.51991"
+        }, 
+        {
+            "lat": "55.70196", 
+            "name": "Vykhino-Zhulebino", 
+            "long": "37.81178"
+        }, 
+        {
+            "lat": "55.88333", 
+            "name": "Altuf&#8217;yevskiy", 
+            "long": "37.58333"
+        }, 
+        {
+            "lat": "55.71667", 
+            "name": "Vorob&#8217;yovo", 
+            "long": "37.53333"
+        }, 
+        {
+            "lat": "55.65", 
+            "name": "Nagornyy", 
+            "long": "37.61667"
+        }, 
+        {
+            "lat": "55.6", 
+            "name": "Vnukovo", 
+            "long": "37.21667"
+        }, 
+        {
+            "lat": "55.85", 
+            "name": "Novovladykino", 
+            "long": "37.58333"
+        }, 
+        {
+            "lat": "55.72393", 
+            "name": "Veshnyaki", 
+            "long": "37.81952"
+        }, 
+        {
+            "lat": "55.88441", 
+            "name": "Vatutino", 
+            "long": "37.69055"
+        }, 
+        {
+            "lat": "55.9", 
+            "name": "Vagonoremont", 
+            "long": "37.55"
+        }, 
+        {
+            "lat": "55.65625", 
+            "name": "Tropar&#235;vo", 
+            "long": "37.48496"
+        }, 
+        {
+            "lat": "55.62047", 
+            "name": "Tyoply Stan", 
+            "long": "37.49338"
+        }, 
+        {
+            "lat": "55.70033", 
+            "name": "Tekstil&#8217;shchiki", 
+            "long": "37.74271"
+        }, 
+        {
+            "lat": "55.73333", 
+            "name": "Taganskiy", 
+            "long": "37.66667"
+        }, 
+        {
+            "lat": "55.85", 
+            "name": "Sviblovo", 
+            "long": "37.63333"
+        }, 
+        {
+            "lat": "55.81838", 
+            "name": "Strogino", 
+            "long": "37.41224"
+        }, 
+        {
+            "lat": "55.63711", 
+            "name": "Solntsevo", 
+            "long": "37.38115"
+        }, 
+        {
+            "lat": "55.80202", 
+            "name": "Sokol&#8217;niki", 
+            "long": "37.67159"
+        }, 
+        {
+            "lat": "55.8", 
+            "name": "Sokol", 
+            "long": "37.51667"
+        }, 
+        {
+            "lat": "55.86667", 
+            "name": "Slobodka", 
+            "long": "37.58333"
+        }, 
+        {
+            "lat": "55.8", 
+            "name": "Shchukino", 
+            "long": "37.45"
+        }, 
+        {
+            "lat": "55.93583", 
+            "name": "Severnyy", 
+            "long": "37.54889"
+        }, 
+        {
+            "lat": "55.71667", 
+            "name": "Setun&#8217;", 
+            "long": "37.41667"
+        }, 
+        {
+            "lat": "55.78514", 
+            "name": "Rubl&#235;vo", 
+            "long": "37.35481"
+        }, 
+        {
+            "lat": "55.83333", 
+            "name": "Rostokino", 
+            "long": "37.66667"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Ramenki", 
+            "long": "37.5"
+        }, 
+        {
+            "lat": "55.65928", 
+            "name": "Kotlovka", 
+            "long": "37.60404"
+        }, 
+        {
+            "lat": "55.58333", 
+            "name": "Annino", 
+            "long": "37.6"
+        }, 
+        {
+            "lat": "55.80797", 
+            "name": "Pokrovskoye-Streshn&#235;vo", 
+            "long": "37.45814"
+        }, 
+        {
+            "lat": "55.73333", 
+            "name": "Ryazanskiy", 
+            "long": "37.76667"
+        }, 
+        {
+            "lat": "55.73501", 
+            "name": "Perovo", 
+            "long": "37.79088"
+        }, 
+        {
+            "lat": "55.64528", 
+            "name": "Novo-Peredelkino", 
+            "long": "37.33583"
+        }, 
+        {
+            "lat": "55.86667", 
+            "name": "Otradnoye", 
+            "long": "37.6"
+        }, 
+        {
+            "lat": "55.82957", 
+            "name": "Ostankinskiy", 
+            "long": "37.61604"
+        }, 
+        {
+            "lat": "55.61667", 
+            "name": "Orekhovo-Borisovo Severnoye", 
+            "long": "37.68333"
+        }, 
+        {
+            "lat": "55.68432", 
+            "name": "Ochakovo-Matveyevskoye", 
+            "long": "37.44654"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Novyye Kuz&#8217;minki", 
+            "long": "37.75"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Novyye Cher&#235;mushki", 
+            "long": "37.58333"
+        }, 
+        {
+            "lat": "55.71667", 
+            "name": "Novokuz&#8217;minki", 
+            "long": "37.78333"
+        }, 
+        {
+            "lat": "55.86667", 
+            "name": "Novokhovrino", 
+            "long": "37.5"
+        }, 
+        {
+            "lat": "55.66943", 
+            "name": "Nikulino", 
+            "long": "37.46598"
+        }, 
+        {
+            "lat": "55.68333", 
+            "name": "Nikol&#8217;skoye", 
+            "long": "37.48333"
+        }, 
+        {
+            "lat": "55.75222", 
+            "name": "Moscow", 
+            "long": "37.61556"
+        }, 
+        {
+            "lat": "55.68333", 
+            "name": "Mikhalkovo", 
+            "long": "37.43333"
+        }, 
+        {
+            "lat": "55.71112", 
+            "name": "Matveyevskoye", 
+            "long": "37.47502"
+        }, 
+        {
+            "lat": "55.65", 
+            "name": "Mar&#8217;ino", 
+            "long": "37.71667"
+        }, 
+        {
+            "lat": "55.8", 
+            "name": "Mar&#8217;ina Roshcha", 
+            "long": "37.61667"
+        }, 
+        {
+            "lat": "55.88333", 
+            "name": "Yaroslavskiy", 
+            "long": "37.71667"
+        }, 
+        {
+            "lat": "55.67923", 
+            "name": "Lyublino", 
+            "long": "37.7525"
+        }, 
+        {
+            "lat": "55.71599", 
+            "name": "Luzhniki", 
+            "long": "37.55376"
+        }, 
+        {
+            "lat": "55.85", 
+            "name": "Likhobory", 
+            "long": "37.56667"
+        }, 
+        {
+            "lat": "55.89783", 
+            "name": "Lianozovo", 
+            "long": "37.5868"
+        }, 
+        {
+            "lat": "55.85", 
+            "name": "Leonovo", 
+            "long": "37.65"
+        }, 
+        {
+            "lat": "55.6254", 
+            "name": "Tsaritsyno", 
+            "long": "37.65032"
+        }, 
+        {
+            "lat": "55.76667", 
+            "name": "Lefortovo", 
+            "long": "37.7"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Kuz&#8217;minki", 
+            "long": "37.8"
+        }, 
+        {
+            "lat": "55.86667", 
+            "name": "Kozeyevo", 
+            "long": "37.61667"
+        }, 
+        {
+            "lat": "55.66667", 
+            "name": "Kolomenskoye", 
+            "long": "37.68333"
+        }, 
+        {
+            "lat": "55.89704", 
+            "name": "Khimki", 
+            "long": "37.42969"
+        }, 
+        {
+            "lat": "55.63806", 
+            "name": "Kapotnya", 
+            "long": "37.79306"
+        }, 
+        {
+            "lat": "55.76667", 
+            "name": "Ivanovskoye", 
+            "long": "37.83333"
+        }, 
+        {
+            "lat": "55.82299", 
+            "name": "Gol&#8217;yanovo", 
+            "long": "37.81306"
+        }, 
+        {
+            "lat": "55.86667", 
+            "name": "Zapadnoye Degunino", 
+            "long": "37.53333"
+        }, 
+        {
+            "lat": "55.71815", 
+            "name": "Davydkovo", 
+            "long": "37.47271"
+        }, 
+        {
+            "lat": "55.88333", 
+            "name": "Businovo", 
+            "long": "37.5"
+        }, 
+        {
+            "lat": "55.63755", 
+            "name": "Brateyevo", 
+            "long": "37.76438"
+        }, 
+        {
+            "lat": "55.58635", 
+            "name": "Biryul&#235;vo", 
+            "long": "37.67781"
+        }, 
+        {
+            "lat": "55.88333", 
+            "name": "Bibirevo", 
+            "long": "37.6"
+        }, 
+        {
+            "lat": "55.86931", 
+            "name": "Babushkin", 
+            "long": "37.72966"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Amin&#8217;yevo", 
+            "long": "37.46667"
+        }, 
+        {
+            "lat": "55.59072", 
+            "name": "Chertanovo Yuzhnoye", 
+            "long": "37.59519"
+        }, 
+        {
+            "lat": "55.57657", 
+            "name": "Zagor&#8217;ye", 
+            "long": "37.66709"
+        }, 
+        {
+            "lat": "55.61252", 
+            "name": "Orekhovo-Borisovo", 
+            "long": "37.72639"
+        }, 
+        {
+            "lat": "55.80961", 
+            "name": "Metrogorodok", 
+            "long": "37.78739"
+        }
+    ], 
+    "49": [
+        {
+            "lat": "69.41541", 
+            "name": "Zapolyarnyy", 
+            "long": "30.81355"
+        }, 
+        {
+            "lat": "69.06889", 
+            "name": "Severomorsk", 
+            "long": "33.41622"
+        }, 
+        {
+            "lat": "67.36611", 
+            "name": "Polyarnyye Zori", 
+            "long": "32.49806"
+        }, 
+        {
+            "lat": "69.19889", 
+            "name": "Polyarnyy", 
+            "long": "33.44778"
+        }, 
+        {
+            "lat": "68.1432", 
+            "name": "Olenegorsk", 
+            "long": "33.25287"
+        }, 
+        {
+            "lat": "69.41285", 
+            "name": "Nikel&#8217;", 
+            "long": "30.22198"
+        }, 
+        {
+            "lat": "68.97917", 
+            "name": "Murmansk", 
+            "long": "33.09251"
+        }, 
+        {
+            "lat": "67.93972", 
+            "name": "Monchegorsk", 
+            "long": "32.87389"
+        }, 
+        {
+            "lat": "67.56616", 
+            "name": "Kovdor", 
+            "long": "30.47576"
+        }, 
+        {
+            "lat": "67.61475", 
+            "name": "Kirovsk", 
+            "long": "33.67274"
+        }, 
+        {
+            "lat": "67.162", 
+            "name": "Kandalaksha", 
+            "long": "32.41229"
+        }, 
+        {
+            "lat": "67.56414", 
+            "name": "Apatity", 
+            "long": "33.4031"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "43.30664", 
+            "name": "Troitskaya", 
+            "long": "44.98395"
+        }, 
+        {
+            "lat": "43.1875", 
+            "name": "Surkhakhi", 
+            "long": "44.90194"
+        }, 
+        {
+            "lat": "43.3195", 
+            "name": "Ordzhonikidzevskaya", 
+            "long": "45.04911"
+        }, 
+        {
+            "lat": "43.23861", 
+            "name": "Nesterovskaya", 
+            "long": "45.05028"
+        }, 
+        {
+            "lat": "43.22597", 
+            "name": "Nazran&#8217;", 
+            "long": "44.77323"
+        }, 
+        {
+            "lat": "43.51118", 
+            "name": "Malgobek", 
+            "long": "44.58821"
+        }, 
+        {
+            "lat": "43.30513", 
+            "name": "Karabulak", 
+            "long": "44.89949"
+        }, 
+        {
+            "lat": "43.22824", 
+            "name": "Kantyshevo", 
+            "long": "44.63322"
+        }, 
+        {
+            "lat": "43.21222", 
+            "name": "Ekazhevo", 
+            "long": "44.82306"
+        }, 
+        {
+            "lat": "43.54437", 
+            "name": "Staryy Malgobek", 
+            "long": "44.59592"
+        }
+    ], 
+    "47": [
+        {
+            "lat": "55.73401", 
+            "name": "Zvenigorod", 
+            "long": "36.85918"
+        }, 
+        {
+            "lat": "55.59528", 
+            "name": "Zhukovskiy", 
+            "long": "38.12028"
+        }, 
+        {
+            "lat": "55.744", 
+            "name": "Zheleznodorozhnyy", 
+            "long": "38.01684"
+        }, 
+        {
+            "lat": "54.7605", 
+            "name": "Zaraysk", 
+            "long": "38.87841"
+        }, 
+        {
+            "lat": "55.38283", 
+            "name": "Yegor&#8217;yevsk", 
+            "long": "39.03233"
+        }, 
+        {
+            "lat": "55.66667", 
+            "name": "Vostryakovo", 
+            "long": "37.45"
+        }, 
+        {
+            "lat": "55.39934", 
+            "name": "Vostryakovo", 
+            "long": "37.80829"
+        }, 
+        {
+            "lat": "55.31733", 
+            "name": "Voskresensk", 
+            "long": "38.65264"
+        }, 
+        {
+            "lat": "56.03361", 
+            "name": "Volokolamsk", 
+            "long": "35.96944"
+        }, 
+        {
+            "lat": "55.55239", 
+            "name": "Vidnoye", 
+            "long": "37.70967"
+        }, 
+        {
+            "lat": "55.60111", 
+            "name": "Tuchkovo", 
+            "long": "36.46806"
+        }, 
+        {
+            "lat": "55.48498", 
+            "name": "Troitsk", 
+            "long": "37.30736"
+        }, 
+        {
+            "lat": "55.65619", 
+            "name": "Tomilino", 
+            "long": "37.94713"
+        }, 
+        {
+            "lat": "54.90083", 
+            "name": "Stupino", 
+            "long": "38.07083"
+        }, 
+        {
+            "lat": "55.80799", 
+            "name": "Staraya Kupavna", 
+            "long": "38.1805"
+        }, 
+        {
+            "lat": "56.18333", 
+            "name": "Solnechnogorsk", 
+            "long": "36.98333"
+        }, 
+        {
+            "lat": "56.15", 
+            "name": "Sofrino", 
+            "long": "37.93333"
+        }, 
+        {
+            "lat": "55.94806", 
+            "name": "Skhodnya", 
+            "long": "37.29778"
+        }, 
+        {
+            "lat": "55.49972", 
+            "name": "Shcherbinka", 
+            "long": "37.55972"
+        }, 
+        {
+            "lat": "55.92497", 
+            "name": "Shchelkovo", 
+            "long": "37.97218"
+        }, 
+        {
+            "lat": "55.57253", 
+            "name": "Shatura", 
+            "long": "39.53682"
+        }, 
+        {
+            "lat": "54.91578", 
+            "name": "Serpukhov", 
+            "long": "37.41114"
+        }, 
+        {
+            "lat": "56.3", 
+            "name": "Sergiyev Posad", 
+            "long": "38.13333"
+        }, 
+        {
+            "lat": "55.68333", 
+            "name": "Sem&#235;novskoye", 
+            "long": "37.55"
+        }, 
+        {
+            "lat": "55.66853", 
+            "name": "Roshal&#8217;", 
+            "long": "39.87488"
+        }, 
+        {
+            "lat": "55.76111", 
+            "name": "Reutov", 
+            "long": "37.8575"
+        }, 
+        {
+            "lat": "56.01722", 
+            "name": "Pushkino", 
+            "long": "37.86667"
+        }, 
+        {
+            "lat": "54.83373", 
+            "name": "Pushchino", 
+            "long": "37.61138"
+        }, 
+        {
+            "lat": "54.86821", 
+            "name": "Protvino", 
+            "long": "37.21583"
+        }, 
+        {
+            "lat": "55.42419", 
+            "name": "Podol&#8217;sk", 
+            "long": "37.55472"
+        }, 
+        {
+            "lat": "55.55", 
+            "name": "Petrovskaya", 
+            "long": "37.78333"
+        }, 
+        {
+            "lat": "55.78187", 
+            "name": "Pavlovskiy Posad", 
+            "long": "38.65025"
+        }, 
+        {
+            "lat": "54.85998", 
+            "name": "Oz&#235;ry", 
+            "long": "38.55062"
+        }, 
+        {
+            "lat": "55.80672", 
+            "name": "Orekhovo-Zuyevo", 
+            "long": "38.96178"
+        }, 
+        {
+            "lat": "55.67798", 
+            "name": "Odintsovo", 
+            "long": "37.27773"
+        }, 
+        {
+            "lat": "55.75378", 
+            "name": "Novogireyevo", 
+            "long": "37.81885"
+        }, 
+        {
+            "lat": "55.86647", 
+            "name": "Noginsk", 
+            "long": "38.4438"
+        }, 
+        {
+            "lat": "55.38752", 
+            "name": "Naro-Fominsk", 
+            "long": "36.73307"
+        }, 
+        {
+            "lat": "55.84854", 
+            "name": "Nakhabino", 
+            "long": "37.17789"
+        }, 
+        {
+            "lat": "55.91163", 
+            "name": "Mytishchi", 
+            "long": "37.73076"
+        }, 
+        {
+            "lat": "55.50194", 
+            "name": "Mozhaysk", 
+            "long": "36.02722"
+        }, 
+        {
+            "lat": "55.84244", 
+            "name": "Monino", 
+            "long": "38.19362"
+        }, 
+        {
+            "lat": "55.64776", 
+            "name": "Malakhovka", 
+            "long": "38.02486"
+        }, 
+        {
+            "lat": "55.67719", 
+            "name": "Lyubertsy", 
+            "long": "37.89322"
+        }, 
+        {
+            "lat": "55.58271", 
+            "name": "Lytkarino", 
+            "long": "37.90516"
+        }, 
+        {
+            "lat": "54.97661", 
+            "name": "Lukhovitsy", 
+            "long": "39.0444"
+        }, 
+        {
+            "lat": "55.86959", 
+            "name": "Losino-Petrovskiy", 
+            "long": "38.20065"
+        }, 
+        {
+            "lat": "56.00972", 
+            "name": "Lobnya", 
+            "long": "37.48194"
+        }, 
+        {
+            "lat": "55.7083", 
+            "name": "Likino-Dulevo", 
+            "long": "38.9542"
+        }, 
+        {
+            "lat": "55.88333", 
+            "name": "Levoberezhnaya", 
+            "long": "37.48333"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Leninskiye Gory", 
+            "long": "37.56667"
+        }, 
+        {
+            "lat": "55.93333", 
+            "name": "Yubileyny", 
+            "long": "37.83333"
+        }, 
+        {
+            "lat": "55.73423", 
+            "name": "Kuskovo", 
+            "long": "37.82616"
+        }, 
+        {
+            "lat": "55.65", 
+            "name": "Kur&#8217;yanovo", 
+            "long": "37.7"
+        }, 
+        {
+            "lat": "55.58183", 
+            "name": "Kurovskoye", 
+            "long": "38.91994"
+        }, 
+        {
+            "lat": "55.57957", 
+            "name": "Kubinka", 
+            "long": "36.70392"
+        }, 
+        {
+            "lat": "55.58766", 
+            "name": "Biryul&#235;vo Zapadnoye", 
+            "long": "37.64282"
+        }, 
+        {
+            "lat": "55.82036", 
+            "name": "Krasnogorsk", 
+            "long": "37.33017"
+        }, 
+        {
+            "lat": "56.1", 
+            "name": "Krasnoarmeysk", 
+            "long": "38.13333"
+        }, 
+        {
+            "lat": "55.75", 
+            "name": "Presnenskiy", 
+            "long": "37.55"
+        }, 
+        {
+            "lat": "55.7", 
+            "name": "Kozhukhovo", 
+            "long": "37.66667"
+        }, 
+        {
+            "lat": "55.63546", 
+            "name": "Kotel&#8217;niki", 
+            "long": "37.8445"
+        }, 
+        {
+            "lat": "55.07944", 
+            "name": "Kolomna", 
+            "long": "38.77833"
+        }, 
+        {
+            "lat": "56.33333", 
+            "name": "Klin", 
+            "long": "36.73333"
+        }, 
+        {
+            "lat": "55.36352", 
+            "name": "Klimovsk", 
+            "long": "37.52984"
+        }, 
+        {
+            "lat": "56.25699", 
+            "name": "Khot'kovo", 
+            "long": "37.99544"
+        }, 
+        {
+            "lat": "55.78363", 
+            "name": "Khorosh&#235;vo-Mnevniki", 
+            "long": "37.47137"
+        }, 
+        {
+            "lat": "55.71667", 
+            "name": "Kastanayevo", 
+            "long": "37.5"
+        }, 
+        {
+            "lat": "54.84444", 
+            "name": "Kashira", 
+            "long": "38.16694"
+        }, 
+        {
+            "lat": "55.91417", 
+            "name": "Korolev", 
+            "long": "37.82556"
+        }, 
+        {
+            "lat": "55.78677", 
+            "name": "Izmaylovo", 
+            "long": "37.80165"
+        }, 
+        {
+            "lat": "55.97111", 
+            "name": "Ivanteyevka", 
+            "long": "37.92083"
+        }, 
+        {
+            "lat": "55.91997", 
+            "name": "Istra", 
+            "long": "36.86867"
+        }, 
+        {
+            "lat": "55.60928", 
+            "name": "Golitsyno", 
+            "long": "36.98212"
+        }, 
+        {
+            "lat": "55.96056", 
+            "name": "Fryazino", 
+            "long": "38.04556"
+        }, 
+        {
+            "lat": "55.73321", 
+            "name": "Fryazevo", 
+            "long": "38.46458"
+        }, 
+        {
+            "lat": "55.74819", 
+            "name": "Fili", 
+            "long": "37.47969"
+        }, 
+        {
+            "lat": "55.72445", 
+            "name": "Elektrougli", 
+            "long": "38.20908"
+        }, 
+        {
+            "lat": "55.78959", 
+            "name": "Elektrostal&#8217;", 
+            "long": "38.44671"
+        }, 
+        {
+            "lat": "55.88431", 
+            "name": "Elektrogorsk", 
+            "long": "38.7864"
+        }, 
+        {
+            "lat": "55.62945", 
+            "name": "Dzerzhinskiy", 
+            "long": "37.85654"
+        }, 
+        {
+            "lat": "56.73333", 
+            "name": "Dubna", 
+            "long": "37.16667"
+        }, 
+        {
+            "lat": "55.75", 
+            "name": "Dorogomilovo", 
+            "long": "37.56667"
+        }, 
+        {
+            "lat": "55.4413", 
+            "name": "Domodedovo", 
+            "long": "37.75367"
+        }, 
+        {
+            "lat": "55.94958", 
+            "name": "Dolgoprudnyy", 
+            "long": "37.50183"
+        }, 
+        {
+            "lat": "56.34485", 
+            "name": "Dmitrov", 
+            "long": "37.52041"
+        }, 
+        {
+            "lat": "55.86861", 
+            "name": "Dedovsk", 
+            "long": "37.12222"
+        }, 
+        {
+            "lat": "56", 
+            "name": "Chernogolovka", 
+            "long": "38.36667"
+        }, 
+        {
+            "lat": "55.66473", 
+            "name": "Cher&#235;mushki", 
+            "long": "37.56135"
+        }, 
+        {
+            "lat": "55.1477", 
+            "name": "Chekhov", 
+            "long": "37.47728"
+        }, 
+        {
+            "lat": "55.42112", 
+            "name": "Bronnitsy", 
+            "long": "38.26188"
+        }, 
+        {
+            "lat": "55.71667", 
+            "name": "Bol&#8217;shaya Setun&#8217;", 
+            "long": "37.41667"
+        }, 
+        {
+            "lat": "55.81353", 
+            "name": "Bogorodskoye", 
+            "long": "37.71617"
+        }, 
+        {
+            "lat": "55.45978", 
+            "name": "Belooz&#235;rskiy", 
+            "long": "38.44358"
+        }, 
+        {
+            "lat": "55.80945", 
+            "name": "Balashikha", 
+            "long": "37.95806"
+        }, 
+        {
+            "lat": "55.55194", 
+            "name": "Aprelevka", 
+            "long": "37.0801"
+        }, 
+        {
+            "lat": "55.55487", 
+            "name": "Andreyevskoye", 
+            "long": "37.92566"
+        }, 
+        {
+            "lat": "55.63", 
+            "name": "Alekseyevka", 
+            "long": "37.8"
+        }, 
+        {
+            "lat": "55.85", 
+            "name": "Levoberezhnyy", 
+            "long": "37.48333"
+        }, 
+        {
+            "lat": "55.58316", 
+            "name": "Annino", 
+            "long": "37.26019"
+        }, 
+        {
+            "lat": "55.61194", 
+            "name": "Vnukovo", 
+            "long": "37.29611"
+        }, 
+        {
+            "lat": "55.59911", 
+            "name": "Moskovskiy", 
+            "long": "37.35495"
+        }, 
+        {
+            "lat": "55.59944", 
+            "name": "Krasnoznamensk", 
+            "long": "37.03861"
+        }, 
+        {
+            "lat": "55.75533", 
+            "name": "Zarya", 
+            "long": "38.09578"
+        }, 
+        {
+            "lat": "55.8801", 
+            "name": "Vostochnoe Degunino", 
+            "long": "37.55758"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "56.2751", 
+            "name": "Yanaul", 
+            "long": "54.9338"
+        }, 
+        {
+            "lat": "54.74306", 
+            "name": "Ufa", 
+            "long": "55.96779"
+        }, 
+        {
+            "lat": "54.35806", 
+            "name": "Uchaly", 
+            "long": "59.43611"
+        }, 
+        {
+            "lat": "54.2996", 
+            "name": "Uchaly", 
+            "long": "59.4521"
+        }, 
+        {
+            "lat": "54.60666", 
+            "name": "Tuymazy", 
+            "long": "53.7097"
+        }, 
+        {
+            "lat": "55.9077", 
+            "name": "Agidel&#8217;", 
+            "long": "53.9355"
+        }, 
+        {
+            "lat": "53.62462", 
+            "name": "Sterlitamak", 
+            "long": "55.95015"
+        }, 
+        {
+            "lat": "52.71806", 
+            "name": "Sibay", 
+            "long": "58.66583"
+        }, 
+        {
+            "lat": "53.38365", 
+            "name": "Salavat", 
+            "long": "55.90773"
+        }, 
+        {
+            "lat": "54.0658", 
+            "name": "Rayevskiy", 
+            "long": "54.9468"
+        }, 
+        {
+            "lat": "53.9", 
+            "name": "Priyutovo", 
+            "long": "53.93333"
+        }, 
+        {
+            "lat": "54.48147", 
+            "name": "Oktyabr&#8217;skiy", 
+            "long": "53.47103"
+        }, 
+        {
+            "lat": "56.092", 
+            "name": "Neftekamsk", 
+            "long": "54.2661"
+        }, 
+        {
+            "lat": "52.96467", 
+            "name": "Meleuz", 
+            "long": "55.93277"
+        }, 
+        {
+            "lat": "52.76667", 
+            "name": "Kumertau", 
+            "long": "55.78333"
+        }, 
+        {
+            "lat": "53.45446", 
+            "name": "Ishimbay", 
+            "long": "56.04149"
+        }, 
+        {
+            "lat": "55.49106", 
+            "name": "Dyurtyuli", 
+            "long": "54.86883"
+        }, 
+        {
+            "lat": "54.22145", 
+            "name": "Davlekanovo", 
+            "long": "55.03434"
+        }, 
+        {
+            "lat": "54.57648", 
+            "name": "Chishmy", 
+            "long": "55.37642"
+        }, 
+        {
+            "lat": "55.035", 
+            "name": "Blagoveshchensk", 
+            "long": "55.97806"
+        }, 
+        {
+            "lat": "55.42111", 
+            "name": "Birsk", 
+            "long": "55.54278"
+        }, 
+        {
+            "lat": "53.96306", 
+            "name": "Beloretsk", 
+            "long": "58.39806"
+        }, 
+        {
+            "lat": "54.11667", 
+            "name": "Belebey", 
+            "long": "54.11667"
+        }, 
+        {
+            "lat": "52.59333", 
+            "name": "Baymak", 
+            "long": "58.3225"
+        }
+    ], 
+    "45": [
+        {
+            "lat": "56.63877", 
+            "name": "Yoshkar-Ola", 
+            "long": "47.89078"
+        }, 
+        {
+            "lat": "55.86638", 
+            "name": "Volzhsk", 
+            "long": "48.3594"
+        }, 
+        {
+            "lat": "56.63388", 
+            "name": "Medvedevo", 
+            "long": "47.80405"
+        }, 
+        {
+            "lat": "56.3419", 
+            "name": "Koz&#8217;modem&#8217;yansk", 
+            "long": "46.56353"
+        }
+    ], 
+    "42": [
+        {
+            "lat": "60.70763", 
+            "name": "Vyborg", 
+            "long": "28.75283"
+        }, 
+        {
+            "lat": "60.01512", 
+            "name": "Vsevolozhsk", 
+            "long": "30.67314"
+        }, 
+        {
+            "lat": "59.9258", 
+            "name": "Volkhov", 
+            "long": "32.33819"
+        }, 
+        {
+            "lat": "59.54", 
+            "name": "Tosno", 
+            "long": "30.8775"
+        }, 
+        {
+            "lat": "59.64511", 
+            "name": "Tikhvin", 
+            "long": "33.52937"
+        }, 
+        {
+            "lat": "61.11213", 
+            "name": "Svetogorsk", 
+            "long": "28.86321"
+        }, 
+        {
+            "lat": "59.8996", 
+            "name": "Sosnovyy Bor", 
+            "long": "29.08574"
+        }, 
+        {
+            "lat": "59.11817", 
+            "name": "Slantsy", 
+            "long": "28.09137"
+        }, 
+        {
+            "lat": "60.1444", 
+            "name": "Sertolovo", 
+            "long": "30.20165"
+        }, 
+        {
+            "lat": "59.8393", 
+            "name": "Rybatskoye", 
+            "long": "30.49873"
+        }, 
+        {
+            "lat": "61.03928", 
+            "name": "Prioz&#235;rsk", 
+            "long": "30.12907"
+        }, 
+        {
+            "lat": "60.91124", 
+            "name": "Podporozh&#8217;ye", 
+            "long": "34.17064"
+        }, 
+        {
+            "lat": "59.51833", 
+            "name": "Pikal&#235;vo", 
+            "long": "34.16639"
+        }, 
+        {
+            "lat": "59.7775", 
+            "name": "Otradnoye", 
+            "long": "30.81806"
+        }, 
+        {
+            "lat": "59.70056", 
+            "name": "Nikol&#8217;skoye", 
+            "long": "30.78472"
+        }, 
+        {
+            "lat": "58.73722", 
+            "name": "Luga", 
+            "long": "29.84528"
+        }, 
+        {
+            "lat": "60.726", 
+            "name": "Lodeynoye Pole", 
+            "long": "33.55306"
+        }, 
+        {
+            "lat": "59.62056", 
+            "name": "Kommunar", 
+            "long": "30.39"
+        }, 
+        {
+            "lat": "59.88101", 
+            "name": "Kirovsk", 
+            "long": "30.99507"
+        }, 
+        {
+            "lat": "59.44712", 
+            "name": "Kirishi", 
+            "long": "32.02049"
+        }, 
+        {
+            "lat": "59.37331", 
+            "name": "Kingisepp", 
+            "long": "28.61343"
+        }, 
+        {
+            "lat": "59.57639", 
+            "name": "Gatchina", 
+            "long": "30.12833"
+        }, 
+        {
+            "lat": "59.47405", 
+            "name": "Boksitogorsk", 
+            "long": "33.84853"
+        }, 
+        {
+            "lat": "60.16562", 
+            "name": "Kurortnyy", 
+            "long": "29.908"
+        }, 
+        {
+            "lat": "59.98594", 
+            "name": "Chernaya Rechka", 
+            "long": "30.30338"
+        }, 
+        {
+            "lat": "60.0122", 
+            "name": "Untolovo", 
+            "long": "30.20897"
+        }, 
+        {
+            "lat": "60.06964", 
+            "name": "Parnas", 
+            "long": "30.3487"
+        }, 
+        {
+            "lat": "59.99675", 
+            "name": "Kalininskiy", 
+            "long": "30.3899"
+        }, 
+        {
+            "lat": "59.97091", 
+            "name": "Krestovskiy ostrov", 
+            "long": "30.25789"
+        }, 
+        {
+            "lat": "60.01375", 
+            "name": "Akademicheskoe", 
+            "long": "30.39471"
+        }, 
+        {
+            "lat": "59.96824", 
+            "name": "Finlyandskiy", 
+            "long": "30.36415"
+        }, 
+        {
+            "lat": "60.00276", 
+            "name": "Svetlanovskiy", 
+            "long": "30.33051"
+        }, 
+        {
+            "lat": "59.98499", 
+            "name": "Sampsonievskiy", 
+            "long": "30.34295"
+        }
+    ], 
+    "43": [
+        {
+            "lat": "52.62366", 
+            "name": "Yelets", 
+            "long": "38.50169"
+        }, 
+        {
+            "lat": "52.04662", 
+            "name": "Usman&#8217;", 
+            "long": "39.7288"
+        }, 
+        {
+            "lat": "52.60311", 
+            "name": "Lipetsk", 
+            "long": "39.57076"
+        }, 
+        {
+            "lat": "53.01942", 
+            "name": "Lebedyan&#8217;", 
+            "long": "39.16639"
+        }, 
+        {
+            "lat": "52.49657", 
+            "name": "Gryazi", 
+            "long": "39.93593"
+        }, 
+        {
+            "lat": "53.25155", 
+            "name": "Dankov", 
+            "long": "39.15553"
+        }
+    ], 
+    "40": [
+        {
+            "lat": "55.22611", 
+            "name": "Shumikha", 
+            "long": "63.29611"
+        }, 
+        {
+            "lat": "56.0852", 
+            "name": "Shadrinsk", 
+            "long": "63.6335"
+        }, 
+        {
+            "lat": "54.91028", 
+            "name": "Kurtamysh", 
+            "long": "64.43194"
+        }, 
+        {
+            "lat": "55.45", 
+            "name": "Kurgan", 
+            "long": "65.33333"
+        }, 
+        {
+            "lat": "56.289", 
+            "name": "Kataysk", 
+            "long": "62.5841"
+        }
+    ], 
+    "41": [
+        {
+            "lat": "52.331", 
+            "name": "Zheleznogorsk", 
+            "long": "35.3711"
+        }, 
+        {
+            "lat": "51.87555", 
+            "name": "Shchigry", 
+            "long": "36.90432"
+        }, 
+        {
+            "lat": "51.63069", 
+            "name": "L&#8217;govskiy", 
+            "long": "35.2775"
+        }, 
+        {
+            "lat": "51.73733", 
+            "name": "Kursk", 
+            "long": "36.18735"
+        }, 
+        {
+            "lat": "51.6601", 
+            "name": "Kurchatov", 
+            "long": "35.6521"
+        }, 
+        {
+            "lat": "51.5655", 
+            "name": "Ryl&#8217;sk", 
+            "long": "34.6822"
+        }
+    ], 
+    "46": [
+        {
+            "lat": "54.1838", 
+            "name": "Saransk", 
+            "long": "45.1749"
+        }, 
+        {
+            "lat": "54.06387", 
+            "name": "Ruzayevka", 
+            "long": "44.9509"
+        }, 
+        {
+            "lat": "54.03876", 
+            "name": "Kovylkino", 
+            "long": "43.91385"
+        }
+    ], 
+    "59": [
+        {
+            "lat": "42.73021", 
+            "name": "Vrangel&#8217;", 
+            "long": "133.08322"
+        }, 
+        {
+            "lat": "43.10562", 
+            "name": "Vladivostok", 
+            "long": "131.87353"
+        }, 
+        {
+            "lat": "43.80291", 
+            "name": "Ussuriysk", 
+            "long": "131.94578"
+        }, 
+        {
+            "lat": "43.29823", 
+            "name": "Trudovoye", 
+            "long": "132.06877"
+        }, 
+        {
+            "lat": "42.97429", 
+            "name": "Fokino", 
+            "long": "132.40574"
+        }, 
+        {
+            "lat": "44.59884", 
+            "name": "Spassk-Dal&#8217;niy", 
+            "long": "132.82593"
+        }, 
+        {
+            "lat": "43.12165", 
+            "name": "Partizansk", 
+            "long": "133.12347"
+        }, 
+        {
+            "lat": "42.81384", 
+            "name": "Nakhodka", 
+            "long": "132.87348"
+        }, 
+        {
+            "lat": "46.47656", 
+            "name": "Luchegorsk", 
+            "long": "134.19532"
+        }, 
+        {
+            "lat": "45.47885", 
+            "name": "Lesozavodsk", 
+            "long": "133.42825"
+        }, 
+        {
+            "lat": "44.27221", 
+            "name": "Kavalerovo", 
+            "long": "135.05227"
+        }, 
+        {
+            "lat": "45.93149", 
+            "name": "Dal&#8217;nerechensk", 
+            "long": "133.73906"
+        }, 
+        {
+            "lat": "43.11283", 
+            "name": "Bol&#8217;shoy Kamen&#8217;", 
+            "long": "132.354"
+        }, 
+        {
+            "lat": "43.3595", 
+            "name": "Art&#235;m", 
+            "long": "132.18887"
+        }, 
+        {
+            "lat": "44.15254", 
+            "name": "Arsen&#8217;yev", 
+            "long": "133.27791"
+        }, 
+        {
+            "lat": "44.56039", 
+            "name": "Dal'negorsk", 
+            "long": "135.57009"
+        }
+    ], 
+    "78": [
+        {
+            "lat": "56.5042", 
+            "name": "Zavodoukovsk", 
+            "long": "66.55153"
+        }, 
+        {
+            "lat": "56.65358", 
+            "name": "Yalutorovsk", 
+            "long": "66.30057"
+        }, 
+        {
+            "lat": "57.15222", 
+            "name": "Tyumen", 
+            "long": "65.52722"
+        }, 
+        {
+            "lat": "58.19807", 
+            "name": "Tobol&#8217;sk", 
+            "long": "68.25457"
+        }, 
+        {
+            "lat": "56.11281", 
+            "name": "Ishim", 
+            "long": "69.49015"
+        }, 
+        {
+            "lat": "57.04096", 
+            "name": "Borovskiy", 
+            "long": "65.72018"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "53.73601", 
+            "name": "Zeya", 
+            "long": "127.257"
+        }, 
+        {
+            "lat": "55.156", 
+            "name": "Tynda", 
+            "long": "124.72479"
+        }, 
+        {
+            "lat": "51.37525", 
+            "name": "Svobodnyy", 
+            "long": "128.14097"
+        }, 
+        {
+            "lat": "52.00575", 
+            "name": "Shimanovsk", 
+            "long": "127.67756"
+        }, 
+        {
+            "lat": "49.78998", 
+            "name": "Raychikhinsk", 
+            "long": "129.40992"
+        }, 
+        {
+            "lat": "50.27961", 
+            "name": "Blagoveshchensk", 
+            "long": "127.5405"
+        }, 
+        {
+            "lat": "50.91644", 
+            "name": "Belogorsk", 
+            "long": "128.47726"
+        }
+    ], 
+    "28": [
+        {
+            "lat": "61.71233", 
+            "name": "Sortavala", 
+            "long": "30.70953"
+        }, 
+        {
+            "lat": "63.74147", 
+            "name": "Segezha", 
+            "long": "34.32218"
+        }, 
+        {
+            "lat": "61.78491", 
+            "name": "Petrozavodsk", 
+            "long": "34.34691"
+        }, 
+        {
+            "lat": "62.91713", 
+            "name": "Medvezh&#8217;yegorsk", 
+            "long": "34.45689"
+        }, 
+        {
+            "lat": "64.571", 
+            "name": "Kostomuksha", 
+            "long": "30.57667"
+        }, 
+        {
+            "lat": "62.20565", 
+            "name": "Kondopoga", 
+            "long": "34.26138"
+        }
+    ], 
+    "44": [
+        {
+            "lat": "59.5638", 
+            "name": "Magadan", 
+            "long": "150.80347"
+        }
+    ], 
+    "56": [
+        {
+            "lat": "52.96508", 
+            "name": "Or&#235;l", 
+            "long": "36.07849"
+        }, 
+        {
+            "lat": "53.27657", 
+            "name": "Mtsensk", 
+            "long": "36.57334"
+        }, 
+        {
+            "lat": "52.42534", 
+            "name": "Livny", 
+            "long": "37.60689"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "51.96056", 
+            "name": "Gorno-Altaysk", 
+            "long": "85.91892"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "55.9342", 
+            "name": "Tayshet", 
+            "long": "98.0044"
+        }, 
+        {
+            "lat": "54.9076", 
+            "name": "Nizhneudinsk", 
+            "long": "99.0276"
+        }, 
+        {
+            "lat": "56.0815", 
+            "name": "Chunskiy", 
+            "long": "99.6342"
+        }, 
+        {
+            "lat": "53.9202", 
+            "name": "Zima", 
+            "long": "102.0442"
+        }, 
+        {
+            "lat": "56.5768", 
+            "name": "Zheleznogorsk-Ilimskiy", 
+            "long": "104.1217"
+        }, 
+        {
+            "lat": "56.12128", 
+            "name": "Vikhorevka", 
+            "long": "101.17767"
+        }, 
+        {
+            "lat": "56.7938", 
+            "name": "Ust&#8217;-Kut", 
+            "long": "105.7672"
+        }, 
+        {
+            "lat": "58.00056", 
+            "name": "Ust&#8217;-Ilimsk", 
+            "long": "102.66194"
+        }, 
+        {
+            "lat": "52.75194", 
+            "name": "Usol&#8217;ye-Sibirskoye", 
+            "long": "103.64528"
+        }, 
+        {
+            "lat": "54.56358", 
+            "name": "Tulun", 
+            "long": "100.58143"
+        }, 
+        {
+            "lat": "51.65944", 
+            "name": "Slyudyanka", 
+            "long": "103.70611"
+        }, 
+        {
+            "lat": "52.21389", 
+            "name": "Shelekhov", 
+            "long": "104.1"
+        }, 
+        {
+            "lat": "52.29778", 
+            "name": "Irkutsk", 
+            "long": "104.29639"
+        }, 
+        {
+            "lat": "53.15611", 
+            "name": "Cheremkhovo", 
+            "long": "103.0675"
+        }, 
+        {
+            "lat": "57.85056", 
+            "name": "Bodaybo", 
+            "long": "114.19333"
+        }, 
+        {
+            "lat": "51.5151", 
+            "name": "Baykal&#8217;sk", 
+            "long": "104.1402"
+        }, 
+        {
+            "lat": "52.53667", 
+            "name": "Angarsk", 
+            "long": "103.88639"
+        }, 
+        {
+            "lat": "56.1325", 
+            "name": "Bratsk", 
+            "long": "101.61417"
+        }, 
+        {
+            "lat": "54.1088", 
+            "name": "Sayansk", 
+            "long": "102.1648"
+        }
+    ], 
+    "77": [
+        {
+            "lat": "57.87944", 
+            "name": "Udomlya", 
+            "long": "34.9925"
+        }, 
+        {
+            "lat": "57.59125", 
+            "name": "Vyshniy Voloch&#235;k", 
+            "long": "34.56453"
+        }, 
+        {
+            "lat": "56.85836", 
+            "name": "Tver", 
+            "long": "35.90057"
+        }, 
+        {
+            "lat": "57.0436", 
+            "name": "Torzhok", 
+            "long": "34.96221"
+        }, 
+        {
+            "lat": "56.26241", 
+            "name": "Rzhev", 
+            "long": "34.32817"
+        }, 
+        {
+            "lat": "57.14667", 
+            "name": "Ostashkov", 
+            "long": "33.10753"
+        }, 
+        {
+            "lat": "56.22107", 
+            "name": "Nelidovo", 
+            "long": "32.77738"
+        }, 
+        {
+            "lat": "56.7", 
+            "name": "Konakovo", 
+            "long": "36.76667"
+        }, 
+        {
+            "lat": "56.86667", 
+            "name": "Kimry", 
+            "long": "37.35"
+        }, 
+        {
+            "lat": "57.35917", 
+            "name": "Kashin", 
+            "long": "37.60806"
+        }, 
+        {
+            "lat": "57.8799", 
+            "name": "Bologoye", 
+            "long": "34.10681"
+        }, 
+        {
+            "lat": "57.78506", 
+            "name": "Bezhetsk", 
+            "long": "36.69651"
+        }
+    ], 
+    "76": [
+        {
+            "lat": "53.14806", 
+            "name": "Yefremov", 
+            "long": "38.09924"
+        }, 
+        {
+            "lat": "54.48082", 
+            "name": "Yasnogorsk", 
+            "long": "37.69854"
+        }, 
+        {
+            "lat": "54.35533", 
+            "name": "Ven&#235;v", 
+            "long": "38.26843"
+        }, 
+        {
+            "lat": "53.98179", 
+            "name": "Uzlovaya", 
+            "long": "38.17118"
+        }, 
+        {
+            "lat": "54.19609", 
+            "name": "Tula", 
+            "long": "37.61822"
+        }, 
+        {
+            "lat": "54.1223", 
+            "name": "Suvorov", 
+            "long": "36.49657"
+        }, 
+        {
+            "lat": "54.00513", 
+            "name": "Shch&#235;kino", 
+            "long": "37.52194"
+        }, 
+        {
+            "lat": "54.03481", 
+            "name": "Severo-Zadonsk", 
+            "long": "38.40172"
+        }, 
+        {
+            "lat": "53.70944", 
+            "name": "Plavsk", 
+            "long": "37.29194"
+        }, 
+        {
+            "lat": "54.0105", 
+            "name": "Novomoskovsk", 
+            "long": "38.2846"
+        }, 
+        {
+            "lat": "54.11896", 
+            "name": "Kosaya Gora", 
+            "long": "37.54459"
+        }, 
+        {
+            "lat": "53.93361", 
+            "name": "Kireyevsk", 
+            "long": "37.92792"
+        }, 
+        {
+            "lat": "53.97164", 
+            "name": "Kimovsk", 
+            "long": "38.53186"
+        }, 
+        {
+            "lat": "53.97106", 
+            "name": "Donskoy", 
+            "long": "38.33627"
+        }, 
+        {
+            "lat": "53.77166", 
+            "name": "Bogoroditsk", 
+            "long": "38.12408"
+        }, 
+        {
+            "lat": "53.81194", 
+            "name": "Bel&#235;v", 
+            "long": "36.13194"
+        }, 
+        {
+            "lat": "54.50503", 
+            "name": "Aleksin", 
+            "long": "37.0674"
+        }
+    ], 
+    "75": [
+        {
+            "lat": "56.49771", 
+            "name": "Tomsk", 
+            "long": "84.97437"
+        }, 
+        {
+            "lat": "60.7333", 
+            "name": "Strezhevoy", 
+            "long": "77.5889"
+        }, 
+        {
+            "lat": "58.31306", 
+            "name": "Kolpashevo", 
+            "long": "82.90889"
+        }, 
+        {
+            "lat": "56.99987", 
+            "name": "Asino", 
+            "long": "86.14393"
+        }, 
+        {
+            "lat": "56.60056", 
+            "name": "Seversk", 
+            "long": "84.88639"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "44.98901", 
+            "name": "Yablonovskiy", 
+            "long": "38.94324"
+        }, 
+        {
+            "lat": "44.60778", 
+            "name": "Maykop", 
+            "long": "40.10583"
+        }, 
+        {
+            "lat": "44.86208", 
+            "name": "Giaginskaya", 
+            "long": "40.07195"
+        }, 
+        {
+            "lat": "44.9264", 
+            "name": "Enem", 
+            "long": "38.90584"
+        }
+    ], 
+    "73": [
+        {
+            "lat": "55.84376", 
+            "name": "Zelenodolsk", 
+            "long": "48.51784"
+        }, 
+        {
+            "lat": "55.3195", 
+            "name": "Zainsk", 
+            "long": "52.06942"
+        }, 
+        {
+            "lat": "55.76127", 
+            "name": "Yelabuga", 
+            "long": "52.06493"
+        }, 
+        {
+            "lat": "54.42766", 
+            "name": "Nurlat", 
+            "long": "50.80511"
+        }, 
+        {
+            "lat": "55.63657", 
+            "name": "Nizhnekamsk", 
+            "long": "51.82447"
+        }, 
+        {
+            "lat": "55.72545", 
+            "name": "Naberezhnyye Chelny", 
+            "long": "52.41122"
+        }, 
+        {
+            "lat": "55.72706", 
+            "name": "Menzelinsk", 
+            "long": "53.10258"
+        }, 
+        {
+            "lat": "55.90819", 
+            "name": "Mendeleyevsk", 
+            "long": "52.29047"
+        }, 
+        {
+            "lat": "54.60256", 
+            "name": "Leninogorsk", 
+            "long": "52.46087"
+        }, 
+        {
+            "lat": "56.1855", 
+            "name": "Kukmor", 
+            "long": "50.8944"
+        }, 
+        {
+            "lat": "55.78874", 
+            "name": "Kazan", 
+            "long": "49.12214"
+        }, 
+        {
+            "lat": "55.36311", 
+            "name": "Chistopol&#8217;", 
+            "long": "50.64244"
+        }, 
+        {
+            "lat": "54.97119", 
+            "name": "Buinsk", 
+            "long": "48.29184"
+        }, 
+        {
+            "lat": "54.5378", 
+            "name": "Bugul&#8217;ma", 
+            "long": "52.7985"
+        }, 
+        {
+            "lat": "54.39304", 
+            "name": "Bavly", 
+            "long": "53.26023"
+        }, 
+        {
+            "lat": "56.09151", 
+            "name": "Arsk", 
+            "long": "49.87783"
+        }, 
+        {
+            "lat": "54.90442", 
+            "name": "Al&#8217;met&#8217;yevsk", 
+            "long": "52.3154"
+        }, 
+        {
+            "lat": "56.52034", 
+            "name": "Agryz", 
+            "long": "52.99422"
+        }, 
+        {
+            "lat": "55.83595", 
+            "name": "Vasil&#8217;yevo", 
+            "long": "48.6582"
+        }
+    ], 
+    "72": [
+        {
+            "lat": "51.84861", 
+            "name": "Zherdevka", 
+            "long": "41.46056"
+        }, 
+        {
+            "lat": "51.98486", 
+            "name": "Uvarovo", 
+            "long": "42.26147"
+        }, 
+        {
+            "lat": "52.73169", 
+            "name": "Tambov", 
+            "long": "41.44326"
+        }, 
+        {
+            "lat": "52.65599", 
+            "name": "Rasskazovo", 
+            "long": "41.88461"
+        }, 
+        {
+            "lat": "53.44354", 
+            "name": "Morshansk", 
+            "long": "41.81065"
+        }, 
+        {
+            "lat": "52.8978", 
+            "name": "Michurinsk", 
+            "long": "40.4907"
+        }, 
+        {
+            "lat": "52.58666", 
+            "name": "Kotovsk", 
+            "long": "41.5021"
+        }, 
+        {
+            "lat": "52.65494", 
+            "name": "Kirsanov", 
+            "long": "42.72236"
+        }
+    ], 
+    "71": [
+        {
+            "lat": "60.15328", 
+            "name": "Severoural&#8217;sk", 
+            "long": "59.95205"
+        }, 
+        {
+            "lat": "56.80097", 
+            "name": "Revda", 
+            "long": "59.93028"
+        }, 
+        {
+            "lat": "56.90528", 
+            "name": "Pervoural&#8217;sk", 
+            "long": "59.94361"
+        }, 
+        {
+            "lat": "58.6293", 
+            "name": "Nizhnyaya Tura", 
+            "long": "59.8118"
+        }, 
+        {
+            "lat": "57.91944", 
+            "name": "Nizhniy Tagil", 
+            "long": "59.965"
+        }, 
+        {
+            "lat": "58.29056", 
+            "name": "Kushva", 
+            "long": "59.75917"
+        }, 
+        {
+            "lat": "56.60585", 
+            "name": "Krasnoufimsk", 
+            "long": "57.76686"
+        }, 
+        {
+            "lat": "58.7002", 
+            "name": "Kachkanar", 
+            "long": "59.4839"
+        }, 
+        {
+            "lat": "58.63667", 
+            "name": "Lesnoy", 
+            "long": "59.80222"
+        }, 
+        {
+            "lat": "56.811", 
+            "name": "Zarechnyy", 
+            "long": "61.3254"
+        }, 
+        {
+            "lat": "56.8519", 
+            "name": "Yekaterinburg", 
+            "long": "60.6122"
+        }, 
+        {
+            "lat": "58.04874", 
+            "name": "Verkhnyaya Salda", 
+            "long": "60.55949"
+        }, 
+        {
+            "lat": "56.97047", 
+            "name": "Verkhnyaya Pyshma", 
+            "long": "60.58219"
+        }, 
+        {
+            "lat": "58.04575", 
+            "name": "Turinsk", 
+            "long": "63.69605"
+        }, 
+        {
+            "lat": "58.04254", 
+            "name": "Tavda", 
+            "long": "65.27258"
+        }, 
+        {
+            "lat": "56.8804", 
+            "name": "Talitsa", 
+            "long": "60.0213"
+        }, 
+        {
+            "lat": "57.01095", 
+            "name": "Talitsa", 
+            "long": "63.73254"
+        }, 
+        {
+            "lat": "56.50243", 
+            "name": "Sysert&#8217;", 
+            "long": "60.81917"
+        }, 
+        {
+            "lat": "56.9094", 
+            "name": "Sukhoy Log", 
+            "long": "62.0296"
+        }, 
+        {
+            "lat": "56.98921", 
+            "name": "Sredneuralsk", 
+            "long": "60.46662"
+        }, 
+        {
+            "lat": "59.60334", 
+            "name": "Serov", 
+            "long": "60.5787"
+        }, 
+        {
+            "lat": "57.37005", 
+            "name": "Rezh", 
+            "long": "61.40428"
+        }, 
+        {
+            "lat": "57.09013", 
+            "name": "Reftinskiy", 
+            "long": "61.67692"
+        }, 
+        {
+            "lat": "56.44222", 
+            "name": "Polevskoy", 
+            "long": "60.18778"
+        }, 
+        {
+            "lat": "58.07756", 
+            "name": "Nizhnyaya Salda", 
+            "long": "60.7202"
+        }, 
+        {
+            "lat": "57.4953", 
+            "name": "Nev&#8217;yansk", 
+            "long": "60.2112"
+        }, 
+        {
+            "lat": "58.3638", 
+            "name": "Krasnoural&#8217;sk", 
+            "long": "60.0407"
+        }, 
+        {
+            "lat": "59.7666", 
+            "name": "Krasnotur&#8217;insk", 
+            "long": "60.2086"
+        }, 
+        {
+            "lat": "57.42972", 
+            "name": "Kirovgrad", 
+            "long": "60.05972"
+        }, 
+        {
+            "lat": "59.7703", 
+            "name": "Karpinsk", 
+            "long": "59.9964"
+        }, 
+        {
+            "lat": "56.84278", 
+            "name": "Kamyshlov", 
+            "long": "62.71111"
+        }, 
+        {
+            "lat": "56.4185", 
+            "name": "Kamensk-Ural&#8217;skiy", 
+            "long": "61.9329"
+        }, 
+        {
+            "lat": "60.69111", 
+            "name": "Ivdel&#8217;", 
+            "long": "60.42056"
+        }, 
+        {
+            "lat": "57.67052", 
+            "name": "Irbit", 
+            "long": "63.071"
+        }, 
+        {
+            "lat": "56.704", 
+            "name": "Degtyarsk", 
+            "long": "60.0879"
+        }, 
+        {
+            "lat": "56.78028", 
+            "name": "Bogdanovich", 
+            "long": "62.04944"
+        }, 
+        {
+            "lat": "56.9083", 
+            "name": "Beryozovsky", 
+            "long": "60.8019"
+        }, 
+        {
+            "lat": "57.00993", 
+            "name": "Asbest", 
+            "long": "61.45776"
+        }, 
+        {
+            "lat": "57.3555", 
+            "name": "Art&#235;movskiy", 
+            "long": "61.86865"
+        }, 
+        {
+            "lat": "56.6977", 
+            "name": "Aramil", 
+            "long": "60.8369"
+        }, 
+        {
+            "lat": "57.85158", 
+            "name": "Alapayevsk", 
+            "long": "61.69627"
+        }, 
+        {
+            "lat": "57.24389", 
+            "name": "Novoural&#8217;sk", 
+            "long": "60.08389"
+        }, 
+        {
+            "lat": "57.6198", 
+            "name": "Lesnoy", 
+            "long": "63.0784"
+        }
+    ], 
+    "70": [
+        {
+            "lat": "44.13944", 
+            "name": "Zheleznovodsk", 
+            "long": "43.01972"
+        }, 
+        {
+            "lat": "44.40694", 
+            "name": "Zelenokumsk", 
+            "long": "43.88056"
+        }, 
+        {
+            "lat": "44.0328", 
+            "name": "Yessentukskaya", 
+            "long": "42.8813"
+        }, 
+        {
+            "lat": "44.04444", 
+            "name": "Yessentuki", 
+            "long": "42.86056"
+        }, 
+        {
+            "lat": "44.02556", 
+            "name": "Svobody", 
+            "long": "43.05028"
+        }, 
+        {
+            "lat": "45.33528", 
+            "name": "Svetlograd", 
+            "long": "42.85472"
+        }, 
+        {
+            "lat": "44.1901", 
+            "name": "Suvorovskaya", 
+            "long": "42.6595"
+        }, 
+        {
+            "lat": "45.0428", 
+            "name": "Stavropol&#8217;", 
+            "long": "41.9734"
+        }, 
+        {
+            "lat": "45.12833", 
+            "name": "Mikhaylovsk", 
+            "long": "42.02556"
+        }, 
+        {
+            "lat": "44.04861", 
+            "name": "Pyatigorsk", 
+            "long": "43.05944"
+        }, 
+        {
+            "lat": "43.96222", 
+            "name": "Novopavlovsk", 
+            "long": "43.63417"
+        }, 
+        {
+            "lat": "45.4948", 
+            "name": "Novoaleksandrovsk", 
+            "long": "41.22075"
+        }, 
+        {
+            "lat": "44.11806", 
+            "name": "Nezlobnaya", 
+            "long": "43.40278"
+        }, 
+        {
+            "lat": "44.6333", 
+            "name": "Nevinnomyssk", 
+            "long": "41.9444"
+        }, 
+        {
+            "lat": "44.21028", 
+            "name": "Mineralnye Vody", 
+            "long": "43.13528"
+        }, 
+        {
+            "lat": "44.10667", 
+            "name": "Lermontov", 
+            "long": "42.97333"
+        }, 
+        {
+            "lat": "45.84604", 
+            "name": "Krasnogvardeyskoye", 
+            "long": "41.51885"
+        }, 
+        {
+            "lat": "43.91333", 
+            "name": "Kislovodsk", 
+            "long": "42.72083"
+        }, 
+        {
+            "lat": "45.37092", 
+            "name": "Izobil&#8217;nyy", 
+            "long": "41.70839"
+        }, 
+        {
+            "lat": "45.71806", 
+            "name": "Ipatovo", 
+            "long": "42.90361"
+        }, 
+        {
+            "lat": "44.09264", 
+            "name": "Inozemtsevo", 
+            "long": "43.09113"
+        }, 
+        {
+            "lat": "44.02361", 
+            "name": "Goryachevodskiy", 
+            "long": "43.09222"
+        }, 
+        {
+            "lat": "44.15194", 
+            "name": "Georgiyevsk", 
+            "long": "43.46972"
+        }, 
+        {
+            "lat": "45.45518", 
+            "name": "Donskoye", 
+            "long": "41.97411"
+        }, 
+        {
+            "lat": "45.90889", 
+            "name": "Divnoye", 
+            "long": "43.35472"
+        }, 
+        {
+            "lat": "44.78389", 
+            "name": "Bud&#235;nnovsk", 
+            "long": "44.16583"
+        }, 
+        {
+            "lat": "45.09778", 
+            "name": "Blagodarnyy", 
+            "long": "43.43639"
+        }, 
+        {
+            "lat": "45.37278", 
+            "name": "Arzgir", 
+            "long": "44.22056"
+        }, 
+        {
+            "lat": "44.71417", 
+            "name": "Aleksandrovskoye", 
+            "long": "43.00083"
+        }, 
+        {
+            "lat": "44.75583", 
+            "name": "Neftekumsk", 
+            "long": "44.9925"
+        }, 
+        {
+            "lat": "44.64417", 
+            "name": "Kochubeyevskoye", 
+            "long": "41.84528"
+        }
+    ], 
+    "91": [
+        {
+            "lat": "58.44937", 
+            "name": "Yeniseysk", 
+            "long": "92.17968"
+        }, 
+        {
+            "lat": "55.31246", 
+            "name": "Uzhur", 
+            "long": "89.83301"
+        }, 
+        {
+            "lat": "56.1124", 
+            "name": "Zelenogorsk", 
+            "long": "94.5985"
+        }, 
+        {
+            "lat": "69.4865", 
+            "name": "Talnakh", 
+            "long": "88.3972"
+        }, 
+        {
+            "lat": "56.1217", 
+            "name": "Sosnovoborsk", 
+            "long": "93.3385"
+        }, 
+        {
+            "lat": "53.325", 
+            "name": "Shushenskoye", 
+            "long": "91.93556"
+        }, 
+        {
+            "lat": "55.54028", 
+            "name": "Sharypovo", 
+            "long": "89.20083"
+        }, 
+        {
+            "lat": "69.3535", 
+            "name": "Noril&#8217;sk", 
+            "long": "88.2027"
+        }, 
+        {
+            "lat": "56.0104", 
+            "name": "Nazarovo", 
+            "long": "90.4011"
+        }, 
+        {
+            "lat": "53.71028", 
+            "name": "Minusinsk", 
+            "long": "91.6875"
+        }, 
+        {
+            "lat": "58.23583", 
+            "name": "Lesosibirsk", 
+            "long": "92.48278"
+        }, 
+        {
+            "lat": "56.01839", 
+            "name": "Krasnoyarsk", 
+            "long": "92.86717"
+        }, 
+        {
+            "lat": "58.68806", 
+            "name": "Kodinsk", 
+            "long": "99.18444"
+        }, 
+        {
+            "lat": "69.37861", 
+            "name": "Kayyerkan", 
+            "long": "87.74389"
+        }, 
+        {
+            "lat": "56.20167", 
+            "name": "Kansk", 
+            "long": "95.7175"
+        }, 
+        {
+            "lat": "56.2325", 
+            "name": "Ilanskiy", 
+            "long": "96.0652"
+        }, 
+        {
+            "lat": "69.40583", 
+            "name": "Dudinka", 
+            "long": "86.17778"
+        }, 
+        {
+            "lat": "55.9581", 
+            "name": "Divnogorsk", 
+            "long": "92.3726"
+        }, 
+        {
+            "lat": "55.9061", 
+            "name": "Borodino", 
+            "long": "94.9079"
+        }, 
+        {
+            "lat": "56.20778", 
+            "name": "Bogotol", 
+            "long": "89.53417"
+        }, 
+        {
+            "lat": "56.03044", 
+            "name": "Ber&#235;zovka", 
+            "long": "93.11164"
+        }, 
+        {
+            "lat": "56.2694", 
+            "name": "Achinsk", 
+            "long": "90.4993"
+        }, 
+        {
+            "lat": "56.25111", 
+            "name": "Zheleznogorsk", 
+            "long": "93.53194"
+        }
+    ], 
+    "90": [
+        {
+            "lat": "58.07894", 
+            "name": "Vereshchagino", 
+            "long": "54.6557"
+        }, 
+        {
+            "lat": "59.6316", 
+            "name": "Solikamsk", 
+            "long": "56.7685"
+        }, 
+        {
+            "lat": "58.01046", 
+            "name": "Perm", 
+            "long": "56.25017"
+        }, 
+        {
+            "lat": "57.283", 
+            "name": "Osa", 
+            "long": "55.4589"
+        }, 
+        {
+            "lat": "57.89035", 
+            "name": "Och&#235;r", 
+            "long": "54.72019"
+        }, 
+        {
+            "lat": "57.9437", 
+            "name": "Nytva", 
+            "long": "55.3396"
+        }, 
+        {
+            "lat": "58.10861", 
+            "name": "Lys&#8217;va", 
+            "long": "57.80528"
+        }, 
+        {
+            "lat": "57.4368", 
+            "name": "Kungur", 
+            "long": "56.9593"
+        }, 
+        {
+            "lat": "59.01306", 
+            "name": "Kudymkar", 
+            "long": "54.65556"
+        }, 
+        {
+            "lat": "60.40783", 
+            "name": "Krasnovishersk", 
+            "long": "57.08199"
+        }, 
+        {
+            "lat": "58.0796", 
+            "name": "Krasnokamsk", 
+            "long": "55.7552"
+        }, 
+        {
+            "lat": "59.04709", 
+            "name": "Kizel", 
+            "long": "57.64767"
+        }, 
+        {
+            "lat": "58.83862", 
+            "name": "Gubakha", 
+            "long": "57.55325"
+        }, 
+        {
+            "lat": "58.4644", 
+            "name": "Dobryanka", 
+            "long": "56.4127"
+        }, 
+        {
+            "lat": "58.3013", 
+            "name": "Chusovoy", 
+            "long": "57.8131"
+        }, 
+        {
+            "lat": "56.50722", 
+            "name": "Chernushka", 
+            "long": "56.07661"
+        }, 
+        {
+            "lat": "56.76864", 
+            "name": "Chaykovskiy", 
+            "long": "54.11484"
+        }, 
+        {
+            "lat": "59.4091", 
+            "name": "Berezniki", 
+            "long": "56.8204"
+        }, 
+        {
+            "lat": "59.1581", 
+            "name": "Aleksandrovsk", 
+            "long": "57.5695"
+        }
+    ], 
+    "93": [
+        {
+            "lat": "51.2753", 
+            "name": "Petrovsk-Zabaykal&#8217;skiy", 
+            "long": "108.84301"
+        }, 
+        {
+            "lat": "51.98333", 
+            "name": "Nerchinsk", 
+            "long": "116.58333"
+        }, 
+        {
+            "lat": "50.0979", 
+            "name": "Krasnokamensk", 
+            "long": "118.0369"
+        }, 
+        {
+            "lat": "52.03171", 
+            "name": "Chita", 
+            "long": "113.50087"
+        }, 
+        {
+            "lat": "50.38333", 
+            "name": "Borzya", 
+            "long": "116.51667"
+        }
+    ], 
+    "92": [
+        {
+            "lat": "52.9311", 
+            "name": "Vilyuchinsk", 
+            "long": "158.40469"
+        }, 
+        {
+            "lat": "53.18909", 
+            "name": "Yelizovo", 
+            "long": "158.38135"
+        }, 
+        {
+            "lat": "53.04444", 
+            "name": "Petropavlovsk-Kamchatsky", 
+            "long": "158.65076"
+        }
+    ], 
+    "69": [
+        {
+            "lat": "55.06667", 
+            "name": "Yartsevo", 
+            "long": "32.69639"
+        }, 
+        {
+            "lat": "55.21039", 
+            "name": "Vyaz&#8217;ma", 
+            "long": "34.29508"
+        }, 
+        {
+            "lat": "54.7818", 
+            "name": "Smolensk", 
+            "long": "32.0401"
+        }, 
+        {
+            "lat": "55.15", 
+            "name": "Safonovo", 
+            "long": "33.21667"
+        }, 
+        {
+            "lat": "53.95278", 
+            "name": "Roslavl&#8217;", 
+            "long": "32.86389"
+        }, 
+        {
+            "lat": "55.55291", 
+            "name": "Gagarin", 
+            "long": "34.99537"
+        }, 
+        {
+            "lat": "54.15077", 
+            "name": "Desnogorsk", 
+            "long": "33.28151"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "55.72306", 
+            "name": "Yurga", 
+            "long": "84.88611"
+        }, 
+        {
+            "lat": "55.8736", 
+            "name": "Yashkino", 
+            "long": "85.4265"
+        }, 
+        {
+            "lat": "55.2769", 
+            "name": "Topki", 
+            "long": "85.6163"
+        }, 
+        {
+            "lat": "56.06402", 
+            "name": "Tayga", 
+            "long": "85.62238"
+        }, 
+        {
+            "lat": "52.7657", 
+            "name": "Tashtagol", 
+            "long": "87.8894"
+        }, 
+        {
+            "lat": "54.9159", 
+            "name": "Promyshlennaya", 
+            "long": "85.6385"
+        }, 
+        {
+            "lat": "53.9059", 
+            "name": "Prokop&#8217;yevsk", 
+            "long": "86.719"
+        }, 
+        {
+            "lat": "54.6012", 
+            "name": "Polysayevo", 
+            "long": "86.2459"
+        }, 
+        {
+            "lat": "53.6239", 
+            "name": "Osinniki", 
+            "long": "87.3598"
+        }, 
+        {
+            "lat": "53.7557", 
+            "name": "Novokuznetsk", 
+            "long": "87.1099"
+        }, 
+        {
+            "lat": "53.709", 
+            "name": "Myski", 
+            "long": "87.8014"
+        }, 
+        {
+            "lat": "53.69417", 
+            "name": "Mezhdurechensk", 
+            "long": "88.06028"
+        }, 
+        {
+            "lat": "56.21389", 
+            "name": "Mariinsk", 
+            "long": "87.74722"
+        }, 
+        {
+            "lat": "54.6567", 
+            "name": "Leninsk-Kuznetsky", 
+            "long": "86.1737"
+        }, 
+        {
+            "lat": "53.99", 
+            "name": "Kisel&#235;vsk", 
+            "long": "86.6621"
+        }, 
+        {
+            "lat": "55.33333", 
+            "name": "Kemerovo", 
+            "long": "86.08333"
+        }, 
+        {
+            "lat": "55.53333", 
+            "name": "Kedrovka", 
+            "long": "86.05"
+        }, 
+        {
+            "lat": "53.5347", 
+            "name": "Kaltan", 
+            "long": "87.2457"
+        }, 
+        {
+            "lat": "54.28333", 
+            "name": "Gur&#8217;yevsk", 
+            "long": "85.93333"
+        }, 
+        {
+            "lat": "55.6", 
+            "name": "Ber&#235;zovskiy", 
+            "long": "86.2"
+        }, 
+        {
+            "lat": "54.4165", 
+            "name": "Belovo", 
+            "long": "86.2976"
+        }, 
+        {
+            "lat": "56.081", 
+            "name": "Anzhero-Sudzhensk", 
+            "long": "86.0285"
+        }
+    ], 
+    "79": [
+        {
+            "lat": "51.71472", 
+            "name": "Kyzyl", 
+            "long": "94.45338"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "47.41958", 
+            "name": "Kharabali", 
+            "long": "47.25678"
+        }, 
+        {
+            "lat": "46.10995", 
+            "name": "Kamyzyak", 
+            "long": "48.07364"
+        }, 
+        {
+            "lat": "46.34968", 
+            "name": "Astrakhan&#8217;", 
+            "long": "48.04076"
+        }, 
+        {
+            "lat": "48.27955", 
+            "name": "Akhtubinsk", 
+            "long": "46.17217"
+        }, 
+        {
+            "lat": "48.5842", 
+            "name": "Znamensk", 
+            "long": "45.7338"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "51.82721", 
+            "name": "Ulan-Ude", 
+            "long": "107.60627"
+        }, 
+        {
+            "lat": "55.63695", 
+            "name": "Severobaykal&#8217;sk", 
+            "long": "109.32297"
+        }, 
+        {
+            "lat": "50.35737", 
+            "name": "Kyakhta", 
+            "long": "106.45033"
+        }, 
+        {
+            "lat": "51.28333", 
+            "name": "Gusinoozyorsk", 
+            "long": "106.5"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "53.53395", 
+            "name": "Zhukovka", 
+            "long": "33.72798"
+        }, 
+        {
+            "lat": "52.84591", 
+            "name": "Unecha", 
+            "long": "32.67394"
+        }, 
+        {
+            "lat": "52.5798", 
+            "name": "Trubchevsk", 
+            "long": "33.7644"
+        }, 
+        {
+            "lat": "52.58444", 
+            "name": "Starodub", 
+            "long": "32.76333"
+        }, 
+        {
+            "lat": "53.36831", 
+            "name": "Sel&#8217;tso", 
+            "long": "34.10328"
+        }, 
+        {
+            "lat": "52.9336", 
+            "name": "Pochep", 
+            "long": "33.4464"
+        }, 
+        {
+            "lat": "52.5396", 
+            "name": "Novozybkov", 
+            "long": "31.9275"
+        }, 
+        {
+            "lat": "52.76019", 
+            "name": "Klintsy", 
+            "long": "32.23935"
+        }, 
+        {
+            "lat": "53.12292", 
+            "name": "Karachev", 
+            "long": "34.98517"
+        }, 
+        {
+            "lat": "53.59782", 
+            "name": "Dyat&#8217;kovo", 
+            "long": "34.33825"
+        }, 
+        {
+            "lat": "53.25209", 
+            "name": "Bryansk", 
+            "long": "34.37167"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "55.17111", 
+            "name": "Zlatoust", 
+            "long": "59.65083"
+        }, 
+        {
+            "lat": "54.9366", 
+            "name": "Ust&#8217;-Katav", 
+            "long": "58.1757"
+        }, 
+        {
+            "lat": "54.993", 
+            "name": "Sim", 
+            "long": "57.6982"
+        }, 
+        {
+            "lat": "55.0425", 
+            "name": "Satka", 
+            "long": "59.04"
+        }, 
+        {
+            "lat": "53.41861", 
+            "name": "Magnitogorsk", 
+            "long": "59.04722"
+        }, 
+        {
+            "lat": "55.33833", 
+            "name": "Kusa", 
+            "long": "59.44056"
+        }, 
+        {
+            "lat": "54.75306", 
+            "name": "Katav-Ivanovsk", 
+            "long": "58.19556"
+        }, 
+        {
+            "lat": "54.9417", 
+            "name": "Bakal", 
+            "long": "58.8083"
+        }, 
+        {
+            "lat": "54.9973", 
+            "name": "Asha", 
+            "long": "57.2722"
+        }, 
+        {
+            "lat": "54.815", 
+            "name": "Tr&#235;khgornyy", 
+            "long": "58.45917"
+        }, 
+        {
+            "lat": "54.4418", 
+            "name": "Yuzhnoural&#8217;sk", 
+            "long": "61.2536"
+        }, 
+        {
+            "lat": "54.75472", 
+            "name": "Yemanzhelinsk", 
+            "long": "61.32083"
+        }, 
+        {
+            "lat": "56.0556", 
+            "name": "Verkhniy Ufaley", 
+            "long": "60.2397"
+        }, 
+        {
+            "lat": "54.0979", 
+            "name": "Troitsk", 
+            "long": "61.5773"
+        }, 
+        {
+            "lat": "54.36914", 
+            "name": "Plast", 
+            "long": "60.81361"
+        }, 
+        {
+            "lat": "55.045", 
+            "name": "Miass", 
+            "long": "60.10833"
+        }, 
+        {
+            "lat": "55.714", 
+            "name": "Kyshtym", 
+            "long": "60.5528"
+        }, 
+        {
+            "lat": "54.8913", 
+            "name": "Korkino", 
+            "long": "61.3969"
+        }, 
+        {
+            "lat": "55.11722", 
+            "name": "Kopeysk", 
+            "long": "61.62823"
+        }, 
+        {
+            "lat": "55.8909", 
+            "name": "Kasli", 
+            "long": "60.7616"
+        }, 
+        {
+            "lat": "53.05285", 
+            "name": "Kartaly", 
+            "long": "60.64903"
+        }, 
+        {
+            "lat": "55.4808", 
+            "name": "Karabash", 
+            "long": "60.2157"
+        }, 
+        {
+            "lat": "55.15402", 
+            "name": "Chelyabinsk", 
+            "long": "61.42915"
+        }, 
+        {
+            "lat": "54.9749", 
+            "name": "Chebarkul&#8217;", 
+            "long": "60.3633"
+        }, 
+        {
+            "lat": "56.085", 
+            "name": "Snezhinsk", 
+            "long": "60.73139"
+        }, 
+        {
+            "lat": "55.75556", 
+            "name": "Ozersk", 
+            "long": "60.70278"
+        }
+    ], 
+    "38": [
+        {
+            "lat": "46.7055", 
+            "name": "Yeysk", 
+            "long": "38.2739"
+        }, 
+        {
+            "lat": "45.04616", 
+            "name": "Yelizavetinskaya", 
+            "long": "38.79491"
+        }, 
+        {
+            "lat": "45.58128", 
+            "name": "Vyselki", 
+            "long": "39.66409"
+        }, 
+        {
+            "lat": "45.21077", 
+            "name": "Ust&#8217;-Labinsk", 
+            "long": "39.68914"
+        }, 
+        {
+            "lat": "44.1053", 
+            "name": "Tuapse", 
+            "long": "39.0802"
+        }, 
+        {
+            "lat": "45.61694", 
+            "name": "Timash&#235;vsk", 
+            "long": "38.94528"
+        }, 
+        {
+            "lat": "45.85472", 
+            "name": "Tikhoretsk", 
+            "long": "40.12528"
+        }, 
+        {
+            "lat": "45.27055", 
+            "name": "Temryuk", 
+            "long": "37.38716"
+        }, 
+        {
+            "lat": "45.36333", 
+            "name": "Tbilisskaya", 
+            "long": "40.19"
+        }, 
+        {
+            "lat": "46.6311", 
+            "name": "Staroshcherbinovskaya", 
+            "long": "38.6742"
+        }, 
+        {
+            "lat": "46.53", 
+            "name": "Starominskaya", 
+            "long": "39.04972"
+        }, 
+        {
+            "lat": "43.59917", 
+            "name": "Sochi", 
+            "long": "39.72569"
+        }, 
+        {
+            "lat": "45.2558", 
+            "name": "Slavyansk-na-Kubani", 
+            "long": "38.1256"
+        }, 
+        {
+            "lat": "44.85407", 
+            "name": "Severskaya", 
+            "long": "38.67686"
+        }, 
+        {
+            "lat": "46.0497", 
+            "name": "Primorsko-Akhtarsk", 
+            "long": "38.1747"
+        }, 
+        {
+            "lat": "46.1377", 
+            "name": "Pavlovskaya", 
+            "long": "39.7832"
+        }, 
+        {
+            "lat": "45.02366", 
+            "name": "Pashkovskiy", 
+            "long": "39.10436"
+        }, 
+        {
+            "lat": "44.39333", 
+            "name": "Otradnaya", 
+            "long": "41.52056"
+        }, 
+        {
+            "lat": "45.23756", 
+            "name": "Novotitarovskaya", 
+            "long": "38.98059"
+        }, 
+        {
+            "lat": "44.72439", 
+            "name": "Novorossiysk", 
+            "long": "37.76752"
+        }, 
+        {
+            "lat": "45.95139", 
+            "name": "Novopokrovskaya", 
+            "long": "40.70056"
+        }, 
+        {
+            "lat": "45.117", 
+            "name": "Novokubansk", 
+            "long": "41.0267"
+        }, 
+        {
+            "lat": "44.41222", 
+            "name": "Mostovskoy", 
+            "long": "40.79361"
+        }, 
+        {
+            "lat": "45.45151", 
+            "name": "Medvedovskaya", 
+            "long": "39.02485"
+        }, 
+        {
+            "lat": "46.3214", 
+            "name": "Leningradskaya", 
+            "long": "39.3877"
+        }, 
+        {
+            "lat": "43.90886", 
+            "name": "Lazarevskoye", 
+            "long": "39.33137"
+        }, 
+        {
+            "lat": "44.63417", 
+            "name": "Labinsk", 
+            "long": "40.73556"
+        }, 
+        {
+            "lat": "46.5599", 
+            "name": "Kushch&#235;vskaya", 
+            "long": "39.6321"
+        }, 
+        {
+            "lat": "44.88", 
+            "name": "Kurganinsk", 
+            "long": "40.59861"
+        }, 
+        {
+            "lat": "43.49547", 
+            "name": "Kudepsta", 
+            "long": "39.89294"
+        }, 
+        {
+            "lat": "44.92934", 
+            "name": "Krymsk", 
+            "long": "37.99117"
+        }, 
+        {
+            "lat": "45.4375", 
+            "name": "Kropotkin", 
+            "long": "40.57556"
+        }, 
+        {
+            "lat": "45.04484", 
+            "name": "Krasnodar", 
+            "long": "38.97603"
+        }, 
+        {
+            "lat": "45.36614", 
+            "name": "Krasnoarmeyskaya", 
+            "long": "38.21171"
+        }, 
+        {
+            "lat": "45.46899", 
+            "name": "Korenovsk", 
+            "long": "39.45136"
+        }, 
+        {
+            "lat": "43.51484", 
+            "name": "Khosta", 
+            "long": "39.86825"
+        }, 
+        {
+            "lat": "44.84694", 
+            "name": "Kholmskiy", 
+            "long": "38.385"
+        }, 
+        {
+            "lat": "44.4258", 
+            "name": "Khadyzhensk", 
+            "long": "39.5362"
+        }, 
+        {
+            "lat": "46.0849", 
+            "name": "Kanevskaya", 
+            "long": "38.9596"
+        }, 
+        {
+            "lat": "44.84222", 
+            "name": "Il&#8217;skiy", 
+            "long": "38.56686"
+        }, 
+        {
+            "lat": "45.35383", 
+            "name": "Gul&#8217;kevichi", 
+            "long": "40.69465"
+        }, 
+        {
+            "lat": "44.63083", 
+            "name": "Goryachiy Klyuch", 
+            "long": "39.13"
+        }, 
+        {
+            "lat": "44.5622", 
+            "name": "Gelendzhik", 
+            "long": "38.0848"
+        }, 
+        {
+            "lat": "45.21516", 
+            "name": "Dinskaya", 
+            "long": "39.2265"
+        }, 
+        {
+            "lat": "45.80603", 
+            "name": "Bryukhovetskaya", 
+            "long": "38.99959"
+        }, 
+        {
+            "lat": "44.77127", 
+            "name": "Belorechensk", 
+            "long": "39.87879"
+        }, 
+        {
+            "lat": "46.07802", 
+            "name": "Belaya Glina", 
+            "long": "40.86651"
+        }, 
+        {
+            "lat": "44.9892", 
+            "name": "Armavir", 
+            "long": "41.1234"
+        }, 
+        {
+            "lat": "44.46472", 
+            "name": "Apsheronsk", 
+            "long": "39.73417"
+        }, 
+        {
+            "lat": "44.89084", 
+            "name": "Anapa", 
+            "long": "37.3239"
+        }, 
+        {
+            "lat": "44.8546", 
+            "name": "Akhtyrskiy", 
+            "long": "38.3031"
+        }, 
+        {
+            "lat": "44.90005", 
+            "name": "Afipskiy", 
+            "long": "38.84265"
+        }, 
+        {
+            "lat": "43.42896", 
+            "name": "Adler", 
+            "long": "39.92391"
+        }, 
+        {
+            "lat": "44.86803", 
+            "name": "Abinsk", 
+            "long": "38.15728"
+        }, 
+        {
+            "lat": "43.66974", 
+            "name": "Dagomys", 
+            "long": "39.66863"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "53.7074", 
+            "name": "Zarinsk", 
+            "long": "84.9493"
+        }, 
+        {
+            "lat": "53.25417", 
+            "name": "Yuzhnyy", 
+            "long": "83.69361"
+        }, 
+        {
+            "lat": "52.9273", 
+            "name": "Yarovoye", 
+            "long": "78.58"
+        }, 
+        {
+            "lat": "53.8183", 
+            "name": "Tal&#8217;menka", 
+            "long": "83.5677"
+        }, 
+        {
+            "lat": "52.9978", 
+            "name": "Slavgorod", 
+            "long": "78.6449"
+        }, 
+        {
+            "lat": "51.51473", 
+            "name": "Rubtsovsk", 
+            "long": "81.20613"
+        }, 
+        {
+            "lat": "53.30972", 
+            "name": "Novosilikatnyy", 
+            "long": "83.62389"
+        }, 
+        {
+            "lat": "53.3917", 
+            "name": "Novoaltaysk", 
+            "long": "83.9363"
+        }, 
+        {
+            "lat": "52.566", 
+            "name": "Kulunda", 
+            "long": "78.9385"
+        }, 
+        {
+            "lat": "53.7884", 
+            "name": "Kamen&#8217;-na-Obi", 
+            "long": "81.3423"
+        }, 
+        {
+            "lat": "50.99417", 
+            "name": "Gornyak", 
+            "long": "81.46611"
+        }, 
+        {
+            "lat": "52.53639", 
+            "name": "Biysk", 
+            "long": "85.20722"
+        }, 
+        {
+            "lat": "53.36056", 
+            "name": "Barnaul", 
+            "long": "83.76361"
+        }, 
+        {
+            "lat": "52.4926", 
+            "name": "Aleysk", 
+            "long": "82.7822"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "43.38278", 
+            "name": "Tyrnyauz", 
+            "long": "42.91833"
+        }, 
+        {
+            "lat": "43.48333", 
+            "name": "Terek", 
+            "long": "44.13611"
+        }, 
+        {
+            "lat": "43.75741", 
+            "name": "Prokhladnyy", 
+            "long": "44.0297"
+        }, 
+        {
+            "lat": "43.5575", 
+            "name": "Nartkala", 
+            "long": "43.85083"
+        }, 
+        {
+            "lat": "43.49806", 
+            "name": "Nal&#8217;chik", 
+            "long": "43.61889"
+        }, 
+        {
+            "lat": "43.6625", 
+            "name": "Dugulubgey", 
+            "long": "43.53694"
+        }, 
+        {
+            "lat": "43.28333", 
+            "name": "Chegem", 
+            "long": "43.13333"
+        }, 
+        {
+            "lat": "43.68806", 
+            "name": "Baksan", 
+            "long": "43.53694"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "42.97638", 
+            "name": "Makhachkala", 
+            "long": "47.50236"
+        }, 
+        {
+            "lat": "43.84712", 
+            "name": "Kizlyar", 
+            "long": "46.71445"
+        }, 
+        {
+            "lat": "43.20697", 
+            "name": "Kizilyurt", 
+            "long": "46.8679"
+        }, 
+        {
+            "lat": "43.2509", 
+            "name": "Khasavyurt", 
+            "long": "46.58766"
+        }, 
+        {
+            "lat": "42.88165", 
+            "name": "Kaspiysk", 
+            "long": "47.63919"
+        }, 
+        {
+            "lat": "42.56955", 
+            "name": "Izberbash", 
+            "long": "47.86447"
+        }, 
+        {
+            "lat": "42.06779", 
+            "name": "Derbent", 
+            "long": "48.28987"
+        }, 
+        {
+            "lat": "42.11589", 
+            "name": "Dagestanskiye Ogni", 
+            "long": "48.19204"
+        }, 
+        {
+            "lat": "42.819", 
+            "name": "Buynaksk", 
+            "long": "47.1192"
+        }, 
+        {
+            "lat": "41.89184", 
+            "name": "Belidzhi", 
+            "long": "48.41247"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "55.5005", 
+            "name": "Shumerlya", 
+            "long": "46.41288"
+        }, 
+        {
+            "lat": "56.11095", 
+            "name": "Novocheboksarsk", 
+            "long": "47.47755"
+        }, 
+        {
+            "lat": "55.50962", 
+            "name": "Kanash", 
+            "long": "47.49127"
+        }, 
+        {
+            "lat": "56.13222", 
+            "name": "Cheboksary", 
+            "long": "47.25194"
+        }, 
+        {
+            "lat": "54.8421", 
+            "name": "Alatyr&#8217;", 
+            "long": "46.5813"
+        }
+    ], 
+    "55": [
+        {
+            "lat": "51.0333", 
+            "name": "Yasnyy", 
+            "long": "59.8742"
+        }, 
+        {
+            "lat": "52.4338", 
+            "name": "Sorochinsk", 
+            "long": "53.1583"
+        }, 
+        {
+            "lat": "51.1631", 
+            "name": "Sol&#8217;-Iletsk", 
+            "long": "54.99176"
+        }, 
+        {
+            "lat": "51.78771", 
+            "name": "Saraktash", 
+            "long": "56.36091"
+        }, 
+        {
+            "lat": "51.20487", 
+            "name": "Orsk", 
+            "long": "58.56685"
+        }, 
+        {
+            "lat": "51.7727", 
+            "name": "Orenburg", 
+            "long": "55.0988"
+        }, 
+        {
+            "lat": "51.20301", 
+            "name": "Novotroitsk", 
+            "long": "58.32665"
+        }, 
+        {
+            "lat": "51.4128", 
+            "name": "Mednogorsk", 
+            "long": "57.595"
+        }, 
+        {
+            "lat": "51.4781", 
+            "name": "Kuvandyk", 
+            "long": "57.3552"
+        }, 
+        {
+            "lat": "51.4666", 
+            "name": "Gay", 
+            "long": "58.4552"
+        }, 
+        {
+            "lat": "52.7807", 
+            "name": "Buzuluk", 
+            "long": "52.2635"
+        }, 
+        {
+            "lat": "53.6554", 
+            "name": "Buguruslan", 
+            "long": "52.442"
+        }, 
+        {
+            "lat": "53.7", 
+            "name": "Abdulino", 
+            "long": "53.66667"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "60.13044", 
+            "name": "Uray", 
+            "long": "64.78896"
+        }, 
+        {
+            "lat": "61.25", 
+            "name": "Surgut", 
+            "long": "73.41667"
+        }, 
+        {
+            "lat": "61.36139", 
+            "name": "Sovetskiy", 
+            "long": "63.58417"
+        }, 
+        {
+            "lat": "61.23333", 
+            "name": "Poykovskiy", 
+            "long": "73.33333"
+        }, 
+        {
+            "lat": "62.14056", 
+            "name": "Nyagan", 
+            "long": "65.39361"
+        }, 
+        {
+            "lat": "60.9344", 
+            "name": "Nizhnevartovsk", 
+            "long": "76.5531"
+        }, 
+        {
+            "lat": "61.09979", 
+            "name": "Nefteyugansk", 
+            "long": "72.60349"
+        }, 
+        {
+            "lat": "61.0296", 
+            "name": "Megion", 
+            "long": "76.1136"
+        }, 
+        {
+            "lat": "61.31226", 
+            "name": "Yugorsk", 
+            "long": "63.33067"
+        }, 
+        {
+            "lat": "61.00417", 
+            "name": "Khanty-Mansiysk", 
+            "long": "69.00194"
+        }, 
+        {
+            "lat": "63.71194", 
+            "name": "Beloyarskiy", 
+            "long": "66.67222"
+        }, 
+        {
+            "lat": "62.09611", 
+            "name": "Raduzhny", 
+            "long": "77.475"
+        }, 
+        {
+            "lat": "61.61945", 
+            "name": "Lyantor", 
+            "long": "72.15546"
+        }, 
+        {
+            "lat": "62.26537", 
+            "name": "Kogalym", 
+            "long": "74.47906"
+        }, 
+        {
+            "lat": "60.74985", 
+            "name": "Pyt-Yakh", 
+            "long": "72.85824"
+        }, 
+        {
+            "lat": "61.25439", 
+            "name": "Langepas", 
+            "long": "75.2124"
+        }, 
+        {
+            "lat": "62.43965", 
+            "name": "Nizhnesortymskiy", 
+            "long": "71.76029"
+        }, 
+        {
+            "lat": "61.71982", 
+            "name": "Pokachi", 
+            "long": "75.36827"
+        }, 
+        {
+            "lat": "60.97944", 
+            "name": "Izluchinsk", 
+            "long": "76.92421"
+        }
+    ], 
+    "57": [
+        {
+            "lat": "53.20356", 
+            "name": "Zarechnyy", 
+            "long": "45.19227"
+        }, 
+        {
+            "lat": "52.45861", 
+            "name": "Serdobsk", 
+            "long": "44.21689"
+        }, 
+        {
+            "lat": "53.20066", 
+            "name": "Penza", 
+            "long": "45.00464"
+        }, 
+        {
+            "lat": "53.53041", 
+            "name": "Nizhniy Lomov", 
+            "long": "43.67663"
+        }, 
+        {
+            "lat": "53.71886", 
+            "name": "Nikol&#8217;sk", 
+            "long": "46.07118"
+        }, 
+        {
+            "lat": "53.11675", 
+            "name": "Kuznetsk", 
+            "long": "46.60037"
+        }, 
+        {
+            "lat": "53.13333", 
+            "name": "Zarechnyy", 
+            "long": "46.58333"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "54.67501", 
+            "name": "Svetlyy", 
+            "long": "20.13473"
+        }, 
+        {
+            "lat": "55.08392", 
+            "name": "Sovetsk", 
+            "long": "21.87851"
+        }, 
+        {
+            "lat": "54.70649", 
+            "name": "Kaliningrad", 
+            "long": "20.51095"
+        }, 
+        {
+            "lat": "54.59222", 
+            "name": "Gusev", 
+            "long": "22.19972"
+        }, 
+        {
+            "lat": "54.63345", 
+            "name": "Chernyakhovsk", 
+            "long": "21.81557"
+        }, 
+        {
+            "lat": "54.65455", 
+            "name": "Baltiysk", 
+            "long": "19.90929"
+        }
+    ], 
+    "51": [
+        {
+            "lat": "56.64051", 
+            "name": "Zavolzh&#8217;ye", 
+            "long": "43.39446"
+        }, 
+        {
+            "lat": "55.3175", 
+            "name": "Vyksa", 
+            "long": "42.17444"
+        }, 
+        {
+            "lat": "57.67579", 
+            "name": "Shakhun&#8217;ya", 
+            "long": "46.61136"
+        }, 
+        {
+            "lat": "55.53079", 
+            "name": "Sergach", 
+            "long": "45.46611"
+        }, 
+        {
+            "lat": "56.78749", 
+            "name": "Sem&#235;nov", 
+            "long": "44.49297"
+        }, 
+        {
+            "lat": "54.93583", 
+            "name": "Sarov", 
+            "long": "43.32352"
+        }, 
+        {
+            "lat": "56.32867", 
+            "name": "Nizhniy Novgorod", 
+            "long": "44.00205"
+        }, 
+        {
+            "lat": "55.5441", 
+            "name": "Navashino", 
+            "long": "42.1968"
+        }, 
+        {
+            "lat": "56.03282", 
+            "name": "Lyskovo", 
+            "long": "45.0422"
+        }, 
+        {
+            "lat": "55.41333", 
+            "name": "Kulebaki", 
+            "long": "42.5325"
+        }, 
+        {
+            "lat": "56.14733", 
+            "name": "Kstovo", 
+            "long": "44.19787"
+        }, 
+        {
+            "lat": "56.65493", 
+            "name": "Gorodets", 
+            "long": "43.47273"
+        }, 
+        {
+            "lat": "56.24143", 
+            "name": "Dzerzhinsk", 
+            "long": "43.45539"
+        }, 
+        {
+            "lat": "56.35808", 
+            "name": "Bor", 
+            "long": "44.07477"
+        }, 
+        {
+            "lat": "56.10513", 
+            "name": "Bogorodsk", 
+            "long": "43.51294"
+        }, 
+        {
+            "lat": "56.48989", 
+            "name": "Novaya Balakhna", 
+            "long": "43.60114"
+        }, 
+        {
+            "lat": "55.39485", 
+            "name": "Arzamas", 
+            "long": "43.83992"
+        }, 
+        {
+            "lat": "55.9686", 
+            "name": "Pavlovo", 
+            "long": "43.0912"
+        }
+    ], 
+    "88": [
+        {
+            "lat": "57.62987", 
+            "name": "Yaroslavl", 
+            "long": "39.87368"
+        }, 
+        {
+            "lat": "57.5275", 
+            "name": "Uglich", 
+            "long": "38.33167"
+        }, 
+        {
+            "lat": "57.88529", 
+            "name": "Tutayev", 
+            "long": "39.5406"
+        }, 
+        {
+            "lat": "58.0446", 
+            "name": "Rybinsk", 
+            "long": "38.84259"
+        }, 
+        {
+            "lat": "57.1914", 
+            "name": "Rostov", 
+            "long": "39.41394"
+        }, 
+        {
+            "lat": "56.73934", 
+            "name": "Pereslavl&#8217;-Zalesskiy", 
+            "long": "38.85626"
+        }, 
+        {
+            "lat": "57.30185", 
+            "name": "Gavrilov-Yam", 
+            "long": "39.85331"
+        }, 
+        {
+            "lat": "58.1908", 
+            "name": "Danilov", 
+            "long": "40.17171"
+        }
+    ], 
+    "53": [
+        {
+            "lat": "55.23528", 
+            "name": "Toguchin", 
+            "long": "84.38583"
+        }, 
+        {
+            "lat": "55.21903", 
+            "name": "Tatarsk", 
+            "long": "75.98283"
+        }, 
+        {
+            "lat": "53.7841", 
+            "name": "Suzun", 
+            "long": "82.3116"
+        }, 
+        {
+            "lat": "54.9872", 
+            "name": "Ob&#8217;", 
+            "long": "82.7166"
+        }, 
+        {
+            "lat": "55.0415", 
+            "name": "Novosibirsk", 
+            "long": "82.9346"
+        }, 
+        {
+            "lat": "54.4589", 
+            "name": "Lin&#235;vo", 
+            "long": "83.3764"
+        }, 
+        {
+            "lat": "55.44753", 
+            "name": "Kuybyshev", 
+            "long": "78.32181"
+        }, 
+        {
+            "lat": "54.36635", 
+            "name": "Kupino", 
+            "long": "77.29805"
+        }, 
+        {
+            "lat": "54.9198", 
+            "name": "Krasnoobsk", 
+            "long": "82.9909"
+        }, 
+        {
+            "lat": "55.0218", 
+            "name": "Kochen&#235;vo", 
+            "long": "82.202"
+        }, 
+        {
+            "lat": "53.73772", 
+            "name": "Karasuk", 
+            "long": "78.04026"
+        }, 
+        {
+            "lat": "54.6366", 
+            "name": "Iskitim", 
+            "long": "83.3045"
+        }, 
+        {
+            "lat": "54.2222", 
+            "name": "Cherepanovo", 
+            "long": "83.381"
+        }, 
+        {
+            "lat": "55.67167", 
+            "name": "Bolotnoye", 
+            "long": "84.39806"
+        }, 
+        {
+            "lat": "54.7551", 
+            "name": "Berdsk", 
+            "long": "83.0967"
+        }, 
+        {
+            "lat": "55.35709", 
+            "name": "Barabinsk", 
+            "long": "78.35697"
+        }, 
+        {
+            "lat": "54.8523", 
+            "name": "Akademgorodok", 
+            "long": "83.106"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "62.58999", 
+            "name": "Yemva", 
+            "long": "50.85939"
+        }, 
+        {
+            "lat": "63.56705", 
+            "name": "Ukhta", 
+            "long": "53.68348"
+        }, 
+        {
+            "lat": "61.67642", 
+            "name": "Syktyvkar", 
+            "long": "50.80994"
+        }, 
+        {
+            "lat": "63.60229", 
+            "name": "Sosnogorsk", 
+            "long": "53.88175"
+        }, 
+        {
+            "lat": "65.14717", 
+            "name": "Pechora", 
+            "long": "57.22439"
+        }, 
+        {
+            "lat": "61.81281", 
+            "name": "Ezhva", 
+            "long": "50.72834"
+        }, 
+        {
+            "lat": "65.99389", 
+            "name": "Usinsk", 
+            "long": "57.52806"
+        }, 
+        {
+            "lat": "67.49884", 
+            "name": "Vorkuta", 
+            "long": "64.05253"
+        }, 
+        {
+            "lat": "67.58355", 
+            "name": "Vorgashor", 
+            "long": "63.79399"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "57.30331", 
+            "name": "Yaransk", 
+            "long": "47.88611"
+        }, 
+        {
+            "lat": "56.22602", 
+            "name": "Vyatskiye Polyany", 
+            "long": "51.06557"
+        }, 
+        {
+            "lat": "57.58475", 
+            "name": "Sovetsk", 
+            "long": "48.95844"
+        }, 
+        {
+            "lat": "58.73222", 
+            "name": "Slobodskoy", 
+            "long": "50.17722"
+        }, 
+        {
+            "lat": "58.67001", 
+            "name": "Omutninsk", 
+            "long": "52.1932"
+        }, 
+        {
+            "lat": "58.3089", 
+            "name": "Kotel&#8217;nich", 
+            "long": "48.348"
+        }, 
+        {
+            "lat": "58.55386", 
+            "name": "Kirovo-Chepetsk", 
+            "long": "50.03986"
+        }, 
+        {
+            "lat": "58.59665", 
+            "name": "Kirov", 
+            "long": "49.66007"
+        }
+    ], 
+    "89": [
+        {
+            "lat": "48.79284", 
+            "name": "Birobidzhan", 
+            "long": "132.92386"
+        }
+    ], 
+    "54": [
+        {
+            "lat": "56.89436", 
+            "name": "Tara", 
+            "long": "74.37096"
+        }, 
+        {
+            "lat": "54.99244", 
+            "name": "Omsk", 
+            "long": "73.36859"
+        }, 
+        {
+            "lat": "55.05286", 
+            "name": "Kalachinsk", 
+            "long": "74.57511"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "43.13053", 
+            "name": "Urus-Martan", 
+            "long": "45.53791"
+        }, 
+        {
+            "lat": "43.14806", 
+            "name": "Shali", 
+            "long": "45.90194"
+        }, 
+        {
+            "lat": "43.24206", 
+            "name": "Tsotsin-Yurt", 
+            "long": "46.00013"
+        }, 
+        {
+            "lat": "43.20184", 
+            "name": "Kurchaloy", 
+            "long": "46.0881"
+        }, 
+        {
+            "lat": "43.35071", 
+            "name": "Gudermes", 
+            "long": "46.10925"
+        }, 
+        {
+            "lat": "43.31195", 
+            "name": "Groznyy", 
+            "long": "45.68895"
+        }, 
+        {
+            "lat": "43.16354", 
+            "name": "Avtury", 
+            "long": "46.0012"
+        }, 
+        {
+            "lat": "43.29713", 
+            "name": "Argun", 
+            "long": "45.87454"
+        }, 
+        {
+            "lat": "43.18997", 
+            "name": "Achkhoy-Martan", 
+            "long": "45.28373"
+        }
+    ], 
+    "31": [
+        {
+            "lat": "53.0875", 
+            "name": "Sayanogorsk", 
+            "long": "91.39972"
+        }, 
+        {
+            "lat": "53.82361", 
+            "name": "Chernogorsk", 
+            "long": "91.28417"
+        }, 
+        {
+            "lat": "52.655", 
+            "name": "Abaza", 
+            "long": "90.09278"
+        }, 
+        {
+            "lat": "53.71556", 
+            "name": "Abakan", 
+            "long": "91.42917"
+        }
+    ]
+}

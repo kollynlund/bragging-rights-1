@@ -1,0 +1,42 @@
+{
+    "DD": [
+        {
+            "lat": "13.51777", 
+            "name": "Dededo Village", 
+            "long": "144.8391"
+        }
+    ], 
+    "TM": [
+        {
+            "lat": "13.48773", 
+            "name": "Tamuning-Tumon-Harmon Village", 
+            "long": "144.78138"
+        }
+    ], 
+    "MA": [
+        {
+            "lat": "13.44761", 
+            "name": "Mangilao Village", 
+            "long": "144.80109"
+        }
+    ], 
+    "YG": [
+        {
+            "lat": "13.53605", 
+            "name": "Yigo Village", 
+            "long": "144.88855"
+        }
+    ], 
+    "AN": [
+        {
+            "lat": "13.47191", 
+            "name": "Guam Government House", 
+            "long": "144.74978"
+        }, 
+        {
+            "lat": "13.47567", 
+            "name": "Hag&#229;t&#241;a", 
+            "long": "144.74886"
+        }
+    ]
+}

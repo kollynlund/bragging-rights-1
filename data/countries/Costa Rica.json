@@ -1,0 +1,226 @@
+{
+    "02": [
+        {
+            "lat": "9.90467", 
+            "name": "Turrialba", 
+            "long": "-83.68352"
+        }, 
+        {
+            "lat": "9.89898", 
+            "name": "San Diego", 
+            "long": "-84.00287"
+        }, 
+        {
+            "lat": "9.83832", 
+            "name": "Para&#237;so", 
+            "long": "-83.86557"
+        }, 
+        {
+            "lat": "9.86444", 
+            "name": "Cartago", 
+            "long": "-83.91944"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "10.15038", 
+            "name": "Nicoya", 
+            "long": "-85.45093"
+        }, 
+        {
+            "lat": "10.63504", 
+            "name": "Liberia", 
+            "long": "-85.43772"
+        }, 
+        {
+            "lat": "10.43105", 
+            "name": "Ca&#241;as", 
+            "long": "-85.09825"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "10.06383", 
+            "name": "San Rafael", 
+            "long": "-84.46765"
+        }, 
+        {
+            "lat": "10.95173", 
+            "name": "San Jos&#233;", 
+            "long": "-85.1361"
+        }, 
+        {
+            "lat": "10.32381", 
+            "name": "Quesada", 
+            "long": "-84.42714"
+        }, 
+        {
+            "lat": "10.01625", 
+            "name": "Alajuela", 
+            "long": "-84.21163"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "10.09748", 
+            "name": "Siquirres", 
+            "long": "-83.50659"
+        }, 
+        {
+            "lat": "9.99074", 
+            "name": "Lim&#243;n", 
+            "long": "-83.03596"
+        }, 
+        {
+            "lat": "10.21682", 
+            "name": "Gu&#225;piles", 
+            "long": "-83.78483"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "9.97625", 
+            "name": "Puntarenas", 
+            "long": "-84.83836"
+        }, 
+        {
+            "lat": "9.99447", 
+            "name": "Esparza", 
+            "long": "-84.66466"
+        }, 
+        {
+            "lat": "9.98424", 
+            "name": "Chacarita", 
+            "long": "-84.77892"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "9.99559", 
+            "name": "San Pablo", 
+            "long": "-84.09656"
+        }, 
+        {
+            "lat": "9.99299", 
+            "name": "San Francisco", 
+            "long": "-84.12934"
+        }, 
+        {
+            "lat": "10.00695", 
+            "name": "Mercedes", 
+            "long": "-84.13396"
+        }, 
+        {
+            "lat": "10.00236", 
+            "name": "Heredia", 
+            "long": "-84.11651"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "9.74622", 
+            "name": "Tejar", 
+            "long": "-84.23368"
+        }, 
+        {
+            "lat": "9.96016", 
+            "name": "San Vicente", 
+            "long": "-84.04762"
+        }, 
+        {
+            "lat": "9.87556", 
+            "name": "San Rafael Arriba", 
+            "long": "-84.07661"
+        }, 
+        {
+            "lat": "9.831", 
+            "name": "San Rafael Abajo", 
+            "long": "-84.29008"
+        }, 
+        {
+            "lat": "9.92787", 
+            "name": "San Rafael", 
+            "long": "-84.13722"
+        }, 
+        {
+            "lat": "9.92829", 
+            "name": "San Pedro", 
+            "long": "-84.05074"
+        }, 
+        {
+            "lat": "9.87121", 
+            "name": "San Miguel", 
+            "long": "-84.06084"
+        }, 
+        {
+            "lat": "9.8773", 
+            "name": "San Juan de Dios", 
+            "long": "-84.0847"
+        }, 
+        {
+            "lat": "9.95974", 
+            "name": "San Juan", 
+            "long": "-84.08165"
+        }, 
+        {
+            "lat": "9.93333", 
+            "name": "San Jos&#233;", 
+            "long": "-84.08333"
+        }, 
+        {
+            "lat": "9.3721", 
+            "name": "San Isidro", 
+            "long": "-83.70399"
+        }, 
+        {
+            "lat": "9.90488", 
+            "name": "San Felipe", 
+            "long": "-84.10551"
+        }, 
+        {
+            "lat": "9.95808", 
+            "name": "Purral", 
+            "long": "-84.0305"
+        }, 
+        {
+            "lat": "9.88071", 
+            "name": "Patarr&#225;", 
+            "long": "-84.03501"
+        }, 
+        {
+            "lat": "9.96745", 
+            "name": "Ip&#237;s", 
+            "long": "-84.01326"
+        }, 
+        {
+            "lat": "9.94611", 
+            "name": "Guadalupe", 
+            "long": "-84.05279"
+        }, 
+        {
+            "lat": "9.91179", 
+            "name": "Curridabat", 
+            "long": "-84.03407"
+        }, 
+        {
+            "lat": "9.95091", 
+            "name": "Colima", 
+            "long": "-84.08503"
+        }, 
+        {
+            "lat": "9.95", 
+            "name": "Calle Blancos", 
+            "long": "-84.06667"
+        }, 
+        {
+            "lat": "9.85876", 
+            "name": "Aserr&#237;", 
+            "long": "-84.0923"
+        }, 
+        {
+            "lat": "9.96164", 
+            "name": "San Vicente de Moravia", 
+            "long": "-84.0488"
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "38": [
+        {
+            "lat": "8.7514", 
+            "name": "Vavuniya", 
+            "long": "80.4971"
+        }, 
+        {
+            "lat": "9.81667", 
+            "name": "Valvedditturai", 
+            "long": "80.16667"
+        }, 
+        {
+            "lat": "9.81667", 
+            "name": "Point Pedro", 
+            "long": "80.23333"
+        }, 
+        {
+            "lat": "9.66845", 
+            "name": "Jaffna", 
+            "long": "80.00742"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "6.68278", 
+            "name": "Ratnapura", 
+            "long": "80.39917"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "8.0362", 
+            "name": "Puttalam", 
+            "long": "79.8283"
+        }, 
+        {
+            "lat": "7.4863", 
+            "name": "Kurunegala", 
+            "long": "80.3623"
+        }, 
+        {
+            "lat": "7.57583", 
+            "name": "Chilaw", 
+            "long": "79.79528"
+        }
+    ], 
+    "30": [
+        {
+            "lat": "8.31223", 
+            "name": "Anuradhapura", 
+            "long": "80.41306"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "8.5711", 
+            "name": "Trincomalee", 
+            "long": "81.2335"
+        }, 
+        {
+            "lat": "7.40902", 
+            "name": "Kalmunai", 
+            "long": "81.83472"
+        }, 
+        {
+            "lat": "7.7782", 
+            "name": "Eravur Town", 
+            "long": "81.6038"
+        }, 
+        {
+            "lat": "7.7102", 
+            "name": "Batticaloa", 
+            "long": "81.6924"
+        }, 
+        {
+            "lat": "7.29754", 
+            "name": "Ampara", 
+            "long": "81.68202"
+        }, 
+        {
+            "lat": "7.38216", 
+            "name": "Shanjeev Home", 
+            "long": "81.84198"
+        }
+    ], 
+    "36": [
+        {
+            "lat": "7.0281", 
+            "name": "Welisara", 
+            "long": "79.9014"
+        }, 
+        {
+            "lat": "6.9779", 
+            "name": "Wattala", 
+            "long": "79.8898"
+        }, 
+        {
+            "lat": "6.8905", 
+            "name": "Pita Kotte", 
+            "long": "79.9015"
+        }, 
+        {
+            "lat": "6.9685", 
+            "name": "Peliyagoda", 
+            "long": "79.8836"
+        }, 
+        {
+            "lat": "6.7132", 
+            "name": "Panadura", 
+            "long": "79.9026"
+        }, 
+        {
+            "lat": "7.2083", 
+            "name": "Negombo", 
+            "long": "79.8358"
+        }, 
+        {
+            "lat": "6.933", 
+            "name": "Mulleriyawa", 
+            "long": "79.9297"
+        }, 
+        {
+            "lat": "6.773", 
+            "name": "Moratuwa", 
+            "long": "79.8816"
+        }, 
+        {
+            "lat": "6.848", 
+            "name": "Maharagama", 
+            "long": "79.9265"
+        }, 
+        {
+            "lat": "6.88297", 
+            "name": "Sri Jayewardenepura Kotte", 
+            "long": "79.90708"
+        }, 
+        {
+            "lat": "6.9269", 
+            "name": "Kotikawatta", 
+            "long": "79.9095"
+        }, 
+        {
+            "lat": "6.9329", 
+            "name": "Kolonnawa", 
+            "long": "79.8848"
+        }, 
+        {
+            "lat": "6.9553", 
+            "name": "Kelaniya", 
+            "long": "79.922"
+        }, 
+        {
+            "lat": "7.16992", 
+            "name": "Katunayaka", 
+            "long": "79.88837"
+        }, 
+        {
+            "lat": "7.048", 
+            "name": "Kandana", 
+            "long": "79.8937"
+        }, 
+        {
+            "lat": "6.5831", 
+            "name": "Kalutara", 
+            "long": "79.9593"
+        }, 
+        {
+            "lat": "7.0744", 
+            "name": "Ja Ela", 
+            "long": "79.8919"
+        }, 
+        {
+            "lat": "6.844", 
+            "name": "Homagama", 
+            "long": "80.0024"
+        }, 
+        {
+            "lat": "6.9909", 
+            "name": "Hendala", 
+            "long": "79.883"
+        }, 
+        {
+            "lat": "6.9012", 
+            "name": "Hanwella Ihala", 
+            "long": "80.0852"
+        }, 
+        {
+            "lat": "6.8293", 
+            "name": "Galkissa", 
+            "long": "79.863"
+        }, 
+        {
+            "lat": "6.93194", 
+            "name": "Colombo", 
+            "long": "79.84778"
+        }, 
+        {
+            "lat": "6.4788", 
+            "name": "Beruwala", 
+            "long": "79.9828"
+        }, 
+        {
+            "lat": "6.8964", 
+            "name": "Battaramulla South", 
+            "long": "79.9181"
+        }
+    ], 
+    "35": [
+        {
+            "lat": "6.9895", 
+            "name": "Badulla", 
+            "long": "81.0557"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "5.97501", 
+            "name": "Weligama", 
+            "long": "80.42968"
+        }, 
+        {
+            "lat": "5.94851", 
+            "name": "Matara", 
+            "long": "80.53528"
+        }, 
+        {
+            "lat": "6.0367", 
+            "name": "Galle", 
+            "long": "80.217"
+        }, 
+        {
+            "lat": "6.42598", 
+            "name": "Bentota", 
+            "long": "79.99575"
+        }, 
+        {
+            "lat": "6.2355", 
+            "name": "Ambalangoda", 
+            "long": "80.0538"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "6.97078", 
+            "name": "Nuwara Eliya", 
+            "long": "80.78286"
+        }, 
+        {
+            "lat": "7.2955", 
+            "name": "Kandy", 
+            "long": "80.6356"
+        }, 
+        {
+            "lat": "6.8916", 
+            "name": "Hatton", 
+            "long": "80.5955"
+        }, 
+        {
+            "lat": "7.1643", 
+            "name": "Gampola", 
+            "long": "80.5696"
+        }, 
+        {
+            "lat": "7.86", 
+            "name": "Dambulla", 
+            "long": "80.65167"
+        }
+    ]
+}

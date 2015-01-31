@@ -1,0 +1,205 @@
+{
+    "02": [
+        {
+            "lat": "13.86667", 
+            "name": "Sensuntepeque", 
+            "long": "-88.63333"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "13.71024", 
+            "name": "Soyapango", 
+            "long": "-89.13989"
+        }, 
+        {
+            "lat": "13.68935", 
+            "name": "San Salvador", 
+            "long": "-89.18718"
+        }, 
+        {
+            "lat": "13.65889", 
+            "name": "San Marcos", 
+            "long": "-89.18306"
+        }, 
+        {
+            "lat": "13.74028", 
+            "name": "Mejicanos", 
+            "long": "-89.21306"
+        }, 
+        {
+            "lat": "13.70167", 
+            "name": "Ilopango", 
+            "long": "-89.10944"
+        }, 
+        {
+            "lat": "13.72417", 
+            "name": "Delgado", 
+            "long": "-89.17028"
+        }, 
+        {
+            "lat": "13.73611", 
+            "name": "Cuscatancingo", 
+            "long": "-89.18139"
+        }, 
+        {
+            "lat": "13.74556", 
+            "name": "Ayutuxtepeque", 
+            "long": "-89.20639"
+        }, 
+        {
+            "lat": "13.80722", 
+            "name": "Apopa", 
+            "long": "-89.17917"
+        }, 
+        {
+            "lat": "13.95722", 
+            "name": "Aguilares", 
+            "long": "-89.18972"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "13.73417", 
+            "name": "Sonzacate", 
+            "long": "-89.71472"
+        }, 
+        {
+            "lat": "13.71889", 
+            "name": "Sonsonate", 
+            "long": "-89.72417"
+        }, 
+        {
+            "lat": "13.74472", 
+            "name": "Izalco", 
+            "long": "-89.67306"
+        }, 
+        {
+            "lat": "13.59278", 
+            "name": "Acajutla", 
+            "long": "-89.8275"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "13.63333", 
+            "name": "San Vicente", 
+            "long": "-88.8"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "13.5", 
+            "name": "Zacatecoluca", 
+            "long": "-88.86667"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "13.35", 
+            "name": "Usulut&#225;n", 
+            "long": "-88.45"
+        }, 
+        {
+            "lat": "13.48333", 
+            "name": "Santiago de Mar&#237;a", 
+            "long": "-88.46667"
+        }, 
+        {
+            "lat": "13.28333", 
+            "name": "Puerto El Triunfo", 
+            "long": "-88.55"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "13.78333", 
+            "name": "San Mart&#237;n", 
+            "long": "-88.91667"
+        }, 
+        {
+            "lat": "13.71667", 
+            "name": "Cojutepeque", 
+            "long": "-88.93333"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "13.83124", 
+            "name": "Quezaltepeque", 
+            "long": "-89.27221"
+        }, 
+        {
+            "lat": "13.67694", 
+            "name": "Santa Tecla", 
+            "long": "-89.27972"
+        }, 
+        {
+            "lat": "13.48833", 
+            "name": "La Libertad", 
+            "long": "-89.32222"
+        }, 
+        {
+            "lat": "13.66492", 
+            "name": "Antiguo Cuscatl&#225;n", 
+            "long": "-89.25319"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "14.03333", 
+            "name": "Chalatenango", 
+            "long": "-88.93333"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "13.7", 
+            "name": "San Francisco", 
+            "long": "-88.1"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "13.38333", 
+            "name": "San Rafael Oriente", 
+            "long": "-88.35"
+        }, 
+        {
+            "lat": "13.48333", 
+            "name": "San Miguel", 
+            "long": "-88.18333"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "13.92139", 
+            "name": "Ahuachap&#225;n", 
+            "long": "-89.845"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "13.99417", 
+            "name": "Santa Ana", 
+            "long": "-89.55972"
+        }, 
+        {
+            "lat": "14.33333", 
+            "name": "Metap&#225;n", 
+            "long": "-89.45"
+        }, 
+        {
+            "lat": "13.98667", 
+            "name": "Chalchuapa", 
+            "long": "-89.68111"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "13.33694", 
+            "name": "La Uni&#243;n", 
+            "long": "-87.84389"
+        }
+    ]
+}

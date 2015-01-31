@@ -1,0 +1,245 @@
+{
+    "C": [
+        {
+            "lat": "0.72833", 
+            "name": "Wobulenzi", 
+            "long": "32.51222"
+        }, 
+        {
+            "lat": "0.40444", 
+            "name": "Wakiso", 
+            "long": "32.45944"
+        }, 
+        {
+            "lat": "0.41861", 
+            "name": "Njeru", 
+            "long": "33.17306"
+        }, 
+        {
+            "lat": "0.68944", 
+            "name": "Namasuba", 
+            "long": "32.42139"
+        }, 
+        {
+            "lat": "0.35333", 
+            "name": "Mukono", 
+            "long": "32.75528"
+        }, 
+        {
+            "lat": "0.55849", 
+            "name": "Mubende", 
+            "long": "31.39489"
+        }, 
+        {
+            "lat": "0.4175", 
+            "name": "Mityana", 
+            "long": "32.02278"
+        }, 
+        {
+            "lat": "-0.33379", 
+            "name": "Masaka", 
+            "long": "31.73409"
+        }, 
+        {
+            "lat": "0.84917", 
+            "name": "Luwero", 
+            "long": "32.47306"
+        }, 
+        {
+            "lat": "0.37722", 
+            "name": "Lugazi", 
+            "long": "32.91972"
+        }, 
+        {
+            "lat": "0.3475", 
+            "name": "Kireka", 
+            "long": "32.64917"
+        }, 
+        {
+            "lat": "0.7025", 
+            "name": "Kayunga", 
+            "long": "32.88861"
+        }, 
+        {
+            "lat": "0.31628", 
+            "name": "Kampala", 
+            "long": "32.58219"
+        }, 
+        {
+            "lat": "0.06444", 
+            "name": "Entebbe", 
+            "long": "32.44694"
+        }
+    ], 
+    "E": [
+        {
+            "lat": "0.69299", 
+            "name": "Tororo", 
+            "long": "34.18085"
+        }, 
+        {
+            "lat": "1.71464", 
+            "name": "Soroti", 
+            "long": "33.61113"
+        }, 
+        {
+            "lat": "1.145", 
+            "name": "Pallisa", 
+            "long": "33.70944"
+        }, 
+        {
+            "lat": "1.08209", 
+            "name": "Mbale", 
+            "long": "34.17503"
+        }, 
+        {
+            "lat": "0.43902", 
+            "name": "Jinja", 
+            "long": "33.20317"
+        }, 
+        {
+            "lat": "0.60917", 
+            "name": "Iganga", 
+            "long": "33.46861"
+        }, 
+        {
+            "lat": "0.64222", 
+            "name": "Buwenge", 
+            "long": "33.17444"
+        }, 
+        {
+            "lat": "0.46588", 
+            "name": "Busia", 
+            "long": "34.09221"
+        }, 
+        {
+            "lat": "0.76972", 
+            "name": "Busembatia", 
+            "long": "33.61306"
+        }, 
+        {
+            "lat": "0.57139", 
+            "name": "Bugiri", 
+            "long": "33.74167"
+        }
+    ], 
+    "W": [
+        {
+            "lat": "-0.9", 
+            "name": "Nyachera", 
+            "long": "30.41667"
+        }, 
+        {
+            "lat": "-0.88333", 
+            "name": "Ntungamo", 
+            "long": "29.65"
+        }, 
+        {
+            "lat": "-0.87944", 
+            "name": "Ntungamo", 
+            "long": "30.26417"
+        }, 
+        {
+            "lat": "-0.60467", 
+            "name": "Mbarara", 
+            "long": "30.64851"
+        }, 
+        {
+            "lat": "1.67444", 
+            "name": "Masindi", 
+            "long": "31.715"
+        }, 
+        {
+            "lat": "0.63278", 
+            "name": "Kyenjojo", 
+            "long": "30.62139"
+        }, 
+        {
+            "lat": "0.18333", 
+            "name": "Kasese", 
+            "long": "30.08333"
+        }, 
+        {
+            "lat": "0.1866", 
+            "name": "Kamwenge", 
+            "long": "30.45393"
+        }, 
+        {
+            "lat": "-1.24857", 
+            "name": "Kabale", 
+            "long": "29.98993"
+        }, 
+        {
+            "lat": "1.43314", 
+            "name": "Hoima", 
+            "long": "31.35241"
+        }, 
+        {
+            "lat": "0.66174", 
+            "name": "Fort Portal", 
+            "long": "30.2748"
+        }, 
+        {
+            "lat": "-0.59167", 
+            "name": "Bwizibwera", 
+            "long": "30.62861"
+        }, 
+        {
+            "lat": "0.71117", 
+            "name": "Bundibugyo", 
+            "long": "30.06469"
+        }
+    ], 
+    "N": [
+        {
+            "lat": "3.46506", 
+            "name": "Yumbe", 
+            "long": "31.24689"
+        }, 
+        {
+            "lat": "2.41669", 
+            "name": "Paidha", 
+            "long": "30.98551"
+        }, 
+        {
+            "lat": "2.47826", 
+            "name": "Nebbi", 
+            "long": "31.08893"
+        }, 
+        {
+            "lat": "3.66088", 
+            "name": "Moyo", 
+            "long": "31.72474"
+        }, 
+        {
+            "lat": "2.2499", 
+            "name": "Lira", 
+            "long": "32.89985"
+        }, 
+        {
+            "lat": "2.98056", 
+            "name": "Kotido", 
+            "long": "34.13306"
+        }, 
+        {
+            "lat": "3.27833", 
+            "name": "Kitgum", 
+            "long": "32.88667"
+        }, 
+        {
+            "lat": "2.77457", 
+            "name": "Gulu", 
+            "long": "32.29899"
+        }, 
+        {
+            "lat": "3.02013", 
+            "name": "Arua", 
+            "long": "30.91105"
+        }, 
+        {
+            "lat": "3.37786", 
+            "name": "Adjumani", 
+            "long": "31.7909"
+        }
+    ]
+}

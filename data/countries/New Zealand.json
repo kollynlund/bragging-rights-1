@@ -1,0 +1,205 @@
+{
+    "F1": [
+        {
+            "lat": "-38.65333", 
+            "name": "Gisborne", 
+            "long": "178.00417"
+        }
+    ], 
+    "F2": [
+        {
+            "lat": "-39.48333", 
+            "name": "Napier", 
+            "long": "176.91667"
+        }, 
+        {
+            "lat": "-39.6381", 
+            "name": "Hastings", 
+            "long": "176.84918"
+        }, 
+        {
+            "lat": "-39.53333", 
+            "name": "Taradale", 
+            "long": "176.85"
+        }
+    ], 
+    "F3": [
+        {
+            "lat": "-39.93333", 
+            "name": "Wanganui", 
+            "long": "175.05"
+        }, 
+        {
+            "lat": "-40.35636", 
+            "name": "Palmerston North", 
+            "long": "175.61113"
+        }, 
+        {
+            "lat": "-40.63333", 
+            "name": "Levin", 
+            "long": "175.275"
+        }
+    ], 
+    "F4": [
+        {
+            "lat": "-41.51603", 
+            "name": "Blenheim", 
+            "long": "173.9528"
+        }
+    ], 
+    "G2": [
+        {
+            "lat": "-41.28664", 
+            "name": "Wellington", 
+            "long": "174.77557"
+        }, 
+        {
+            "lat": "-41.13333", 
+            "name": "Porirua", 
+            "long": "174.85"
+        }, 
+        {
+            "lat": "-40.91667", 
+            "name": "Paraparaumu", 
+            "long": "175.01667"
+        }, 
+        {
+            "lat": "-41.21667", 
+            "name": "Lower Hutt", 
+            "long": "174.91667"
+        }, 
+        {
+            "lat": "-40.95972", 
+            "name": "Masterton", 
+            "long": "175.6575"
+        }, 
+        {
+            "lat": "-41.13827", 
+            "name": "Upper Hutt", 
+            "long": "175.0502"
+        }
+    ], 
+    "G1": [
+        {
+            "lat": "-38.68333", 
+            "name": "Taupo", 
+            "long": "176.08333"
+        }, 
+        {
+            "lat": "-37.78333", 
+            "name": "Hamilton", 
+            "long": "175.28333"
+        }, 
+        {
+            "lat": "-37.87822", 
+            "name": "Cambridge", 
+            "long": "175.4402"
+        }
+    ], 
+    "F7": [
+        {
+            "lat": "-45.87416", 
+            "name": "Dunedin", 
+            "long": "170.50361"
+        }
+    ], 
+    "F8": [
+        {
+            "lat": "-46.4", 
+            "name": "Invercargill", 
+            "long": "168.35"
+        }
+    ], 
+    "F9": [
+        {
+            "lat": "-39.06667", 
+            "name": "New Plymouth", 
+            "long": "174.08333"
+        }
+    ], 
+    "F6": [
+        {
+            "lat": "-35.73167", 
+            "name": "Whangarei", 
+            "long": "174.32391"
+        }
+    ], 
+    "E9": [
+        {
+            "lat": "-44.4", 
+            "name": "Timaru", 
+            "long": "171.25"
+        }, 
+        {
+            "lat": "-43.53333", 
+            "name": "Christchurch", 
+            "long": "172.63333"
+        }, 
+        {
+            "lat": "-43.89834", 
+            "name": "Ashburton", 
+            "long": "171.73011"
+        }
+    ], 
+    "E8": [
+        {
+            "lat": "-37.68611", 
+            "name": "Tauranga", 
+            "long": "176.16667"
+        }, 
+        {
+            "lat": "-37.95855", 
+            "name": "Whakatane", 
+            "long": "176.98545"
+        }, 
+        {
+            "lat": "-38.13874", 
+            "name": "Rotorua", 
+            "long": "176.24516"
+        }
+    ], 
+    "E7": [
+        {
+            "lat": "-37.2", 
+            "name": "Pukekohe East", 
+            "long": "174.95"
+        }, 
+        {
+            "lat": "-36.8", 
+            "name": "North Shore", 
+            "long": "174.75"
+        }, 
+        {
+            "lat": "-36.99282", 
+            "name": "Manukau City", 
+            "long": "174.87986"
+        }, 
+        {
+            "lat": "-36.96807", 
+            "name": "Mangere", 
+            "long": "174.79875"
+        }, 
+        {
+            "lat": "-36.86667", 
+            "name": "Auckland", 
+            "long": "174.76667"
+        }, 
+        {
+            "lat": "-37.06573", 
+            "name": "Papakura", 
+            "long": "174.94393"
+        }, 
+        {
+            "lat": "-36.91754", 
+            "name": "Waitakere", 
+            "long": "174.65773"
+        }
+    ], 
+    "F5": [
+        {
+            "lat": "-41.27078", 
+            "name": "Nelson", 
+            "long": "173.28404"
+        }
+    ]
+}

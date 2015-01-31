@@ -1,0 +1,1252 @@
+{
+    "56": [
+        {
+            "lat": "13.11189", 
+            "name": "Phetchaburi", 
+            "long": "99.94467"
+        }, 
+        {
+            "lat": "13.24025", 
+            "name": "Khao Yoi", 
+            "long": "99.82428"
+        }, 
+        {
+            "lat": "12.8", 
+            "name": "Cha-am", 
+            "long": "99.96667"
+        }, 
+        {
+            "lat": "12.95772", 
+            "name": "Tha Yang", 
+            "long": "99.90555"
+        }
+    ], 
+    "24": [
+        {
+            "lat": "16.18483", 
+            "name": "Maha Sarakham", 
+            "long": "103.30067"
+        }
+    ], 
+    "37": [
+        {
+            "lat": "14.53333", 
+            "name": "Saraburi", 
+            "long": "100.91667"
+        }, 
+        {
+            "lat": "14.72526", 
+            "name": "Phra Phutthabat", 
+            "long": "100.79536"
+        }, 
+        {
+            "lat": "14.34062", 
+            "name": "Nong Khae", 
+            "long": "100.86733"
+        }, 
+        {
+            "lat": "14.58617", 
+            "name": "Kaeng Khoi", 
+            "long": "100.99758"
+        }, 
+        {
+            "lat": "14.61544", 
+            "name": "Ban Mo", 
+            "long": "100.72731"
+        }
+    ], 
+    "30": [
+        {
+            "lat": "15.11481", 
+            "name": "Si Sa Ket", 
+            "long": "104.32938"
+        }, 
+        {
+            "lat": "14.64056", 
+            "name": "Kantharalak", 
+            "long": "104.64992"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "16.44671", 
+            "name": "Khon Kaen", 
+            "long": "102.833"
+        }, 
+        {
+            "lat": "16.5443", 
+            "name": "Chum Phae", 
+            "long": "102.09924"
+        }, 
+        {
+            "lat": "16.05997", 
+            "name": "Ban Phai", 
+            "long": "102.73097"
+        }
+    ], 
+    "36": [
+        {
+            "lat": "14.22689", 
+            "name": "Wang Noi", 
+            "long": "100.7155"
+        }, 
+        {
+            "lat": "14.56739", 
+            "name": "Tha Ruea", 
+            "long": "100.72598"
+        }, 
+        {
+            "lat": "14.35167", 
+            "name": "Phra Nakhon Si Ayutthaya", 
+            "long": "100.57739"
+        }, 
+        {
+            "lat": "14.45736", 
+            "name": "Phak Hai", 
+            "long": "100.36989"
+        }, 
+        {
+            "lat": "14.46281", 
+            "name": "Nakhon Luang", 
+            "long": "100.60832"
+        }, 
+        {
+            "lat": "14.22783", 
+            "name": "Bang Pa-in", 
+            "long": "100.57589"
+        }, 
+        {
+            "lat": "14.37395", 
+            "name": "Bang Ban", 
+            "long": "100.48528"
+        }, 
+        {
+            "lat": "13.99904", 
+            "name": "Ban Bang Kadi Pathum Thani", 
+            "long": "100.54962"
+        }
+    ], 
+    "60": [
+        {
+            "lat": "9.14011", 
+            "name": "Surat Thani", 
+            "long": "99.33311"
+        }, 
+        {
+            "lat": "9.11072", 
+            "name": "Phunphin", 
+            "long": "99.23208"
+        }, 
+        {
+            "lat": "9.53567", 
+            "name": "Ko Samui", 
+            "long": "99.93567"
+        }, 
+        {
+            "lat": "8.80036", 
+            "name": "Ban Na San", 
+            "long": "99.36372"
+        }
+    ], 
+    "34": [
+        {
+            "lat": "14.79808", 
+            "name": "Lop Buri", 
+            "long": "100.65397"
+        }, 
+        {
+            "lat": "15.2", 
+            "name": "Chai Badan", 
+            "long": "101.13333"
+        }
+    ], 
+    "62": [
+        {
+            "lat": "7.88481", 
+            "name": "Ban Talat Yai", 
+            "long": "98.40008"
+        }, 
+        {
+            "lat": "7.88489", 
+            "name": "Ban Talat Nua", 
+            "long": "98.38557"
+        }, 
+        {
+            "lat": "7.89059", 
+            "name": "Phuket", 
+            "long": "98.3981"
+        }, 
+        {
+            "lat": "7.91779", 
+            "name": "Kathu", 
+            "long": "98.33322"
+        }, 
+        {
+            "lat": "7.8894", 
+            "name": "Wichit", 
+            "long": "98.38523"
+        }, 
+        {
+            "lat": "7.84468", 
+            "name": "Ban Chalong", 
+            "long": "98.33897"
+        }, 
+        {
+            "lat": "7.90963", 
+            "name": "Ban Ratsada", 
+            "long": "98.40248"
+        }
+    ], 
+    "63": [
+        {
+            "lat": "8.07257", 
+            "name": "Krabi", 
+            "long": "98.91052"
+        }
+    ], 
+    "64": [
+        {
+            "lat": "8.16453", 
+            "name": "Thung Song", 
+            "long": "99.68039"
+        }, 
+        {
+            "lat": "8.17911", 
+            "name": "Ron Phibun", 
+            "long": "99.85425"
+        }, 
+        {
+            "lat": "8.43333", 
+            "name": "Nakhon Si Thammarat", 
+            "long": "99.96667"
+        }, 
+        {
+            "lat": "8.35109", 
+            "name": "Pak Phanang", 
+            "long": "100.20195"
+        }
+    ], 
+    "65": [
+        {
+            "lat": "7.55633", 
+            "name": "Trang", 
+            "long": "99.61141"
+        }, 
+        {
+            "lat": "7.78937", 
+            "name": "Huai Yot", 
+            "long": "99.63469"
+        }
+    ], 
+    "66": [
+        {
+            "lat": "7.61786", 
+            "name": "Phatthalung", 
+            "long": "100.07792"
+        }
+    ], 
+    "67": [
+        {
+            "lat": "6.62314", 
+            "name": "Satun", 
+            "long": "100.06676"
+        }
+    ], 
+    "68": [
+        {
+            "lat": "7.20411", 
+            "name": "Ban Mai", 
+            "long": "100.54508"
+        }, 
+        {
+            "lat": "7.19882", 
+            "name": "Songkhla", 
+            "long": "100.5951"
+        }, 
+        {
+            "lat": "6.63883", 
+            "name": "Sadao", 
+            "long": "100.42342"
+        }, 
+        {
+            "lat": "7.77768", 
+            "name": "Ranot", 
+            "long": "100.32134"
+        }, 
+        {
+            "lat": "7.00836", 
+            "name": "Hat Yai", 
+            "long": "100.47668"
+        }
+    ], 
+    "69": [
+        {
+            "lat": "6.86617", 
+            "name": "Yaring", 
+            "long": "101.36894"
+        }, 
+        {
+            "lat": "6.86814", 
+            "name": "Pattani", 
+            "long": "101.25009"
+        }
+    ], 
+    "80": [
+        {
+            "lat": "13.50325", 
+            "name": "Wang Nam Yen", 
+            "long": "102.18115"
+        }, 
+        {
+            "lat": "13.81411", 
+            "name": "Sa Kaeo", 
+            "long": "102.07222"
+        }, 
+        {
+            "lat": "13.69276", 
+            "name": "Aranyaprathet", 
+            "long": "102.50128"
+        }
+    ], 
+    "81": [
+        {
+            "lat": "17.92851", 
+            "name": "Seka", 
+            "long": "103.95519"
+        }
+    ], 
+    "53": [
+        {
+            "lat": "13.72698", 
+            "name": "Sam Phran", 
+            "long": "100.21526"
+        }, 
+        {
+            "lat": "13.8196", 
+            "name": "Nakhon Pathom", 
+            "long": "100.04427"
+        }, 
+        {
+            "lat": "14.02188", 
+            "name": "Bang Len", 
+            "long": "100.17183"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "18.78378", 
+            "name": "Nan", 
+            "long": "100.77899"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "18.62828", 
+            "name": "San Pa Tong", 
+            "long": "98.89572"
+        }, 
+        {
+            "lat": "18.74486", 
+            "name": "San Kamphaeng", 
+            "long": "99.11953"
+        }, 
+        {
+            "lat": "18.68703", 
+            "name": "Hang Dong", 
+            "long": "98.91939"
+        }, 
+        {
+            "lat": "18.79038", 
+            "name": "Chiang Mai", 
+            "long": "98.98468"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "20.43353", 
+            "name": "Mae Sai", 
+            "long": "99.87617"
+        }, 
+        {
+            "lat": "20.14675", 
+            "name": "Mae Chan", 
+            "long": "99.85256"
+        }, 
+        {
+            "lat": "19.90858", 
+            "name": "Chiang Rai", 
+            "long": "99.8325"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "16.3765", 
+            "name": "Phu Khiao", 
+            "long": "102.12853"
+        }, 
+        {
+            "lat": "16.28053", 
+            "name": "Kaset Sombun", 
+            "long": "101.95422"
+        }, 
+        {
+            "lat": "16.10864", 
+            "name": "Kaeng Khro", 
+            "long": "102.25808"
+        }, 
+        {
+            "lat": "15.81047", 
+            "name": "Chaiyaphum", 
+            "long": "102.02881"
+        }
+    ], 
+    "27": [
+        {
+            "lat": "14.98333", 
+            "name": "Ban Huai Thalaeng", 
+            "long": "102.65"
+        }, 
+        {
+            "lat": "14.70802", 
+            "name": "Pak Chong", 
+            "long": "101.41614"
+        }, 
+        {
+            "lat": "15.18014", 
+            "name": "Non Sung", 
+            "long": "102.25695"
+        }, 
+        {
+            "lat": "14.97066", 
+            "name": "Nakhon Ratchasima", 
+            "long": "102.10196"
+        }, 
+        {
+            "lat": "14.52541", 
+            "name": "Khon Buri", 
+            "long": "102.24591"
+        }, 
+        {
+            "lat": "15.2085", 
+            "name": "Dan Khun Thot", 
+            "long": "101.77138"
+        }, 
+        {
+            "lat": "14.72844", 
+            "name": "Chok Chai", 
+            "long": "102.16524"
+        }, 
+        {
+            "lat": "15.58552", 
+            "name": "Bua Yai", 
+            "long": "102.42587"
+        }, 
+        {
+            "lat": "14.89944", 
+            "name": "Amphoe Sikhiu", 
+            "long": "101.70833"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "17.61289", 
+            "name": "Thoen", 
+            "long": "99.21612"
+        }, 
+        {
+            "lat": "18.29232", 
+            "name": "Lampang", 
+            "long": "99.49277"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "18.14589", 
+            "name": "Phrae", 
+            "long": "100.14103"
+        }, 
+        {
+            "lat": "17.98372", 
+            "name": "Den Chai", 
+            "long": "100.05217"
+        }
+    ], 
+    "48": [
+        {
+            "lat": "12.62137", 
+            "name": "Tha Mai", 
+            "long": "102.00481"
+        }, 
+        {
+            "lat": "12.48164", 
+            "name": "Laem Sing", 
+            "long": "102.07375"
+        }, 
+        {
+            "lat": "12.60961", 
+            "name": "Chanthaburi", 
+            "long": "102.10447"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "18.52617", 
+            "name": "Pa Sang", 
+            "long": "98.93936"
+        }, 
+        {
+            "lat": "18.58054", 
+            "name": "Lamphun", 
+            "long": "99.00745"
+        }
+    ], 
+    "46": [
+        {
+            "lat": "13.17372", 
+            "name": "Si Racha", 
+            "long": "100.93111"
+        }, 
+        {
+            "lat": "12.66644", 
+            "name": "Sattahip", 
+            "long": "100.90073"
+        }, 
+        {
+            "lat": "13.46804", 
+            "name": "Phan Thong", 
+            "long": "101.09532"
+        }, 
+        {
+            "lat": "13.44581", 
+            "name": "Phanat Nikhom", 
+            "long": "101.18445"
+        }, 
+        {
+            "lat": "13.3622", 
+            "name": "Chon Buri", 
+            "long": "100.98345"
+        }, 
+        {
+            "lat": "12.93333", 
+            "name": "Phatthaya", 
+            "long": "100.88333"
+        }, 
+        {
+            "lat": "13.04704", 
+            "name": "Bang Lamung", 
+            "long": "100.92891"
+        }, 
+        {
+            "lat": "13.311", 
+            "name": "Ban Bueng", 
+            "long": "101.11214"
+        }, 
+        {
+            "lat": "13.07147", 
+            "name": "Ban Talat Bueng", 
+            "long": "101.00314"
+        }
+    ], 
+    "47": [
+        {
+            "lat": "12.68095", 
+            "name": "Rayong", 
+            "long": "101.25798"
+        }, 
+        {
+            "lat": "12.77972", 
+            "name": "Klaeng", 
+            "long": "101.64831"
+        }, 
+        {
+            "lat": "12.72543", 
+            "name": "Ban Chang", 
+            "long": "101.05531"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "16.86968", 
+            "name": "Tak", 
+            "long": "99.12898"
+        }, 
+        {
+            "lat": "16.71667", 
+            "name": "Mae Sot", 
+            "long": "98.56667"
+        }, 
+        {
+            "lat": "16.98403", 
+            "name": "Mae Ramat", 
+            "long": "98.51665"
+        }, 
+        {
+            "lat": "17.04325", 
+            "name": "Ban Tak", 
+            "long": "99.08128"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "17.00778", 
+            "name": "Sukhothai", 
+            "long": "99.823"
+        }, 
+        {
+            "lat": "17.51692", 
+            "name": "Si Satchanalai", 
+            "long": "99.75978"
+        }, 
+        {
+            "lat": "17.31597", 
+            "name": "Sawankhalok", 
+            "long": "99.83186"
+        }, 
+        {
+            "lat": "17.01717", 
+            "name": "Ban Na", 
+            "long": "99.73283"
+        }
+    ], 
+    "42": [
+        {
+            "lat": "13.64172", 
+            "name": "Ban Khlong Bang Sao Thong", 
+            "long": "100.83272"
+        }, 
+        {
+            "lat": "13.59934", 
+            "name": "Samut Prakan", 
+            "long": "100.59675"
+        }, 
+        {
+            "lat": "13.65855", 
+            "name": "Phra Pradaeng", 
+            "long": "100.53362"
+        }, 
+        {
+            "lat": "13.58333", 
+            "name": "Bang Bo District", 
+            "long": "100.81667"
+        }
+    ], 
+    "29": [
+        {
+            "lat": "14.88181", 
+            "name": "Surin", 
+            "long": "103.49364"
+        }
+    ], 
+    "40": [
+        {
+            "lat": "13.75398", 
+            "name": "Bangkok", 
+            "long": "100.50144"
+        }
+    ], 
+    "41": [
+        {
+            "lat": "19.19203", 
+            "name": "Phayao", 
+            "long": "99.87883"
+        }, 
+        {
+            "lat": "19.16242", 
+            "name": "Dok Kham Tai", 
+            "long": "99.99342"
+        }
+    ], 
+    "32": [
+        {
+            "lat": "15.18636", 
+            "name": "Chai Nat", 
+            "long": "100.12353"
+        }
+    ], 
+    "78": [
+        {
+            "lat": "16.54531", 
+            "name": "Mukdahan", 
+            "long": "104.72351"
+        }
+    ], 
+    "28": [
+        {
+            "lat": "14.60592", 
+            "name": "Prakhon Chai", 
+            "long": "103.12081"
+        }, 
+        {
+            "lat": "14.6377", 
+            "name": "Nang Rong", 
+            "long": "102.79138"
+        }, 
+        {
+            "lat": "14.99433", 
+            "name": "Buriram", 
+            "long": "103.10392"
+        }
+    ], 
+    "49": [
+        {
+            "lat": "12.24364", 
+            "name": "Trat", 
+            "long": "102.51514"
+        }
+    ], 
+    "44": [
+        {
+            "lat": "13.74787", 
+            "name": "Phanom Sarakham", 
+            "long": "101.3553"
+        }, 
+        {
+            "lat": "13.6882", 
+            "name": "Chachoengsao", 
+            "long": "101.07156"
+        }, 
+        {
+            "lat": "13.54297", 
+            "name": "Bang Pakong", 
+            "long": "100.99333"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "16.0567", 
+            "name": "Roi Et", 
+            "long": "103.65309"
+        }, 
+        {
+            "lat": "15.65558", 
+            "name": "Kaset Wisai", 
+            "long": "103.58361"
+        }, 
+        {
+            "lat": "16.01667", 
+            "name": "Ban Selaphum", 
+            "long": "103.95"
+        }
+    ], 
+    "43": [
+        {
+            "lat": "14.20463", 
+            "name": "Nakhon Nayok", 
+            "long": "101.21295"
+        }
+    ], 
+    "39": [
+        {
+            "lat": "14.01346", 
+            "name": "Pathum Thani", 
+            "long": "100.53049"
+        }, 
+        {
+            "lat": "14.06467", 
+            "name": "Khlong Luang", 
+            "long": "100.64578"
+        }, 
+        {
+            "lat": "14.02775", 
+            "name": "Ban Rangsit", 
+            "long": "100.75603"
+        }, 
+        {
+            "lat": "13.97738", 
+            "name": "Ban Lam Luk Ka", 
+            "long": "100.77776"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "17.47531", 
+            "name": "Sawang Daen Din", 
+            "long": "103.45753"
+        }, 
+        {
+            "lat": "17.16116", 
+            "name": "Sakon Nakhon", 
+            "long": "104.14725"
+        }
+    ], 
+    "77": [
+        {
+            "lat": "15.85851", 
+            "name": "Amnat Charoen", 
+            "long": "104.62883"
+        }
+    ], 
+    "76": [
+        {
+            "lat": "17.2675", 
+            "name": "Ban Nong Wua So", 
+            "long": "103.22472"
+        }, 
+        {
+            "lat": "17.41567", 
+            "name": "Udon Thani", 
+            "long": "102.78589"
+        }, 
+        {
+            "lat": "17.77036", 
+            "name": "Nam Som", 
+            "long": "102.18947"
+        }, 
+        {
+            "lat": "17.4257", 
+            "name": "Kut Chap", 
+            "long": "102.56692"
+        }, 
+        {
+            "lat": "17.14272", 
+            "name": "Ban Phan Don", 
+            "long": "102.97261"
+        }, 
+        {
+            "lat": "17.699", 
+            "name": "Ban Dung", 
+            "long": "103.25957"
+        }
+    ], 
+    "75": [
+        {
+            "lat": "15.19319", 
+            "name": "Warin Chamrap", 
+            "long": "104.8628"
+        }, 
+        {
+            "lat": "15.23844", 
+            "name": "Ubon Ratchathani", 
+            "long": "104.84866"
+        }, 
+        {
+            "lat": "15.24467", 
+            "name": "Phibun Mangsahan", 
+            "long": "105.22908"
+        }, 
+        {
+            "lat": "14.90598", 
+            "name": "Det Udom", 
+            "long": "105.07836"
+        }
+    ], 
+    "74": [
+        {
+            "lat": "14.04992", 
+            "name": "Prachin Buri", 
+            "long": "101.36864"
+        }, 
+        {
+            "lat": "13.95114", 
+            "name": "Kabin Buri", 
+            "long": "101.71769"
+        }
+    ], 
+    "73": [
+        {
+            "lat": "17.41081", 
+            "name": "Nakhon Phanom", 
+            "long": "104.77856"
+        }
+    ], 
+    "72": [
+        {
+            "lat": "15.79408", 
+            "name": "Yasothon", 
+            "long": "104.1451"
+        }
+    ], 
+    "70": [
+        {
+            "lat": "6.53995", 
+            "name": "Yala", 
+            "long": "101.28128"
+        }, 
+        {
+            "lat": "5.77434", 
+            "name": "Betong", 
+            "long": "101.07231"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "15.46063", 
+            "name": "Thap Than", 
+            "long": "99.89166"
+        }, 
+        {
+            "lat": "15.37939", 
+            "name": "Uthai Thani", 
+            "long": "100.0245"
+        }
+    ], 
+    "38": [
+        {
+            "lat": "13.91301", 
+            "name": "Pak Kret", 
+            "long": "100.49883"
+        }, 
+        {
+            "lat": "13.86075", 
+            "name": "Mueang Nonthaburi", 
+            "long": "100.51477"
+        }, 
+        {
+            "lat": "13.805", 
+            "name": "Bang Kruai", 
+            "long": "100.47283"
+        }, 
+        {
+            "lat": "13.91783", 
+            "name": "Bang Bua Thong", 
+            "long": "100.42403"
+        }
+    ], 
+    "79": [
+        {
+            "lat": "17.3072", 
+            "name": "Na Klang", 
+            "long": "102.18886"
+        }, 
+        {
+            "lat": "17.20406", 
+            "name": "Nong Bua Lamphu", 
+            "long": "102.44068"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "15.65778", 
+            "name": "Wichian Buri", 
+            "long": "101.10603"
+        }, 
+        {
+            "lat": "16.41904", 
+            "name": "Phetchabun", 
+            "long": "101.16056"
+        }, 
+        {
+            "lat": "15.99025", 
+            "name": "Nong Phai", 
+            "long": "101.06183"
+        }, 
+        {
+            "lat": "16.77983", 
+            "name": "Lom Sak", 
+            "long": "101.24225"
+        }, 
+        {
+            "lat": "16.18953", 
+            "name": "Chon Daen", 
+            "long": "100.85958"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "16.0617", 
+            "name": "Khanu Woralaksaburi", 
+            "long": "99.86058"
+        }, 
+        {
+            "lat": "16.48344", 
+            "name": "Kamphaeng Phet", 
+            "long": "99.52153"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "17.62557", 
+            "name": "Uttaradit", 
+            "long": "100.09421"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "16.16003", 
+            "name": "Thap Khlo", 
+            "long": "100.59656"
+        }, 
+        {
+            "lat": "16.22095", 
+            "name": "Taphan Hin", 
+            "long": "100.41978"
+        }, 
+        {
+            "lat": "16.44184", 
+            "name": "Phichit", 
+            "long": "100.34879"
+        }, 
+        {
+            "lat": "16.02781", 
+            "name": "Bang Mun Nak", 
+            "long": "100.37917"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "16.82481", 
+            "name": "Phitsanulok", 
+            "long": "100.25858"
+        }, 
+        {
+            "lat": "16.75847", 
+            "name": "Bang Rakam", 
+            "long": "100.11742"
+        }, 
+        {
+            "lat": "16.57831", 
+            "name": "Bang Krathum", 
+            "long": "100.30034"
+        }
+    ], 
+    "59": [
+        {
+            "lat": "9.96583", 
+            "name": "Ranong", 
+            "long": "98.63476"
+        }
+    ], 
+    "58": [
+        {
+            "lat": "9.94561", 
+            "name": "Lang Suan", 
+            "long": "99.07847"
+        }, 
+        {
+            "lat": "10.4957", 
+            "name": "Chumphon", 
+            "long": "99.17971"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "17.85003", 
+            "name": "Tha Bo", 
+            "long": "102.58139"
+        }, 
+        {
+            "lat": "18.03333", 
+            "name": "Phon Charoen", 
+            "long": "103.16667"
+        }, 
+        {
+            "lat": "17.87847", 
+            "name": "Nong Khai", 
+            "long": "102.742"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "15.751", 
+            "name": "Lat Yao", 
+            "long": "99.78925"
+        }, 
+        {
+            "lat": "15.70472", 
+            "name": "Nakhon Sawan", 
+            "long": "100.13717"
+        }
+    ], 
+    "33": [
+        {
+            "lat": "14.88786", 
+            "name": "Sing Buri", 
+            "long": "100.40464"
+        }, 
+        {
+            "lat": "14.892", 
+            "name": "Bang Racham", 
+            "long": "100.31728"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "17.30097", 
+            "name": "Wang Saphung", 
+            "long": "101.7685"
+        }, 
+        {
+            "lat": "16.88425", 
+            "name": "Phu Kradueng", 
+            "long": "101.88467"
+        }, 
+        {
+            "lat": "17.49052", 
+            "name": "Loei", 
+            "long": "101.72749"
+        }
+    ], 
+    "57": [
+        {
+            "lat": "12.27081", 
+            "name": "Sam Roi Yot", 
+            "long": "99.87203"
+        }, 
+        {
+            "lat": "12.38487", 
+            "name": "Pran Buri", 
+            "long": "99.90157"
+        }, 
+        {
+            "lat": "11.82098", 
+            "name": "Prachuap Khiri Khan", 
+            "long": "99.7841"
+        }, 
+        {
+            "lat": "12.08283", 
+            "name": "Kui Buri", 
+            "long": "99.85431"
+        }, 
+        {
+            "lat": "12.57065", 
+            "name": "Hua Hin", 
+            "long": "99.95876"
+        }, 
+        {
+            "lat": "11.21259", 
+            "name": "Bang Saphan", 
+            "long": "99.51167"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "16.65", 
+            "name": "Nong Kung Si", 
+            "long": "103.3"
+        }, 
+        {
+            "lat": "16.541", 
+            "name": "Kuchinarai", 
+            "long": "104.05004"
+        }, 
+        {
+            "lat": "16.70008", 
+            "name": "Khao Wong", 
+            "long": "104.09019"
+        }, 
+        {
+            "lat": "16.33839", 
+            "name": "Kamalasai", 
+            "long": "103.57564"
+        }, 
+        {
+            "lat": "16.43281", 
+            "name": "Kalasin", 
+            "long": "103.50658"
+        }
+    ], 
+    "51": [
+        {
+            "lat": "14.47418", 
+            "name": "Suphan Buri", 
+            "long": "100.12218"
+        }
+    ], 
+    "50": [
+        {
+            "lat": "13.96118", 
+            "name": "Tha Muang", 
+            "long": "99.64122"
+        }, 
+        {
+            "lat": "13.9", 
+            "name": "Tha Maka", 
+            "long": "99.76667"
+        }, 
+        {
+            "lat": "14.00412", 
+            "name": "Kanchanaburi", 
+            "long": "99.54832"
+        }, 
+        {
+            "lat": "14.32517", 
+            "name": "Bo Phloi", 
+            "long": "99.51467"
+        }
+    ], 
+    "35": [
+        {
+            "lat": "14.5945", 
+            "name": "Wiset Chaichan", 
+            "long": "100.33825"
+        }
+    ], 
+    "52": [
+        {
+            "lat": "13.53671", 
+            "name": "Ratchaburi", 
+            "long": "99.81712"
+        }, 
+        {
+            "lat": "13.69234", 
+            "name": "Photharam", 
+            "long": "99.84969"
+        }, 
+        {
+            "lat": "13.51825", 
+            "name": "Damnoen Saduak", 
+            "long": "99.95469"
+        }, 
+        {
+            "lat": "13.62", 
+            "name": "Chom Bueng", 
+            "long": "99.59169"
+        }, 
+        {
+            "lat": "13.81629", 
+            "name": "Ban Pong", 
+            "long": "99.87739"
+        }, 
+        {
+            "lat": "13.69157", 
+            "name": "Bang Phae", 
+            "long": "99.92982"
+        }
+    ], 
+    "55": [
+        {
+            "lat": "13.54753", 
+            "name": "Samut Sakhon", 
+            "long": "100.27362"
+        }, 
+        {
+            "lat": "13.6533", 
+            "name": "Krathum Baen", 
+            "long": "100.25972"
+        }, 
+        {
+            "lat": "13.59072", 
+            "name": "Ban Phaeo", 
+            "long": "100.10748"
+        }
+    ], 
+    "54": [
+        {
+            "lat": "13.41456", 
+            "name": "Samut Songkhram", 
+            "long": "100.00264"
+        }
+    ], 
+    "31": [
+        {
+            "lat": "6.25947", 
+            "name": "Tak Bai", 
+            "long": "102.05461"
+        }, 
+        {
+            "lat": "6.02977", 
+            "name": "Su-ngai Kolok", 
+            "long": "101.96586"
+        }, 
+        {
+            "lat": "6.29678", 
+            "name": "Ra-ngae", 
+            "long": "101.72844"
+        }, 
+        {
+            "lat": "6.42639", 
+            "name": "Narathiwat", 
+            "long": "101.82308"
+        }
+    ]
+}

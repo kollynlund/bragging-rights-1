@@ -1,0 +1,87 @@
+{
+    "11": [
+        {
+            "lat": "11.18333", 
+            "name": "Scarborough", 
+            "long": "-60.73333"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "10.3", 
+            "name": "Rio Claro", 
+            "long": "-61.18333"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "10.63333", 
+            "name": "Arima", 
+            "long": "-61.28333"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "10.66668", 
+            "name": "Port-of-Spain", 
+            "long": "-61.51889"
+        }
+    ], 
+    "TUP": [
+        {
+            "lat": "10.63333", 
+            "name": "Tunapuna", 
+            "long": "-61.38333"
+        }, 
+        {
+            "lat": "10.65298", 
+            "name": "Paradise", 
+            "long": "-61.36298"
+        }
+    ], 
+    "PTF": [
+        {
+            "lat": "10.18333", 
+            "name": "Point Fortin", 
+            "long": "-61.68333"
+        }
+    ], 
+    "SJL": [
+        {
+            "lat": "10.64917", 
+            "name": "Laventille", 
+            "long": "-61.49889"
+        }
+    ], 
+    "CHA": [
+        {
+            "lat": "10.51667", 
+            "name": "Chaguanas", 
+            "long": "-61.41667"
+        }
+    ], 
+    "SGE": [
+        {
+            "lat": "10.58333", 
+            "name": "Sangre Grande", 
+            "long": "-61.11667"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "10.28333", 
+            "name": "San Fernando", 
+            "long": "-61.46667"
+        }, 
+        {
+            "lat": "10.27979", 
+            "name": "Mon Repos", 
+            "long": "-61.4459"
+        }, 
+        {
+            "lat": "10.30618", 
+            "name": "Marabella", 
+            "long": "-61.44671"
+        }
+    ]
+}

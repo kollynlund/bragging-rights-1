@@ -1,0 +1,820 @@
+{
+    "02": [
+        {
+            "lat": "-27.76952", 
+            "name": "Vryheid", 
+            "long": "30.79165"
+        }, 
+        {
+            "lat": "-30.20674", 
+            "name": "Umkomaas", 
+            "long": "30.79776"
+        }, 
+        {
+            "lat": "-28.33523", 
+            "name": "Ulundi", 
+            "long": "31.41617"
+        }, 
+        {
+            "lat": "-29.32816", 
+            "name": "Stanger", 
+            "long": "31.28954"
+        }, 
+        {
+            "lat": "-30.28666", 
+            "name": "Scottburgh", 
+            "long": "30.75316"
+        }, 
+        {
+            "lat": "-29.87196", 
+            "name": "Richmond", 
+            "long": "30.27235"
+        }, 
+        {
+            "lat": "-28.78301", 
+            "name": "Richards Bay", 
+            "long": "32.03768"
+        }, 
+        {
+            "lat": "-30.74137", 
+            "name": "Port Shepstone", 
+            "long": "30.45499"
+        }, 
+        {
+            "lat": "-29.61679", 
+            "name": "Pietermaritzburg", 
+            "long": "30.39278"
+        }, 
+        {
+            "lat": "-27.75796", 
+            "name": "Newcastle", 
+            "long": "29.9318"
+        }, 
+        {
+            "lat": "-29.81292", 
+            "name": "Mpumalanga", 
+            "long": "30.63646"
+        }, 
+        {
+            "lat": "-29.56822", 
+            "name": "Mpophomeni", 
+            "long": "30.18618"
+        }, 
+        {
+            "lat": "-27.98299", 
+            "name": "Mondlo", 
+            "long": "30.71769"
+        }, 
+        {
+            "lat": "-30.8636", 
+            "name": "Margate", 
+            "long": "30.37052"
+        }, 
+        {
+            "lat": "-30.54723", 
+            "name": "Kokstad", 
+            "long": "29.42412"
+        }, 
+        {
+            "lat": "-29.47795", 
+            "name": "Howick", 
+            "long": "30.23057"
+        }, 
+        {
+            "lat": "-28.87097", 
+            "name": "eSikhawini", 
+            "long": "31.89961"
+        }, 
+        {
+            "lat": "-28.76197", 
+            "name": "Empangeni", 
+            "long": "31.89329"
+        }, 
+        {
+            "lat": "-29.8579", 
+            "name": "Durban", 
+            "long": "31.0292"
+        }, 
+        {
+            "lat": "-28.16678", 
+            "name": "Dundee", 
+            "long": "30.23371"
+        }, 
+        {
+            "lat": "-29.53897", 
+            "name": "Ballitoville", 
+            "long": "31.21439"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "-25.53695", 
+            "name": "Zeerust", 
+            "long": "26.07512"
+        }, 
+        {
+            "lat": "-27.1974", 
+            "name": "Wolmaransstad", 
+            "long": "25.98311"
+        }, 
+        {
+            "lat": "-26.95659", 
+            "name": "Vryburg", 
+            "long": "24.7284"
+        }, 
+        {
+            "lat": "-26.84493", 
+            "name": "Stilfontein", 
+            "long": "26.76829"
+        }, 
+        {
+            "lat": "-27.18871", 
+            "name": "Schweizer-Reneke", 
+            "long": "25.32931"
+        }, 
+        {
+            "lat": "-25.66756", 
+            "name": "Rustenburg", 
+            "long": "27.24208"
+        }, 
+        {
+            "lat": "-26.71667", 
+            "name": "Potchefstroom", 
+            "long": "27.1"
+        }, 
+        {
+            "lat": "-27.78324", 
+            "name": "Pampierstad", 
+            "long": "24.68768"
+        }, 
+        {
+            "lat": "-26.98023", 
+            "name": "Orkney", 
+            "long": "26.67272"
+        }, 
+        {
+            "lat": "-25.85", 
+            "name": "Mmabatho", 
+            "long": "25.63333"
+        }, 
+        {
+            "lat": "-26.152", 
+            "name": "Lichtenburg", 
+            "long": "26.15968"
+        }, 
+        {
+            "lat": "-26.85213", 
+            "name": "Klerksdorp", 
+            "long": "26.66672"
+        }, 
+        {
+            "lat": "-25.61692", 
+            "name": "Ga-Rankuwa", 
+            "long": "27.99471"
+        }, 
+        {
+            "lat": "-26.48862", 
+            "name": "Fochville", 
+            "long": "27.49387"
+        }, 
+        {
+            "lat": "-27.91402", 
+            "name": "Christiana", 
+            "long": "25.16111"
+        }, 
+        {
+            "lat": "-25.63473", 
+            "name": "Brits", 
+            "long": "27.78022"
+        }, 
+        {
+            "lat": "-27.64685", 
+            "name": "Bloemhof", 
+            "long": "25.60697"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "-26.1625", 
+            "name": "Roodepoort", 
+            "long": "27.8725"
+        }, 
+        {
+            "lat": "-26.31905", 
+            "name": "Westonaria", 
+            "long": "27.6486"
+        }, 
+        {
+            "lat": "-26.67313", 
+            "name": "Vereeniging", 
+            "long": "27.92615"
+        }, 
+        {
+            "lat": "-26.71171", 
+            "name": "Vanderbijlpark", 
+            "long": "27.83795"
+        }, 
+        {
+            "lat": "-25.99636", 
+            "name": "Tembisa", 
+            "long": "28.2268"
+        }, 
+        {
+            "lat": "-26.25", 
+            "name": "Springs", 
+            "long": "28.4"
+        }, 
+        {
+            "lat": "-26.26781", 
+            "name": "Soweto", 
+            "long": "27.85849"
+        }, 
+        {
+            "lat": "-26.1844", 
+            "name": "Randfontein", 
+            "long": "27.70203"
+        }, 
+        {
+            "lat": "-25.74486", 
+            "name": "Pretoria", 
+            "long": "28.18783"
+        }, 
+        {
+            "lat": "-26.43138", 
+            "name": "Nigel", 
+            "long": "28.47713"
+        }, 
+        {
+            "lat": "-25.49768", 
+            "name": "Mabopane", 
+            "long": "28.10065"
+        }, 
+        {
+            "lat": "-26.08577", 
+            "name": "Krugersdorp", 
+            "long": "27.77515"
+        }, 
+        {
+            "lat": "-26.20227", 
+            "name": "Johannesburg", 
+            "long": "28.04363"
+        }, 
+        {
+            "lat": "-26.50476", 
+            "name": "Heidelberg", 
+            "long": "28.35921"
+        }, 
+        {
+            "lat": "-25.67088", 
+            "name": "Cullinan", 
+            "long": "28.52364"
+        }, 
+        {
+            "lat": "-26.36094", 
+            "name": "Carletonville", 
+            "long": "27.39767"
+        }, 
+        {
+            "lat": "-25.81015", 
+            "name": "Bronkhorstspruit", 
+            "long": "28.74248"
+        }, 
+        {
+            "lat": "-26.23656", 
+            "name": "Brakpan", 
+            "long": "28.36938"
+        }, 
+        {
+            "lat": "-26.21197", 
+            "name": "Boksburg", 
+            "long": "28.25958"
+        }, 
+        {
+            "lat": "-26.18848", 
+            "name": "Benoni", 
+            "long": "28.32078"
+        }, 
+        {
+            "lat": "-25.69619", 
+            "name": "Ekangala", 
+            "long": "28.74918"
+        }, 
+        {
+            "lat": "-25.98953", 
+            "name": "Midrand", 
+            "long": "28.12843"
+        }, 
+        {
+            "lat": "-25.85891", 
+            "name": "Centurion", 
+            "long": "28.18577"
+        }, 
+        {
+            "lat": "-25.93312", 
+            "name": "Diepsloot", 
+            "long": "28.01213"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "-25.33177", 
+            "name": "White River", 
+            "long": "31.01166"
+        }, 
+        {
+            "lat": "-25.87133", 
+            "name": "Witbank", 
+            "long": "29.23323"
+        }, 
+        {
+            "lat": "-27.36541", 
+            "name": "Volksrust", 
+            "long": "29.88175"
+        }, 
+        {
+            "lat": "-26.93366", 
+            "name": "Standerton", 
+            "long": "29.24152"
+        }, 
+        {
+            "lat": "-25.11319", 
+            "name": "Siyabuswa", 
+            "long": "29.04454"
+        }, 
+        {
+            "lat": "-26.55", 
+            "name": "Secunda", 
+            "long": "29.16667"
+        }, 
+        {
+            "lat": "-27.00706", 
+            "name": "Piet Retief", 
+            "long": "30.81323"
+        }, 
+        {
+            "lat": "-25.47448", 
+            "name": "Nelspruit", 
+            "long": "30.97033"
+        }, 
+        {
+            "lat": "-25.77507", 
+            "name": "Middelburg", 
+            "long": "29.46482"
+        }, 
+        {
+            "lat": "-25.09598", 
+            "name": "Lydenburg", 
+            "long": "30.44393"
+        }, 
+        {
+            "lat": "-26.27391", 
+            "name": "Kriel", 
+            "long": "29.2253"
+        }, 
+        {
+            "lat": "-25.43321", 
+            "name": "Komatipoort", 
+            "long": "31.95478"
+        }, 
+        {
+            "lat": "-26.15881", 
+            "name": "Hendrina", 
+            "long": "29.71528"
+        }, 
+        {
+            "lat": "-26.53333", 
+            "name": "Ermelo", 
+            "long": "29.98333"
+        }, 
+        {
+            "lat": "-26.53333", 
+            "name": "eMbalenhle", 
+            "long": "29.06667"
+        }, 
+        {
+            "lat": "-27.0177", 
+            "name": "Driefontein", 
+            "long": "30.44979"
+        }, 
+        {
+            "lat": "-26.1466", 
+            "name": "Delmas", 
+            "long": "28.68322"
+        }, 
+        {
+            "lat": "-26.45794", 
+            "name": "Bethal", 
+            "long": "29.46553"
+        }, 
+        {
+            "lat": "-25.78842", 
+            "name": "Barberton", 
+            "long": "31.05319"
+        }, 
+        {
+            "lat": "-26.66331", 
+            "name": "Balfour", 
+            "long": "28.59016"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "-27.8549", 
+            "name": "Wesselsbron", 
+            "long": "26.36583"
+        }, 
+        {
+            "lat": "-27.97742", 
+            "name": "Welkom", 
+            "long": "26.73506"
+        }, 
+        {
+            "lat": "-28.10391", 
+            "name": "Virginia", 
+            "long": "26.86593"
+        }, 
+        {
+            "lat": "-27.20841", 
+            "name": "Viljoenskroon", 
+            "long": "26.94855"
+        }, 
+        {
+            "lat": "-28.41098", 
+            "name": "Theunissen", 
+            "long": "26.70107"
+        }, 
+        {
+            "lat": "-29.20932", 
+            "name": "Thaba Nchu", 
+            "long": "26.83898"
+        }, 
+        {
+            "lat": "-28.31971", 
+            "name": "Senekal", 
+            "long": "27.62082"
+        }, 
+        {
+            "lat": "-26.81358", 
+            "name": "Sasolburg", 
+            "long": "27.81695"
+        }, 
+        {
+            "lat": "-27.80138", 
+            "name": "Reitz", 
+            "long": "28.42726"
+        }, 
+        {
+            "lat": "-28.52423", 
+            "name": "Phuthaditjhaba", 
+            "long": "28.81582"
+        }, 
+        {
+            "lat": "-26.9033", 
+            "name": "Parys", 
+            "long": "27.45727"
+        }, 
+        {
+            "lat": "-29.19448", 
+            "name": "Ladybrand", 
+            "long": "27.45739"
+        }, 
+        {
+            "lat": "-27.83333", 
+            "name": "Kutloanong", 
+            "long": "26.75"
+        }, 
+        {
+            "lat": "-27.65036", 
+            "name": "Kroonstad", 
+            "long": "27.23488"
+        }, 
+        {
+            "lat": "-27.97654", 
+            "name": "Hennenman", 
+            "long": "27.02423"
+        }, 
+        {
+            "lat": "-27.28115", 
+            "name": "Heilbron", 
+            "long": "27.9709"
+        }, 
+        {
+            "lat": "-28.27276", 
+            "name": "Harrismith", 
+            "long": "29.12946"
+        }, 
+        {
+            "lat": "-29.27016", 
+            "name": "Botshabelo", 
+            "long": "26.7052"
+        }, 
+        {
+            "lat": "-27.3887", 
+            "name": "Bothaville", 
+            "long": "26.61701"
+        }, 
+        {
+            "lat": "-29.12107", 
+            "name": "Bloemfontein", 
+            "long": "26.214"
+        }, 
+        {
+            "lat": "-28.23078", 
+            "name": "Bethlehem", 
+            "long": "28.30707"
+        }, 
+        {
+            "lat": "-27.75431", 
+            "name": "Allanridge", 
+            "long": "26.64382"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "-28.11396", 
+            "name": "Warrenton", 
+            "long": "24.84753"
+        }, 
+        {
+            "lat": "-28.44776", 
+            "name": "Upington", 
+            "long": "21.25612"
+        }, 
+        {
+            "lat": "-28.73226", 
+            "name": "Kimberley", 
+            "long": "24.76232"
+        }, 
+        {
+            "lat": "-30.64966", 
+            "name": "De Aar", 
+            "long": "24.0123"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "-24.88333", 
+            "name": "Warmbaths", 
+            "long": "28.28333"
+        }, 
+        {
+            "lat": "-23.83322", 
+            "name": "Tzaneen", 
+            "long": "30.16351"
+        }, 
+        {
+            "lat": "-22.94564", 
+            "name": "Thohoyandou", 
+            "long": "30.48497"
+        }, 
+        {
+            "lat": "-24.19436", 
+            "name": "Mokopane", 
+            "long": "29.00974"
+        }, 
+        {
+            "lat": "-23.90449", 
+            "name": "Polokwane", 
+            "long": "29.46885"
+        }, 
+        {
+            "lat": "-23.94299", 
+            "name": "Phalaborwa", 
+            "long": "31.14107"
+        }, 
+        {
+            "lat": "-24.7", 
+            "name": "Modimolle", 
+            "long": "28.4"
+        }, 
+        {
+            "lat": "-23.88782", 
+            "name": "Nkowakowa", 
+            "long": "30.28708"
+        }, 
+        {
+            "lat": "-22.35131", 
+            "name": "Messina", 
+            "long": "30.0396"
+        }, 
+        {
+            "lat": "-23.04385", 
+            "name": "Louis Trichardt", 
+            "long": "29.90319"
+        }, 
+        {
+            "lat": "-24.2", 
+            "name": "Lebowakgomo", 
+            "long": "29.5"
+        }, 
+        {
+            "lat": "-23.30246", 
+            "name": "Giyani", 
+            "long": "30.71868"
+        }, 
+        {
+            "lat": "-23.69339", 
+            "name": "Duiwelskloof", 
+            "long": "30.14002"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "-34.05274", 
+            "name": "Plettenberg Bay", 
+            "long": "23.3716"
+        }, 
+        {
+            "lat": "-33.60047", 
+            "name": "Oudtshoorn", 
+            "long": "22.19955"
+        }, 
+        {
+            "lat": "-34.18307", 
+            "name": "Mossel Bay", 
+            "long": "22.14605"
+        }, 
+        {
+            "lat": "-34.03627", 
+            "name": "Knysna", 
+            "long": "23.04713"
+        }, 
+        {
+            "lat": "-33.963", 
+            "name": "George", 
+            "long": "22.46173"
+        }, 
+        {
+            "lat": "-32.35671", 
+            "name": "Beaufort West", 
+            "long": "22.58295"
+        }, 
+        {
+            "lat": "-33.64651", 
+            "name": "Worcester", 
+            "long": "19.44852"
+        }, 
+        {
+            "lat": "-33.93462", 
+            "name": "Stellenbosch", 
+            "long": "18.86676"
+        }, 
+        {
+            "lat": "-33.01167", 
+            "name": "Saldanha", 
+            "long": "17.9442"
+        }, 
+        {
+            "lat": "-33.70468", 
+            "name": "Noorder-Paarl", 
+            "long": "18.96552"
+        }, 
+        {
+            "lat": "-33.4608", 
+            "name": "Malmesbury", 
+            "long": "18.72714"
+        }, 
+        {
+            "lat": "-33.98735", 
+            "name": "Lansdowne", 
+            "long": "18.49746"
+        }, 
+        {
+            "lat": "-33.84808", 
+            "name": "Kraaifontein", 
+            "long": "18.71723"
+        }, 
+        {
+            "lat": "-34.4187", 
+            "name": "Hermanus", 
+            "long": "19.23446"
+        }, 
+        {
+            "lat": "-34.15152", 
+            "name": "Grabouw", 
+            "long": "19.01509"
+        }, 
+        {
+            "lat": "-33.36889", 
+            "name": "Ceres", 
+            "long": "19.31095"
+        }, 
+        {
+            "lat": "-33.92584", 
+            "name": "Cape Town", 
+            "long": "18.42322"
+        }, 
+        {
+            "lat": "-33.56668", 
+            "name": "Atlantis", 
+            "long": "18.48335"
+        }, 
+        {
+            "lat": "-33.96333", 
+            "name": "Rondebosch", 
+            "long": "18.47639"
+        }, 
+        {
+            "lat": "-34.05515", 
+            "name": "Retreat", 
+            "long": "18.47617"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "-31.58893", 
+            "name": "Mthatha", 
+            "long": "28.78443"
+        }, 
+        {
+            "lat": "-33.75757", 
+            "name": "Uitenhage", 
+            "long": "25.3971"
+        }, 
+        {
+            "lat": "-32.57076", 
+            "name": "Stutterheim", 
+            "long": "27.42396"
+        }, 
+        {
+            "lat": "-32.72173", 
+            "name": "Somerset East", 
+            "long": "25.58804"
+        }, 
+        {
+            "lat": "-31.89756", 
+            "name": "Queenstown", 
+            "long": "26.87533"
+        }, 
+        {
+            "lat": "-31.87101", 
+            "name": "Queensdale", 
+            "long": "26.97862"
+        }, 
+        {
+            "lat": "-33.91799", 
+            "name": "Port Elizabeth", 
+            "long": "25.57007"
+        }, 
+        {
+            "lat": "-33.59057", 
+            "name": "Port Alfred", 
+            "long": "26.89104"
+        }, 
+        {
+            "lat": "-31.49285", 
+            "name": "Middelburg", 
+            "long": "25.00633"
+        }, 
+        {
+            "lat": "-31.70312", 
+            "name": "Lady Frere", 
+            "long": "27.2329"
+        }, 
+        {
+            "lat": "-34.00333", 
+            "name": "Kruisfontein", 
+            "long": "24.73142"
+        }, 
+        {
+            "lat": "-33.30422", 
+            "name": "Grahamstown", 
+            "long": "26.53276"
+        }, 
+        {
+            "lat": "-32.25215", 
+            "name": "Graaff-Reinet", 
+            "long": "24.53075"
+        }, 
+        {
+            "lat": "-32.77477", 
+            "name": "Fort Beaufort", 
+            "long": "26.63376"
+        }, 
+        {
+            "lat": "-33.01529", 
+            "name": "East London", 
+            "long": "27.91162"
+        }, 
+        {
+            "lat": "-32.16422", 
+            "name": "Cradock", 
+            "long": "25.61918"
+        }, 
+        {
+            "lat": "-32.33083", 
+            "name": "Butterworth", 
+            "long": "28.14981"
+        }, 
+        {
+            "lat": "-32.84721", 
+            "name": "Bhisho", 
+            "long": "27.44218"
+        }, 
+        {
+            "lat": "-30.69366", 
+            "name": "Aliwal North", 
+            "long": "26.71141"
+        }
+    ]
+}

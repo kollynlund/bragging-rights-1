@@ -1,0 +1,928 @@
+{
+    "BRU": [
+        {
+            "lat": "50.85045", 
+            "name": "Brussels", 
+            "long": "4.34878"
+        }
+    ], 
+    "WAL": [
+        {
+            "lat": "50.71717", 
+            "name": "Wavre", 
+            "long": "4.60138"
+        }, 
+        {
+            "lat": "50.71469", 
+            "name": "Waterloo", 
+            "long": "4.3991"
+        }, 
+        {
+            "lat": "50.25401", 
+            "name": "Walcourt", 
+            "long": "4.43796"
+        }, 
+        {
+            "lat": "50.7376", 
+            "name": "Vis&#233;", 
+            "long": "5.69907"
+        }, 
+        {
+            "lat": "50.58907", 
+            "name": "Verviers", 
+            "long": "5.86241"
+        }, 
+        {
+            "lat": "50.69059", 
+            "name": "Tubize", 
+            "long": "4.2009"
+        }, 
+        {
+            "lat": "50.60715", 
+            "name": "Tournai", 
+            "long": "3.38932"
+        }, 
+        {
+            "lat": "50.61385", 
+            "name": "Soumagne", 
+            "long": "5.74679"
+        }, 
+        {
+            "lat": "50.57904", 
+            "name": "Soignies", 
+            "long": "4.07129"
+        }, 
+        {
+            "lat": "50.58362", 
+            "name": "Seraing", 
+            "long": "5.50115"
+        }, 
+        {
+            "lat": "50.62837", 
+            "name": "Saint-Nicolas", 
+            "long": "5.53243"
+        }, 
+        {
+            "lat": "50.44816", 
+            "name": "Saint-Ghislain", 
+            "long": "3.81886"
+        }, 
+        {
+            "lat": "50.71229", 
+            "name": "Rixensart", 
+            "long": "4.52529"
+        }, 
+        {
+            "lat": "50.44067", 
+            "name": "Quaregnon", 
+            "long": "3.8653"
+        }, 
+        {
+            "lat": "50.50518", 
+            "name": "Pont-&#224;-Celles", 
+            "long": "4.36887"
+        }, 
+        {
+            "lat": "50.50819", 
+            "name": "P&#233;ruwelz", 
+            "long": "3.59373"
+        }, 
+        {
+            "lat": "50.71184", 
+            "name": "Oupeye", 
+            "long": "5.6468"
+        }, 
+        {
+            "lat": "50.59833", 
+            "name": "Nivelles", 
+            "long": "4.32848"
+        }, 
+        {
+            "lat": "50.4669", 
+            "name": "Namur", 
+            "long": "4.86746"
+        }, 
+        {
+            "lat": "50.74497", 
+            "name": "Mouscron", 
+            "long": "3.20639"
+        }, 
+        {
+            "lat": "50.45502", 
+            "name": "Morlanwelz-Mariemont", 
+            "long": "4.24519"
+        }, 
+        {
+            "lat": "50.45413", 
+            "name": "Mons", 
+            "long": "3.95229"
+        }, 
+        {
+            "lat": "50.22678", 
+            "name": "Marche-en-Famenne", 
+            "long": "5.34416"
+        }, 
+        {
+            "lat": "50.50312", 
+            "name": "Manage", 
+            "long": "4.23589"
+        }, 
+        {
+            "lat": "50.66829", 
+            "name": "Louvain-la-Neuve", 
+            "long": "4.61443"
+        }, 
+        {
+            "lat": "50.63373", 
+            "name": "Li&#232;ge", 
+            "long": "5.56749"
+        }, 
+        {
+            "lat": "50.71104", 
+            "name": "Lessines", 
+            "long": "3.83579"
+        }, 
+        {
+            "lat": "50.48657", 
+            "name": "La Louvi&#232;re", 
+            "long": "4.18785"
+        }, 
+        {
+            "lat": "50.51894", 
+            "name": "Huy", 
+            "long": "5.23284"
+        }, 
+        {
+            "lat": "50.64083", 
+            "name": "Herve", 
+            "long": "5.79353"
+        }, 
+        {
+            "lat": "50.66415", 
+            "name": "Herstal", 
+            "long": "5.62346"
+        }, 
+        {
+            "lat": "50.56149", 
+            "name": "Gembloux", 
+            "long": "4.69889"
+        }, 
+        {
+            "lat": "50.40578", 
+            "name": "Frameries", 
+            "long": "3.89603"
+        }, 
+        {
+            "lat": "50.48351", 
+            "name": "Fleurus", 
+            "long": "4.55006"
+        }, 
+        {
+            "lat": "50.61516", 
+            "name": "Fl&#233;ron", 
+            "long": "5.68062"
+        }, 
+        {
+            "lat": "50.59994", 
+            "name": "Fl&#233;malle-Haute", 
+            "long": "5.44471"
+        }, 
+        {
+            "lat": "50.6279", 
+            "name": "Eupen", 
+            "long": "6.03647"
+        }, 
+        {
+            "lat": "50.39583", 
+            "name": "Dour", 
+            "long": "3.77792"
+        }, 
+        {
+            "lat": "50.46379", 
+            "name": "Courcelles", 
+            "long": "4.3747"
+        }, 
+        {
+            "lat": "50.4141", 
+            "name": "Colfontaine", 
+            "long": "3.85569"
+        }, 
+        {
+            "lat": "50.5828", 
+            "name": "Chaudfontaine", 
+            "long": "5.6341"
+        }, 
+        {
+            "lat": "50.40338", 
+            "name": "Ch&#226;telet", 
+            "long": "4.52826"
+        }, 
+        {
+            "lat": "50.42842", 
+            "name": "Chasse Royale", 
+            "long": "3.95001"
+        }, 
+        {
+            "lat": "50.41136", 
+            "name": "Charleroi", 
+            "long": "4.44448"
+        }, 
+        {
+            "lat": "50.60979", 
+            "name": "Braine-le-Comte", 
+            "long": "4.14658"
+        }, 
+        {
+            "lat": "50.68363", 
+            "name": "Braine-l'Alleud", 
+            "long": "4.36784"
+        }, 
+        {
+            "lat": "50.43417", 
+            "name": "Boussu", 
+            "long": "3.7944"
+        }, 
+        {
+            "lat": "50.41155", 
+            "name": "Binche", 
+            "long": "4.16469"
+        }, 
+        {
+            "lat": "50.62937", 
+            "name": "Ath", 
+            "long": "3.77801"
+        }, 
+        {
+            "lat": "49.68333", 
+            "name": "Arlon", 
+            "long": "5.81667"
+        }, 
+        {
+            "lat": "50.6623", 
+            "name": "Ans", 
+            "long": "5.52029"
+        }, 
+        {
+            "lat": "50.48941", 
+            "name": "Andenne", 
+            "long": "5.09513"
+        }
+    ], 
+    "VLG": [
+        {
+            "lat": "51.21979", 
+            "name": "Zwijndrecht", 
+            "long": "4.32664"
+        }, 
+        {
+            "lat": "50.81268", 
+            "name": "Zwevegem", 
+            "long": "3.33848"
+        }, 
+        {
+            "lat": "50.86955", 
+            "name": "Zottegem", 
+            "long": "3.81052"
+        }, 
+        {
+            "lat": "50.99064", 
+            "name": "Zonhoven", 
+            "long": "5.36819"
+        }, 
+        {
+            "lat": "51.26825", 
+            "name": "Zoersel", 
+            "long": "4.71296"
+        }, 
+        {
+            "lat": "50.98318", 
+            "name": "Zemst", 
+            "long": "4.46079"
+        }, 
+        {
+            "lat": "51.06566", 
+            "name": "Zele", 
+            "long": "4.0403"
+        }, 
+        {
+            "lat": "51.14236", 
+            "name": "Zedelgem", 
+            "long": "3.1368"
+        }, 
+        {
+            "lat": "50.88365", 
+            "name": "Zaventem", 
+            "long": "4.47298"
+        }, 
+        {
+            "lat": "51.39214", 
+            "name": "Wuustwezel", 
+            "long": "4.59546"
+        }, 
+        {
+            "lat": "51.06041", 
+            "name": "Willebroek", 
+            "long": "4.36019"
+        }, 
+        {
+            "lat": "50.8", 
+            "name": "Wevelgem", 
+            "long": "3.16667"
+        }, 
+        {
+            "lat": "51.00526", 
+            "name": "Wetteren", 
+            "long": "3.88341"
+        }, 
+        {
+            "lat": "51.09049", 
+            "name": "Westerlo", 
+            "long": "4.91544"
+        }, 
+        {
+            "lat": "50.78069", 
+            "name": "Wervik", 
+            "long": "3.03854"
+        }, 
+        {
+            "lat": "50.88898", 
+            "name": "Waregem", 
+            "long": "3.42756"
+        }, 
+        {
+            "lat": "50.92814", 
+            "name": "Vilvoorde", 
+            "long": "4.42938"
+        }, 
+        {
+            "lat": "51.32254", 
+            "name": "Turnhout", 
+            "long": "4.94471"
+        }, 
+        {
+            "lat": "51.0656", 
+            "name": "Torhout", 
+            "long": "3.10085"
+        }, 
+        {
+            "lat": "50.78054", 
+            "name": "Tongeren", 
+            "long": "5.46484"
+        }, 
+        {
+            "lat": "50.80745", 
+            "name": "Tienen", 
+            "long": "4.9378"
+        }, 
+        {
+            "lat": "50.99931", 
+            "name": "Tielt", 
+            "long": "3.32707"
+        }, 
+        {
+            "lat": "51.06513", 
+            "name": "Tessenderlo", 
+            "long": "5.08856"
+        }, 
+        {
+            "lat": "50.82372", 
+            "name": "Tervuren", 
+            "long": "4.51418"
+        }, 
+        {
+            "lat": "51.12794", 
+            "name": "Temse", 
+            "long": "4.21372"
+        }, 
+        {
+            "lat": "51.2099", 
+            "name": "Stekene", 
+            "long": "4.03651"
+        }, 
+        {
+            "lat": "51.33189", 
+            "name": "Stabroek", 
+            "long": "4.37127"
+        }, 
+        {
+            "lat": "50.81679", 
+            "name": "Sint-Truiden", 
+            "long": "5.18647"
+        }, 
+        {
+            "lat": "50.77926", 
+            "name": "Sint-Pieters-Leeuw", 
+            "long": "4.24355"
+        }, 
+        {
+            "lat": "51.16509", 
+            "name": "Sint-Niklaas", 
+            "long": "4.1437"
+        }, 
+        {
+            "lat": "51.21399", 
+            "name": "Sint-Kruis", 
+            "long": "3.24949"
+        }, 
+        {
+            "lat": "51.06691", 
+            "name": "Sint-Katelijne-Waver", 
+            "long": "4.53469"
+        }, 
+        {
+            "lat": "51.21914", 
+            "name": "Sint-Gillis-Waas", 
+            "long": "4.12374"
+        }, 
+        {
+            "lat": "50.74645", 
+            "name": "Sint-Genesius-Rode", 
+            "long": "4.35754"
+        }, 
+        {
+            "lat": "51.25251", 
+            "name": "Schoten", 
+            "long": "4.50268"
+        }, 
+        {
+            "lat": "51.24107", 
+            "name": "Schilde", 
+            "long": "4.58336"
+        }, 
+        {
+            "lat": "50.95302", 
+            "name": "Rotselaar", 
+            "long": "4.71665"
+        }, 
+        {
+            "lat": "50.74574", 
+            "name": "Ronse", 
+            "long": "3.6005"
+        }, 
+        {
+            "lat": "50.94653", 
+            "name": "Roeselare", 
+            "long": "3.12269"
+        }, 
+        {
+            "lat": "50.80995", 
+            "name": "Riemst", 
+            "long": "5.60131"
+        }, 
+        {
+            "lat": "51.18983", 
+            "name": "Ranst", 
+            "long": "4.56533"
+        }, 
+        {
+            "lat": "51.07409", 
+            "name": "Puurs", 
+            "long": "4.28844"
+        }, 
+        {
+            "lat": "51.05337", 
+            "name": "Putte", 
+            "long": "4.63263"
+        }, 
+        {
+            "lat": "50.85386", 
+            "name": "Poperinge", 
+            "long": "2.72659"
+        }, 
+        {
+            "lat": "51.1303", 
+            "name": "Peer", 
+            "long": "5.45952"
+        }, 
+        {
+            "lat": "50.77436", 
+            "name": "Overijse", 
+            "long": "4.53461"
+        }, 
+        {
+            "lat": "50.85168", 
+            "name": "Oudenaarde", 
+            "long": "3.60891"
+        }, 
+        {
+            "lat": "51.15432", 
+            "name": "Oostkamp", 
+            "long": "3.23128"
+        }, 
+        {
+            "lat": "51.21551", 
+            "name": "Ostend", 
+            "long": "2.927"
+        }, 
+        {
+            "lat": "50.82776", 
+            "name": "Ninove", 
+            "long": "4.02657"
+        }, 
+        {
+            "lat": "51.16096", 
+            "name": "Nijlen", 
+            "long": "4.67008"
+        }, 
+        {
+            "lat": "51.22807", 
+            "name": "Neerpelt", 
+            "long": "5.4427"
+        }, 
+        {
+            "lat": "51.16697", 
+            "name": "Mortsel", 
+            "long": "4.45127"
+        }, 
+        {
+            "lat": "51.19188", 
+            "name": "Mol", 
+            "long": "5.11662"
+        }, 
+        {
+            "lat": "51.18532", 
+            "name": "Middelkerke", 
+            "long": "2.82077"
+        }, 
+        {
+            "lat": "50.99447", 
+            "name": "Merelbeke", 
+            "long": "3.74621"
+        }, 
+        {
+            "lat": "50.79722", 
+            "name": "Menen", 
+            "long": "3.12245"
+        }, 
+        {
+            "lat": "50.93934", 
+            "name": "Meise", 
+            "long": "4.32655"
+        }, 
+        {
+            "lat": "51.02574", 
+            "name": "Mechelen", 
+            "long": "4.47762"
+        }, 
+        {
+            "lat": "51.20737", 
+            "name": "Maldegem", 
+            "long": "3.44511"
+        }, 
+        {
+            "lat": "50.96545", 
+            "name": "Maasmechelen", 
+            "long": "5.69452"
+        }, 
+        {
+            "lat": "51.09802", 
+            "name": "Maaseik", 
+            "long": "5.78379"
+        }, 
+        {
+            "lat": "51.00468", 
+            "name": "Londerzeel", 
+            "long": "4.30304"
+        }, 
+        {
+            "lat": "51.23074", 
+            "name": "Lommel", 
+            "long": "5.31349"
+        }, 
+        {
+            "lat": "51.10364", 
+            "name": "Lokeren", 
+            "long": "3.99339"
+        }, 
+        {
+            "lat": "51.09644", 
+            "name": "Lochristi", 
+            "long": "3.83194"
+        }, 
+        {
+            "lat": "51.24197", 
+            "name": "Lille", 
+            "long": "4.82313"
+        }, 
+        {
+            "lat": "51.13128", 
+            "name": "Lier", 
+            "long": "4.57041"
+        }, 
+        {
+            "lat": "50.87959", 
+            "name": "Leuven", 
+            "long": "4.70093"
+        }, 
+        {
+            "lat": "50.96626", 
+            "name": "Lede", 
+            "long": "3.98594"
+        }, 
+        {
+            "lat": "51.00464", 
+            "name": "Lebbeke", 
+            "long": "4.13457"
+        }, 
+        {
+            "lat": "50.89318", 
+            "name": "Lanaken", 
+            "long": "5.6468"
+        }, 
+        {
+            "lat": "50.82803", 
+            "name": "Kortrijk", 
+            "long": "3.26487"
+        }, 
+        {
+            "lat": "50.88982", 
+            "name": "Kortenberg", 
+            "long": "4.54353"
+        }, 
+        {
+            "lat": "51.13213", 
+            "name": "Kontich", 
+            "long": "4.44706"
+        }, 
+        {
+            "lat": "51.11642", 
+            "name": "Koksijde", 
+            "long": "2.63772"
+        }, 
+        {
+            "lat": "51.35", 
+            "name": "Knokke-Heist", 
+            "long": "3.26667"
+        }, 
+        {
+            "lat": "51.24118", 
+            "name": "Kasterlee", 
+            "long": "4.96651"
+        }, 
+        {
+            "lat": "51.31377", 
+            "name": "Kapellen", 
+            "long": "4.43539"
+        }, 
+        {
+            "lat": "51.38442", 
+            "name": "Kalmthout", 
+            "long": "4.47556"
+        }, 
+        {
+            "lat": "50.91396", 
+            "name": "Izegem", 
+            "long": "3.21378"
+        }, 
+        {
+            "lat": "50.85114", 
+            "name": "Ieper", 
+            "long": "2.88569"
+        }, 
+        {
+            "lat": "51.03427", 
+            "name": "Houthalen", 
+            "long": "5.37429"
+        }, 
+        {
+            "lat": "51.40029", 
+            "name": "Hoogstraten", 
+            "long": "4.76034"
+        }, 
+        {
+            "lat": "51.17611", 
+            "name": "Hoboken", 
+            "long": "4.34844"
+        }, 
+        {
+            "lat": "51.03664", 
+            "name": "Heusden", 
+            "long": "5.28013"
+        }, 
+        {
+            "lat": "50.88681", 
+            "name": "Herzele", 
+            "long": "3.89014"
+        }, 
+        {
+            "lat": "51.17655", 
+            "name": "Herentals", 
+            "long": "4.83248"
+        }, 
+        {
+            "lat": "50.90861", 
+            "name": "Herent", 
+            "long": "4.67056"
+        }, 
+        {
+            "lat": "51.05591", 
+            "name": "Helchteren", 
+            "long": "5.38244"
+        }, 
+        {
+            "lat": "51.07537", 
+            "name": "Heist-op-den-Berg", 
+            "long": "4.72827"
+        }, 
+        {
+            "lat": "50.93106", 
+            "name": "Hasselt", 
+            "long": "5.33781"
+        }, 
+        {
+            "lat": "50.85343", 
+            "name": "Harelbeke", 
+            "long": "3.30935"
+        }, 
+        {
+            "lat": "51.09822", 
+            "name": "Hamme", 
+            "long": "4.13705"
+        }, 
+        {
+            "lat": "50.73385", 
+            "name": "Halle", 
+            "long": "4.23454"
+        }, 
+        {
+            "lat": "50.90634", 
+            "name": "Haaltert", 
+            "long": "4.00093"
+        }, 
+        {
+            "lat": "50.93409", 
+            "name": "Grimbergen", 
+            "long": "4.37213"
+        }, 
+        {
+            "lat": "50.77343", 
+            "name": "Geraardsbergen", 
+            "long": "3.88223"
+        }, 
+        {
+            "lat": "51.05", 
+            "name": "Gent", 
+            "long": "3.71667"
+        }, 
+        {
+            "lat": "50.965", 
+            "name": "Genk", 
+            "long": "5.50082"
+        }, 
+        {
+            "lat": "51.16557", 
+            "name": "Geel", 
+            "long": "4.98917"
+        }, 
+        {
+            "lat": "51.10529", 
+            "name": "Evergem", 
+            "long": "3.704"
+        }, 
+        {
+            "lat": "51.46791", 
+            "name": "Essen", 
+            "long": "4.46901"
+        }, 
+        {
+            "lat": "51.18703", 
+            "name": "Eeklo", 
+            "long": "3.55654"
+        }, 
+        {
+            "lat": "51.15662", 
+            "name": "Edegem", 
+            "long": "4.44504"
+        }, 
+        {
+            "lat": "51.09554", 
+            "name": "Duffel", 
+            "long": "4.50903"
+        }, 
+        {
+            "lat": "50.84799", 
+            "name": "Dilbeek", 
+            "long": "4.25972"
+        }, 
+        {
+            "lat": "51.03248", 
+            "name": "Diksmuide", 
+            "long": "2.86384"
+        }, 
+        {
+            "lat": "50.98923", 
+            "name": "Diest", 
+            "long": "5.05062"
+        }, 
+        {
+            "lat": "50.90769", 
+            "name": "Diepenbeek", 
+            "long": "5.41875"
+        }, 
+        {
+            "lat": "51.05952", 
+            "name": "Destelbergen", 
+            "long": "3.79899"
+        }, 
+        {
+            "lat": "51.02869", 
+            "name": "Dendermonde", 
+            "long": "4.10106"
+        }, 
+        {
+            "lat": "50.88506", 
+            "name": "Denderleeuw", 
+            "long": "4.07601"
+        }, 
+        {
+            "lat": "50.98175", 
+            "name": "Deinze", 
+            "long": "3.53096"
+        }, 
+        {
+            "lat": "51.20892", 
+            "name": "Brugge", 
+            "long": "3.22424"
+        }, 
+        {
+            "lat": "51.35024", 
+            "name": "Brecht", 
+            "long": "4.63829"
+        }, 
+        {
+            "lat": "51.2912", 
+            "name": "Brasschaat", 
+            "long": "4.49182"
+        }, 
+        {
+            "lat": "51.09716", 
+            "name": "Bornem", 
+            "long": "4.24364"
+        }, 
+        {
+            "lat": "51.09242", 
+            "name": "Boom", 
+            "long": "4.3717"
+        }, 
+        {
+            "lat": "51.31306", 
+            "name": "Blankenberge", 
+            "long": "3.13227"
+        }, 
+        {
+            "lat": "50.87325", 
+            "name": "Bilzen", 
+            "long": "5.5184"
+        }, 
+        {
+            "lat": "51.21187", 
+            "name": "Beveren", 
+            "long": "4.25633"
+        }, 
+        {
+            "lat": "51.04954", 
+            "name": "Beringen", 
+            "long": "5.22606"
+        }, 
+        {
+            "lat": "50.76589", 
+            "name": "Beersel", 
+            "long": "4.3002"
+        }, 
+        {
+            "lat": "51.31927", 
+            "name": "Beerse", 
+            "long": "4.85304"
+        }, 
+        {
+            "lat": "51.16837", 
+            "name": "Balen", 
+            "long": "5.17027"
+        }, 
+        {
+            "lat": "50.91011", 
+            "name": "Asse", 
+            "long": "4.19836"
+        }, 
+        {
+            "lat": "51.21989", 
+            "name": "Antwerpen", 
+            "long": "4.40346"
+        }, 
+        {
+            "lat": "50.98715", 
+            "name": "Aarschot", 
+            "long": "4.83695"
+        }, 
+        {
+            "lat": "51.09017", 
+            "name": "Aalter", 
+            "long": "3.44693"
+        }, 
+        {
+            "lat": "50.93604", 
+            "name": "Aalst", 
+            "long": "4.0355"
+        }
+    ]
+}

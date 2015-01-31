@@ -1,0 +1,466 @@
+{
+    "7670913": [
+        {
+            "lat": "-23.35", 
+            "name": "Toliara", 
+            "long": "43.66667"
+        }, 
+        {
+            "lat": "-22.9", 
+            "name": "Sakaraha", 
+            "long": "44.53333"
+        }, 
+        {
+            "lat": "-23.72065", 
+            "name": "Betioky", 
+            "long": "44.38069"
+        }, 
+        {
+            "lat": "-21.66667", 
+            "name": "Beroroha", 
+            "long": "45.16667"
+        }, 
+        {
+            "lat": "-22.28333", 
+            "name": "Ankazoabo", 
+            "long": "44.51667"
+        }, 
+        {
+            "lat": "-24.6937", 
+            "name": "Ampanihy", 
+            "long": "44.74581"
+        }
+    ], 
+    "7670911": [
+        {
+            "lat": "-25.3", 
+            "name": "Tsiombe", 
+            "long": "45.48333"
+        }, 
+        {
+            "lat": "-25.16667", 
+            "name": "Beloha", 
+            "long": "45.05"
+        }, 
+        {
+            "lat": "-25.17838", 
+            "name": "Ambovombe", 
+            "long": "46.08722"
+        }
+    ], 
+    "7670910": [
+        {
+            "lat": "-25.03249", 
+            "name": "Fort Dauphin", 
+            "long": "46.98329"
+        }, 
+        {
+            "lat": "-25.03333", 
+            "name": "Amboasary", 
+            "long": "46.38333"
+        }
+    ], 
+    "7670847": [
+        {
+            "lat": "-14.54329", 
+            "name": "Bealanana", 
+            "long": "48.74981"
+        }, 
+        {
+            "lat": "-14.87959", 
+            "name": "Antsohihy", 
+            "long": "47.98751"
+        }
+    ], 
+    "7670846": [
+        {
+            "lat": "-14.26667", 
+            "name": "Sambava", 
+            "long": "50.16667"
+        }, 
+        {
+            "lat": "-14.90033", 
+            "name": "Antalaha", 
+            "long": "50.27876"
+        }, 
+        {
+            "lat": "-14.65", 
+            "name": "Andapa", 
+            "long": "49.65"
+        }, 
+        {
+            "lat": "-14.75", 
+            "name": "Ampahana", 
+            "long": "50.21667"
+        }
+    ], 
+    "7670842": [
+        {
+            "lat": "-13.08333", 
+            "name": "Antsohimbondrona", 
+            "long": "48.85"
+        }, 
+        {
+            "lat": "-12.2787", 
+            "name": "Antsiranana", 
+            "long": "49.29171"
+        }, 
+        {
+            "lat": "-13.4", 
+            "name": "Hell-Ville", 
+            "long": "48.26667"
+        }, 
+        {
+            "lat": "-13.2", 
+            "name": "Ambilobe", 
+            "long": "49.05"
+        }, 
+        {
+            "lat": "-13.5", 
+            "name": "Ambarakaraka", 
+            "long": "48.86667"
+        }, 
+        {
+            "lat": "-13.68333", 
+            "name": "Ambanja", 
+            "long": "48.45"
+        }
+    ], 
+    "7670849": [
+        {
+            "lat": "-16.66667", 
+            "name": "Sitampiky", 
+            "long": "46.1"
+        }, 
+        {
+            "lat": "-16.11064", 
+            "name": "Marovoay", 
+            "long": "46.64383"
+        }, 
+        {
+            "lat": "-15.71667", 
+            "name": "Mahajanga", 
+            "long": "46.31667"
+        }, 
+        {
+            "lat": "-16.46667", 
+            "name": "Ambato Boeny", 
+            "long": "46.71667"
+        }
+    ], 
+    "7670848": [
+        {
+            "lat": "-17.46667", 
+            "name": "Vavatenina", 
+            "long": "49.2"
+        }, 
+        {
+            "lat": "-16.91667", 
+            "name": "Soanierana Ivongo", 
+            "long": "49.58333"
+        }, 
+        {
+            "lat": "-15.43689", 
+            "name": "Maroantsetra", 
+            "long": "49.73871"
+        }, 
+        {
+            "lat": "-16.16864", 
+            "name": "Mananara", 
+            "long": "49.76622"
+        }, 
+        {
+            "lat": "-17.38095", 
+            "name": "Fenoarivo Atsinanana", 
+            "long": "49.40826"
+        }
+    ], 
+    "7670908": [
+        {
+            "lat": "-22.81667", 
+            "name": "Vondrozo", 
+            "long": "47.28333"
+        }, 
+        {
+            "lat": "-23.55", 
+            "name": "Vohipaho", 
+            "long": "47.5"
+        }, 
+        {
+            "lat": "-23.35", 
+            "name": "Vangaindrano", 
+            "long": "47.6"
+        }, 
+        {
+            "lat": "-22.82223", 
+            "name": "Farafangana", 
+            "long": "47.82615"
+        }
+    ], 
+    "7670902": [
+        {
+            "lat": "-20.28869", 
+            "name": "Morondava", 
+            "long": "44.31782"
+        }, 
+        {
+            "lat": "-19.52905", 
+            "name": "Miandrivazo", 
+            "long": "45.45559"
+        }, 
+        {
+            "lat": "-19.69787", 
+            "name": "Belo sur Tsiribihina", 
+            "long": "44.54587"
+        }
+    ], 
+    "7670904": [
+        {
+            "lat": "-20.23333", 
+            "name": "Fandriana", 
+            "long": "47.38333"
+        }, 
+        {
+            "lat": "-20.53034", 
+            "name": "Ambositra", 
+            "long": "47.24344"
+        }, 
+        {
+            "lat": "-20.55284", 
+            "name": "Ambatofinandrahana", 
+            "long": "46.80365"
+        }
+    ], 
+    "7670905": [
+        {
+            "lat": "-21.15", 
+            "name": "Ikalamavony", 
+            "long": "46.58333"
+        }, 
+        {
+            "lat": "-21.45267", 
+            "name": "Fianarantsoa", 
+            "long": "47.08569"
+        }, 
+        {
+            "lat": "-21.83333", 
+            "name": "Ambalavao", 
+            "long": "46.93333"
+        }
+    ], 
+    "7670906": [
+        {
+            "lat": "-20.6", 
+            "name": "Sahavato", 
+            "long": "48.33333"
+        }, 
+        {
+            "lat": "-20.58333", 
+            "name": "Nosy Varika", 
+            "long": "48.53333"
+        }, 
+        {
+            "lat": "-21.23034", 
+            "name": "Mananjary", 
+            "long": "48.34173"
+        }, 
+        {
+            "lat": "-22.14862", 
+            "name": "Manakara", 
+            "long": "48.01055"
+        }, 
+        {
+            "lat": "-21.88333", 
+            "name": "Ikongo", 
+            "long": "47.43333"
+        }, 
+        {
+            "lat": "-21.3", 
+            "name": "Ifanadiana", 
+            "long": "47.63333"
+        }, 
+        {
+            "lat": "-22", 
+            "name": "Amboanjo", 
+            "long": "47.85"
+        }
+    ], 
+    "7670907": [
+        {
+            "lat": "-22.40293", 
+            "name": "Ihosy", 
+            "long": "46.12576"
+        }
+    ], 
+    "7670852": [
+        {
+            "lat": "-18.06354", 
+            "name": "Maintirano", 
+            "long": "44.02951"
+        }
+    ], 
+    "7670853": [
+        {
+            "lat": "-18.76969", 
+            "name": "Tsiroanomandidy", 
+            "long": "46.04653"
+        }, 
+        {
+            "lat": "-18.43333", 
+            "name": "Fenoarivo Be", 
+            "long": "46.56667"
+        }
+    ], 
+    "7670850": [
+        {
+            "lat": "-16.79706", 
+            "name": "Tsaratanana", 
+            "long": "47.65165"
+        }, 
+        {
+            "lat": "-16.95", 
+            "name": "Maevatanana", 
+            "long": "46.83333"
+        }
+    ], 
+    "7670851": [
+        {
+            "lat": "-18.94948", 
+            "name": "Moramanga", 
+            "long": "48.23007"
+        }, 
+        {
+            "lat": "-17.01009", 
+            "name": "Andilamena", 
+            "long": "48.57313"
+        }, 
+        {
+            "lat": "-17.5876", 
+            "name": "Amparafaravola", 
+            "long": "48.22391"
+        }, 
+        {
+            "lat": "-17.83333", 
+            "name": "Ambatondrazaka", 
+            "long": "48.41667"
+        }
+    ], 
+    "7670856": [
+        {
+            "lat": "-18.63333", 
+            "name": "Sadabe", 
+            "long": "47.7"
+        }, 
+        {
+            "lat": "-18.91667", 
+            "name": "Manjakandriana", 
+            "long": "47.8"
+        }, 
+        {
+            "lat": "-18.91368", 
+            "name": "Antananarivo", 
+            "long": "47.53613"
+        }, 
+        {
+            "lat": "-18.7", 
+            "name": "Ankazondandy", 
+            "long": "47.78333"
+        }, 
+        {
+            "lat": "-18.31667", 
+            "name": "Ankazobe", 
+            "long": "47.11667"
+        }, 
+        {
+            "lat": "-18.4", 
+            "name": "Anjozorobe", 
+            "long": "47.86667"
+        }, 
+        {
+            "lat": "-18.7", 
+            "name": "Ambohitrolomahitsy", 
+            "long": "47.68333"
+        }, 
+        {
+            "lat": "-18.96667", 
+            "name": "Alarobia", 
+            "long": "47.73333"
+        }
+    ], 
+    "7670857": [
+        {
+            "lat": "-18.1492", 
+            "name": "Toamasina", 
+            "long": "49.40234"
+        }, 
+        {
+            "lat": "-17.35", 
+            "name": "Vohibinany", 
+            "long": "49.03333"
+        }, 
+        {
+            "lat": "-20.05", 
+            "name": "Marolambo", 
+            "long": "48.11667"
+        }, 
+        {
+            "lat": "-19.9", 
+            "name": "Mahanoro", 
+            "long": "48.8"
+        }, 
+        {
+            "lat": "-18.81667", 
+            "name": "Ampasimanolotra", 
+            "long": "49.06667"
+        }
+    ], 
+    "7670854": [
+        {
+            "lat": "-19.9", 
+            "name": "Soanindrariny", 
+            "long": "47.23333"
+        }, 
+        {
+            "lat": "-19.43333", 
+            "name": "Miandrarivo", 
+            "long": "46.75"
+        }, 
+        {
+            "lat": "-19.4", 
+            "name": "Faratsiho", 
+            "long": "46.95"
+        }, 
+        {
+            "lat": "-19.83333", 
+            "name": "Betafo", 
+            "long": "46.85"
+        }, 
+        {
+            "lat": "-19.86586", 
+            "name": "Antsirabe", 
+            "long": "47.03333"
+        }, 
+        {
+            "lat": "-19.65", 
+            "name": "Antanifotsy", 
+            "long": "47.31667"
+        }, 
+        {
+            "lat": "-19.38333", 
+            "name": "Ambatolampy", 
+            "long": "47.41667"
+        }
+    ], 
+    "7670855": [
+        {
+            "lat": "-19.16667", 
+            "name": "Soavinandriana", 
+            "long": "46.73333"
+        }, 
+        {
+            "lat": "-19.01667", 
+            "name": "Arivonimamo", 
+            "long": "47.18333"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "03": [
+        {
+            "lat": "49.61167", 
+            "name": "Luxembourg", 
+            "long": "6.13"
+        }, 
+        {
+            "lat": "49.49583", 
+            "name": "Esch-sur-Alzette", 
+            "long": "5.98056"
+        }, 
+        {
+            "lat": "49.48056", 
+            "name": "Dudelange", 
+            "long": "6.0875"
+        }
+    ]
+}

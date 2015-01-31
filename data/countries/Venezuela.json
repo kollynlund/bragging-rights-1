@@ -1,0 +1,580 @@
+{
+    "02": [
+        {
+            "lat": "9.43889", 
+            "name": "Anaco", 
+            "long": "-64.47278"
+        }, 
+        {
+            "lat": "8.88724", 
+            "name": "San Jos&#233; de Guanipa", 
+            "long": "-64.16512"
+        }, 
+        {
+            "lat": "10.21667", 
+            "name": "Puerto La Cruz", 
+            "long": "-64.61667"
+        }, 
+        {
+            "lat": "8.88752", 
+            "name": "El Tigre", 
+            "long": "-64.24544"
+        }, 
+        {
+            "lat": "9.30571", 
+            "name": "Cantaura", 
+            "long": "-64.35841"
+        }, 
+        {
+            "lat": "10.13333", 
+            "name": "Barcelona", 
+            "long": "-64.7"
+        }
+    ], 
+    "25": [
+        {
+            "lat": "10.48801", 
+            "name": "Caracas", 
+            "long": "-66.87919"
+        }
+    ], 
+    "26": [
+        {
+            "lat": "10.59621", 
+            "name": "Maiquet&#237;a", 
+            "long": "-66.95485"
+        }, 
+        {
+            "lat": "10.59901", 
+            "name": "La Guaira", 
+            "long": "-66.9346"
+        }, 
+        {
+            "lat": "10.60383", 
+            "name": "Catia La Mar", 
+            "long": "-67.03034"
+        }, 
+        {
+            "lat": "10.61119", 
+            "name": "Caraballeda", 
+            "long": "-66.85215"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "5.66389", 
+            "name": "Puerto Ayacucho", 
+            "long": "-67.62361"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "8.00861", 
+            "name": "Upata", 
+            "long": "-62.39889"
+        }, 
+        {
+            "lat": "4.60226", 
+            "name": "Santa Elena de Uair&#233;n", 
+            "long": "-61.11025"
+        }, 
+        {
+            "lat": "8.35122", 
+            "name": "Ciudad Guayana", 
+            "long": "-62.64102"
+        }, 
+        {
+            "lat": "8.12923", 
+            "name": "Ciudad Bol&#237;var", 
+            "long": "-63.54086"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "10.16202", 
+            "name": "Valencia", 
+            "long": "-68.00765"
+        }, 
+        {
+            "lat": "10.263", 
+            "name": "San Joaqu&#237;n", 
+            "long": "-67.78579"
+        }, 
+        {
+            "lat": "10.47306", 
+            "name": "Puerto Cabello", 
+            "long": "-68.0125"
+        }, 
+        {
+            "lat": "10.48889", 
+            "name": "Mor&#243;n", 
+            "long": "-68.20028"
+        }, 
+        {
+            "lat": "10.29644", 
+            "name": "Mariara", 
+            "long": "-67.71813"
+        }, 
+        {
+            "lat": "10.08528", 
+            "name": "G&#252;ig&#252;e", 
+            "long": "-67.77917"
+        }, 
+        {
+            "lat": "10.22609", 
+            "name": "Guacara", 
+            "long": "-67.877"
+        }, 
+        {
+            "lat": "10.08621", 
+            "name": "Tacarigua", 
+            "long": "-67.91982"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "10.08", 
+            "name": "Yaritagua", 
+            "long": "-69.12611"
+        }, 
+        {
+            "lat": "10.33991", 
+            "name": "San Felipe", 
+            "long": "-68.74247"
+        }, 
+        {
+            "lat": "10.15526", 
+            "name": "Nirgua", 
+            "long": "-68.5663"
+        }, 
+        {
+            "lat": "10.16028", 
+            "name": "Chivacoa", 
+            "long": "-68.895"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "10.53642", 
+            "name": "Santa Rita", 
+            "long": "-71.51104"
+        }, 
+        {
+            "lat": "9.00003", 
+            "name": "San Carlos del Zulia", 
+            "long": "-71.91352"
+        }, 
+        {
+            "lat": "10.3258", 
+            "name": "La Villa del Rosario", 
+            "long": "-72.31343"
+        }, 
+        {
+            "lat": "10.63167", 
+            "name": "Maracaibo", 
+            "long": "-71.64056"
+        }, 
+        {
+            "lat": "10.06077", 
+            "name": "Machiques", 
+            "long": "-72.55212"
+        }, 
+        {
+            "lat": "10.13008", 
+            "name": "Lagunillas", 
+            "long": "-71.25946"
+        }, 
+        {
+            "lat": "10.38828", 
+            "name": "Cabimas", 
+            "long": "-71.43993"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "9.91861", 
+            "name": "Tinaquillo", 
+            "long": "-68.30472"
+        }, 
+        {
+            "lat": "9.66124", 
+            "name": "San Carlos", 
+            "long": "-68.58268"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "9.06222", 
+            "name": "Tucupita", 
+            "long": "-62.05102"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "7.24241", 
+            "name": "Guasdualito", 
+            "long": "-70.73235"
+        }, 
+        {
+            "lat": "7.88782", 
+            "name": "San Fernando Apure", 
+            "long": "-67.47236"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "7.8188", 
+            "name": "T&#225;riba", 
+            "long": "-72.22427"
+        }, 
+        {
+            "lat": "8.03125", 
+            "name": "San Juan de Col&#243;n", 
+            "long": "-72.26053"
+        }, 
+        {
+            "lat": "7.76694", 
+            "name": "San Crist&#243;bal", 
+            "long": "-72.225"
+        }, 
+        {
+            "lat": "7.81454", 
+            "name": "San Antonio del T&#225;chira", 
+            "long": "-72.4431"
+        }, 
+        {
+            "lat": "7.70131", 
+            "name": "Rubio", 
+            "long": "-72.35569"
+        }, 
+        {
+            "lat": "8.21523", 
+            "name": "La Fr&#237;a", 
+            "long": "-72.24888"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "8.41667", 
+            "name": "Mucumpiz", 
+            "long": "-71.13333"
+        }, 
+        {
+            "lat": "8.59524", 
+            "name": "M&#233;rida", 
+            "long": "-71.1434"
+        }, 
+        {
+            "lat": "8.61366", 
+            "name": "El Vig&#237;a", 
+            "long": "-71.65284"
+        }, 
+        {
+            "lat": "8.54665", 
+            "name": "Ejido", 
+            "long": "-71.24087"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "11.6956", 
+            "name": "Punto Fijo", 
+            "long": "-70.19957"
+        }, 
+        {
+            "lat": "11.65806", 
+            "name": "Punta Card&#243;n", 
+            "long": "-70.215"
+        }, 
+        {
+            "lat": "11.4045", 
+            "name": "Coro", 
+            "long": "-69.67344"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "9.92866", 
+            "name": "Qu&#237;bor", 
+            "long": "-69.6201"
+        }, 
+        {
+            "lat": "10.02588", 
+            "name": "Los Rastrojos", 
+            "long": "-69.24166"
+        }, 
+        {
+            "lat": "9.78734", 
+            "name": "El Tocuyo", 
+            "long": "-69.7937"
+        }, 
+        {
+            "lat": "10.17554", 
+            "name": "Carora", 
+            "long": "-70.08275"
+        }, 
+        {
+            "lat": "10.07389", 
+            "name": "Barquisimeto", 
+            "long": "-69.32278"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "9.35029", 
+            "name": "Zaraza", 
+            "long": "-65.32452"
+        }, 
+        {
+            "lat": "9.21554", 
+            "name": "Valle de La Pascua", 
+            "long": "-66.00734"
+        }, 
+        {
+            "lat": "9.91152", 
+            "name": "San Juan de los Morros", 
+            "long": "-67.35381"
+        }, 
+        {
+            "lat": "8.92416", 
+            "name": "Calabozo", 
+            "long": "-67.42929"
+        }, 
+        {
+            "lat": "9.86005", 
+            "name": "Altagracia de Orituco", 
+            "long": "-66.38139"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "10.23409", 
+            "name": "Santa Teresa", 
+            "long": "-66.66308"
+        }, 
+        {
+            "lat": "10.38853", 
+            "name": "San Antonio de Los Altos", 
+            "long": "-66.95179"
+        }, 
+        {
+            "lat": "10.47226", 
+            "name": "Petare", 
+            "long": "-66.80155"
+        }, 
+        {
+            "lat": "10.11649", 
+            "name": "Ocumare del Tuy", 
+            "long": "-66.77609"
+        }, 
+        {
+            "lat": "10.34447", 
+            "name": "Los Teques", 
+            "long": "-67.04325"
+        }, 
+        {
+            "lat": "10.49389", 
+            "name": "Los Dos Caminos", 
+            "long": "-66.82863"
+        }, 
+        {
+            "lat": "10.4762", 
+            "name": "Guatire", 
+            "long": "-66.54266"
+        }, 
+        {
+            "lat": "10.46736", 
+            "name": "Guarenas", 
+            "long": "-66.60663"
+        }, 
+        {
+            "lat": "10.42994", 
+            "name": "El Hatillo", 
+            "long": "-66.8161"
+        }, 
+        {
+            "lat": "10.15892", 
+            "name": "C&#250;a", 
+            "long": "-66.88575"
+        }, 
+        {
+            "lat": "10.24247", 
+            "name": "Charallave", 
+            "long": "-66.85723"
+        }, 
+        {
+            "lat": "10.49598", 
+            "name": "Chacao", 
+            "long": "-66.85347"
+        }, 
+        {
+            "lat": "10.48666", 
+            "name": "Caucag&#252;ito", 
+            "long": "-66.73799"
+        }, 
+        {
+            "lat": "10.34985", 
+            "name": "Carrizal", 
+            "long": "-66.98632"
+        }, 
+        {
+            "lat": "10.43398", 
+            "name": "Baruta", 
+            "long": "-66.87662"
+        }, 
+        {
+            "lat": "10.46941", 
+            "name": "El Cafetal", 
+            "long": "-66.83063"
+        }, 
+        {
+            "lat": "10.35782", 
+            "name": "Caucaguita", 
+            "long": "-66.80252"
+        }, 
+        {
+            "lat": "10.4883", 
+            "name": "La Dolorita", 
+            "long": "-66.78608"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "10.03863", 
+            "name": "Villa de Cura", 
+            "long": "-67.48938"
+        }, 
+        {
+            "lat": "10.22856", 
+            "name": "Turmero", 
+            "long": "-67.47421"
+        }, 
+        {
+            "lat": "10.21302", 
+            "name": "San Mateo", 
+            "long": "-67.42365"
+        }, 
+        {
+            "lat": "10.17389", 
+            "name": "Palo Negro", 
+            "long": "-67.54194"
+        }, 
+        {
+            "lat": "10.24694", 
+            "name": "Maracay", 
+            "long": "-67.59583"
+        }, 
+        {
+            "lat": "10.21844", 
+            "name": "La Victoria", 
+            "long": "-67.33017"
+        }, 
+        {
+            "lat": "10.25237", 
+            "name": "Las Tejer&#237;as", 
+            "long": "-67.18472"
+        }, 
+        {
+            "lat": "10.30589", 
+            "name": "El Lim&#243;n", 
+            "long": "-67.63212"
+        }, 
+        {
+            "lat": "10.18634", 
+            "name": "Cagua", 
+            "long": "-67.45935"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "11.03333", 
+            "name": "La Asunci&#243;n", 
+            "long": "-63.86278"
+        }, 
+        {
+            "lat": "10.95796", 
+            "name": "Porlamar", 
+            "long": "-63.84906"
+        }, 
+        {
+            "lat": "11.08172", 
+            "name": "Juan Griego", 
+            "long": "-63.96549"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "9.74569", 
+            "name": "Matur&#237;n", 
+            "long": "-63.18323"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "10.57806", 
+            "name": "G&#252;iria", 
+            "long": "-62.29771"
+        }, 
+        {
+            "lat": "10.45397", 
+            "name": "Cuman&#225;", 
+            "long": "-64.18256"
+        }, 
+        {
+            "lat": "10.66781", 
+            "name": "Car&#250;pano", 
+            "long": "-63.25849"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "9.33278", 
+            "name": "Villa Bruzual", 
+            "long": "-69.12083"
+        }, 
+        {
+            "lat": "9.04183", 
+            "name": "Guanare", 
+            "long": "-69.74206"
+        }, 
+        {
+            "lat": "9.56009", 
+            "name": "Araure", 
+            "long": "-69.21475"
+        }, 
+        {
+            "lat": "9.55451", 
+            "name": "Acarigua", 
+            "long": "-69.19564"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "8.5931", 
+            "name": "Alto Barinas", 
+            "long": "-70.2261"
+        }, 
+        {
+            "lat": "8.76222", 
+            "name": "Barinitas", 
+            "long": "-70.41111"
+        }, 
+        {
+            "lat": "8.62261", 
+            "name": "Barinas", 
+            "long": "-70.20749"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "9.31778", 
+            "name": "Valera", 
+            "long": "-70.60361"
+        }, 
+        {
+            "lat": "9.37084", 
+            "name": "Trujillo", 
+            "long": "-70.43473"
+        }
+    ]
+}

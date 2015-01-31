@@ -1,0 +1,1060 @@
+{
+    "24": [
+        {
+            "lat": "-26.81667", 
+            "name": "Yerba Buena", 
+            "long": "-65.31667"
+        }, 
+        {
+            "lat": "-26.73201", 
+            "name": "Taf&#237; Viejo", 
+            "long": "-65.25921"
+        }, 
+        {
+            "lat": "-26.82414", 
+            "name": "San Miguel de Tucum&#225;n", 
+            "long": "-65.2226"
+        }, 
+        {
+            "lat": "-27.16741", 
+            "name": "Monteros", 
+            "long": "-65.49832"
+        }, 
+        {
+            "lat": "-27.05413", 
+            "name": "Famaill&#225;", 
+            "long": "-65.40329"
+        }, 
+        {
+            "lat": "-27.03424", 
+            "name": "Bella Vista", 
+            "long": "-65.30196"
+        }, 
+        {
+            "lat": "-26.81667", 
+            "name": "Alderetes", 
+            "long": "-65.13333"
+        }, 
+        {
+            "lat": "-27.4338", 
+            "name": "Aguilares", 
+            "long": "-65.61427"
+        }
+    ], 
+    "03": [
+        {
+            "lat": "-27.46056", 
+            "name": "Resistencia", 
+            "long": "-58.98389"
+        }, 
+        {
+            "lat": "-26.53743", 
+            "name": "General Jos&#233; de San Mart&#237;n", 
+            "long": "-59.34158"
+        }, 
+        {
+            "lat": "-27.41813", 
+            "name": "Fontana", 
+            "long": "-59.02392"
+        }, 
+        {
+            "lat": "-27.48299", 
+            "name": "Barranqueras", 
+            "long": "-58.93579"
+        }, 
+        {
+            "lat": "-27.57383", 
+            "name": "Villa &#193;ngela", 
+            "long": "-60.71526"
+        }, 
+        {
+            "lat": "-26.34067", 
+            "name": "Tres Isletas", 
+            "long": "-60.43207"
+        }, 
+        {
+            "lat": "-26.86913", 
+            "name": "Quitilipi", 
+            "long": "-60.21683"
+        }, 
+        {
+            "lat": "-26.78522", 
+            "name": "Presidencia Roque S&#225;enz Pe&#241;a", 
+            "long": "-60.43876"
+        }, 
+        {
+            "lat": "-26.92614", 
+            "name": "Machagai", 
+            "long": "-60.04955"
+        }, 
+        {
+            "lat": "-27.08966", 
+            "name": "Las Bre&#241;as", 
+            "long": "-61.08161"
+        }, 
+        {
+            "lat": "-27.31667", 
+            "name": "General Pinedo", 
+            "long": "-61.28333"
+        }, 
+        {
+            "lat": "-27.21438", 
+            "name": "Charata", 
+            "long": "-61.18795"
+        }, 
+        {
+            "lat": "-25.94679", 
+            "name": "Castelli", 
+            "long": "-60.61947"
+        }
+    ], 
+    "01": [
+        {
+            "lat": "-34.09814", 
+            "name": "Z&#225;rate", 
+            "long": "-59.02858"
+        }, 
+        {
+            "lat": "-37.26394", 
+            "name": "Villa Gesell", 
+            "long": "-56.97304"
+        }, 
+        {
+            "lat": "-34.42603", 
+            "name": "Tigre", 
+            "long": "-58.57962"
+        }, 
+        {
+            "lat": "-37.32167", 
+            "name": "Tandil", 
+            "long": "-59.13316"
+        }, 
+        {
+            "lat": "-34.47145", 
+            "name": "San Isidro", 
+            "long": "-58.50776"
+        }, 
+        {
+            "lat": "-34.72418", 
+            "name": "Quilmes", 
+            "long": "-58.25265"
+        }, 
+        {
+            "lat": "-34.74974", 
+            "name": "Pontevedra", 
+            "long": "-58.68697"
+        }, 
+        {
+            "lat": "-38.54726", 
+            "name": "Necochea", 
+            "long": "-58.73675"
+        }, 
+        {
+            "lat": "-34.65344", 
+            "name": "Mor&#243;n", 
+            "long": "-58.61975"
+        }, 
+        {
+            "lat": "-34.65145", 
+            "name": "Mercedes", 
+            "long": "-59.43068"
+        }, 
+        {
+            "lat": "-38.00228", 
+            "name": "Mar del Plata", 
+            "long": "-57.55754"
+        }, 
+        {
+            "lat": "-34.57028", 
+            "name": "Luj&#225;n", 
+            "long": "-59.105"
+        }, 
+        {
+            "lat": "-34.92145", 
+            "name": "La Plata", 
+            "long": "-57.95453"
+        }, 
+        {
+            "lat": "-36.31321", 
+            "name": "Dolores", 
+            "long": "-57.67918"
+        }, 
+        {
+            "lat": "-34.16874", 
+            "name": "Campana", 
+            "long": "-58.95914"
+        }, 
+        {
+            "lat": "-36.77698", 
+            "name": "Azul", 
+            "long": "-59.85854"
+        }, 
+        {
+            "lat": "-35.4323", 
+            "name": "Veinticinco de Mayo", 
+            "long": "-60.17271"
+        }, 
+        {
+            "lat": "-38.37394", 
+            "name": "Tres Arroyos", 
+            "long": "-60.27978"
+        }, 
+        {
+            "lat": "-33.33578", 
+            "name": "San Nicol&#225;s de los Arroyos", 
+            "long": "-60.22523"
+        }, 
+        {
+            "lat": "-38.87588", 
+            "name": "Punta Alta", 
+            "long": "-62.07359"
+        }, 
+        {
+            "lat": "-33.88995", 
+            "name": "Pergamino", 
+            "long": "-60.57357"
+        }, 
+        {
+            "lat": "-36.89272", 
+            "name": "Olavarr&#237;a", 
+            "long": "-60.32254"
+        }, 
+        {
+            "lat": "-35.44437", 
+            "name": "Nueve de Julio", 
+            "long": "-60.88313"
+        }, 
+        {
+            "lat": "-34.86649", 
+            "name": "Lincoln", 
+            "long": "-61.5302"
+        }, 
+        {
+            "lat": "-34.58382", 
+            "name": "Jun&#237;n", 
+            "long": "-60.94332"
+        }, 
+        {
+            "lat": "-37.45467", 
+            "name": "Coronel Su&#225;rez", 
+            "long": "-61.93343"
+        }, 
+        {
+            "lat": "-34.89566", 
+            "name": "Chivilcoy", 
+            "long": "-60.01667"
+        }, 
+        {
+            "lat": "-34.64167", 
+            "name": "Chacabuco", 
+            "long": "-60.47389"
+        }, 
+        {
+            "lat": "-38.71959", 
+            "name": "Bah&#237;a Blanca", 
+            "long": "-62.27243"
+        }
+    ], 
+    "06": [
+        {
+            "lat": "-28.54939", 
+            "name": "Santo Tom&#233;", 
+            "long": "-56.04077"
+        }, 
+        {
+            "lat": "-27.5079", 
+            "name": "San Luis del Palmar", 
+            "long": "-58.55454"
+        }, 
+        {
+            "lat": "-28.13306", 
+            "name": "San Lorenzo", 
+            "long": "-58.76733"
+        }, 
+        {
+            "lat": "-28.25384", 
+            "name": "Saladas", 
+            "long": "-58.62591"
+        }, 
+        {
+            "lat": "-29.71251", 
+            "name": "Paso de los Libres", 
+            "long": "-57.08771"
+        }, 
+        {
+            "lat": "-30.25359", 
+            "name": "Monte Caseros", 
+            "long": "-57.63626"
+        }, 
+        {
+            "lat": "-29.18186", 
+            "name": "Mercedes", 
+            "long": "-58.07895"
+        }, 
+        {
+            "lat": "-29.14003", 
+            "name": "Goya", 
+            "long": "-59.26256"
+        }, 
+        {
+            "lat": "-28.05", 
+            "name": "Gobernador Ingeniero Valent&#237;n Virasoro", 
+            "long": "-56.03333"
+        }, 
+        {
+            "lat": "-30.01444", 
+            "name": "Esquina", 
+            "long": "-59.52719"
+        }, 
+        {
+            "lat": "-29.79171", 
+            "name": "Curuz&#250; Cuati&#225;", 
+            "long": "-58.0546"
+        }, 
+        {
+            "lat": "-27.4806", 
+            "name": "Corrientes", 
+            "long": "-58.8341"
+        }
+    ], 
+    "07": [
+        {
+            "lat": "-34.67907", 
+            "name": "Villa Lugano", 
+            "long": "-58.47263"
+        }, 
+        {
+            "lat": "-34.58333", 
+            "name": "Retiro", 
+            "long": "-58.38333"
+        }, 
+        {
+            "lat": "-34.57365", 
+            "name": "Colegiales", 
+            "long": "-58.44924"
+        }, 
+        {
+            "lat": "-34.61315", 
+            "name": "Buenos Aires", 
+            "long": "-58.37723"
+        }, 
+        {
+            "lat": "-34.61082", 
+            "name": "Villa Santa Rita", 
+            "long": "-58.481"
+        }
+    ], 
+    "04": [
+        {
+            "lat": "-43.24895", 
+            "name": "Trelew", 
+            "long": "-65.30505"
+        }, 
+        {
+            "lat": "-43.30016", 
+            "name": "Rawson", 
+            "long": "-65.10228"
+        }, 
+        {
+            "lat": "-42.7692", 
+            "name": "Puerto Madryn", 
+            "long": "-65.03851"
+        }, 
+        {
+            "lat": "-42.91147", 
+            "name": "Esquel", 
+            "long": "-71.31947"
+        }, 
+        {
+            "lat": "-45.86413", 
+            "name": "Comodoro Rivadavia", 
+            "long": "-67.49656"
+        }
+    ], 
+    "23": [
+        {
+            "lat": "-54.8", 
+            "name": "Ushuaia", 
+            "long": "-68.3"
+        }
+    ], 
+    "08": [
+        {
+            "lat": "-31.8653", 
+            "name": "Villaguay", 
+            "long": "-59.02689"
+        }, 
+        {
+            "lat": "-30.94768", 
+            "name": "Santa Elena", 
+            "long": "-59.78696"
+        }, 
+        {
+            "lat": "-30.74485", 
+            "name": "La Paz", 
+            "long": "-59.64566"
+        }, 
+        {
+            "lat": "-33.00937", 
+            "name": "Gualeguaych&#250;", 
+            "long": "-58.51722"
+        }, 
+        {
+            "lat": "-33.14156", 
+            "name": "Gualeguay", 
+            "long": "-59.30966"
+        }, 
+        {
+            "lat": "-30.95465", 
+            "name": "Federal", 
+            "long": "-58.78326"
+        }, 
+        {
+            "lat": "-31.39296", 
+            "name": "Concordia", 
+            "long": "-58.02089"
+        }, 
+        {
+            "lat": "-32.48249", 
+            "name": "Concepci&#243;n del Uruguay", 
+            "long": "-58.23722"
+        }, 
+        {
+            "lat": "-30.75048", 
+            "name": "Chajar&#237;", 
+            "long": "-57.97962"
+        }, 
+        {
+            "lat": "-32.61841", 
+            "name": "Victoria", 
+            "long": "-60.15478"
+        }, 
+        {
+            "lat": "-31.73197", 
+            "name": "Paran&#225;", 
+            "long": "-60.5238"
+        }, 
+        {
+            "lat": "-32.06641", 
+            "name": "Diamante", 
+            "long": "-60.63837"
+        }, 
+        {
+            "lat": "-32.02873", 
+            "name": "Crespo", 
+            "long": "-60.30658"
+        }
+    ], 
+    "09": [
+        {
+            "lat": "-25.73239", 
+            "name": "Piran&#233;", 
+            "long": "-59.10879"
+        }, 
+        {
+            "lat": "-26.17753", 
+            "name": "Formosa", 
+            "long": "-58.17814"
+        }
+    ], 
+    "14": [
+        {
+            "lat": "-26.61667", 
+            "name": "San Vicente", 
+            "long": "-54.13333"
+        }, 
+        {
+            "lat": "-26.62207", 
+            "name": "San Pedro", 
+            "long": "-54.10842"
+        }, 
+        {
+            "lat": "-26.79598", 
+            "name": "Puerto Rico", 
+            "long": "-55.02402"
+        }, 
+        {
+            "lat": "-25.59912", 
+            "name": "Puerto Iguaz&#250;", 
+            "long": "-54.57355"
+        }, 
+        {
+            "lat": "-26.01517", 
+            "name": "Puerto Esperanza", 
+            "long": "-54.67306"
+        }, 
+        {
+            "lat": "-26.40843", 
+            "name": "Puerto Eldorado", 
+            "long": "-54.69463"
+        }, 
+        {
+            "lat": "-27.36708", 
+            "name": "Posadas", 
+            "long": "-55.89608"
+        }, 
+        {
+            "lat": "-27.48706", 
+            "name": "Ober&#225;", 
+            "long": "-55.11994"
+        }, 
+        {
+            "lat": "-26.5662", 
+            "name": "Montecarlo", 
+            "long": "-54.757"
+        }, 
+        {
+            "lat": "-27.04346", 
+            "name": "Jard&#237;n Am&#233;rica", 
+            "long": "-55.22698"
+        }, 
+        {
+            "lat": "-27.48171", 
+            "name": "Garup&#225;", 
+            "long": "-55.82921"
+        }, 
+        {
+            "lat": "-27.29847", 
+            "name": "El Soberbio", 
+            "long": "-54.19877"
+        }, 
+        {
+            "lat": "-27.09625", 
+            "name": "Arist&#243;bulo del Valle", 
+            "long": "-54.89626"
+        }
+    ], 
+    "02": [
+        {
+            "lat": "-28.46957", 
+            "name": "San Fernando del Valle de Catamarca", 
+            "long": "-65.78524"
+        }
+    ], 
+    "20": [
+        {
+            "lat": "-51.62261", 
+            "name": "R&#237;o Gallegos", 
+            "long": "-69.21813"
+        }, 
+        {
+            "lat": "-46.43929", 
+            "name": "Caleta Olivia", 
+            "long": "-67.52814"
+        }
+    ], 
+    "21": [
+        {
+            "lat": "-28.48752", 
+            "name": "Villa Ocampo", 
+            "long": "-59.35515"
+        }, 
+        {
+            "lat": "-30.57781", 
+            "name": "San Javier", 
+            "long": "-59.9317"
+        }, 
+        {
+            "lat": "-29.15", 
+            "name": "Reconquista", 
+            "long": "-59.65"
+        }, 
+        {
+            "lat": "-29.11761", 
+            "name": "Avellaneda", 
+            "long": "-59.65834"
+        }, 
+        {
+            "lat": "-33.22778", 
+            "name": "Villa Constituci&#243;n", 
+            "long": "-60.3297"
+        }, 
+        {
+            "lat": "-29.4593", 
+            "name": "Vera", 
+            "long": "-60.21261"
+        }, 
+        {
+            "lat": "-33.74556", 
+            "name": "Venado Tuerto", 
+            "long": "-61.96885"
+        }, 
+        {
+            "lat": "-30.94404", 
+            "name": "Sunchales", 
+            "long": "-61.56148"
+        }, 
+        {
+            "lat": "-31.66274", 
+            "name": "Santo Tom&#233;", 
+            "long": "-60.7653"
+        }, 
+        {
+            "lat": "-31.63333", 
+            "name": "Santa Fe de la Vera Cruz", 
+            "long": "-60.7"
+        }, 
+        {
+            "lat": "-30.78913", 
+            "name": "San Justo", 
+            "long": "-60.59189"
+        }, 
+        {
+            "lat": "-31.89618", 
+            "name": "San Jorge", 
+            "long": "-61.85984"
+        }, 
+        {
+            "lat": "-34.26827", 
+            "name": "Rufino", 
+            "long": "-62.71262"
+        }, 
+        {
+            "lat": "-32.94682", 
+            "name": "Rosario", 
+            "long": "-60.63932"
+        }, 
+        {
+            "lat": "-31.25033", 
+            "name": "Rafaela", 
+            "long": "-61.4867"
+        }, 
+        {
+            "lat": "-32.99835", 
+            "name": "P&#233;rez", 
+            "long": "-60.76791"
+        }, 
+        {
+            "lat": "-32.85683", 
+            "name": "Granadero Baigorria", 
+            "long": "-60.71754"
+        }, 
+        {
+            "lat": "-33.03016", 
+            "name": "Gobernador G&#225;lvez", 
+            "long": "-60.64045"
+        }, 
+        {
+            "lat": "-32.02927", 
+            "name": "G&#225;lvez", 
+            "long": "-61.22103"
+        }, 
+        {
+            "lat": "-33.45937", 
+            "name": "Firmat", 
+            "long": "-61.4832"
+        }, 
+        {
+            "lat": "-31.4488", 
+            "name": "Esperanza", 
+            "long": "-60.93173"
+        }, 
+        {
+            "lat": "-31.97263", 
+            "name": "Coronda", 
+            "long": "-60.91983"
+        }, 
+        {
+            "lat": "-33.04417", 
+            "name": "Casilda", 
+            "long": "-61.16806"
+        }, 
+        {
+            "lat": "-32.85679", 
+            "name": "Carcara&#241;&#225;", 
+            "long": "-61.15331"
+        }, 
+        {
+            "lat": "-32.82262", 
+            "name": "Capit&#225;n Berm&#250;dez", 
+            "long": "-60.71852"
+        }, 
+        {
+            "lat": "-32.81636", 
+            "name": "Ca&#241;ada de G&#243;mez", 
+            "long": "-61.39493"
+        }, 
+        {
+            "lat": "-33.15489", 
+            "name": "Arroyo Seco", 
+            "long": "-60.50863"
+        }
+    ], 
+    "11": [
+        {
+            "lat": "-36.61667", 
+            "name": "Santa Rosa", 
+            "long": "-64.28333"
+        }, 
+        {
+            "lat": "-35.65662", 
+            "name": "General Pico", 
+            "long": "-63.75682"
+        }
+    ], 
+    "10": [
+        {
+            "lat": "-24.19457", 
+            "name": "San Salvador de Jujuy", 
+            "long": "-65.29712"
+        }, 
+        {
+            "lat": "-24.23127", 
+            "name": "San Pedro", 
+            "long": "-64.86614"
+        }, 
+        {
+            "lat": "-24.25647", 
+            "name": "Palpal&#225;", 
+            "long": "-65.21163"
+        }, 
+        {
+            "lat": "-23.80644", 
+            "name": "Libertador General San Mart&#237;n", 
+            "long": "-64.78757"
+        }
+    ], 
+    "13": [
+        {
+            "lat": "-34.61772", 
+            "name": "San Rafael", 
+            "long": "-68.33007"
+        }, 
+        {
+            "lat": "-33.08103", 
+            "name": "San Mart&#237;n", 
+            "long": "-68.46814"
+        }, 
+        {
+            "lat": "-32.89084", 
+            "name": "Mendoza", 
+            "long": "-68.82717"
+        }
+    ], 
+    "12": [
+        {
+            "lat": "-29.41105", 
+            "name": "La Rioja", 
+            "long": "-66.85067"
+        }, 
+        {
+            "lat": "-29.16195", 
+            "name": "Chilecito", 
+            "long": "-67.4974"
+        }
+    ], 
+    "15": [
+        {
+            "lat": "-38.89916", 
+            "name": "Zapala", 
+            "long": "-70.05442"
+        }, 
+        {
+            "lat": "-40.15789", 
+            "name": "San Mart&#237;n de los Andes", 
+            "long": "-71.35337"
+        }, 
+        {
+            "lat": "-38.96667", 
+            "name": "Plottier", 
+            "long": "-68.23333"
+        }, 
+        {
+            "lat": "-38.95161", 
+            "name": "Neuqu&#233;n", 
+            "long": "-68.0591"
+        }, 
+        {
+            "lat": "-38.93424", 
+            "name": "Cutral-C&#243;", 
+            "long": "-69.23052"
+        }, 
+        {
+            "lat": "-38.82955", 
+            "name": "Centenario", 
+            "long": "-68.1318"
+        }
+    ], 
+    "22": [
+        {
+            "lat": "-27.49362", 
+            "name": "Termas de R&#237;o Hondo", 
+            "long": "-64.85972"
+        }, 
+        {
+            "lat": "-27.79511", 
+            "name": "Santiago del Estero", 
+            "long": "-64.26149"
+        }, 
+        {
+            "lat": "-28.46064", 
+            "name": "A&#241;atuya", 
+            "long": "-62.83472"
+        }
+    ], 
+    "17": [
+        {
+            "lat": "-22.51637", 
+            "name": "Tartagal", 
+            "long": "-63.80131"
+        }, 
+        {
+            "lat": "-23.13705", 
+            "name": "San Ram&#243;n de la Nueva Or&#225;n", 
+            "long": "-64.32426"
+        }, 
+        {
+            "lat": "-24.7859", 
+            "name": "Salta", 
+            "long": "-65.41166"
+        }, 
+        {
+            "lat": "-25.08333", 
+            "name": "Joaqu&#237;n V. Gonz&#225;lez", 
+            "long": "-64.18333"
+        }, 
+        {
+            "lat": "-22.59588", 
+            "name": "General Enrique Mosconi", 
+            "long": "-63.81255"
+        }, 
+        {
+            "lat": "-23.20898", 
+            "name": "Embarcaci&#243;n", 
+            "long": "-64.09605"
+        }
+    ], 
+    "16": [
+        {
+            "lat": "-39.1", 
+            "name": "Villa Regina", 
+            "long": "-67.06667"
+        }, 
+        {
+            "lat": "-40.81345", 
+            "name": "Viedma", 
+            "long": "-62.99668"
+        }, 
+        {
+            "lat": "-40.73193", 
+            "name": "San Antonio Oeste", 
+            "long": "-64.94769"
+        }, 
+        {
+            "lat": "-39.03333", 
+            "name": "General Roca", 
+            "long": "-67.58333"
+        }, 
+        {
+            "lat": "-41.96051", 
+            "name": "El Bols&#243;n", 
+            "long": "-71.53336"
+        }, 
+        {
+            "lat": "-38.93392", 
+            "name": "Cipolletti", 
+            "long": "-67.99032"
+        }, 
+        {
+            "lat": "-38.82225", 
+            "name": "Cinco Saltos", 
+            "long": "-68.06293"
+        }, 
+        {
+            "lat": "-37.87907", 
+            "name": "Catriel", 
+            "long": "-67.7956"
+        }, 
+        {
+            "lat": "-38.97736", 
+            "name": "Allen", 
+            "long": "-67.82714"
+        }, 
+        {
+            "lat": "-41.14557", 
+            "name": "San Carlos de Bariloche", 
+            "long": "-71.30822"
+        }
+    ], 
+    "19": [
+        {
+            "lat": "-33.29501", 
+            "name": "San Luis", 
+            "long": "-66.33563"
+        }, 
+        {
+            "lat": "-33.67571", 
+            "name": "Villa Mercedes", 
+            "long": "-65.45783"
+        }
+    ], 
+    "18": [
+        {
+            "lat": "-31.4933", 
+            "name": "Villa Paula de Sarmiento", 
+            "long": "-68.53838"
+        }, 
+        {
+            "lat": "-31.53987", 
+            "name": "Santa Luc&#237;a", 
+            "long": "-68.49503"
+        }, 
+        {
+            "lat": "-31.5375", 
+            "name": "San Juan", 
+            "long": "-68.53639"
+        }, 
+        {
+            "lat": "-30.24057", 
+            "name": "San Jos&#233; de J&#225;chal", 
+            "long": "-68.74693"
+        }, 
+        {
+            "lat": "-31.68333", 
+            "name": "Pocito", 
+            "long": "-68.58333"
+        }, 
+        {
+            "lat": "-31.48333", 
+            "name": "Chimbas", 
+            "long": "-68.53333"
+        }, 
+        {
+            "lat": "-31.65179", 
+            "name": "Caucete", 
+            "long": "-68.28105"
+        }, 
+        {
+            "lat": "-31.43722", 
+            "name": "Albard&#243;n", 
+            "long": "-68.52556"
+        }
+    ], 
+    "05": [
+        {
+            "lat": "-32.43293", 
+            "name": "Villa Nueva", 
+            "long": "-63.24763"
+        }, 
+        {
+            "lat": "-32.40751", 
+            "name": "Villa Mar&#237;a", 
+            "long": "-63.24016"
+        }, 
+        {
+            "lat": "-31.94585", 
+            "name": "Villa Dolores", 
+            "long": "-65.18958"
+        }, 
+        {
+            "lat": "-31.42414", 
+            "name": "Villa Carlos Paz", 
+            "long": "-64.49778"
+        }, 
+        {
+            "lat": "-31.29458", 
+            "name": "Villa Allende", 
+            "long": "-64.29538"
+        }, 
+        {
+            "lat": "-31.23073", 
+            "name": "Unquillo", 
+            "long": "-64.31615"
+        }, 
+        {
+            "lat": "-31.42797", 
+            "name": "San Francisco", 
+            "long": "-62.08266"
+        }, 
+        {
+            "lat": "-32.17301", 
+            "name": "R&#237;o Tercero", 
+            "long": "-64.11405"
+        }, 
+        {
+            "lat": "-31.6526", 
+            "name": "R&#237;o Segundo", 
+            "long": "-63.9099"
+        }, 
+        {
+            "lat": "-33.13067", 
+            "name": "R&#237;o Cuarto", 
+            "long": "-64.34992"
+        }, 
+        {
+            "lat": "-31.16486", 
+            "name": "R&#237;o Ceballos", 
+            "long": "-64.32241"
+        }, 
+        {
+            "lat": "-30.71164", 
+            "name": "Morteros", 
+            "long": "-61.99862"
+        }, 
+        {
+            "lat": "-32.6978", 
+            "name": "Marcos Ju&#225;rez", 
+            "long": "-62.10672"
+        }, 
+        {
+            "lat": "-31.08841", 
+            "name": "La Falda", 
+            "long": "-64.48987"
+        }, 
+        {
+            "lat": "-31.34377", 
+            "name": "La Calera", 
+            "long": "-64.33529"
+        }, 
+        {
+            "lat": "-34.12662", 
+            "name": "Laboulaye", 
+            "long": "-63.39119"
+        }, 
+        {
+            "lat": "-30.98153", 
+            "name": "Jes&#250;s Mar&#237;a", 
+            "long": "-64.09424"
+        }, 
+        {
+            "lat": "-32.18", 
+            "name": "Embalse", 
+            "long": "-64.41809"
+        }, 
+        {
+            "lat": "-30.42036", 
+            "name": "De&#225;n Funes", 
+            "long": "-64.34984"
+        }, 
+        {
+            "lat": "-30.72644", 
+            "name": "Cruz del Eje", 
+            "long": "-64.80387"
+        }, 
+        {
+            "lat": "-31.24508", 
+            "name": "Cosqu&#237;n", 
+            "long": "-64.46563"
+        }, 
+        {
+            "lat": "-31.4135", 
+            "name": "C&#243;rdoba", 
+            "long": "-64.18105"
+        }, 
+        {
+            "lat": "-32.62591", 
+            "name": "Bell Ville", 
+            "long": "-62.68873"
+        }, 
+        {
+            "lat": "-31.42022", 
+            "name": "Arroyito", 
+            "long": "-63.05002"
+        }, 
+        {
+            "lat": "-31.65292", 
+            "name": "Alta Gracia", 
+            "long": "-64.42826"
+        }
+    ]
+}

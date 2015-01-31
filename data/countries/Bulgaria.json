@@ -1,0 +1,333 @@
+{
+    "60": [
+        {
+            "lat": "43.2512", 
+            "name": "Targovishte", 
+            "long": "26.57215"
+        }, 
+        {
+            "lat": "43.35", 
+            "name": "Popovo", 
+            "long": "26.23333"
+        }
+    ], 
+    "61": [
+        {
+            "lat": "43.21667", 
+            "name": "Varna", 
+            "long": "27.91667"
+        }
+    ], 
+    "62": [
+        {
+            "lat": "43.08124", 
+            "name": "Veliko T&#365;rnovo", 
+            "long": "25.62904"
+        }, 
+        {
+            "lat": "43.61959", 
+            "name": "Svishtov", 
+            "long": "25.35044"
+        }, 
+        {
+            "lat": "43.12778", 
+            "name": "Gorna Oryakhovitsa", 
+            "long": "25.70167"
+        }
+    ], 
+    "63": [
+        {
+            "lat": "43.99", 
+            "name": "Vidin", 
+            "long": "22.8725"
+        }
+    ], 
+    "64": [
+        {
+            "lat": "43.21", 
+            "name": "Vratsa", 
+            "long": "23.5625"
+        }
+    ], 
+    "65": [
+        {
+            "lat": "42.48333", 
+            "name": "Yambol", 
+            "long": "26.5"
+        }
+    ], 
+    "48": [
+        {
+            "lat": "42.02754", 
+            "name": "Velingrad", 
+            "long": "23.99155"
+        }, 
+        {
+            "lat": "42.03333", 
+            "name": "Peshtera", 
+            "long": "24.3"
+        }, 
+        {
+            "lat": "42.2", 
+            "name": "Pazardzhik", 
+            "long": "24.33333"
+        }, 
+        {
+            "lat": "42.5", 
+            "name": "Panagyurishte", 
+            "long": "24.18333"
+        }
+    ], 
+    "49": [
+        {
+            "lat": "42.6", 
+            "name": "Pernik", 
+            "long": "23.03333"
+        }
+    ], 
+    "46": [
+        {
+            "lat": "42.89427", 
+            "name": "Troyan", 
+            "long": "24.71589"
+        }, 
+        {
+            "lat": "43.13333", 
+            "name": "Lovech", 
+            "long": "24.71667"
+        }
+    ], 
+    "47": [
+        {
+            "lat": "43.4125", 
+            "name": "Montana", 
+            "long": "23.225"
+        }, 
+        {
+            "lat": "43.81389", 
+            "name": "Lom", 
+            "long": "23.23611"
+        }, 
+        {
+            "lat": "43.23611", 
+            "name": "Berkovitsa", 
+            "long": "23.12583"
+        }
+    ], 
+    "44": [
+        {
+            "lat": "41.65", 
+            "name": "K&#365;rdzhali", 
+            "long": "25.36667"
+        }
+    ], 
+    "45": [
+        {
+            "lat": "42.26667", 
+            "name": "Dupnitsa", 
+            "long": "23.11667"
+        }, 
+        {
+            "lat": "42.28389", 
+            "name": "Kyustendil", 
+            "long": "22.69111"
+        }
+    ], 
+    "42": [
+        {
+            "lat": "42.69751", 
+            "name": "Sofia", 
+            "long": "23.32415"
+        }
+    ], 
+    "43": [
+        {
+            "lat": "41.76667", 
+            "name": "Svilengrad", 
+            "long": "26.2"
+        }, 
+        {
+            "lat": "41.93415", 
+            "name": "Haskovo", 
+            "long": "25.55557"
+        }, 
+        {
+            "lat": "41.93333", 
+            "name": "Kharmanli", 
+            "long": "25.9"
+        }, 
+        {
+            "lat": "42.05", 
+            "name": "Dimitrovgrad", 
+            "long": "25.6"
+        }
+    ], 
+    "40": [
+        {
+            "lat": "43.56667", 
+            "name": "Dobrich", 
+            "long": "27.83333"
+        }
+    ], 
+    "41": [
+        {
+            "lat": "43.02583", 
+            "name": "Sevlievo", 
+            "long": "25.11361"
+        }, 
+        {
+            "lat": "42.87472", 
+            "name": "Gabrovo", 
+            "long": "25.33417"
+        }
+    ], 
+    "39": [
+        {
+            "lat": "42.65", 
+            "name": "Karnobat", 
+            "long": "26.98333"
+        }, 
+        {
+            "lat": "42.50606", 
+            "name": "Burgas", 
+            "long": "27.46781"
+        }, 
+        {
+            "lat": "42.7", 
+            "name": "Aytos", 
+            "long": "27.25"
+        }
+    ], 
+    "38": [
+        {
+            "lat": "41.56667", 
+            "name": "Sandanski", 
+            "long": "23.28333"
+        }, 
+        {
+            "lat": "41.4", 
+            "name": "Petrich", 
+            "long": "23.21667"
+        }, 
+        {
+            "lat": "41.56667", 
+            "name": "Gotse Delchev", 
+            "long": "23.73333"
+        }, 
+        {
+            "lat": "42.01667", 
+            "name": "Blagoevgrad", 
+            "long": "23.1"
+        }
+    ], 
+    "59": [
+        {
+            "lat": "42.43278", 
+            "name": "Stara Zagora", 
+            "long": "25.64194"
+        }, 
+        {
+            "lat": "42.61667", 
+            "name": "Kazanl&#365;k", 
+            "long": "25.4"
+        }, 
+        {
+            "lat": "42.2", 
+            "name": "Chirpan", 
+            "long": "25.33333"
+        }
+    ], 
+    "58": [
+        {
+            "lat": "42.337", 
+            "name": "Samokov", 
+            "long": "23.5528"
+        }, 
+        {
+            "lat": "42.9", 
+            "name": "Botevgrad", 
+            "long": "23.78333"
+        }
+    ], 
+    "55": [
+        {
+            "lat": "44.11667", 
+            "name": "Silistra", 
+            "long": "27.26667"
+        }
+    ], 
+    "54": [
+        {
+            "lat": "43.27064", 
+            "name": "Shumen", 
+            "long": "26.92286"
+        }
+    ], 
+    "57": [
+        {
+            "lat": "41.58528", 
+            "name": "Smolyan", 
+            "long": "24.69194"
+        }
+    ], 
+    "56": [
+        {
+            "lat": "42.68583", 
+            "name": "Sliven", 
+            "long": "26.32917"
+        }, 
+        {
+            "lat": "42.48333", 
+            "name": "Nova Zagora", 
+            "long": "26.01667"
+        }
+    ], 
+    "51": [
+        {
+            "lat": "42.3", 
+            "name": "Rakovski", 
+            "long": "24.96667"
+        }, 
+        {
+            "lat": "42.15", 
+            "name": "Plovdiv", 
+            "long": "24.75"
+        }, 
+        {
+            "lat": "42.63333", 
+            "name": "Karlovo", 
+            "long": "24.8"
+        }, 
+        {
+            "lat": "42.01667", 
+            "name": "Asenovgrad", 
+            "long": "24.86667"
+        }
+    ], 
+    "50": [
+        {
+            "lat": "43.41667", 
+            "name": "Pleven", 
+            "long": "24.61667"
+        }, 
+        {
+            "lat": "43.26667", 
+            "name": "Cherven Bryag", 
+            "long": "24.1"
+        }
+    ], 
+    "53": [
+        {
+            "lat": "43.85639", 
+            "name": "Ruse", 
+            "long": "25.97083"
+        }
+    ], 
+    "52": [
+        {
+            "lat": "43.53333", 
+            "name": "Razgrad", 
+            "long": "26.51667"
+        }
+    ]
+}
