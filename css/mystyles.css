@@ -689,7 +689,7 @@ ____________________________________*/
 }
 
 .add-event-form {
-  width: 70%;
+  width: 75%;
   margin: 20px auto 20px auto;
 }
 
@@ -700,11 +700,26 @@ ____________________________________*/
   color: white;
 }
 
+.basic-trick-info, .location-info, .media-info, .date-info {
+  background-color: #333;
+  border-radius: 5px;
+}
+
+
+#map-modal {
+  width: 400px;
+  height: 200px;
+  background-color: silver;
+  margin: auto;
+}
+
+
 .input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year, 
   .input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
   margin-bottom: 15px;
   border-radius: 0px !important;
 }
+
 
 
 
@@ -720,9 +735,6 @@ ____________________________________*/
   color: #eee;
 }
 
-.form-group, .form, form, .form-control, .modal-content {
-  border-radius: 0px !important;
-}
 
 
 

@@ -102,6 +102,15 @@ $(document).ready( function() {
 
 
 
+$( "#add-location-map-btn" ).click(function() { 
+  $ ( "#map-modal" ).show();
+  $ ( "#list-location-modal" ).hide();
+ });
+
+$( "#add-location-list-btn" ).click(function() { 
+  $ ( "#list-location-modal" ).show();
+  $ ( "#map-modal" ).hide();
+ });
 
 
 
