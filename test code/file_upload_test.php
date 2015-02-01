@@ -1,16 +1,6 @@
 <?
 
 print_r($_POST);
-print "</br>";
-print_r($_FILES);
-print "</br>";
-print(count($_FILES));
-print "photo-upload-".($i+1);
-print "</br>";
-for ($i = 0; $i < count($_FILES); $i++) {
-	print "</br>";
-	print($_FILES["photo-upload-".($i+1)]['name']);
-}
 
 /*
 $client_id = "7ec855512bdc532";

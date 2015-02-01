@@ -42,6 +42,7 @@ function ready(error, world, names, brdata) {
             if (y < top) top = y;
         });
     });
+  console.log("width: ",right-left,"height: ",bottom-top);
 
   var n = countries.length;
 
@@ -115,11 +116,10 @@ function redraw() {
   }
 
 
-  /*
+
   console.log("d3 translate: ",d3.event.translate, "\t\td3 scale: ",d3.event.scale);
   console.log("t: ",t,"\nwidth: ",width,"\nheight: ",height,"\ncurrent_scale: ",current_scale);
   console.log("svg transform: ",svg.attr("transform"));
-  */
   zoom.translate(t);
   svg.style("stroke-width", 1 / current_scale).attr("transform", "translate(" + t + ")scale(" + current_scale + ")");
   var events = svg.selectAll(".brevent");
@@ -470,20 +470,15 @@ function prepareStateDropdown() {
 function prepareCityDropdown() {
   var selected_country = document.getElementsByClassName("input-country")[0].value;
   var selected_state = document.getElementsByClassName("input-state")[0].value;
-  var city_picklist = d3.select(".input-city")
-                      .on("change", fillInLatLong);
+  var city_picklist = d3.select(".input-city");
   city_picklist.selectAll("option").remove();
 
-  var cities_with_lat_long = [];
   function fillInCities(error, states) {
-    cities_with_lat_long = [];
     var city_list = [];
-
-    for (var city in states[selected_state]) {
-      cities_with_lat_long.push(states[selected_state][city]);
-      city_list.push(states[selected_state][city].name);
-    }
+    console.log("selected_state object: ",states[selected_state]);
+    for (var city in states[selected_state]) {console.log("city: ",states[selected_state][city].name); city_list.push(states[selected_state][city].name);}
     city_list.sort();
+    console.log(city_list);
 
     city_list.forEach(function(d){
       city_picklist
@@ -491,16 +486,6 @@ function prepareCityDropdown() {
       .html(d)
       ;
     })
-  }
-
-  function fillInLatLong() {
-    var selected_city = document.getElementsByClassName("input-city")[0].value;
-    for (var city in cities_with_lat_long) {
-      if (cities_with_lat_long[city].name == selected_city) {
-        document.getElementsByClassName("input-lat")[0].value = cities_with_lat_long[city].lat;
-        document.getElementsByClassName("input-long")[0].value = cities_with_lat_long[city].long;
-      }
-    }
   }
 
   queue()
@@ -532,7 +517,6 @@ function fileInput(reference_object) {
         .insert("input")
         .attr("class", "upload-button")
         .attr("type", "file")
-        .attr("name", "photo-upload-"+(upload_buttons.length+1))
         .attr("onchange", "fileInput(this)")
     ;
 

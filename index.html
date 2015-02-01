@@ -67,17 +67,9 @@
 
           <div class="form-group form-inline">
 
-
-       <div class="basic-trick-info">
-        <h4>Basic Trick Info</h4>
             <div class="input-group">
               <div class="input-group-addon">Name</div>
               <input type="text" class="form-control input-name" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
-            </div>
-
-            <div class="input-group">
-              <div class="input-group-addon">Trick</div>
-              <input type="text" class="form-control input-trick" id="exampleInputAmount" placeholder="Enter a description of the trick" name="trick-input">
             </div>
 
             <div class="input-group">
@@ -97,20 +89,17 @@
               </select>  
             </div>  
 
-          
+          </div>
 
-          <div class="form-group">
-          <!--             <label for="exampleInputPassword1">Details</label>
-           -->            <textarea type="textbox" class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
-          </div>   
-       </div>
-       </div>
 
                 
+          <div class="input-group">
+            <div class="input-group-addon">Trick</div>
+            <input type="text" class="form-control input-trick" id="exampleInputAmount" placeholder="Enter a description of the trick" name="trick-input">
+          </div>
 
 
-        <div class="location-info">
-          <h4>Location</h4>
+
           <div class="form-group form-inline">
             <select class="form-control country-picklist input-country" name="country-input">
               <option>Country</option>
@@ -124,14 +113,12 @@
               <option>City</option>
               <!-- To be inserted dynamically -->
             </select>               
-          </div>   
-        </div>  
+          </div>     
 
 
 
 
-         <div class="date-info">
-          <h4>Date</h4>
+
           <div class="form-group form-inline">
             <select class="form-control month-picklist input-month" name="month-input">
               <option>Month</option>
@@ -152,21 +139,13 @@
               <!-- To be inserted dynamically -->
             </select> 
             <input type="" class="form-control input-year" placeholder="Add 4 digit year" name="year-input">            
-          </div> 
-         </div>    
+          </div>            
 
-
-
-         <div class="media-info">
-         <h4>Media</h4>       
           <div class="input-group">
             <div class="input-group-addon">Video</div>
             <input type="text" class="form-control input-video" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
           </div> 
 
-<<<<<<< HEAD
-          <div class="input-group">
-=======
           <div class="form-group">
 <!--             <label for="exampleInputPassword1">Details</label>
  -->            <textarea type="textbox" class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
@@ -174,16 +153,14 @@
 
 
 
-          <div class="input-group input-photo">
->>>>>>> FETCH_HEAD
+          <div class="input-group">
             <span class="input-group-btn">
-              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
+              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" onchange="fileInput(this)"></span>
             </span>
             <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
           </div>
-          <!-- Inserting more photo upload groups here dynamically -->
-         </div>
 
+          <!-- Inserting more photo upload groups here dynamically -->
 
 
           <div class="form-group email-input-group">
@@ -197,8 +174,8 @@
             <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
           </div>
 
-          <input class="input-lat" type="number" name="lat" hidden>
-          <input class="input-long" type="number" name="long" hidden>
+          <input type="number" name="lat" hidden>
+          <input type="number" name="long" hidden>
 
         </form>
 
