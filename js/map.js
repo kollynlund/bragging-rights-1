@@ -365,7 +365,7 @@ function showEventData(d) {
   ;
 
 
-//            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
+  //            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
 
   var event_picture_list = d.Pictures.split(","),
       current_picture_indicator_index = 0,
@@ -393,7 +393,7 @@ function showEventData(d) {
   })
   ;
   
-/*             FOR PICTURE CAPTIONS
+  /*             FOR PICTURE CAPTIONS
   .attr("class", "item")
   .insert("img")
   .attr("src", function(d,i) {return d;})
@@ -402,7 +402,7 @@ function showEventData(d) {
   .insert("p")
   .html("test test")
   ;
-*/
+  */
 
 
   // Making the iframe embed the corresponding video
@@ -416,8 +416,6 @@ function showEventData(d) {
     }
   })
   ;
-
-
 };
 
 
@@ -497,6 +495,57 @@ function prepareCityDropdown() {
 }
 
 
+// Listener for file upload to have selected file
+function fileInput(reference_object) {
+  var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
+  
+  var upload_buttons = d3.selectAll(".upload-button")[0];
+
+  if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
+    var number_of_buttons = upload_buttons.length;
+    var new_upload_button = d3.select(".add-event-form")
+                            .insert("div", ".email-input-group")
+                            .attr("class", "input-group input-photo")
+                            ;
+
+    new_upload_button
+    .insert("span")
+    .attr("class", "input-group-btn")
+      .insert("span")
+      .attr("class", "btn btn-default btn-file")
+      .html("Upload ")
+        .insert("input")
+        .attr("class", "upload-button")
+        .attr("type", "file")
+        .attr("onchange", "fileInput(this)")
+    ;
+
+    new_upload_button
+    .insert("input")
+    .attr("type", "text")
+    .attr("class", "form-control")
+    .attr("placeholder", "Click upload to include photos")
+    .attr("readonly","")
+    ;
+
+    $(document).ready( function() {
+        $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
+            
+            var input = $(this).parents('.input-group').find(':text'),
+                log = numFiles > 1 ? numFiles + ' files selected' : label;
+            
+            if( input.length ) {
+                input.val(log);
+            } else {
+                if( log ) alert(log);
+            }
+            
+        });
+    });
+  }
+}
+
+
 function validateForm() {
   var valid_form = true;
 
@@ -505,72 +554,83 @@ function validateForm() {
   if (input_name.trim().length < 3) {
     valid_form = false;
   }
+  console.log("name", valid_form);
 
   var input_discipline = document.getElementsByClassName("input-discipline")[0].value;
   console.log(input_discipline);
-  if (input_discipline != 'Discipline') {
+  if (input_discipline == 'Discipline') {
     valid_form = false;
   }
+  console.log("discipline", valid_form);
 
   var input_trick = document.getElementsByClassName("input-trick")[0].value;
-  console.log(input_trick);
-  if (input_trick.trim().length > 2) {
+  console.log(input_trick.trim().length);
+  if (input_trick.trim().length < 3) {
     valid_form = false;
   }
+  console.log("trick", valid_form);
 
   var input_country = document.getElementsByClassName("input-country")[0].value;
   console.log(input_country);
-  if (input_country != 'Country') {
+  if (input_country == 'Country') {
     valid_form = false;
   }
+  console.log("country", valid_form);
 
   var input_state = document.getElementsByClassName("input-state")[0].value;
   console.log(input_state);
-  if (input_state != 'State') {
+  if (input_state == 'State') {
     valid_form = false;
   }
+  console.log("state", valid_form);
 
   var input_city = document.getElementsByClassName("input-city")[0].value;
   console.log(input_city);
-  if (input_city != 'City') {
+  if (input_city == 'City') {
     valid_form = false;
   }
 
   var input_month = document.getElementsByClassName("input-month")[0].value;
   console.log(input_month);
-  if (input_month != 'Month') {
+  if (input_month == 'Month') {
     valid_form = false;
   }
+  console.log("month", valid_form);
 
   var input_day = document.getElementsByClassName("input-day")[0].value;
   console.log(input_day);
   if (false) {
     valid_form = false;
   }
+  console.log("day", valid_form);
 
   var input_year = document.getElementsByClassName("input-year")[0].value;
   console.log(input_year);
   if (false) {
     valid_form = false;
   }
+  console.log("year", valid_form);
 
   var input_video = document.getElementsByClassName("input-video")[0].value;
   console.log(input_video);
   if (false) {
     valid_form = false;
   }
+  console.log("video", valid_form);
 
   var input_details = document.getElementsByClassName("input-details")[0].value;
   console.log(input_details);
   if (false) {
     valid_form = false;
   }
+  console.log("details", valid_form);
 
   var input_email = document.getElementsByClassName("input-email")[0].value;
   console.log(input_email);
   if (false) {
     valid_form = false;
   }
+  console.log("email", valid_form);
 
   if (!valid_form) {
     console.log("fooqu")
@@ -669,9 +729,14 @@ function validateForm() {
                        })
                        ;
 
+
   var add_event_button = d3.select(".add-event-button")
                          .on("click", prepareAddEventModal)
                          ;
+
+  var add_event_submit_button = d3.select(".add-event-submit-button")
+                              .on("click", validateForm)
+                              ;
 
 
 
@@ -699,63 +764,5 @@ function validateForm() {
 
 
 
-
-
-
-  // Listener for file upload to have selected file
-  function fileInput(reference_object) {
-    var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
-    
-    var upload_buttons = d3.selectAll(".upload-button")[0];
-
-    if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
-      var number_of_buttons = upload_buttons.length;
-      var new_upload_button = d3.select(".add-event-form")
-                              .insert("div", ".email-input-group")
-                              .attr("class", "input-group input-photo")
-                              ;
-
-      new_upload_button
-      .insert("span")
-      .attr("class", "input-group-btn")
-        .insert("span")
-        .attr("class", "btn btn-default btn-file")
-        .html("Upload ")
-          .insert("input")
-          .attr("class", "upload-button")
-          .attr("type", "file")
-          .attr("onchange", "fileInput(this)")
-      ;
-
-      new_upload_button
-      .insert("input")
-      .attr("type", "text")
-      .attr("class", "form-control")
-      .attr("placeholder", "Click upload to include photos")
-      .attr("readonly","")
-      ;
-
-      $(document).ready( function() {
-          $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
-              
-              var input = $(this).parents('.input-group').find(':text'),
-                  log = numFiles > 1 ? numFiles + ' files selected' : label;
-              
-              if( input.length ) {
-                  input.val(log);
-              } else {
-                  if( log ) alert(log);
-              }
-              
-          });
-      });
-    }
-  }
-
-
-
-  var add_event_submit_button = d3.select(".add-event-submit-button")
-                                .on("click", validateForm)
-                                ;
 
 }
