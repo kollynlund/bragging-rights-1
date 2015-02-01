@@ -700,6 +700,22 @@ ____________________________________*/
   color: white;
 }
 
+.basic-trick-info {
+  background-color: red;
+}
+
+.location-info {
+  background-color: blue;
+}
+
+.media-info {
+  background-color: green;
+}
+
+.date-info {
+  background-color: tomato;
+}
+
 .input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year, 
   .input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
   margin-bottom: 15px;
