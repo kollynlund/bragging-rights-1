@@ -365,25 +365,39 @@ function showEventData(d) {
   ;
 
 
+
+
+
+  var event_picture_list = d.Pictures.split(",");
+  console.log(event_picture_list);
+
+
 //  console.log(event_modal.select("ol.carousel-indicators"));
-  event_modal.select("ol.carousel-indicators")
-  .data(d.Pictures.split(","))
-  .enter()
-  .append("li")
-  .attr("data-target", "#myCarousel")
-  .attr("data-slide-to", function(d,i) {return i;})
+  event_picture_list.forEach(function(picture){
+    event_modal.select("ol.carousel-indicators")
+    .append("li")
+    .attr("data-target", "#myCarousel")
+    .attr("data-slide-to", function(d,i) {return i;})
+    ;
+  })
+
+
+
+//            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
+
+  event_picture_list
+  .forEach(function(picture, i){
+    event_modal.select("div.carousel-inner")
+    .insert("div")
+    .attr("class",function(picture,i){if (i == 0) return "item active"; else return "item";})
+      .insert("img")
+      .attr("src", picture)
+    ;
+  })
   ;
+  
 
-
-
-/*            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
-
-  event_modal.select(".carousel-inner")
-  .data(d.Pictures.split(","))
-  .enter()
-  .insert("div");
-
-
+/*
   .attr("class", "item")
   .insert("img")
   .attr("src", function(d,i) {return d;})
@@ -392,7 +406,7 @@ function showEventData(d) {
   .insert("p")
   .html("TEST TEST")
   ;
-  */
+*/
 
 
   // Making the iframe embed the corresponding video
@@ -410,101 +424,6 @@ function showEventData(d) {
 
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// The initial map layout variables
-var width = document.getElementById('map-container').offsetWidth;
-var height = width / 2;
-var current_scale = 1;
-var mercator_aspect = 500 / 480.0;
-
-
-// The initial map projection definition
-var projection = d3.geo.mercator()
-                 .translate([width/2, height/2])
-                 .scale(width)
-                 ;
-
-
-// The initial map path placeholder
-var path = d3.geo.path()
-           .projection(projection);
-
-
-// Selecting the DOM element for the info display
-var info_display = d3.select(".map-data-display");
-
-
-// Setting up the zoom functionality
-var zoom = d3.behavior.zoom()
-          .scaleExtent([1,100])
-          .on("zoom", redraw)
-          ;
-
-
-// Setting up the initial map container svg selection
-var svg = d3.select("#map-container")
-          .append("svg")
-          .attr("width", width)
-          .attr("height", height)
-          .attr("id","main-map-container")
-          .call(zoom)
-          .append("g")
-          ;
-
-
-// Setting up the list display selection
-var event_table = d3.select("#list-events");
-
-
-// Setting up the search bar selections
-var search_box = d3.select(".search-box");
-var search_button = d3.select(".search-btn");
-
-
-// Setting up the add event modal date selection functionality
-var month_picklist = d3.select(".month-picklist")
-                     .on("change", function() {
-                      var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
-
-                      var month_picklist_selected_item = d3.select(".month-picklist")
-                                                         .selectAll(".month-option")
-                                                         .filter(function() {return this.innerHTML == month_picklist_selection})
-                                                         ;
-
-                      if (!month_picklist_selected_item.empty()) {
-                        var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
-                      }
-
-                      if (days_to_add) {
-                        var day_of_month_picklist = d3.select(".day-of-month-picklist");
-                        day_of_month_picklist.selectAll("option").remove();
-                        for (var i = 0; i < days_to_add; i++) {
-                          day_of_month_picklist.append("option")
-                          .html(i+1)
-                          ;
-                        }
-                      }
-                     })
-                     ;
-
-var add_event_button = d3.select(".add-event-button")
-                       .on("click", prepareAddEventModal)
-                       ;
 
 function prepareAddEventModal() {
   var country_picklist = d3.select(".input-country")
@@ -526,6 +445,7 @@ function prepareAddEventModal() {
   .await(fillInCountries)
   ;
 }
+
 
 function prepareStateDropdown() {
   var selected_country = document.getElementsByClassName("input-country")[0].value;
@@ -551,6 +471,7 @@ function prepareStateDropdown() {
   .await(fillInStates)
   ;
 }
+
 
 function prepareCityDropdown() {
   var selected_country = document.getElementsByClassName("input-country")[0].value;
@@ -578,89 +499,6 @@ function prepareCityDropdown() {
   .await(fillInCities)
   ;
 }
-
-
-
-
-
-
-
-
-
-// Listener for the initial data load and map drawing
-queue()
-.defer(d3.json, "data/world-110m.json")
-//.defer(d3.tsv, "data/world-country-names.tsv")
-.defer(d3.tsv, "data/country-names.tsv")
-.defer(d3.json, "data/brdata.json")
-.await(ready)
-;
-
-
-
-
-
-
-
-
-
-
-
-// Listener for file upload to have selected file
-function fileInput(reference_object) {
-  var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
-  
-  var upload_buttons = d3.selectAll(".upload-button")[0];
-
-  if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
-    var number_of_buttons = upload_buttons.length;
-    var new_upload_button = d3.select(".add-event-form")
-                            .insert("div", ".email-input-group")
-                            .attr("class", "input-group input-photo")
-                            ;
-
-    new_upload_button
-    .insert("span")
-    .attr("class", "input-group-btn")
-      .insert("span")
-      .attr("class", "btn btn-default btn-file")
-      .html("Upload ")
-        .insert("input")
-        .attr("class", "upload-button")
-        .attr("type", "file")
-        .attr("onchange", "fileInput(this)")
-    ;
-
-    new_upload_button
-    .insert("input")
-    .attr("type", "text")
-    .attr("class", "form-control")
-    .attr("placeholder", "Click upload to include photos")
-    .attr("readonly","")
-    ;
-
-    $(document).ready( function() {
-        $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
-            
-            var input = $(this).parents('.input-group').find(':text'),
-                log = numFiles > 1 ? numFiles + ' files selected' : label;
-            
-            if( input.length ) {
-                input.val(log);
-            } else {
-                if( log ) alert(log);
-            }
-            
-        });
-    });
-  }
-}
-
-
-
-var add_event_submit_button = d3.select(".add-event-submit-button")
-                              .on("click", validateForm)
-                              ;
 
 
 function validateForm() {
@@ -757,4 +595,171 @@ function validateForm() {
 
 
 
+// Initial setup 
+{
+  // The initial map layout variables
+  var width = document.getElementById('map-container').offsetWidth;
+  var height = width / 2;
+  var current_scale = 1;
+  var mercator_aspect = 500 / 480.0;
 
+
+  // The initial map projection definition
+  var projection = d3.geo.mercator()
+                   .translate([width/2, height/2])
+                   .scale(width)
+                   ;
+
+
+  // The initial map path placeholder
+  var path = d3.geo.path()
+             .projection(projection);
+
+
+  // Selecting the DOM element for the info display
+  var info_display = d3.select(".map-data-display");
+
+
+  // Setting up the zoom functionality
+  var zoom = d3.behavior.zoom()
+            .scaleExtent([1,100])
+            .on("zoom", redraw)
+            ;
+
+
+  // Setting up the initial map container svg selection
+  var svg = d3.select("#map-container")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .attr("id","main-map-container")
+            .call(zoom)
+            .append("g")
+            ;
+
+
+  // Setting up the list display selection
+  var event_table = d3.select("#list-events");
+
+
+  // Setting up the search bar selections
+  var search_box = d3.select(".search-box");
+  var search_button = d3.select(".search-btn");
+
+
+  // Setting up the add event modal date selection functionality
+  var month_picklist = d3.select(".month-picklist")
+                       .on("change", function() {
+                        var month_picklist_selection = document.getElementsByClassName("month-picklist")[0].value;
+
+                        var month_picklist_selected_item = d3.select(".month-picklist")
+                                                           .selectAll(".month-option")
+                                                           .filter(function() {return this.innerHTML == month_picklist_selection})
+                                                           ;
+
+                        if (!month_picklist_selected_item.empty()) {
+                          var days_to_add = parseInt(month_picklist_selected_item.attr("days"));
+                        }
+
+                        if (days_to_add) {
+                          var day_of_month_picklist = d3.select(".day-of-month-picklist");
+                          day_of_month_picklist.selectAll("option").remove();
+                          for (var i = 0; i < days_to_add; i++) {
+                            day_of_month_picklist.append("option")
+                            .html(i+1)
+                            ;
+                          }
+                        }
+                       })
+                       ;
+
+  var add_event_button = d3.select(".add-event-button")
+                         .on("click", prepareAddEventModal)
+                         ;
+
+
+
+
+
+
+
+
+
+
+
+  // Listener for the initial data load and map drawing
+  queue()
+  .defer(d3.json, "data/world-110m.json")
+  //.defer(d3.tsv, "data/world-country-names.tsv")
+  .defer(d3.tsv, "data/country-names.tsv")
+  .defer(d3.json, "data/brdata.json")
+  .await(ready)
+  ;
+
+
+
+
+
+
+
+
+
+
+
+  // Listener for file upload to have selected file
+  function fileInput(reference_object) {
+    var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
+    
+    var upload_buttons = d3.selectAll(".upload-button")[0];
+
+    if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
+      var number_of_buttons = upload_buttons.length;
+      var new_upload_button = d3.select(".add-event-form")
+                              .insert("div", ".email-input-group")
+                              .attr("class", "input-group input-photo")
+                              ;
+
+      new_upload_button
+      .insert("span")
+      .attr("class", "input-group-btn")
+        .insert("span")
+        .attr("class", "btn btn-default btn-file")
+        .html("Upload ")
+          .insert("input")
+          .attr("class", "upload-button")
+          .attr("type", "file")
+          .attr("onchange", "fileInput(this)")
+      ;
+
+      new_upload_button
+      .insert("input")
+      .attr("type", "text")
+      .attr("class", "form-control")
+      .attr("placeholder", "Click upload to include photos")
+      .attr("readonly","")
+      ;
+
+      $(document).ready( function() {
+          $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
+              
+              var input = $(this).parents('.input-group').find(':text'),
+                  log = numFiles > 1 ? numFiles + ' files selected' : label;
+              
+              if( input.length ) {
+                  input.val(log);
+              } else {
+                  if( log ) alert(log);
+              }
+              
+          });
+      });
+    }
+  }
+
+
+
+  var add_event_submit_button = d3.select(".add-event-submit-button")
+                                .on("click", validateForm)
+                                ;
+
+}
