@@ -365,46 +365,42 @@ function showEventData(d) {
   ;
 
 
+//            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
 
-
-
-  var event_picture_list = d.Pictures.split(",");
-  console.log(event_picture_list);
-
-
-//  console.log(event_modal.select("ol.carousel-indicators"));
+  var event_picture_list = d.Pictures.split(","),
+      current_picture_indicator_index = 0,
+      current_picture_index = 0;
+      
   event_picture_list.forEach(function(picture){
     event_modal.select("ol.carousel-indicators")
     .append("li")
     .attr("data-target", "#myCarousel")
-    .attr("data-slide-to", function(d,i) {return i;})
+    .attr("data-slide-to", current_picture_indicator_index)
     ;
+    current_picture_indicator_index += 1;
   })
 
-
-
-//            WORKING ON INSERTING PICTURES FROM A COMMA SEPARATED LIST OF IMAGE URLS
-
   event_picture_list
-  .forEach(function(picture, i){
+  .forEach(function(picture){
+    console.log(current_picture_index == 0);
     event_modal.select("div.carousel-inner")
     .insert("div")
-    .attr("class",function(picture,i){if (i == 0) return "item active"; else return "item";})
+    .attr("class",function(){if (current_picture_index == 0) return "item active"; else return "item";})
       .insert("img")
       .attr("src", picture)
     ;
+    current_picture_index += 1;
   })
   ;
   
-
-/*
+/*             FOR PICTURE CAPTIONS
   .attr("class", "item")
   .insert("img")
   .attr("src", function(d,i) {return d;})
   .insert("div")
   .attr("class", "carousel-caption")
   .insert("p")
-  .html("TEST TEST")
+  .html("test test")
   ;
 */
 
