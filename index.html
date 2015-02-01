@@ -164,9 +164,20 @@
             <input type="text" class="form-control input-video" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
           </div> 
 
+<<<<<<< HEAD
           <div class="input-group">
+=======
+          <div class="form-group">
+<!--             <label for="exampleInputPassword1">Details</label>
+ -->            <textarea type="textbox" class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
+          </div>    
+
+
+
+          <div class="input-group input-photo">
+>>>>>>> FETCH_HEAD
             <span class="input-group-btn">
-              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" onchange="fileInput(this)"></span>
+              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
             </span>
             <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
           </div>
@@ -186,8 +197,8 @@
             <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
           </div>
 
-          <input type="number" name="lat" hidden>
-          <input type="number" name="long" hidden>
+          <input class="input-lat" type="number" name="lat" hidden>
+          <input class="input-long" type="number" name="long" hidden>
 
         </form>
 
