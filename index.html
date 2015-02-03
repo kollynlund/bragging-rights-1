@@ -21,27 +21,20 @@
 
 <body>  
 
-<!-- * * BODY CONTAINER * * -->
-
-<div class="container-fluid">
-
-
   <!-- * * HEADER * * -->
   
+<div class="container-fluid">
 
     <div class="row header">
-
-    <div class="col-sm-2">
-         <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
-    </div>
+      <div class="col-sm-2">
+           <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
+      </div> 
 
     <div class="col-sm-6">
       <div class="welcome">
         <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  </p>
      </div>
     </div>  
-
-
 
     <div class="col-sm-4 pull-right">
       <div class="p-add">
@@ -56,157 +49,152 @@
 
 <!-- * * ADD EVENT MODAL * * -->
 
-  <div class="modal fade add-worlds-first-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal fade add-worlds-first-modal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 <!--           <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4>
- -->        </div>
+ -->    </div> <!-- Closes header -->
         <form class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
+
           <div class="form-group">
+            <div class="basic-trick-info">
+                <h4>Add Trick Info</h4>
+                <div class="input-group">
+                  <div class="input-group-addon">Name</div>
+                  <input type="text" class="form-control input-name" name="name-input" placeholder="Person who achieved trick">
+                </div> <!-- Closes input-name -->
+
+                <div class="input-group">
+                  <div class="input-group-addon">Trick</div>
+                  <input type="text" class="form-control input-trick" placeholder="Enter a description of the trick" name="trick-input">
+                </div> <!-- Closes input-trick -->
+
+                <div class="input-group">
+                  <select class="form-control input-discipline" name="discipline-input">
+                    <option>Discipline</option>
+                    <option>AIR</option>
+                    <option>BMX</option>
+                    <option>SK8</option>
+                    <option>RALLY</option>
+                    <option>SNOW</option>
+                    <option>CAR</option>
+                    <option>SCOOTER</option>
+                    <option>MTB</option>
+                    <option>CLIMB</option>
+                    <option>ADVENTURE</option>
+                    <option>URBAN</option>
+                  </select>  
+                </div> <!-- Closes input-discipline --> 
+
+                <div class="form-group">
+                  <textarea class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
+                </div> <!-- Closes input-details -->
+             </div> <!-- Closes basic trick info -->
 
 
-          <div class="basic-trick-info">
-
-              <h4>Add Trick Info</h4>
-              <div class="input-group">
-                <div class="input-group-addon">Name</div>
-                <input type="text" class="form-control input-name" name="name-input" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
-              </div>
-
-              <div class="input-group">
-                <div class="input-group-addon">Trick</div>
-                <input type="text" class="form-control input-trick" id="exampleInputAmount" placeholder="Enter a description of the trick" name="trick-input">
-              </div>
-
-              <div class="input-group">
-                <select class="form-control input-discipline" name="discipline-input">
-                  <option>Discipline</option>
-                  <option>AIR</option>
-                  <option>BMX</option>
-                  <option>SK8</option>
-                  <option>RALLY</option>
-                  <option>SNOW</option>
-                  <option>CAR</option>
-                  <option>SCOOTER</option>
-                  <option>MTB</option>
-                  <option>CLIMB</option>
-                  <option>ADVENTURE</option>
-                  <option>URBAN</option>
-                </select>  
-              </div>  
-
-              <div class="form-group">
-                <textarea type="textbox" class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input"></textarea>
-              </div> 
-
-           </div>
+                  
 
 
-                
+          <div class="location-info">
+            <h4>Add Location</h4>
+            <input class="btn btn-default" id="add-location-list-btn" type="button" value="from list">  
+            <input class="btn btn-default" id="add-location-map-btn" type="button" value="from map">  
 
+            <div id="list-location-modal" class="form-group form-inline">
+              <select class="form-control country-picklist input-country" name="country-input">
+                <option>Country</option>
+                <!-- To be inserted dynamically -->
+              </select>  
+              <select class="form-control state-picklist input-state" name="state-input">
+                <option>State</option>
+                <!-- To be inserted dynamically -->
+              </select> 
+              <select class="form-control city-picklist input-city" name="city-input">
+                <option>City</option>
+                <!-- To be inserted dynamically -->
+              </select>
+            </div> <!-- Closes input-location-list -->
 
-        <div class="location-info">
-          <h4>Add Location</h4>
-          <input class="btn btn-default" id="add-location-list-btn" type="button" value="from list">  
-          <input class="btn btn-default" id="add-location-map-btn" type="button" value="from map">  
+            <div id="map-modal">
+              <div class="form-group form-inline">
+                <p>map map map map map map map map map map map map map map map</p>
+              </div> <!-- Closes form-group -->
+            </div> <!-- Closes input-location-map -->
+          </div> <!-- Closes input-location-info -->    
 
 
 
-          <div id="list-location-modal" class="form-group form-inline">
-            <select class="form-control country-picklist input-country" name="country-input">
-              <option>Country</option>
-              <!-- To be inserted dynamically -->
-            </select>  
-            <select class="form-control state-picklist input-state" name="state-input">
-              <option>State</option>
-              <!-- To be inserted dynamically -->
-            </select> 
-            <select class="form-control city-picklist input-city" name="city-input">
-              <option>City</option>
-              <!-- To be inserted dynamically -->
-            </select>
-          </div>
 
-          <div id="map-modal">
+          <div class="date-info">
+            <h4>Add Date</h4>
             <div class="form-group form-inline">
-              <p>map map map map map map map map map map map map map map map</p>
-            </div>
-          </div>
-        </div>     
+              <select class="form-control month-picklist input-month" name="month-input">
+                <option>Month</option>
+                <option class="month-option" days="31">- January</option>
+                <option class="month-option" days="28">- February</option>
+                <option class="month-option" days="31">- March</option>
+                <option class="month-option" days="30">- April</option>
+                <option class="month-option" days="31">- May</option>
+                <option class="month-option" days="30">- June</option>
+                <option class="month-option" days="31">- July</option>
+                <option class="month-option" days="31">- August</option>
+                <option class="month-option" days="30">- September</option>
+                <option class="month-option" days="31">- October</option>
+                <option class="month-option" days="30">- November</option>
+                <option class="month-option" days="31">- December</option>
+              </select>  
+              <select class="form-control day-of-month-picklist input-day" name="day-input">
+                <!-- To be inserted dynamically -->
+              </select> 
+              <input class="form-control input-year" placeholder="Add 4 digit year" name="year-input">            
+            </div> <!-- Closes form-group -->
+          </div> <!-- Closes input-date-info -->       
 
 
+          <div class="media-info">
+              <h4>Add Media</h4>   
+              <div class="input-group">
+                <div class="input-group-addon">Video</div>
+                <input type="text" class="form-control input-video" placeholder="Add url link to YouTube video" name="video-input">
+              </div> <!-- Closes input-group -->
+
+              <div class="input-group input-photo">
+                <span class="input-group-btn">
+                  <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
+                </span>
+                <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
+              </div> <!-- Closes input-group -->
+              <!-- Inserting more photo upload groups here dynamically -->
+          </div> <!-- Closes media-info -->
 
 
-        <div class="date-info">
-          <h4>Add Date</h4>
-          <div class="form-group form-inline">
-            <select class="form-control month-picklist input-month" name="month-input">
-              <option>Month</option>
-              <option class="month-option" days="31">- January</option>
-              <option class="month-option" days="28">- February</option>
-              <option class="month-option" days="31">- March</option>
-              <option class="month-option" days="30">- April</option>
-              <option class="month-option" days="31">- May</option>
-              <option class="month-option" days="30">- June</option>
-              <option class="month-option" days="31">- July</option>
-              <option class="month-option" days="31">- August</option>
-              <option class="month-option" days="30">- September</option>
-              <option class="month-option" days="31">- October</option>
-              <option class="month-option" days="30">- November</option>
-              <option class="month-option" days="31">- December</option>
-            </select>  
-            <select class="form-control day-of-month-picklist input-day" name="day-input">
-              <!-- To be inserted dynamically -->
-            </select> 
-            <input type="" class="form-control input-year" placeholder="Add 4 digit year" name="year-input">            
-          </div> 
-        </div>        
+            <div class="form-group email-input-group">
+              <label>Add email address to become part of the community.</label>
+              <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
+            </div> <!-- Closes form-group -->
 
 
-        <div class="media-info">
-          <h4>Add Media</h4>   
-          <div class="input-group">
-            <div class="input-group-addon">Video</div>
-            <input type="text" class="form-control input-video" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
-          </div> 
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
+            </div> <!-- Closes modal-footer -->
 
-          <div class="input-group input-photo">
-            <span class="input-group-btn">
-              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
-            </span>
-            <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
-          </div>
-          <!-- Inserting more photo upload groups here dynamically -->
-        </div>
+            <input class="input-lat" type="text" name="lat" hidden>
+            <input class="input-long" type="text" name="long" hidden>
 
+         </div> <!-- Closes form-group -->
+        </form> <!-- Closes form -->
+      </div> <!-- Closes modal-content -->
+    </div> <!-- Closes modal-dialog -->
+  </div> <!-- modal -->
 
-          <div class="form-group email-input-group">
-            <label for="exampleInputEmail1">Add email address to become part of the community.</label>
-            <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
-          </div>
-
-
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
-          </div>
-
-          <input class="input-lat" type="text" name="lat" hidden>
-          <input class="input-long" type="text" name="long" hidden>
-
-        </form>
-
-      </div>
-    </div>
-  </div>
-</div>
 
 
 <!-- * * DISPLAY EVENT DETAILS MODAL * * -->
 
-  <div class="modal fade display-event-details-modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal fade display-event-details-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content ">
 
@@ -271,7 +259,7 @@
 
               </div><!-- Closes carousel -->
 <!-- * * END OF EVENT IMAGES IN CAROUSEL * * -->            
-               <div style="width: 100%"class="embed-responsive embed-responsive-16by9">
+               <div style="width: 100%" class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item event-video" src="//www.youtube.com/embed/RJIHlR3XK4A?list=UU7iNPNOL70yGYwTFInHMRwA" allowfullscreen></iframe>   
                </div><!-- Closes responsive iframe -->    
             </div><!-- Closes 9 col grid --> 
@@ -286,7 +274,7 @@
                 </div>
 
                 <div class="event-modal-location">
-                  <h2 class="location-left">Location</i></h2>
+                  <h2 class="location-left">Location</h2>
                   <span class="glyphicon glyphicon-globe globe-modal" aria-hidden="true"></span>
                   <div class="event-data-modal-city">a</div>
                   <div class="event-data-modal-country">a</div>
@@ -299,7 +287,7 @@
                 </div>   
 
                 <div class="event-modal-extra">
-                  <h2 class="details-left">Details</i></h2>
+                  <h2 class="details-left">Details</h2>
                   <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
                   <div class="event-data-modal-extra">a</div>
                 </div>                 
@@ -343,7 +331,7 @@
           <div class="input-group search-box pull-right">
             <input type="text" class="form-control search-input" id="search-input" placeholder="Search">
             <span class="input-group-btn">
-              <button type="" class="btn search-btn">SEARCH</button>
+              <button class="btn search-btn">SEARCH</button>
             </span>
           </div>
         </div>
@@ -413,10 +401,9 @@
         </div>
   </div>
   <div class="room" style="margin-bottom: 250px">
-  </dic>
+  </div>
 
 <!-- * * END BODY CONTAINER * * -->
-</div>
 </div>
 
 
