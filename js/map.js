@@ -95,6 +95,7 @@ function ready(error, world, names, brdata) {
 
 
 function resizeMap() {
+  console.log(document.getElementById("map-container").offsetWidth);
   svg.attr("width", document.getElementById("map-container").offsetWidth);
   /*
   svg = d3.select("#map-container")
