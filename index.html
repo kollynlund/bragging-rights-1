@@ -67,12 +67,12 @@
           <div class="form-group">
 
 
-           <div class="basic-trick-info">
+          <div class="basic-trick-info">
 
               <h4>Add Trick Info</h4>
               <div class="input-group">
                 <div class="input-group-addon">Name</div>
-                <input type="text" class="form-control input-name" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
+                <input type="text" class="form-control input-name" name="name-input" id="exampleInputAmount" placeholder="Person who achieved trick" name="name-input">
               </div>
 
               <div class="input-group">
@@ -172,9 +172,9 @@
             <input type="text" class="form-control input-video" id="exampleInputAmount" placeholder="Add url link to YouTube video" name="video-input">
           </div> 
 
-          <div class="input-group">
+          <div class="input-group input-photo">
             <span class="input-group-btn">
-              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" onchange="fileInput(this)"></span>
+              <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
             </span>
             <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
           </div>
@@ -193,13 +193,8 @@
             <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
           </div>
 
-<<<<<<< Updated upstream
-          <input type="number" name="lat" hidden>
-          <input type="number" name="long" hidden>
-=======
           <input class="input-lat" type="text" name="lat" hidden>
           <input class="input-long" type="text" name="long" hidden>
->>>>>>> Stashed changes
 
         </form>
 
@@ -389,7 +384,7 @@
         </div>
         <div class="row">
           <div class="col-sm-12">
-            <div id="map-container">
+            <div id="map-container" onresize="resizeMap()">
 <!--              <div class="map-nav-tools">
 
               <span class="fa-stack fa-lg ">

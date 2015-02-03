@@ -94,12 +94,37 @@ function ready(error, world, names, brdata) {
 };
 
 
+function resizeMap() {
+  svg.attr("width", document.getElementById("map-container").offsetWidth);
+  /*
+  svg = d3.select("#map-container")
+        .on("change", resizeMap)
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("id","main-map-container")
+        .call(zoom)
+        .append("g")
+        ;
+  */
+
+
+  queue()
+  .defer(d3.json, "data/world-110m.json")
+  //.defer(d3.tsv, "data/world-country-names.tsv")
+  .defer(d3.tsv, "data/country-names.tsv")
+  .defer(d3.json, "data/brdata.json")
+  .await(ready)
+  ;
+}
+
+
 // Function for processing zoom and pan interactions
 function redraw() {
+  width = document.getElementById('map-container').offsetWidth;
+  height = width / 2;
   var t = d3.event.translate;
   current_scale = d3.event.scale;
-
-
 
   if (t[0] <= 0) {
     t[0] = Math.max(t[0], (width / 2) - (width / 2 * current_scale));
@@ -115,11 +140,6 @@ function redraw() {
     t[1] = Math.min(t[1], ((width / mercator_aspect) / 2 * current_scale) - (height / 2));
   }
 
-
-
-  console.log("d3 translate: ",d3.event.translate, "\t\td3 scale: ",d3.event.scale);
-  console.log("t: ",t,"\nwidth: ",width,"\nheight: ",height,"\ncurrent_scale: ",current_scale);
-  console.log("svg transform: ",svg.attr("transform"));
   zoom.translate(t);
   svg.style("stroke-width", 1 / current_scale).attr("transform", "translate(" + t + ")scale(" + current_scale + ")");
   var events = svg.selectAll(".brevent");
@@ -289,7 +309,6 @@ function drawEvents(error, brdata, filter, is_search) {
     })
     ;
   }
-
 };
 
 
@@ -470,15 +489,19 @@ function prepareStateDropdown() {
 function prepareCityDropdown() {
   var selected_country = document.getElementsByClassName("input-country")[0].value;
   var selected_state = document.getElementsByClassName("input-state")[0].value;
-  var city_picklist = d3.select(".input-city");
+  var city_picklist = d3.select(".input-city")
+                      .on("change", fillInLatLong);
   city_picklist.selectAll("option").remove();
 
+  var cities_with_lat_long = [];
   function fillInCities(error, states) {
     var city_list = [];
-    console.log("selected_state object: ",states[selected_state]);
-    for (var city in states[selected_state]) {console.log("city: ",states[selected_state][city].name); city_list.push(states[selected_state][city].name);}
+
+    for (var city in states[selected_state]) {
+      cities_with_lat_long.push(states[selected_state][city]);
+      city_list.push(states[selected_state][city].name);
+    }
     city_list.sort();
-    console.log(city_list);
 
     city_list.forEach(function(d){
       city_picklist
@@ -486,6 +509,17 @@ function prepareCityDropdown() {
       .html(d)
       ;
     })
+  }
+
+  function fillInLatLong() {
+    var selected_city = document.getElementsByClassName("input-city")[0].value;
+    for (var city in cities_with_lat_long) {
+      if (cities_with_lat_long[city].name == selected_city) {
+        console.log
+        document.getElementsByClassName("input-lat")[0].value = cities_with_lat_long[city].lat;
+        document.getElementsByClassName("input-long")[0].value = cities_with_lat_long[city].long;
+      }
+    }
   }
 
   queue()
@@ -501,8 +535,11 @@ function fileInput(reference_object) {
   
   var upload_buttons = d3.selectAll(".upload-button")[0];
 
+  console.log(reference_object === upload_buttons[upload_buttons.length-1]);
+
   if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
     var number_of_buttons = upload_buttons.length;
+    console.log(d3.select(".add-event-form"));
     var new_upload_button = d3.select(".add-event-form")
                             .insert("div", ".email-input-group")
                             .attr("class", "input-group input-photo")
@@ -517,6 +554,7 @@ function fileInput(reference_object) {
         .insert("input")
         .attr("class", "upload-button")
         .attr("type", "file")
+        .attr("name", "photo-upload-"+(upload_buttons.length+1))
         .attr("onchange", "fileInput(this)")
     ;
 
@@ -638,6 +676,7 @@ function validateForm() {
   }
 
 }
+
 
 
 
