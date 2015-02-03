@@ -1,6 +1,35 @@
 <?
-
+/*
 print_r($_POST);
+<<<<<<< Updated upstream
+=======
+print "</br>";
+print_r($_FILES);
+print "</br>";
+print(count($_FILES));
+print "photo-upload-".($i+1);
+print "</br>";
+*/
+$photos = '';
+for ($i = 0; $i < count($_FILES); $i++) {
+	$photos .= $_FILES["photo-upload-".($i+1)]['name'].',';
+}
+$photos = rtrim($photos, ',');
+
+
+$new_event[] = array('Discipline'=>$_POST['discipline-input'], 'City'=>$_POST['city-input'].', '.$_POST['state-input'], 'Country'=>$_POST['country-input'], 'Longitude'=>$_POST['long'], 'Trick'=> $_POST['trick-input'], 'Latitude'=>$_POST['lat'], 'Video'=>$_POST['video-input'], 'Pictures'=>$photos, 'Date'=>$_POST['month-input'].' '.$_POST['day-input'].', '.$_POST['year-input'], 'Additional Information'=>$_POST['details-input']);
+print_r($new_event);
+print '</br>';
+print '</br>';
+
+
+$json = file_get_contents('test_events.json');
+$data = json_decode($json);
+print_r($data);
+/*
+$data[] = $_POST['data'];
+file_put_contents('results.json', json_encode($data);
+>>>>>>> Stashed changes
 
 /*
 $client_id = "7ec855512bdc532";
