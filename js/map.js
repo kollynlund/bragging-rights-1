@@ -95,8 +95,8 @@ function ready(error, world, names, brdata) {
 
 
 function resizeMap() {
-  console.log(document.getElementById("map-container").offsetWidth);
-  svg.attr("width", document.getElementById("map-container").offsetWidth);
+  console.log("fooqueue");
+  document.getElementById("main-map-container").setAttribute("width",document.getElementById("map-container").offsetWidth);
   /*
   svg = d3.select("#map-container")
         .on("change", resizeMap)
@@ -108,15 +108,6 @@ function resizeMap() {
         .append("g")
         ;
   */
-
-
-  queue()
-  .defer(d3.json, "data/world-110m.json")
-  //.defer(d3.tsv, "data/world-country-names.tsv")
-  .defer(d3.tsv, "data/country-names.tsv")
-  .defer(d3.json, "data/brdata.json")
-  .await(ready)
-  ;
 }
 
 
@@ -728,6 +719,7 @@ function validateForm() {
             .append("svg")
             .attr("width", width)
             .attr("height", height)
+            .attr("viewBox","0 0 "+String(width)+" "+String(height))
             .attr("id","main-map-container")
             .call(zoom)
             .append("g")
