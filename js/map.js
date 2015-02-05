@@ -23,9 +23,10 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 
 
 // Initial map drawing function (before any zooming or panning)
-function ready(error, world, names, brdata) {
-  var countries = topojson.object(world, world.objects.countries).geometries;
+function initialMapLoad(error, world, names, brdata, isModalMap) {
+  isModalMap = isModalMap || false;
 
+  var countries = topojson.object(world, world.objects.countries).geometries;
   var n = countries.length;
 
   countries.forEach( function(d) {
@@ -46,32 +47,35 @@ function ready(error, world, names, brdata) {
   ;
 
   // Show/hide country/event info display
-  country
-  .on("mousemove", function(d) {
-    var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
+  if (!isModalMap) {
+    country
+    .on("mousemove", function(d) {
+      var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
 
-    info_display
-    .html('<div class="col-sm-12 map-data-item country-name">'+d.name+'</div>')
+      info_display
+      .html('<div class="col-sm-12 map-data-item country-name">'+d.name+'</div>')
+      ;
+    })
+      
+    .on("mouseout",  function() {
+      info_display
+      .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
+      ;
+    })
     ;
-  })
-    
-  .on("mouseout",  function() {
-    info_display
-    .html('<div class="col-sm-12 map-data-item country-name">&nbsp;</div>')
-    ;
-  })
-  ;
   
-  // Lay out event markers over map
-  drawEvents(error, brdata);
+    // Lay out event markers over map
+    drawEvents(error, brdata);
 
-  search_button.on("click", searchEvents);
-  search_box.on("keydown", function() {
-    if (d3.event.keyCode == 13) {
-      searchEvents();
-      search_box.classed({":active": false});
-    }
-  });
+    // Build searchbar functionality
+    search_button.on("click", searchEvents);
+    search_box.on("keydown", function() {
+      if (d3.event.keyCode == 13) {
+        searchEvents();
+        document.getElementsByClassName("search-box")[0];
+      }
+    });
+  }
 };
 
 
@@ -750,7 +754,7 @@ function validateForm() {
   //.defer(d3.tsv, "data/world-country-names.tsv")
   .defer(d3.tsv, "data/country-names.tsv")
   .defer(d3.json, "data/brdata.json")
-  .await(ready)
+  .await(initialMapLoad)
   ;
 
 

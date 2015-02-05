@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
+
+<!-- * * SOME STUFF THAT MAKES THE WEBSITE WORK REALLY GOOD * * -->
+
 <head>
+  <!-- * * SO THAT OTHER PROGRAMMERS WILL THINK WE'RE LEGIT * * -->
+
   <meta charset="utf-8">    
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,21 +24,24 @@
   <title>Bragging Rights</title>   
 </head>
 
+
+<!-- * * THE STUFF THAT REALLY IS THE WEBSITE * * -->
+
 <body>  
 
-  <!-- * * HEADER * * -->
+<!-- * * HEADER * * -->
   
 <div class="container-fluid">
 
     <div class="row header">
       <div class="col-sm-2">
-           <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
+        <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
       </div> 
 
     <div class="col-sm-6">
       <div class="welcome">
         <p>Welcome to the World's first interactive website to find, share and explore the biggest and best achievements from around the globe.  </p>
-     </div>
+      </div>
     </div>  
 
     <div class="col-sm-4 pull-right">
@@ -45,17 +53,20 @@
     </div>  
   </div>
 </div>
-<div class="container">
 
-<!-- * * ADD EVENT MODAL * * -->
+
+<!-- * * MAIN CONTENT CONTAINER * * -->
+
+<div class="container">
+  <!-- * * ADD EVENT MODAL * * -->
 
   <div class="modal fade add-worlds-first-modal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-<!--           <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4>
- -->    </div> <!-- Closes header -->
+          <!-- <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4> -->
+        </div> <!-- Closes header -->
         <form class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
 
           <div class="form-group add-event-modal-main-form-group">
@@ -192,7 +203,7 @@
 
 
 
-<!-- * * DISPLAY EVENT DETAILS MODAL * * -->
+  <!-- * * DISPLAY EVENT DETAILS MODAL * * -->
 
   <div class="modal fade display-event-details-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -200,8 +211,8 @@
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-<!--           <h3 class="modal-title" id="myModalLabel"></h3>
- -->        </div>
+          <!-- <h3 class="modal-title" id="myModalLabel"></h3> -->
+        </div>
 
         <div class="modal-body event-details-modal-data-container">                              
           <div class="row text-center">
@@ -213,7 +224,7 @@
                 </div>
                 <div class="event-data-modal-trick">a</div> 
               </div> 
-<!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
+              <!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
               <div id="myCarousel" class="carousel slide carousel-fit" data-ride="carousel" data-interval="60000">    
 
                 <!-- Indicators -->
@@ -235,7 +246,7 @@
                 </a>  
 
               </div><!-- Closes carousel -->
-<!-- * * END OF EVENT IMAGES IN CAROUSEL * * -->            
+              <!-- * * END OF EVENT IMAGES IN CAROUSEL * * -->            
                <div style="width: 100%" class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item event-video" src="//www.youtube.com/embed/RJIHlR3XK4A?list=UU7iNPNOL70yGYwTFInHMRwA" allowfullscreen></iframe>   
                </div><!-- Closes responsive iframe -->    
@@ -280,7 +291,7 @@
  
 
 
-<!-- * * NAVIGATION * * -->
+  <!-- * * NAVIGATION * * -->
   <div class="navigation">
     <div class="row text-center">
       <div class="col-sm-3">
@@ -317,78 +328,83 @@
   </div>
 
 
-<!-- * * LIST VIEW * * -->    
+  <!-- * * LIST VIEW * * -->    
 
   <div id="list">
-        <div class="row">
-          <div class="col-sm-12">
-            <table class="rwd-table">
-              <tbody class="list-table" id="list-events">
-                <tr class="event-list-header">
-                  <th>Rider</th>
-                  <th>Date</th>
-                  <th>Trick</th>
-                  <th>Discipline</th>
-                  <th>Location</th>
-                </tr>
+    <div class="row">
+      <div class="col-sm-12">
+        <table class="rwd-table">
+          <tbody class="list-table" id="list-events">
+            <tr class="event-list-header">
+              <th>Rider</th>
+              <th>Date</th>
+              <th>Trick</th>
+              <th>Discipline</th>
+              <th>Location</th>
+            </tr>
 
-                <!-- map.js ADDS LI DYNAMICALLY -->
+            <!-- map.js ADDS LI DYNAMICALLY -->
 
-              </tbody>
-            </table>
-          </div>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
 
 
-<!-- * * MAP VIEW * * -->
+  <!-- * * MAP VIEW * * -->
 
   <div id="map">
-        <div class="row  map-data-item country-name map-data-display"> <!-- -->
-         <div class="col-sm-12 ">&nbsp;</div>
-        </div>
-        <div class="row">
-          <div class="col-sm-12">
-            <div id="map-container" onresize="resizeMap()">
-<!--              <div class="map-nav-tools">
+    <div class="row  map-data-item country-name map-data-display">
+      <div class="col-sm-12 ">&nbsp;</div>
+    </div>
 
-              <span class="fa-stack fa-lg ">
-                  <a href="#">
-                  <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
-              </span>
+    <div class="row">
+      <div class="col-sm-12">
+        <div id="map-container">
+          <!-- OLD MAP BUTTONS CODE
+          <div class="map-nav-tools">
 
-                <br>
+          <span class="fa-stack fa-lg ">
+              <a href="#">
+              <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
+          </span>
 
-              <span class="fa-stack fa-lg">
-                  <a href="#">
-                  <i class="fa fa-search-minus fa-stack-1x fa-inverse"></i></a>   
-              </span>
+            <br>
 
-                <br>
+          <span class="fa-stack fa-lg">
+              <a href="#">
+              <i class="fa fa-search-minus fa-stack-1x fa-inverse"></i></a>   
+          </span>
 
-                <span class="fa-stack fa-lg">
-                  <a href="#">
-                  <span class="glyphicon glyphicon-move fa-stack-1x fa-inverse"></span></a>
-                </span>
+            <br>
 
-              </div> -->
-              <script src="js/map.js"></script>
-            </div>
+            <span class="fa-stack fa-lg">
+              <a href="#">
+              <span class="glyphicon glyphicon-move fa-stack-1x fa-inverse"></span></a>
+            </span>
+
           </div>
+          -->
+          <script src="js/map.js"></script>
         </div>
-  </div>
-  <div class="room" style="margin-bottom: 250px">
-  </div>
-
-<!-- * * END BODY CONTAINER * * -->
-</div>
+      </div>
+    </div>
+  </div> <!-- Closes map div -->
 
 
+  <!-- * * MAKING SOME ROOM AT THE BOTTOM (I think...) * * -->
 
+  <div class="room" style="margin-bottom: 250px"></div>
+</div> <!-- * * END MAIN CONTENT CONTAINER * * -->
+
+
+<!-- * * SOME GOOD SCRIPTS AND STUFF TO MAKE OUR CODE LOOK COOL AT THE END * * -->
 
 <script src="js/functions.js"></script>
 <script src="js/bootstrap-modal-carousel.min.js"></script>
 <script src="js/demo.min.js"></script>
+
 </body>
 
 
