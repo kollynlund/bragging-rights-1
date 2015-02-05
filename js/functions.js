@@ -117,7 +117,6 @@ $( "#add-location-list-btn" ).click(function() {
 (function(){
   var attachEvent = document.attachEvent;
   var isIE = navigator.userAgent.match(/Trident/);
-  console.log(isIE);
   var requestFrame = (function(){
     var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame ||
         function(fn){ return window.setTimeout(fn, 20); };

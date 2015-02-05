@@ -10,7 +10,7 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
                                                   TO DO:
 
     1. Build PHP (or any other backend language) script to deal with event adding and image upload via Imgur API
-    2. Deal with zooming and panning for country map
+    2. Fix pan limits and implement zoom throttling for map
     3. Implement location picker on modal window so that user can pick approximate lat/long values
     4. Reorganize map.js code
     5. Make sure all "Add Event" modal item selections reset on modal window close
@@ -26,29 +26,10 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 function ready(error, world, names, brdata) {
   var countries = topojson.object(world, world.objects.countries).geometries;
 
-  var left = Infinity,
-        bottom = -Infinity,
-        right = -Infinity,
-        top = Infinity;
-    // reset projection
-    countries.forEach(function(country) {
-        d3.geo.bounds(country).forEach(function(coords) {
-            coords = projection(coords);
-            var x = coords[0],
-                y = coords[1];
-            if (x < left) left = x;
-            if (x > right) right = x;
-            if (y > bottom) bottom = y;
-            if (y < top) top = y;
-        });
-    });
-  console.log("width: ",right-left,"height: ",bottom-top);
-
   var n = countries.length;
 
   countries.forEach( function(d) {
     d.name = names.filter(function(n) { return d.id == n.id; })[0].name;
- //   console.log(d.name,d3.geo.path().projection(projection).bounds(d));
     d.iso = names.filter(function(n) { return d.id == n.id; })[0].iso3;
   });
 
@@ -95,19 +76,7 @@ function ready(error, world, names, brdata) {
 
 
 function resizeMap() {
-  console.log("fooqueue");
   document.getElementById("main-map-container").setAttribute("width",document.getElementById("map-container").offsetWidth);
-  /*
-  svg = d3.select("#map-container")
-        .on("change", resizeMap)
-        .append("svg")
-        .attr("width", width)
-        .attr("height", height)
-        .attr("id","main-map-container")
-        .call(zoom)
-        .append("g")
-        ;
-  */
 }
 
 
@@ -393,7 +362,6 @@ function showEventData(d) {
 
   event_picture_list
   .forEach(function(picture){
-    console.log(current_picture_index == 0);
     event_modal.select("div.carousel-inner")
     .insert("div")
     .attr("class",function(){if (current_picture_index == 0) return "item active"; else return "item";})
@@ -507,7 +475,6 @@ function prepareCityDropdown() {
     var selected_city = document.getElementsByClassName("input-city")[0].value;
     for (var city in cities_with_lat_long) {
       if (cities_with_lat_long[city].name == selected_city) {
-        console.log
         document.getElementsByClassName("input-lat")[0].value = cities_with_lat_long[city].lat;
         document.getElementsByClassName("input-long")[0].value = cities_with_lat_long[city].long;
       }
@@ -527,11 +494,8 @@ function fileInput(reference_object) {
   
   var upload_buttons = d3.selectAll(".upload-button")[0];
 
-  console.log(reference_object === upload_buttons[upload_buttons.length-1]);
-
   if (upload_buttons.length < 5 && reference_object === upload_buttons[upload_buttons.length-1]) {
     var number_of_buttons = upload_buttons.length;
-    console.log(d3.select(".add-event-form"));
     var new_upload_button = d3.select(".add-event-form")
                             .insert("div", ".email-input-group")
                             .attr("class", "input-group input-photo")
