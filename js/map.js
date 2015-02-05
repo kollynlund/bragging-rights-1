@@ -89,6 +89,9 @@ function drawMap(error, world, names, brdata, isModalMap) {
       }
     });
   }
+  else {
+    // TODO: Implement logic for picking a location to add an event to on user click
+  }
 };
 
 
