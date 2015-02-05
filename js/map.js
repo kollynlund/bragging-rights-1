@@ -47,7 +47,7 @@ function drawMap(error, world, names, brdata, isModalMap) {
   // Select which map we're drawing based on isModalMap flag
   var country = svg.selectAll(".country").data(countries);
   var the_path = path;
-  if (isModalMap) {console.log("fooqueue"); country = modalMapSvg.selectAll(".country").data(countries); the_path = modal_path;}
+  if (isModalMap) {country = modalMapSvg.selectAll(".country").data(countries); the_path = modal_path;}
 
   country
   .enter()
