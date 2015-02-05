@@ -100,7 +100,7 @@ $(document).ready( function() {
 });
 
 
-
+$ ( '#map-modal' ).hide();
 
 $( "#add-location-map-btn" ).click(function() { 
   $ ( "#map-modal" ).show();
