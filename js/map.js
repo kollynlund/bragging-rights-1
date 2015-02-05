@@ -490,7 +490,6 @@ function prepareCityDropdown() {
 
 // Listener for file upload to have selected file
 function fileInput(reference_object) {
-  console.log("You're a dick.");
   var filename = reference_object.value.replace(/\\/g, '/').replace(/.*\//, '');
   
   var upload_buttons = d3.selectAll(".upload-button")[0];
