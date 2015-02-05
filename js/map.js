@@ -23,7 +23,17 @@ Imgur Client Secret: 2dccc7c94f2c1c71f87939784d12f2ada3b1c0b7
 
 
 // Initial map drawing function (before any zooming or panning)
-function initialMapLoad(error, world, names, brdata, isModalMap) {
+function loadMaps(error, world, names, brdata) {
+  // Draws main map
+  drawMap(error,world,names,brdata);
+
+  // Draws modal map
+  drawMap(error,world,names,brdata,true);
+}
+
+
+// Function to generalize drawing a map so we can use it for the main map and the modal map
+function drawMap(error, world, names, brdata, isModalMap) {
   isModalMap = isModalMap || false;
 
   var countries = topojson.object(world, world.objects.countries).geometries;
@@ -34,14 +44,17 @@ function initialMapLoad(error, world, names, brdata, isModalMap) {
     d.iso = names.filter(function(n) { return d.id == n.id; })[0].iso3;
   });
 
+  // Select which map we're drawing based on isModalMap flag
   var country = svg.selectAll(".country").data(countries);
+  var the_path = path;
+  if (isModalMap) {console.log("fooqueue"); country = modalMapSvg.selectAll(".country").data(countries); the_path = modal_path;}
 
   country
   .enter()
   .insert("path")
   .attr("class", "country")    
   .attr("title", function(d) { return d.name; })
-  .attr("d", path)
+  .attr("d", the_path)
   .style("fill", "#C1BFBF")
   .style("stroke", "#333")
   ;
@@ -72,7 +85,7 @@ function initialMapLoad(error, world, names, brdata, isModalMap) {
     search_box.on("keydown", function() {
       if (d3.event.keyCode == 13) {
         searchEvents();
-        document.getElementsByClassName("search-box")[0];
+        // TODO: Make search bar not be the active element anymore here
       }
     });
   }
@@ -85,6 +98,7 @@ function resizeMap() {
 
 
 // Function for processing zoom and pan interactions
+// TODO: Extend this function to also redraw the modal map if the add event modal is open
 function redraw() {
   width = document.getElementById('map-container').offsetWidth;
   height = width / 2;
@@ -659,36 +673,58 @@ function validateForm() {
   var mercator_aspect = 500 / 480.0;
 
 
-  // The initial map projection definition
+  // The main map projection definition
   var projection = d3.geo.mercator()
                    .translate([width/2, height/2])
                    .scale(width)
                    ;
 
+  // The modal map projection definition
+  var modal_projection = d3.geo.mercator()
+                         .translate([200, 100])
+                         .scale(400)
+                         ;
 
-  // The initial map path placeholder
+
+  // The main map path placeholder
   var path = d3.geo.path()
              .projection(projection);
 
+  // The modal map path placeholder
+  var modal_path = d3.geo.path()
+                   .projection(modal_projection);
 
-  // Selecting the DOM element for the info display
+
+  // Selecting the DOM element for the main map info display
   var info_display = d3.select(".map-data-display");
 
 
-  // Setting up the zoom functionality
+  // Setting up the zoom functionality for both maps (hopefully)
   var zoom = d3.behavior.zoom()
             .scaleExtent([1,100])
             .on("zoom", redraw)
             ;
 
 
-  // Setting up the initial map container svg selection
+  // Setting up the main map container svg selection
   var svg = d3.select("#map-container")
             .append("svg")
             .attr("width", width)
             .attr("height", height)
             .attr("viewBox","0 0 "+String(width)+" "+String(height))
             .attr("id","main-map-container")
+            .call(zoom)
+            .append("g")
+            ;
+
+
+  // Setting up the modal map container svg selection
+  var modalMapSvg = d3.select("#modal-map-container")
+            .append("svg")
+            .attr("width", "400")
+            .attr("height", "200")
+            .attr("viewBox","0 0 400 200")
+            .attr("id","main-modal-map-container")
             .call(zoom)
             .append("g")
             ;
@@ -754,15 +790,6 @@ function validateForm() {
   //.defer(d3.tsv, "data/world-country-names.tsv")
   .defer(d3.tsv, "data/country-names.tsv")
   .defer(d3.json, "data/brdata.json")
-  .await(initialMapLoad)
+  .await(loadMaps)
   ;
-
-
-
-
-
-
-
-
-
 }
