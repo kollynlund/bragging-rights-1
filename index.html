@@ -10,7 +10,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/mystyles.css" rel="stylesheet">
   <link href="sass-test/stylesheets/styles.css" rel="stylesheet">
   <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css">  
   <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
@@ -73,7 +72,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <!-- <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4> -->
         </div> <!-- Closes header -->
-        <form class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
+        <div class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
 
           <div class="form-group add-event-modal-main-form-group">
             <div class="basic-trick-info">
@@ -89,9 +88,8 @@
                 </div> <!-- Closes input-trick -->
 
                 <div class="input-group">
-                  <select class="form-control input-discipline" name="discipline-input" ng-options="discipline for discipline in disciplines" ng-model="selections.Discipline">
-                    
-                  </select>
+                  <select class="form-control input-discipline" name="discipline-input" ng-options="discipline for discipline in disciplines" ng-model="selections.Discipline"></select>
+                  <button ng-click="showSample()" prevent-default>Log Sample</button>
                 </div> <!-- Closes input-discipline --> 
 
                 <div class="form-group">
@@ -187,7 +185,7 @@
             <input class="input-long" type="text" name="long" hidden>
 
           </div> <!-- Closes form-group -->
-        </form> <!-- Closes form -->
+        </div> <!-- Closes form -->
       </div> <!-- Closes modal-content -->
     </div> <!-- Closes modal-dialog -->
   </div> <!-- Closes modal -->
