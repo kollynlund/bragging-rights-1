@@ -314,8 +314,16 @@ ____________________________________*/
      4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
+.event-modal-details {
+
+}
+
 .event-data-modal-name {
-  font-size: 1.2em;
+  font-size: 1em;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 450px;
+
 }
 
 .event-data-modal-trick {
@@ -537,6 +545,12 @@ th {
 
 /*______MEDIA QUERIES_________________
 ____________________________________*/
+
+/*@media (min-width: 768px && max-width: 991px) {
+.modal-dialog {
+  width: 700px;
+}*/
+
 
 @media (max-width: 600px) {
   #map, .map-list-btns {
