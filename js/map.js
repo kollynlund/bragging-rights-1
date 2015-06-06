@@ -102,7 +102,7 @@ function resizeMap() {
 
 // Function for processing zoom and pan interactions
 // TODO: Extend this function to also redraw the modal map if the add event modal is open
-function redraw() {
+function redrawMainMap() {
   width = document.getElementById('map-container').offsetWidth;
   height = width / 2;
   var t = d3.event.translate;
@@ -703,10 +703,15 @@ function validateForm() {
 
 
   // Setting up the zoom functionality for both maps (hopefully)
-  var zoom = d3.behavior.zoom()
-            .scaleExtent([1,100])
-            .on("zoom", redraw)
-            ;
+  var mainZoom = d3.behavior.zoom()
+                 .scaleExtent([1,100])
+                 .on("zoom", redrawMainMap)
+                 ;
+
+  var modalZoom = d3.behavior.zoom()
+                 .scaleExtent([1,100])
+                 .on("zoom", redrawMainMap)
+                 ;
 
 
   // Setting up the main map container svg selection
@@ -716,7 +721,7 @@ function validateForm() {
             .attr("height", height)
             .attr("viewBox","0 0 "+String(width)+" "+String(height))
             .attr("id","main-map-container")
-            .call(zoom)
+            .call(mainZoom)
             .append("g")
             ;
 
@@ -728,7 +733,7 @@ function validateForm() {
             .attr("height", "200")
             .attr("viewBox","0 0 400 200")
             .attr("id","main-modal-map-container")
-            .call(zoom)
+            .call(modalZoom)
             .append("g")
             ;
 
