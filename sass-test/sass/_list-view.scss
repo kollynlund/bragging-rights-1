@@ -1,0 +1,60 @@
+
+
+/*________LIST VIEW___________________*/
+
+
+.list-table {
+  border: 6px solid #eee;
+  font-family: 'Roboto Slab', sans-serif; 
+}
+
+th {
+  font-size: 1.5em;
+}
+
+.event-list-item {
+  cursor: pointer;
+}
+
+.panel-list {
+  background-color: #333;
+}
+
+.rwd-table {
+  margin: 1em 0;
+  min-width: 100%;
+}
+.rwd-table tr {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.rwd-table th {
+  display: none;
+}
+.rwd-table td {
+  display: block;
+}
+.rwd-table td:first-child {
+  padding-top: .5em;
+}
+.rwd-table td:last-child {
+  padding-bottom: .5em;
+}
+.rwd-table td:before {
+  content: attr(data-th) ": ";
+  font-weight: bold;
+  width: 6.5em;
+  display: inline-block;
+}
+.rwd-table {
+  background: #333;
+  color: #fff;
+  border-radius: .4em;
+  overflow: hidden;
+}
+.rwd-table tr {
+  border-color: #eee;
+}
+.rwd-table th, .rwd-table td {
+  margin: .5em 1em;
+}

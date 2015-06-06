@@ -1,0 +1,72 @@
+
+
+/*________MAP VIEW____________________*/
+
+
+#map-container {
+  cursor: move;
+  background-color: #333;
+  min-height: 400px;
+    box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+/*  border-right: 6px solid #eee;
+  border-bottom: 6px solid #ccc;*/
+/*  box-shadow: 0px 0px 10px 5px #ccc;*/
+
+}
+
+
+.map-data-display {
+  font-family: 'Roboto Slab', sans-serif; 
+  color: #333;
+  text-align: left;
+  border-radius: 0px;
+  font-size: 1.5em;
+  overflow: scroll;
+  margin: 0 auto;
+  background-color: #eee;
+
+
+
+
+}
+
+.map-data-item {
+  overflow: scroll;
+  min-height: 40px;
+  max-height: 40px;
+  color: #ccc;
+  margin-bottom: 10px;
+  background-color: #444;
+  border: 2px solid #eee;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+
+  
+}
+
+.glyphicon-move  {
+  border: 2px solid #ccc;
+  font-size: 1em;
+  background-color: #333;
+}
+
+.fa-search-plus, .fa-search-minus {
+  border: 2px solid #ccc;
+  background-color: #333;
+}
+
+
+.map-nav-tools {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+
+
+}
+
+.brevent:hover {
+  cursor: pointer;
+
+}
+

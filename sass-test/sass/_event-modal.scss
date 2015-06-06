@@ -1,0 +1,182 @@
+
+
+/*________EVENT MODAL________________________*/
+
+.modal-body {
+  background: url('../../img/background/background-black.jpg'); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #444;
+  font-family: 'Roboto Slab', sans-serif; 
+}
+
+.modal-header {
+  background-color: transparent;
+  background: url('../../img/background/background-black.jpg'); 
+  border-radius: 5px 5px 0 0;
+  text-align: center;
+  min-height: 30px;
+  border: none;
+  padding: 5px;
+
+}
+
+.header-event-modal {
+  background-color: #5D5D5D;
+  margin-top: 12px;
+  border-radius: 0px;
+  margin-bottom: 20px;
+  font-size: 1.125em;
+    box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+}
+
+.event-modal-details {
+
+}
+
+.event-data-modal-name {
+  font-size: 1em;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 450px;
+
+}
+
+.event-data-modal-trick {
+  color: #BF981D;
+  margin: 10px 85px 25px 85px;
+  padding-bottom: 10px;
+  font-size: 1em;
+}
+
+
+.display-event-info-modal-col-left {
+  width: 23%;
+  margin-left: 15px;
+  margin-top: 12px;
+}
+
+.event-data-modal-discipline {
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+.discipline-left {
+  padding: 5px 0 5px 0;
+  margin-top: 0px;
+  font-size: 1.75em;
+  background-color: #ddd;
+  color: #333;
+}
+
+.svg-icon-left {
+  max-width: 100px;
+  max-height: 100px;
+  min-height: 100px;
+  min-height: 100px;
+  margin: 0 auto;
+}
+
+ .event-data-modal-extra {
+  color: #333;
+  margin-bottom: 40px;
+  
+}
+
+.event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline {
+  padding-bottom: 5px;
+}
+
+.event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline, .event-data-modal-city, .event-data-modal-extra {
+  color: #eee;
+  font-size: 1em;
+}
+
+
+
+.glyphicon-calendar, .globe-modal, .glyphicon-star {
+  font-size: 3em;
+  color: #FFCB27;
+  margin-top: 7.5px;
+
+  /*color: #2748FF;*/
+
+}
+
+
+
+.date-left, .location-left, .details-left {
+  margin-top: 7.5px;
+  color: #333;
+  background-color: #ddd;
+  padding: 5px;
+  font-size: 1.75em;
+  margin-bottom: 5px;
+}
+
+
+
+.event-video, #myCarousel {
+  border: 2px solid #ddd;
+  background-color: #ddd;
+  padding: 10px;
+  width: 100%;
+
+}
+
+.event-modal-discipline, .event-modal-location, .event-modal-date, .event-modal-extra {
+  background-color: rgba(93, 93, 93, .6);
+  margin-bottom: 30px;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+}
+
+.event-video {
+   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
+     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+/*        ________IMG CAROUSEL______________
+        ____________________________________*/
+
+#myCarousel {
+  background-color: rgba(255,255,255, .5);
+  margin-bottom: 10px;
+}
+
+
+.carousel-indicators {
+  margin-top: 10px;
+}
+
+.modal.modal-fullscreen .modal-content {
+  background: rgba(0, 0, 0, .5);
+}
+.modal.modal-fullscreen .modal-header {
+  border: 0;
+  color: #fff;
+}
+.modal.modal-fullscreen .modal-footer {
+  border-color: rgba(0, 0, 0, .5);
+}
+#myModal .carousel-caption {
+  background-color: rgba(0, 0, 0, .5);
+  bottom: -100%;
+  -webkit-transition: bottom 1s;
+  transition: bottom 1s;
+}
+#myModal .item.active >.carousel-caption {
+  bottom: 0;
+}

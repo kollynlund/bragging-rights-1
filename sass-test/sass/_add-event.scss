@@ -1,0 +1,99 @@
+/*________MODAL FORM ADD EVENT___________*/
+
+.modal {
+    font-family: 'Roboto Slab', sans-serif; 
+}
+
+.form-group {
+  margin-bottom: 0px;
+}
+
+.input-group {
+  margin-bottom: 7.5px;
+}
+
+.add-event-form {
+  width: 75%;
+  margin: 20px auto 20px auto;
+}
+
+.close {
+  margin: 20px;
+  font-size: 2em;
+  opacity: .6;
+  color: white;
+}
+
+.basic-trick-info, .location-info, .media-info, .date-info {
+  border: 2px solid #eee;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+
+#map-modal {
+  width: 400px;
+  height: 200px;
+  background-color: silver;
+  margin: auto;
+}
+
+#add-location-list-btn, #add-location-map-btn {
+  display: inline-block;
+}
+
+#add-location-map-btn {
+}
+
+.location-info h4 {
+  display: inline-block;
+}
+
+.input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year, 
+  .input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
+  margin-bottom: 15px;
+  border-radius: 0px !important;
+}
+
+.input-state, .input-city {
+  margin-top: 14px;
+}
+
+
+h4 {
+  color: #FFCB27;
+}
+
+.input-group-addon {
+  border-radius: 0px;
+  color: #eee;
+  background-color: transparent;
+}
+
+.form-control {
+  border-radius: 0px;
+  background-color: transparent;
+  color: #eee;
+}
+
+
+
+
+.modal-open {
+  color: #eee;
+}
+
+.modal-content {
+  background: url('../img/background/background-black.jpg') no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #444;
+}
+
+select {
+  border-radius: 0px;
+}
+ 
