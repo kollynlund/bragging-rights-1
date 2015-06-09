@@ -9,12 +9,16 @@
   <meta charset="utf-8">    
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="sass-test/stylesheets/styles.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css">  
+  <link rel="stylesheet" href="css/bootstrap-modal-carousel.min.css"> 
+  <link href="sass-test/sass/styles.css" rel="stylesheet">
+   
+
   <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>  
   <script src="js/bootstrap.min.js"></script>
   <script src="js/d3.v3.min.js"></script>
@@ -206,42 +210,61 @@
         <div class="modal-body event-details-modal-data-container">                              
           <div class="row text-center">
 
-            <div class="col-md-9">
+            <div class="col-md-12">
               <div class="header-event-modal">
-                <div id="logo" class="ribbon"> 
-                  <h1><p class="event-data-modal-name">a</p></h1>
+                <div id="name" class="ribbon"> 
+                 <h1><p class="event-data-modal-name">a</p></h1>
                 </div>
                 <div class="event-data-modal-trick">a</div> 
+                        
               </div> 
-              <!-- * * DISPLAY EVENT IMAGES IN CAROUSEL * * -->
-              <div id="myCarousel" class="carousel slide carousel-fit" data-ride="carousel" data-interval="60000">    
+            </div> 
 
-                <!-- Indicators -->
+
+
+<div class="col-sm-9">
+
+  <div id="photo-vid-container">
+  <h2 class="details-left">Media</h2>
+    <div class="btn-group btn-vid-photo-group pull-left" data-toggle="buttons">
+        <button type="button" id="btn-photo" class="btn btn-toggle-active" name="options"><i class="fa fa-camera glode-icon-btn"></i></span></button>
+        <button type="button" id="btn-video" class="btn" name="options"><i class="fa fa-video-camera list-icon-btn"></i></button>
+    </div>
+  </div>
+
+<!--               <div id="myCarousel" class="carousel slide carousel-fit" data-ride="carousel" data-interval="60000">
                 <ol class="carousel-indicators">
-                  <!-- Photo indicators are inserted dynamically here -->
                 </ol>
-                
-                <!-- Wrapper for slides -->
                 <div class="carousel-inner">
-                  <!-- Photos are inserted dynamically here -->
                 </div>
-
-                <!-- Controls -->
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                   <span class="glyphicon glyphicon-chevron-left"></span>
                 </a>
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">
                   <span class="glyphicon glyphicon-chevron-right"></span>
                 </a>  
+              </div>
 
-              </div><!-- Closes carousel -->
-              <!-- * * END OF EVENT IMAGES IN CAROUSEL * * -->            
+
+
                <div style="width: 100%" class="embed-responsive embed-responsive-16by9">
-                  <iframe class="embed-responsive-item event-video" src="//www.youtube.com/embed/RJIHlR3XK4A?list=UU7iNPNOL70yGYwTFInHMRwA" allowfullscreen></iframe>   
-               </div><!-- Closes responsive iframe -->    
+                  <iframe class="embed-responsive-item event-video" src="" allowfullscreen></iframe>  
+               </div> -->
+             
+
+
+
+                <div class="event-modal-extra">
+                  <h2 class="details-left">Details</h2>
+                  <div class="event-data-modal-extra">a</div>
+                </div>      
+
+
+
+
             </div><!-- Closes 9 col grid --> 
 
-            <div class="col-md-3 display-event-info-modal-col-left"> 
+            <div class="col-sm-3 display-event-info-modal-col-left"> 
               <div class="border">
 
                 <div class="event-modal-discipline">
@@ -263,11 +286,7 @@
                   <div class="event-data-modal-date">a</div>
                 </div>   
 
-                <div class="event-modal-extra">
-                  <h2 class="details-left">Details</h2>
-                  <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                  <div class="event-data-modal-extra">a</div>
-                </div>                 
+             
               </div>
             </div>
 

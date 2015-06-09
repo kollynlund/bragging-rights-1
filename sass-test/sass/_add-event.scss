@@ -1,5 +1,19 @@
 /*________MODAL FORM ADD EVENT___________*/
 
+
+.modal-open {
+  color: #eee;
+}
+
+.modal-content {
+  // background: url('../../img/background/background-black.jpg') no-repeat center center; 
+  // -webkit-background-size: cover;
+  // -moz-background-size: cover;
+  // -o-background-size: cover;
+  // background-size: cover;
+  background-color: #333;
+}
+
 .modal {
     font-family: 'Roboto Slab', sans-serif; 
 }
@@ -80,20 +94,40 @@ h4 {
 
 
 
-.modal-open {
-  color: #eee;
-}
 
-.modal-content {
-  background: url('../img/background/background-black.jpg') no-repeat center center; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: #444;
-}
 
 select {
   border-radius: 0px;
 }
  
+
+ /*upload file btn files*/
+
+.btn {
+  border-radius: 0px;
+}
+
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 100px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background: red;
+  cursor: inherit;
+  display: block;
+}
+
+input[readonly] {
+  background-color: transparent !important;
+  cursor: text !important;
+}

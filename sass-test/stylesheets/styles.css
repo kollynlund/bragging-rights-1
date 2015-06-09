@@ -172,7 +172,76 @@ th {
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc,  4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
-/* line 40, ../sass/_event-modal.scss */
+/*________TEXT_____________________
+____________________________________*/
+/* line 44, ../sass/_event-modal.scss */
+#logo h1 {
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: 54px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  height: 56px;
+  margin: 0;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  white-space: nowrap;
+}
+
+/* line 57, ../sass/_event-modal.scss */
+#logo h1 p {
+  color: #333;
+  text-decoration: none;
+}
+
+/* line 62, ../sass/_event-modal.scss */
+#logo p:before, #logo p:after {
+  content: '\2013\2002';
+  color: #333;
+}
+
+/* line 68, ../sass/_event-modal.scss */
+.ribbon {
+  background-color: #FFCB27;
+  padding: 0 20px;
+  height: 56px;
+  display: inline-block;
+  position: relative;
+  margin-left: 56px;
+  margin-right: 56px;
+  z-index: 1000;
+  width: 80%;
+  margin-top: 10px;
+}
+
+/* line 84, ../sass/_event-modal.scss */
+.ribbon:before, .ribbon:after {
+  content: '.';
+  text-indent: -9999em;
+  height: 0;
+  width: 0;
+  border-style: solid;
+  border-width: 28px;
+  position: absolute;
+  left: -45px;
+  top: 10px;
+  display: block;
+  z-index: 1;
+}
+
+/* line 98, ../sass/_event-modal.scss */
+.ribbon:before {
+  border-color: #FFCB27 #FFCB27 #FFCB27 transparent;
+}
+
+/* line 103, ../sass/_event-modal.scss */
+.ribbon:after {
+  border-color: #FFCB27 transparent #FFCB27 #FFCB27;
+  right: -45px;
+  left: auto;
+}
+
+/* line 109, ../sass/_event-modal.scss */
 .event-data-modal-name {
   font-size: 1em;
   text-overflow: ellipsis;
@@ -180,7 +249,7 @@ th {
   width: 450px;
 }
 
-/* line 48, ../sass/_event-modal.scss */
+/* line 118, ../sass/_event-modal.scss */
 .event-data-modal-trick {
   color: #BF981D;
   margin: 10px 85px 25px 85px;
@@ -188,20 +257,20 @@ th {
   font-size: 1em;
 }
 
-/* line 56, ../sass/_event-modal.scss */
+/* line 126, ../sass/_event-modal.scss */
 .display-event-info-modal-col-left {
   width: 23%;
   margin-left: 15px;
   margin-top: 12px;
 }
 
-/* line 62, ../sass/_event-modal.scss */
+/* line 132, ../sass/_event-modal.scss */
 .event-data-modal-discipline {
   margin-bottom: 15px;
   margin-top: 10px;
 }
 
-/* line 67, ../sass/_event-modal.scss */
+/* line 137, ../sass/_event-modal.scss */
 .discipline-left {
   padding: 5px 0 5px 0;
   margin-top: 0px;
@@ -210,7 +279,7 @@ th {
   color: #333;
 }
 
-/* line 75, ../sass/_event-modal.scss */
+/* line 145, ../sass/_event-modal.scss */
 .svg-icon-left {
   max-width: 100px;
   max-height: 100px;
@@ -219,24 +288,24 @@ th {
   margin: 0 auto;
 }
 
-/* line 83, ../sass/_event-modal.scss */
+/* line 153, ../sass/_event-modal.scss */
 .event-data-modal-extra {
   color: #333;
   margin-bottom: 40px;
 }
 
-/* line 89, ../sass/_event-modal.scss */
+/* line 159, ../sass/_event-modal.scss */
 .event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline {
   padding-bottom: 5px;
 }
 
-/* line 93, ../sass/_event-modal.scss */
+/* line 163, ../sass/_event-modal.scss */
 .event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline, .event-data-modal-city, .event-data-modal-extra {
   color: #eee;
   font-size: 1em;
 }
 
-/* line 100, ../sass/_event-modal.scss */
+/* line 170, ../sass/_event-modal.scss */
 .glyphicon-calendar, .globe-modal, .glyphicon-star {
   font-size: 3em;
   color: #FFCB27;
@@ -244,7 +313,7 @@ th {
   /*color: #2748FF;*/
 }
 
-/* line 111, ../sass/_event-modal.scss */
+/* line 181, ../sass/_event-modal.scss */
 .date-left, .location-left, .details-left {
   margin-top: 7.5px;
   color: #333;
@@ -254,7 +323,7 @@ th {
   margin-bottom: 5px;
 }
 
-/* line 122, ../sass/_event-modal.scss */
+/* line 192, ../sass/_event-modal.scss */
 .event-video, #myCarousel {
   border: 2px solid #ddd;
   background-color: #ddd;
@@ -262,48 +331,48 @@ th {
   width: 100%;
 }
 
-/* line 130, ../sass/_event-modal.scss */
+/* line 200, ../sass/_event-modal.scss */
 .event-modal-discipline, .event-modal-location, .event-modal-date, .event-modal-extra {
   background-color: rgba(93, 93, 93, 0.6);
   margin-bottom: 30px;
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc,  4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
-/* line 137, ../sass/_event-modal.scss */
+/* line 207, ../sass/_event-modal.scss */
 .event-video {
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc,  4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
 }
 
 /*        ________IMG CAROUSEL______________
         ____________________________________*/
-/* line 154, ../sass/_event-modal.scss */
+/* line 224, ../sass/_event-modal.scss */
 #myCarousel {
   background-color: rgba(255, 255, 255, 0.5);
   margin-bottom: 10px;
 }
 
-/* line 160, ../sass/_event-modal.scss */
+/* line 230, ../sass/_event-modal.scss */
 .carousel-indicators {
   margin-top: 10px;
 }
 
-/* line 164, ../sass/_event-modal.scss */
+/* line 234, ../sass/_event-modal.scss */
 .modal.modal-fullscreen .modal-content {
   background: rgba(0, 0, 0, 0.5);
 }
 
-/* line 167, ../sass/_event-modal.scss */
+/* line 237, ../sass/_event-modal.scss */
 .modal.modal-fullscreen .modal-header {
   border: 0;
   color: #fff;
 }
 
-/* line 171, ../sass/_event-modal.scss */
+/* line 241, ../sass/_event-modal.scss */
 .modal.modal-fullscreen .modal-footer {
   border-color: rgba(0, 0, 0, 0.5);
 }
 
-/* line 174, ../sass/_event-modal.scss */
+/* line 244, ../sass/_event-modal.scss */
 #myModal .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5);
   bottom: -100%;
@@ -311,106 +380,20 @@ th {
   transition: bottom 1s;
 }
 
-/* line 180, ../sass/_event-modal.scss */
+/* line 250, ../sass/_event-modal.scss */
 #myModal .item.active > .carousel-caption {
   bottom: 0;
 }
 
 /*________MODAL FORM ADD EVENT___________*/
-/* line 3, ../sass/_add-event.scss */
-.modal {
-  font-family: 'Roboto Slab', sans-serif;
-}
-
-/* line 7, ../sass/_add-event.scss */
-.form-group {
-  margin-bottom: 0px;
-}
-
-/* line 11, ../sass/_add-event.scss */
-.input-group {
-  margin-bottom: 7.5px;
-}
-
-/* line 15, ../sass/_add-event.scss */
-.add-event-form {
-  width: 75%;
-  margin: 20px auto 20px auto;
-}
-
-/* line 20, ../sass/_add-event.scss */
-.close {
-  margin: 20px;
-  font-size: 2em;
-  opacity: .6;
-  color: white;
-}
-
-/* line 27, ../sass/_add-event.scss */
-.basic-trick-info, .location-info, .media-info, .date-info {
-  border: 2px solid #eee;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
-/* line 35, ../sass/_add-event.scss */
-#map-modal {
-  width: 400px;
-  height: 200px;
-  background-color: silver;
-  margin: auto;
-}
-
-/* line 42, ../sass/_add-event.scss */
-#add-location-list-btn, #add-location-map-btn {
-  display: inline-block;
-}
-
-/* line 49, ../sass/_add-event.scss */
-.location-info h4 {
-  display: inline-block;
-}
-
-/* line 53, ../sass/_add-event.scss */
-.input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year,
-.input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
-  margin-bottom: 15px;
-  border-radius: 0px !important;
-}
-
-/* line 59, ../sass/_add-event.scss */
-.input-state, .input-city {
-  margin-top: 14px;
-}
-
-/* line 64, ../sass/_add-event.scss */
-h4 {
-  color: #FFCB27;
-}
-
-/* line 68, ../sass/_add-event.scss */
-.input-group-addon {
-  border-radius: 0px;
-  color: #eee;
-  background-color: transparent;
-}
-
-/* line 74, ../sass/_add-event.scss */
-.form-control {
-  border-radius: 0px;
-  background-color: transparent;
-  color: #eee;
-}
-
-/* line 83, ../sass/_add-event.scss */
+/* line 4, ../sass/_add-event.scss */
 .modal-open {
   color: #eee;
 }
 
-/* line 87, ../sass/_add-event.scss */
+/* line 8, ../sass/_add-event.scss */
 .modal-content {
-  background: url("../img/background/background-black.jpg") no-repeat center center;
+  background: url("../../img/background/background-black.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -418,9 +401,129 @@ h4 {
   background-color: #444;
 }
 
-/* line 96, ../sass/_add-event.scss */
+/* line 17, ../sass/_add-event.scss */
+.modal {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+/* line 21, ../sass/_add-event.scss */
+.form-group {
+  margin-bottom: 0px;
+}
+
+/* line 25, ../sass/_add-event.scss */
+.input-group {
+  margin-bottom: 7.5px;
+}
+
+/* line 29, ../sass/_add-event.scss */
+.add-event-form {
+  width: 75%;
+  margin: 20px auto 20px auto;
+}
+
+/* line 34, ../sass/_add-event.scss */
+.close {
+  margin: 20px;
+  font-size: 2em;
+  opacity: .6;
+  color: white;
+}
+
+/* line 41, ../sass/_add-event.scss */
+.basic-trick-info, .location-info, .media-info, .date-info {
+  border: 2px solid #eee;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+/* line 49, ../sass/_add-event.scss */
+#map-modal {
+  width: 400px;
+  height: 200px;
+  background-color: silver;
+  margin: auto;
+}
+
+/* line 56, ../sass/_add-event.scss */
+#add-location-list-btn, #add-location-map-btn {
+  display: inline-block;
+}
+
+/* line 63, ../sass/_add-event.scss */
+.location-info h4 {
+  display: inline-block;
+}
+
+/* line 67, ../sass/_add-event.scss */
+.input-name, .input-discipline, .input-trick, .input-month, .input-day, .input-year,
+.input-details, .input-photo, .input-video, .input-email, .input-county, .input-state, .input-city {
+  margin-bottom: 15px;
+  border-radius: 0px !important;
+}
+
+/* line 73, ../sass/_add-event.scss */
+.input-state, .input-city {
+  margin-top: 14px;
+}
+
+/* line 78, ../sass/_add-event.scss */
+h4 {
+  color: #FFCB27;
+}
+
+/* line 82, ../sass/_add-event.scss */
+.input-group-addon {
+  border-radius: 0px;
+  color: #eee;
+  background-color: transparent;
+}
+
+/* line 88, ../sass/_add-event.scss */
+.form-control {
+  border-radius: 0px;
+  background-color: transparent;
+  color: #eee;
+}
+
+/* line 99, ../sass/_add-event.scss */
 select {
   border-radius: 0px;
+}
+
+/*upload file btn files*/
+/* line 106, ../sass/_add-event.scss */
+.btn {
+  border-radius: 0px;
+}
+
+/* line 110, ../sass/_add-event.scss */
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+
+/* line 115, ../sass/_add-event.scss */
+.btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 100px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background: red;
+  cursor: inherit;
+  display: block;
+}
+
+/* line 130, ../sass/_add-event.scss */
+input[readonly] {
+  background-color: transparent !important;
+  cursor: text !important;
 }
 
 /*________PAGE_________________
@@ -831,82 +934,13 @@ ____________________________________*/
   transform: rotate(3deg);
 }
 
-/*________TEXT_____________________
-____________________________________*/
-/* line 413, ../sass/styles.scss */
-#logo h1 {
-  font-size: 1.125em;
-  font-weight: 700;
-  line-height: 54px;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  height: 56px;
-  margin: 0;
-  display: inline-block;
-  -webkit-font-smoothing: antialiased;
-  white-space: nowrap;
-}
-
-/* line 426, ../sass/styles.scss */
-#logo h1 p {
-  color: #333;
-  text-decoration: none;
-}
-
-/* line 431, ../sass/styles.scss */
-#logo p:before, #logo p:after {
-  content: '\2013\2002';
-  color: #333;
-}
-
-/* line 437, ../sass/styles.scss */
-.ribbon {
-  background-color: #FFCB27;
-  padding: 0 20px;
-  height: 56px;
-  display: inline-block;
-  position: relative;
-  margin-left: 56px;
-  margin-right: 56px;
-  z-index: 1000;
-  width: 80%;
-  margin-top: 10px;
-}
-
-/* line 453, ../sass/styles.scss */
-.ribbon:before, .ribbon:after {
-  content: '.';
-  text-indent: -9999em;
-  height: 0;
-  width: 0;
-  border-style: solid;
-  border-width: 28px;
-  position: absolute;
-  left: -45px;
-  top: 10px;
-  display: block;
-  z-index: 1;
-}
-
-/* line 467, ../sass/styles.scss */
-.ribbon:before {
-  border-color: #FFCB27 #FFCB27 #FFCB27 transparent;
-}
-
-/* line 472, ../sass/styles.scss */
-.ribbon:after {
-  border-color: #FFCB27 transparent #FFCB27 #FFCB27;
-  right: -45px;
-  left: auto;
-}
-
 @media (max-width: 600px) {
-  /* line 481, ../sass/styles.scss */
+  /* line 414, ../sass/styles.scss */
   * {
     font-size: .98em;
   }
 
-  /* line 485, ../sass/styles.scss */
+  /* line 418, ../sass/styles.scss */
   .ribbon {
     padding: 0 5px;
     margin-left: 0px;
@@ -914,47 +948,14 @@ ____________________________________*/
     width: 73%;
   }
 
-  /* line 492, ../sass/styles.scss */
+  /* line 425, ../sass/styles.scss */
   #logo p:before, #logo p:after {
     content: none;
   }
 
-  /* line 496, ../sass/styles.scss */
+  /* line 429, ../sass/styles.scss */
   #logo h1 {
     font-size: .8em;
     letter-spacing: 2px;
   }
-}
-/*upload file btn files*/
-/* line 513, ../sass/styles.scss */
-.btn {
-  border-radius: 0px;
-}
-
-/* line 517, ../sass/styles.scss */
-.btn-file {
-  position: relative;
-  overflow: hidden;
-}
-
-/* line 522, ../sass/styles.scss */
-.btn-file input[type=file] {
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-width: 100%;
-  min-height: 100%;
-  font-size: 100px;
-  text-align: right;
-  filter: alpha(opacity=0);
-  opacity: 0;
-  background: red;
-  cursor: inherit;
-  display: block;
-}
-
-/* line 537, ../sass/styles.scss */
-input[readonly] {
-  background-color: transparent !important;
-  cursor: text !important;
 }

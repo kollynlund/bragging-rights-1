@@ -3,12 +3,12 @@
 /*________EVENT MODAL________________________*/
 
 .modal-body {
-  background: url('../../img/background/background-black.jpg'); 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: #444;
+  // background: url('../../img/background/background-black.jpg'); 
+  // -webkit-background-size: cover;
+  // -moz-background-size: cover;
+  // -o-background-size: cover;
+  // background-size: cover;
+  background-color: #222;
   font-family: 'Roboto Slab', sans-serif; 
 }
 
@@ -25,38 +25,120 @@
 
 .header-event-modal {
   background-color: #5D5D5D;
-  margin-top: 12px;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
   border-radius: 0px;
   margin-bottom: 20px;
   font-size: 1.125em;
-    box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
-     4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+
 }
 
-.event-modal-details {
+#name h1 {
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: 54px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  height: 56px;
+  margin: 0;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  white-space:nowrap;
+}
 
+#name h1 p {
+  color:#333;
+  text-decoration:none;
+}
+
+#name p:before, #logo p:after {
+  content: '\2013\2002';
+  color: #333;
+}
+
+
+.ribbon {
+  background-color:#FFCB27;
+  padding: 0 20px;
+  height: 56px;
+  display: inline-block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1000;
+  width: 85%;
+  margin-top: 10px;
+
+}
+
+.ribbon:before, .ribbon:after {
+  content: '.';
+  text-indent: -9999em;
+  height: 0;
+  width: 0;
+  border-style: solid;
+  border-width: 28px;
+  position: absolute;
+  left: -45px;
+  top: 10px;
+  display: block;
+  z-index: 1;
+}
+
+.ribbon:before {
+  border-color: #FFCB27 #FFCB27 #FFCB27 transparent;
+
+}
+
+.ribbon:after {
+  border-color: #FFCB27 transparent #FFCB27 #FFCB27;
+  right: -45px;
+  left: auto;
 }
 
 .event-data-modal-name {
-  font-size: 1em;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  width: 450px;
+  font-size: 1.5em;
+  // text-overflow: ellipsis;
+  // overflow: hidden;
+  // width: 450px;
+}
+
+
+#btn-photo, #btn-video {
+  border: 3px solid #ddd;
+  border-radius: 0px;
+  background-color: #333;
+  color: #eee;
 
 }
 
+.btn-vid-photo-group {
+  padding: 0px;
+}
+
+#photo-vid-container {
+  background-color: rgba(93, 93, 93, 0.6);
+  margin-bottom: 30px;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
+  height: 400px;
+}
+
+
+
 .event-data-modal-trick {
   color: #BF981D;
-  margin: 10px 85px 25px 85px;
-  padding-bottom: 10px;
-  font-size: 1em;
+  color: #FFCB27;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 40px; 
+  font-size: 1.125em;
+  width: 80%;
+  padding-bottom: 5px;
 }
 
 
 .display-event-info-modal-col-left {
-  width: 23%;
-  margin-left: 15px;
-  margin-top: 12px;
+  margin-top: 8px;
 }
 
 .event-data-modal-discipline {
@@ -83,7 +165,18 @@
  .event-data-modal-extra {
   color: #333;
   margin-bottom: 40px;
+  padding: 15px;
+  text-align: left;
   
+}
+
+
+.event-modal-date, .event-modal-location, .event-modal-discipline {
+  height: 182px;
+}
+
+.event-data-modal-city, .event-data-modal-date {
+  padding-top: 15px;
 }
 
 .event-data-modal-country, .event-data-modal-date, .event-data-modal-discipline {
@@ -98,9 +191,9 @@
 
 
 .glyphicon-calendar, .globe-modal, .glyphicon-star {
-  font-size: 3em;
+  font-size: 4em;
   color: #FFCB27;
-  margin-top: 7.5px;
+  margin-top: 15px;
 
   /*color: #2748FF;*/
 
@@ -180,3 +273,7 @@
 #myModal .item.active >.carousel-caption {
   bottom: 0;
 }
+
+
+
+
