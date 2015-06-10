@@ -37,12 +37,54 @@
 <!-- * * THE STUFF THAT REALLY IS THE WEBSITE * * -->
 
 <body>  
+        
+       
+<p class="welcome-top">The World's first interactive website to find, share and explore the best action sports achievements from around the globe.</p>
+<div class="row header">
+  <div class="col-sm-12">
+ 
+    <img class="logo img-responsive" alt="logo" src="img/logocrop.png">
+
+    <div class="btn-group map-list-btns nav-item" data-toggle="buttons">
+            <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"><span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>
+            <button type="button" id="btn-list" class="btn" name="options"><span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>
+    </div>
+
+         <div id="filter-map" class="dropdown">
+            <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
+              FILTER MAP <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
+              <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
+            </ul>
+          </div>
+
+        <div class="form-inline search-box nav-item" role="search">
+          <div class="input-group search-box">
+            <input type="text" class="form-control search-input" id="search-input" placeholder="Search">
+            <span class="input-group-btn">
+              <button class="btn search-btn">GO</button>
+            </span>
+          </div>
+        </div>
+
+        <button type="button" class="btn btn-add-event nav-item" data-toggle="modal" data-target=".add-worlds-first-modal">
+         <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> ADD AN EVENT</button>
+
+  </div>
+
+  </div>
+  </div>
+
+
+      
 
 <!-- * * HEADER * * -->
   
-<div class="container-fluid">
+<!-- <div class="container-fluid">
 
     <div class="row header">
+
       <div class="col-sm-2">
         <img class="icon img-responsive pull-left" alt="logo" src="img/logocrop.png">
       </div> 
@@ -61,7 +103,7 @@
      </div>     
     </div>  
   </div>
-</div>
+</div> -->
 
 
 <!-- * * MAIN CONTENT CONTAINER * * -->
@@ -300,7 +342,8 @@
 
 
   <!-- * * NAVIGATION * * -->
-  <div class="navigation">
+
+<!--   <div class="navigation">
     <div class="row text-center">
       <div class="col-sm-3">
         <div class="btn-group map-list-btns pull-left" data-toggle="buttons">
@@ -314,10 +357,7 @@
             <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
               FILTER RESULTS <span class="caret"></span>
             </button>
-            <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
-
-              <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
-            
+            <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">            
             </ul>
           </div>
       </div>
@@ -333,7 +373,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
   <!-- * * LIST VIEW * * -->    
@@ -362,52 +402,40 @@
 
   <!-- * * MAP VIEW * * -->
 
-  <div id="map">
-    <div class="row  map-data-item country-name map-data-display">
-      <div class="col-sm-12 ">&nbsp;</div>
-    </div>
-
-    <div class="row">
-      <div class="col-sm-12">
         <div id="map-container">
-          <!-- OLD MAP BUTTONS CODE
+
           <div class="map-nav-tools">
-
-          <span class="fa-stack fa-lg ">
-              <a href="#">
-              <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
-          </span>
-
-            <br>
-
-          <span class="fa-stack fa-lg">
-              <a href="#">
-              <i class="fa fa-search-minus fa-stack-1x fa-inverse"></i></a>   
-          </span>
-
-            <br>
-
-            <span class="fa-stack fa-lg">
-              <a href="#">
-              <span class="glyphicon glyphicon-move fa-stack-1x fa-inverse"></span></a>
+            <span class="fa-stack fa-lg ">
+                <a href="#">
+                <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
             </span>
-
+              <br>
+            <span class="fa-stack fa-lg">
+                <a href="#">
+                <i class="fa fa-search-minus fa-stack-1x fa-inverse"></i></a>   
+            </span>
+              <br>
+  <!--             <span class="fa-stack fa-lg">
+                <a href="#">
+                <span class="glyphicon glyphicon-move fa-stack-1x fa-inverse"></span></a>
+              </span> -->
           </div>
-          -->
+          <div class="map-info">
+            <div class="map-data-item country-name map-data-display">
+          </div>
+         
           <script src="js/map.js"></script>
         </div>
-      </div>
-    </div>
-  </div> <!-- Closes map div -->
 
 
-  <!-- * * MAKING SOME ROOM AT THE BOTTOM (I think...) * * -->
 
-  <div class="room" style="margin-bottom: 250px"></div>
+ 
+  
 </div> <!-- * * END MAIN CONTENT CONTAINER * * -->
 
+<p class="welcome-top">Created by Kollyn Lund and Tanner Bindrup.</p>
 
-<!-- * * SOME GOOD SCRIPTS AND STUFF TO MAKE OUR CODE LOOK COOL AT THE END * * -->
+
 
 <script src="js/functions.js"></script>
 <script src="js/bootstrap-modal-carousel.min.js"></script>
