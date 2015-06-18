@@ -19,7 +19,23 @@
   min-height: 30px;
   border: none;
   padding: 5px;
+}
 
+.add-event-header-title {
+  padding-top: 20px;
+  font-size: 2em;
+
+}
+
+.modal-footer {
+  border: none;
+}
+
+.modal-dialog {
+  max-width: 1100px;
+  @media (min-width: 768px) {
+    width: 80%;
+  }
 }
 
 .header-event-modal {

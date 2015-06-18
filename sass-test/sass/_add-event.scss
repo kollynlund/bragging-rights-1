@@ -31,6 +31,14 @@
   margin-bottom: 0px;
 }
 
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+textarea.form-control {
+  height: 80px;
+}
 
 .add-event-form {
   width: 80%;
@@ -50,6 +58,12 @@
 
 .close:hover {
   color: #ccc;
+}
+
+
+select {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
 }
 
 .basic-trick-info, .location-info, .media-info, .date-info {
@@ -126,12 +140,17 @@ h4 {
 
 
 
-
-
-
-select {
-  border-radius: 0px;
+.email-icon {
+  color: #FFCB27;
+  font-size: 2em !important;
+  padding-right: 5px;
 }
+
+#email-label {
+  position: relative;
+  top: -5px;
+}
+
  
 
  /*upload file btn files*/
@@ -149,6 +168,24 @@ select {
   background-color: #bbb;
   color: #111;
   &:hover {
+    color: #111;
+  }
+}
+
+.add-event-submit-button {
+  background-color: #FFCB27;
+  color: #111;
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  &:hover {
+    background-color: #E5B723;
     color: #111;
   }
 }

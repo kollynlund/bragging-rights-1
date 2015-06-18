@@ -116,7 +116,7 @@
       <div class="modal-content" ng-controller="testControl">
         <div class="modal-header modal-header-add-event">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <!-- <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4> -->
+          <h4 class="modal-title add-event-header-title" id="ModalLabel">Add an achievement</h4>
         </div> <!-- Closes header -->
         <div class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
 
@@ -126,7 +126,7 @@
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-user add-event-icon"></i></div>
                   <input type="text" class="form-control input-name" name="name-input" placeholder="Enter the full name of the person who achieved greatness" ng-model="selections.Name">
-                </div> <!-- Closes input-name -->
+                </div> <!-- Closes input-name -->               
 
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-star add-event-icon"></i></div>
@@ -136,7 +136,7 @@
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-calendar add-event-icon"></i></div>
                   <select class="form-control input-month" name="month-input">
-                    <option>Enter date of accomplishment</option>
+                    <option>Month <i class="fa fa-chevron-down"></i></option>
                     <option class="month-option" days="31">- January</option>
                     <option class="month-option" days="28">- February</option>
                     <option class="month-option" days="31">- March</option>
@@ -168,8 +168,8 @@
 
 
             <div class="location-info">
-              <h4 style="display:block">Location</h4>
-              <button class="btn btn-default" id="add-location-list-btn" type="button">List <span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>  
+              <h4 style="display:block">Choose Location of achievement</h4>
+              <button class="btn btn-default btn-toggle-active" id="add-location-list-btn" type="button">List <span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>  
 
               <button class="btn btn-default" id="add-location-map-btn" type="button">Map <span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>  
 
@@ -237,17 +237,22 @@
                 <!-- Inserting more photo upload groups here dynamically -->
             </div> <!-- Closes media-info -->
 
+<!--                 <div class="input-group input-add-event-group">
+                  <div class="input-group-addon"><i class="fa fa-bell add-event-icon"></i></div>
+                  <input type="text" class="form-control input-name" name="name-input" placeholder="Enter your email address to recieve news of new achievments" ng-model="selections.Name">
+                </div>  -->
 
             <div class="form-group email-input-group">
-              <label>Add your email address to recieve notifactaions of new achievments.</label>
+              <i class="fa fa-exclamation email-icon"></i><label id="email-label"> Add your email address to recieve notifactaions of new achievments.</label>
               <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
             </div> <!-- Closes email form-group -->
 
+            <button type="submit" class="btn add-event-submit-button">Submit</button>
 
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              <button type="submit" class="btn btn-primary add-event-submit-button">Submit</button>
-            </div> <!-- Closes modal-footer -->
+
+<!--             <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+            </div>  -->
 
 
             <input class="input-lat" type="text" name="lat" hidden>

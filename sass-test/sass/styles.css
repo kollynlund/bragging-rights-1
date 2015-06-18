@@ -114,6 +114,19 @@ th {
   border: none;
   padding: 5px; }
 
+.add-event-header-title {
+  padding-top: 20px;
+  font-size: 2em; }
+
+.modal-footer {
+  border: none; }
+
+.modal-dialog {
+  max-width: 1100px; }
+  @media (min-width: 768px) {
+    .modal-dialog {
+      width: 80%; } }
+
 .header-event-modal {
   background-color: #5D5D5D;
   box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;
@@ -320,6 +333,13 @@ th {
 .form-group {
   margin-bottom: 0px; }
 
+textarea {
+  resize: none;
+  height: 100px; }
+
+textarea.form-control {
+  height: 80px; }
+
 .add-event-form {
   width: 80%;
   margin: 20px auto 20px auto; }
@@ -335,6 +355,10 @@ th {
 
 .close:hover {
   color: #ccc; }
+
+select {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px; }
 
 .basic-trick-info, .location-info, .media-info, .date-info {
   border: 2.5px solid #bbb;
@@ -387,8 +411,14 @@ h4 {
   border-radius: 0px;
   background-color: #eee; }
 
-select {
-  border-radius: 0px; }
+.email-icon {
+  color: #FFCB27;
+  font-size: 2em !important;
+  padding-right: 5px; }
+
+#email-label {
+  position: relative;
+  top: -5px; }
 
 /*upload file btn files*/
 .btn {
@@ -402,6 +432,22 @@ select {
   background-color: #bbb;
   color: #111; }
   .btn-photo:hover {
+    color: #111; }
+
+.add-event-submit-button {
+  background-color: #FFCB27;
+  color: #111;
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  margin-top: 35px;
+  margin-bottom: 35px; }
+  .add-event-submit-button:hover {
+    background-color: #E5B723;
     color: #111; }
 
 .btn-file input[type=file] {
