@@ -6,16 +6,13 @@
 }
 
 .modal-content {
-  // background: url('../../img/background/background-black.jpg') no-repeat center center; 
-  // -webkit-background-size: cover;
-  // -moz-background-size: cover;
-  // -o-background-size: cover;
-  // background-size: cover;
   background-color: rgba(10, 10, 10, .9);
+  background-color: #222;
 }
 
 .modal-header-add-event {
   background-color: rgba(10, 10, 10, .9 );
+  background-color: #222;
   border-radius: 5px 5px 0 0;
   text-align: center;
   min-height: 30px;
@@ -66,12 +63,15 @@ select {
   -webkit-border-radius: 0px;
 }
 
-.basic-trick-info, .location-info, .media-info, .date-info {
-  border: 2.5px solid #bbb;
+.input-group-container {
+  // border: 2.5px solid #bbb;
+  //border-radius: 5px;
+  //background-color: #222;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc;
   padding: 10px;
-  background-color: #222;
-  margin-bottom: 15px;
-  border-radius: 5px;
+  background-color: #5d5d5d;
+  margin-bottom: 20px;
+  
 }
 
 .input-add-event-group {
@@ -136,6 +136,9 @@ h4 {
 .form-control {
   border-radius: 0px;
   background-color: #eee;
+  &:active {
+    background-color: #fff;
+  }
 }
 
 
@@ -182,7 +185,7 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   height: 40px;
-  margin-top: 35px;
+  margin-top: 25px;
   margin-bottom: 35px;
   &:hover {
     background-color: #E5B723;

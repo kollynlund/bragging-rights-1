@@ -121,7 +121,7 @@
         <div class="add-event-form" action="test code/file_upload_test.php" method="post" enctype="multipart/form-data">
 
           <div class="form-group add-event-modal-main-form-group">
-            <div class="basic-trick-info">
+            <div class="input-group-container">
                 <h4>Achievment Info</h4>
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-user add-event-icon"></i></div>
@@ -167,8 +167,8 @@
             </div> <!-- Closes basic trick info -->
 
 
-            <div class="location-info">
-              <h4 style="display:block">Choose Location of achievement</h4>
+            <div class="input-group-container">
+              <h4 style="display:block">Location of achievement</h4>
               <button class="btn btn-default btn-toggle-active" id="add-location-list-btn" type="button">List <span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>  
 
               <button class="btn btn-default" id="add-location-map-btn" type="button">Map <span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>  
@@ -221,7 +221,7 @@
             </div>     -->   
 
 
-            <div class="media-info">
+            <div class="input-group-container">
                 <h4>Media</h4>   
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-video-camera add-event-icon"></i></div>
@@ -241,12 +241,12 @@
                   <div class="input-group-addon"><i class="fa fa-bell add-event-icon"></i></div>
                   <input type="text" class="form-control input-name" name="name-input" placeholder="Enter your email address to recieve news of new achievments" ng-model="selections.Name">
                 </div>  -->
-
+<div class="input-group-container">
             <div class="form-group email-input-group">
               <i class="fa fa-exclamation email-icon"></i><label id="email-label"> Add your email address to recieve notifactaions of new achievments.</label>
               <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
             </div> <!-- Closes email form-group -->
-
+</div>
             <button type="submit" class="btn add-event-submit-button">Submit</button>
 
 
