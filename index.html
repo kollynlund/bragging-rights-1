@@ -135,8 +135,8 @@
 
                 <div class="input-group input-add-event-group">
                   <div class="input-group-addon"><i class="fa fa-calendar add-event-icon"></i></div>
-                  <select class="form-control month-picklist input-month" name="month-input">
-                    <option>Month</option>
+                  <select class="form-control input-month" name="month-input">
+                    <option>Enter date of accomplishment</option>
                     <option class="month-option" days="31">- January</option>
                     <option class="month-option" days="28">- February</option>
                     <option class="month-option" days="31">- March</option>
@@ -150,12 +150,12 @@
                     <option class="month-option" days="30">- November</option>
                     <option class="month-option" days="31">- December</option>
                   </select>  
-                  <select class="form-control day-of-month-picklist input-day" name="day-input"></select> 
+                  <select class="form-control input-day" name="day-input"></select> 
                   <input class="form-control input-year" placeholder="Add 4 digit year" name="year-input"> 
                 </div> <!-- Closes input-date -->   
 
                 <div class="input-group input-add-event-group">
-                  <div class="input-group-addon">Discipline <i class="fa fa-motorcycle add-event-icon"></i></div>
+                  <div class="input-group-addon"><i class="fa fa-magic add-event-icon"></i></div>
                   <select class="form-control input-discipline" name="discipline-input" ng-options="discipline for discipline in disciplines" ng-model="selections.Discipline"></select>
                   <!-- <button ng-click="showSample()" prevent-default>Log Sample</button> -->
                 </div> <!-- Closes input-discipline --> 
@@ -169,8 +169,9 @@
 
             <div class="location-info">
               <h4 style="display:block">Location</h4>
-              <input class="btn btn-default" id="add-location-list-btn" type="button" value="from list">  
-              <input class="btn btn-default" id="add-location-map-btn" type="button" value="from map">  
+              <button class="btn btn-default" id="add-location-list-btn" type="button">List <span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>  
+
+              <button class="btn btn-default" id="add-location-map-btn" type="button">Map <span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>  
 
               <div id="list-location-modal" class="form-group form-inline">
                 <select class="form-control country-picklist input-country" name="country-input">
