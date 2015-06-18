@@ -107,8 +107,7 @@ th {
   font-family: 'Roboto Slab', sans-serif; }
 
 .modal-header {
-  background-color: transparent;
-  background: url("../../img/background/background-black.jpg");
+  background-color: #222;
   border-radius: 5px 5px 0 0;
   text-align: center;
   min-height: 30px;
@@ -305,7 +304,15 @@ th {
   color: #eee; }
 
 .modal-content {
-  background-color: #333; }
+  background-color: rgba(10, 10, 10, 0.9); }
+
+.modal-header-add-event {
+  background-color: rgba(10, 10, 10, 0.9);
+  border-radius: 5px 5px 0 0;
+  text-align: center;
+  min-height: 30px;
+  border: none;
+  padding: 5px; }
 
 .modal {
   font-family: 'Roboto Slab', sans-serif; }
@@ -314,8 +321,11 @@ th {
   margin-bottom: 0px; }
 
 .add-event-form {
-  width: 75%;
+  width: 80%;
   margin: 20px auto 20px auto; }
+
+.add-event-icon {
+  padding-left: 3px; }
 
 .close {
   margin: 20px;
@@ -323,11 +333,18 @@ th {
   opacity: .6;
   color: white; }
 
+.close:hover {
+  color: #ccc; }
+
 .basic-trick-info, .location-info, .media-info, .date-info {
-  border: 2px solid #eee;
+  border: 2.5px solid #bbb;
   padding: 10px;
-  margin-bottom: 10px;
+  background-color: #222;
+  margin-bottom: 15px;
   border-radius: 5px; }
+
+.input-add-event-group {
+  margin-bottom: .65em; }
 
 #map-modal {
   width: 400px;
@@ -354,13 +371,12 @@ h4 {
 
 .input-group-addon {
   border-radius: 0px;
-  color: #eee;
-  background-color: transparent; }
+  background-color: #bbb;
+  color: #111; }
 
 .form-control {
   border-radius: 0px;
-  background-color: transparent;
-  color: #eee; }
+  background-color: #eee; }
 
 select {
   border-radius: 0px; }
@@ -372,6 +388,12 @@ select {
 .btn-file {
   position: relative;
   overflow: hidden; }
+
+.btn-photo {
+  background-color: #bbb;
+  color: #111; }
+  .btn-photo:hover {
+    color: #111; }
 
 .btn-file input[type=file] {
   position: absolute;
@@ -388,7 +410,6 @@ select {
   display: block; }
 
 input[readonly] {
-  background-color: transparent !important;
   cursor: text !important; }
 
 /*________PAGE_________________

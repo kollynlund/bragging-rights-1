@@ -114,7 +114,7 @@
   <div class="modal fade add-worlds-first-modal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg" ng-app="test">
       <div class="modal-content" ng-controller="testControl">
-        <div class="modal-header">
+        <div class="modal-header modal-header-add-event">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           <!-- <h4 class="modal-title" id="ModalLabel">Add your own World's first form</h4> -->
         </div> <!-- Closes header -->
@@ -122,30 +122,53 @@
 
           <div class="form-group add-event-modal-main-form-group">
             <div class="basic-trick-info">
-                <h4>Add Trick Info</h4>
-                <div class="input-group">
-                  <div class="input-group-addon">Name</div>
-                  <input type="text" class="form-control input-name" name="name-input" placeholder="Person who achieved trick" ng-model="selections.Name">
+                <h4>Achievment Info</h4>
+                <div class="input-group input-add-event-group">
+                  <div class="input-group-addon"><i class="fa fa-user add-event-icon"></i></div>
+                  <input type="text" class="form-control input-name" name="name-input" placeholder="Enter the full name of the person who achieved greatness" ng-model="selections.Name">
                 </div> <!-- Closes input-name -->
 
-                <div class="input-group">
-                  <div class="input-group-addon">Trick</div>
-                  <input type="text" class="form-control input-trick" placeholder="Enter a description of the trick" name="trick-input"ng-model="selections.Trick">
+                <div class="input-group input-add-event-group">
+                  <div class="input-group-addon"><i class="fa fa-star add-event-icon"></i></div>
+                  <input type="text" class="form-control input-trick" placeholder="Enter a description of what they did" name="trick-input"ng-model="selections.Trick">
                 </div> <!-- Closes input-trick -->
 
-                <div class="input-group">
+                <div class="input-group input-add-event-group">
+                  <div class="input-group-addon"><i class="fa fa-calendar add-event-icon"></i></div>
+                  <select class="form-control month-picklist input-month" name="month-input">
+                    <option>Month</option>
+                    <option class="month-option" days="31">- January</option>
+                    <option class="month-option" days="28">- February</option>
+                    <option class="month-option" days="31">- March</option>
+                    <option class="month-option" days="30">- April</option>
+                    <option class="month-option" days="31">- May</option>
+                    <option class="month-option" days="30">- June</option>
+                    <option class="month-option" days="31">- July</option>
+                    <option class="month-option" days="31">- August</option>
+                    <option class="month-option" days="30">- September</option>
+                    <option class="month-option" days="31">- October</option>
+                    <option class="month-option" days="30">- November</option>
+                    <option class="month-option" days="31">- December</option>
+                  </select>  
+                  <select class="form-control day-of-month-picklist input-day" name="day-input"></select> 
+                  <input class="form-control input-year" placeholder="Add 4 digit year" name="year-input"> 
+                </div> <!-- Closes input-date -->   
+
+                <div class="input-group input-add-event-group">
+                  <div class="input-group-addon">Discipline <i class="fa fa-motorcycle add-event-icon"></i></div>
                   <select class="form-control input-discipline" name="discipline-input" ng-options="discipline for discipline in disciplines" ng-model="selections.Discipline"></select>
-                  <button ng-click="showSample()" prevent-default>Log Sample</button>
+                  <!-- <button ng-click="showSample()" prevent-default>Log Sample</button> -->
                 </div> <!-- Closes input-discipline --> 
 
                 <div class="form-group">
-                  <textarea class="form-control input-details" id="input-details" placeholder="Add info about the event" name="details-input" ng-model="selections['Additional Information']"></textarea>
+                  <div class="input-group-addon">Detials <i class="fa fa-info-circle add-event-icon"></i></div>
+                  <textarea class="form-control input-details" id="input-details" placeholder="Additional details about the achievment" name="details-input" ng-model="selections['Additional Information']"></textarea>
                 </div> <!-- Closes input-details -->
             </div> <!-- Closes basic trick info -->
 
 
             <div class="location-info">
-              <h4>Add Location</h4>
+              <h4 style="display:block">Location</h4>
               <input class="btn btn-default" id="add-location-list-btn" type="button" value="from list">  
               <input class="btn btn-default" id="add-location-map-btn" type="button" value="from map">  
 
@@ -171,9 +194,9 @@
               </div> <!-- Closes input-location-map -->
             </div> <!-- Closes location-info -->    
 
-
+<!-- 
             <div class="date-info">
-              <h4>Add Date</h4>
+              <h4>Date</h4>
               <div class="form-group form-inline">
                 <select class="form-control month-picklist input-month" name="month-input">
                   <option>Month</option>
@@ -191,32 +214,31 @@
                   <option class="month-option" days="31">- December</option>
                 </select>  
                 <select class="form-control day-of-month-picklist input-day" name="day-input">
-                  <!-- To be inserted dynamically -->
                 </select> 
                 <input class="form-control input-year" placeholder="Add 4 digit year" name="year-input">            
-              </div> <!-- Closes form-group -->
-            </div> <!-- Closes input-date-info -->       
+              </div> 
+            </div>     -->   
 
 
             <div class="media-info">
-                <h4>Add Media</h4>   
-                <div class="input-group">
-                  <div class="input-group-addon">Video</div>
-                  <input type="text" class="form-control input-video" placeholder="Add url link to YouTube video" name="video-input">
+                <h4>Media</h4>   
+                <div class="input-group input-add-event-group">
+                  <div class="input-group-addon"><i class="fa fa-video-camera add-event-icon"></i></div>
+                  <input type="text" class="form-control input-video" placeholder="Copy and paste link to YouTube video" name="video-input">
                 </div> <!-- Closes input-group -->
 
                 <div class="input-group input-photo">
                   <span class="input-group-btn">
-                    <span class="btn btn-default btn-file">Upload <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
+                    <span class="btn btn-photo btn-file"><i class="fa fa-camera add-event-icon"></i> <input class="upload-button input-photo" type="file" name="photo-upload-1" onchange="fileInput(this)"></span>
                   </span>
-                  <input type="text" class="form-control" placeholder="Click upload to include photos" readonly>
+                  <input type="text" class="form-control" placeholder="Click camera to include photos" readonly>
                 </div> <!-- Closes input-group -->
                 <!-- Inserting more photo upload groups here dynamically -->
             </div> <!-- Closes media-info -->
 
 
             <div class="form-group email-input-group">
-              <label>Add email address to become part of the community.</label>
+              <label>Add your email address to recieve notifactaions of new achievments.</label>
               <input type="email" class="form-control input-email" id="input-email" placeholder="Enter email" name="email-input">
             </div> <!-- Closes email form-group -->
 
