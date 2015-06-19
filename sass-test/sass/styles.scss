@@ -2,7 +2,7 @@
 @import 'map-view';
 @import 'event-modal';
 @import 'add-event';
-
+@import 'landing-page';
 
 /*________PAGE_________________
 ____________________________________*/
@@ -57,7 +57,11 @@ border-top: 2px solid #ddd;
 border-bottom: 3px solid #ddd;
 background-color: #333;
 
-
+.important-txt {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: red;
+}
 
 }
 

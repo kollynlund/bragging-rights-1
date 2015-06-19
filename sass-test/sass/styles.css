@@ -129,11 +129,10 @@ th {
 
 .header-event-modal {
   background-color: #5D5D5D;
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc;
   border-radius: 0px;
   margin-bottom: 20px;
-  font-size: 1.125em;
-  border: 2px solid #ddd;
-  border-radius: 4px; }
+  font-size: 1.125em; }
 
 #name h1 {
   font-size: 1.125em;
@@ -203,9 +202,8 @@ th {
 #photo-vid-container {
   background-color: rgba(93, 93, 93, 0.6);
   margin-bottom: 30px;
-  height: 400px;
-  border: 2px solid #ddd;
-  border-radius: 4px; }
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc;
+  height: 400px; }
 
 .event-data-modal-trick {
   color: #BF981D;
@@ -278,12 +276,10 @@ th {
 .event-modal-discipline, .event-modal-location, .event-modal-date, .event-modal-extra {
   background-color: rgba(93, 93, 93, 0.6);
   margin-bottom: 30px;
-  border: 2px solid #ddd;
-  border-radius: 4px; }
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc; }
 
 .event-video {
-  border: 2px solid #ddd;
-  border-radius: 4px; }
+  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 4px 4px 0px 0px #ccc; }
 
 /*        ________IMG CAROUSEL______________
         ____________________________________*/
@@ -440,10 +436,10 @@ h4 {
 
 .add-event-submit-button {
   background-color: #FFCB27;
+  box-shadow: 1px 1px 0px 0px #aaa, 2px 2px 0px 0px #aaa, 3px 3px 0px 0px #aaa, 4px 4px 0px 0px #aaa !important;
   color: #111;
-  border: none;
   width: 100%;
-  border-radius: 4px;
+  border-radius: 0px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -470,6 +466,10 @@ h4 {
 
 input[readonly] {
   cursor: text !important; }
+
+.landing-page-container {
+  background-image: url("../../img/felix.jpg") !important;
+  background-size: 100%; }
 
 /*________PAGE_________________
 ____________________________________*/
@@ -508,6 +508,10 @@ ____________________________________*/
   border-top: 2px solid #ddd;
   border-bottom: 3px solid #ddd;
   background-color: #333; }
+  .header .important-txt {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: red; }
 
 .logo {
   max-height: 75px;
