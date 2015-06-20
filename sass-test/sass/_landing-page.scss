@@ -1,4 +1,59 @@
 .landing-page-container {
 	background-image: url('../../img/felix.jpg') !important;
-	background-size: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-image: none !important;
+	background-color: #999;
+}
+
+.landing-page-header {
+	width: 100%;
+	background-color: #222;
+	border-bottom: 2px solid #eee;
+	margin-top: 0px;
+
+}
+
+#launchsite-top {
+	color: #eee;
+	font-size: 1.5em;
+	cursor: pointer;
+	position: relative;
+	top: 30px;
+	right: 15px;
+	float: right;
+	&:hover {
+		text-decoration: underline;
+	}
+
+}
+
+#launchsite-text {
+	width: 50%;
+	margin-left: 15px;
+	padding: 10px;
+	background-color: rgba(240, 240, 240, .8);
+}
+
+.logo-launch-top {
+	margin: 10px !important;
+}
+
+.video-container {
+	width: 50%;
+	margin-left: 1%;
+}
+
+#launchsite {
+	width: 50%;
+	padding: 20px;
+	height: inherit;
+	font-size: 2em;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	margin-left: 20px;
+
+
+
 }
