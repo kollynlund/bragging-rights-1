@@ -23,16 +23,95 @@
 
 </head>
 
-<body class="landing-page-container">
+<body>
 
-	<div class="landing-page-header"><img class="logo logo-launch img-responsive" alt="logo" src="img/logocrop.png"><span id="launchsite-top">Enter Site</span></div>
+	<div class="landing-page-header clearfix"><img id="logo-launch" class="logo img-responsive" alt="logo" src="img/logocrop.png"><span id="launchsite-top">Enter Site</span></div>
 
-	<h2 id="launchsite-text">Welcome to the site to explore the best action sports achievments from around the globe</h2>
+  <div class="landing-page-container">
+
+	<div id="launchsite-text">Front row seats to the action sports achievments everyone thought were impossible.</div>
 
 <div class="video-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/T_VNrc6s-KA" frameborder="0" allowfullscreen></iframe>
+  <video width="100%" height="100%" poster="img/felix.jpg" controls>
+  <source src="braggingrights-2.mp4" type="video/mp4">
+</video>
+<!-- 	<iframe width="560" height="315" src="https://www.youtube.com/embed/T_VNrc6s-KA" frameborder="0" allowfullscreen></iframe> -->
+</div>
+
+<div id="launchsite-text-secondary">Explore our database of over 1,000 action sports achievments.</div>
+
+<div class="icon-container">
+<!-- <img id="icon-launch" src="img/svg/air.svg"> -->
+<img id="icon-launch" src="img/svg/bmx.svg">
+<img id="icon-launch" src="img/svg/sk8.svg">
+<img id="icon-launch" src="img/svg/utv.svg">
+<img id="icon-launch" src="img/svg/surf.svg">
+<img id="icon-launch" src="img/svg/base.svg">
+<img id="icon-launch" src="img/svg/hike.svg">
+<!-- <img id="icon-launch" src="img/svg/sail.svg">
+ --><img id="icon-launch" src="img/svg/snow.svg">
+<!-- <img id="icon-launch" src="img/svg/wheelchair.svg">
+ -->
+
+
+
 </div>
 
 <button href="index.html" type="submit" id="launchsite" class="btn add-event-submit-button">Enter Site</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div style="text-align:center"> 
+  <button onclick="playPause()">Play/Pause</button> 
+  <button onclick="makeBig()">Big</button>
+  <button onclick="makeSmall()">Small</button>
+  <button onclick="makeNormal()">Normal</button>
+  <br> 
+  <video id="video1" width="420">
+    <source src="braggingrights-2.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+</div>  -->
+
+</div> 
+
+
+
+
+<script> 
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+    if (myVideo.paused) 
+        myVideo.play(); 
+    else 
+        myVideo.pause(); 
+} 
+
+function makeBig() { 
+    myVideo.width = 560; 
+} 
+
+function makeSmall() { 
+    myVideo.width = 320; 
+} 
+
+function makeNormal() { 
+    myVideo.width = 420; 
+} 
+</script>
+
+
 </body>
 </html>

@@ -106,6 +106,9 @@ background-color: #333;
   margin: 0px !important;
   padding: 5px;
   text-align: center;
+  @media (max-width: 480px) {
+    font-size: .85em;
+  }
 
 }
 

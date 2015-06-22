@@ -468,51 +468,125 @@ input[readonly] {
   cursor: text !important; }
 
 .landing-page-container {
-  background-image: url("../../img/felix.jpg") !important;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-image: none !important;
-  background-color: #999; }
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px; }
+  @media (max-width: 450px) {
+    .landing-page-container {
+      width: 85%; } }
 
 .landing-page-header {
   width: 100%;
+  font-family: 'Roboto Slab', sans-serif;
   background-color: #222;
   border-bottom: 2px solid #eee;
-  margin-top: 0px; }
+  margin-top: 0px;
+  height: 140px; }
+
+#logo-launch {
+  max-height: 150px;
+  margin: 0px auto 10px auto;
+  padding-top: 10px;
+  display: block; }
+  @media (max-width: 450px) {
+    #logo-launch {
+      margin-left: 25%; } }
+  @media (max-width: 400px) {
+    #logo-launch {
+      margin-left: 20%; } }
 
 #launchsite-top {
-  color: #eee;
-  font-size: 1.5em;
+  color: #222;
+  font-size: 1.25em;
+  text-transform: uppercase;
   cursor: pointer;
   position: relative;
-  top: 30px;
-  right: 15px;
-  float: right; }
-  #launchsite-top:hover {
-    text-decoration: underline; }
+  top: -162px;
+  right: -2px;
+  background-color: #FFCB27;
+  float: right;
+  border: 2px solid #ddd;
+  padding: 5px 10px;
+  letter-spacing: 1.5px;
+  font-weight: 500; }
+  @media (max-width: 450px) {
+    #launchsite-top {
+      font-size: 1.25em;
+      padding: 2.5px 5px; } }
 
 #launchsite-text {
-  width: 50%;
-  margin-left: 15px;
+  font-family: 'Roboto Slab', sans-serif;
+  margin-top: 10px !important;
   padding: 10px;
-  background-color: rgba(240, 240, 240, 0.8); }
+  clear: both;
+  position: relative !important;
+  top: -30px !important;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #ddd;
+  color: #222;
+  box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd; }
+  @media (max-width: 550px) {
+    #launchsite-text {
+      font-size: 1.25em; } }
+
+#launchsite-text-secondary {
+  font-family: 'Roboto Slab', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #ddd;
+  color: #222;
+  box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd; }
+  @media (max-width: 550px) {
+    #launchsite-text-secondary {
+      font-size: 1.25em; } }
 
 .logo-launch-top {
   margin: 10px !important; }
 
 .video-container {
-  width: 50%;
-  margin-left: 1%; }
+  width: 100%;
+  margin-right: auto;
+  position: relative !important;
+  top: -30px !important;
+  margin-left: auto;
+  text-align: center;
+  background-color: #ddd;
+  box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd; }
 
 #launchsite {
-  width: 50%;
   padding: 20px;
   height: inherit;
+  font-family: 'Roboto Slab', sans-serif;
   font-size: 2em;
   letter-spacing: 4px;
   text-transform: uppercase;
-  margin-left: 20px; }
+  box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd !important; }
+
+.icon-container {
+  display: flex;
+  justify-content: center; }
+
+#icon-launch {
+  background-color: #222 !important;
+  border-radius: 0px;
+  padding: 10px;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd !important; }
+  @media (max-width: 900px) {
+    #icon-launch {
+      height: 110px;
+      width: 110px; } }
+  @media (max-width: 450px) {
+    #icon-launch {
+      height: 90px;
+      width: 90px; } }
 
 /*________PAGE_________________
 ____________________________________*/
@@ -589,6 +663,9 @@ ____________________________________*/
   margin: 0px !important;
   padding: 5px;
   text-align: center; }
+  @media (max-width: 480px) {
+    .welcome-top {
+      font-size: .85em; } }
 
 .nav-item {
   display: inline-block;
