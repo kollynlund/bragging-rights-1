@@ -41,37 +41,47 @@
        
 <p class="welcome-top">The World's first interactive website to find, share and explore the best <span class="important-txt">ACTION SPORTS ACHIEVMENTS</span> from around the globe.</p>
 <div class="row header">
-  <div class="col-sm-12">
+  
  
     <img class="logo img-responsive" alt="logo" src="img/logocrop.png">
 
-    <div class="btn-group map-list-btns nav-item" data-toggle="buttons">
-            <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"><span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>
-            <button type="button" id="btn-list" class="btn" name="options"><span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>
-    </div>
+    <button type="button" id="btn-add-achievment" class="btn nav-item" data-toggle="modal" data-target=".add-worlds-first-modal">
+             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> ADD AN ACHIEVMENT
+    </button>
 
-         <div id="filter-map" class="dropdown">
-            <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
-              FILTER MAP <span class="caret"></span>
-            </button>
-            <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
-              <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
-            </ul>
-          </div>
 
-        <div class="form-inline search-box nav-item" role="search">
+    <div id="search-box" class="form-inline nav-item" role="search">
           <div class="input-group search-box">
             <input type="text" class="form-control search-input" id="search-input" placeholder="Search">
             <span class="input-group-btn">
               <button class="btn search-btn">GO</button>
             </span>
           </div>
-        </div>
+    </div>
 
-        <button type="button" class="btn btn-add-event nav-item" data-toggle="modal" data-target=".add-worlds-first-modal">
-         <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> ADD AN ACHIEVMENT</button>
+   <div id="filter-map" class="dropdown nav-item">
+      <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
+        FILTER MAP <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
+        <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
+      </ul>
+    </div>    
 
-  </div>
+    <div id="map-list-btns" class="btn-group nav-item" data-toggle="buttons">
+            <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"><span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>
+            <button type="button" id="btn-list" class="btn" name="options"><span class="glyphicon glyphicon-list-alt list-icon-btn" aria-hidden="true"></span></button>
+    </div>
+
+
+
+
+
+
+
+
+
+  
 
   </div>
   </div>

@@ -74,7 +74,9 @@
 	box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd;
 	@media (max-width: 550px) {
 		font-size: 1.25em;
+		line-height: 18px;
 	}
+
 }
 
 #launchsite-text-secondary {
@@ -89,6 +91,7 @@
 	box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd;
 	@media (max-width: 550px) {
 		font-size: 1.25em;
+		line-height: 18px;
 	}
 
 }
@@ -117,6 +120,9 @@
 	letter-spacing: 4px;
 	text-transform: uppercase;
 	box-shadow: 1px 1px 0px 0px #ddd, 2px 2px 0px 0px #ddd, 3px 3px 0px 0px #ddd, 4px 4px 0px 0px #ddd !important;
+	@media (max-width: 500px) {
+		padding: 12.5px;
+	}
 
 }
 

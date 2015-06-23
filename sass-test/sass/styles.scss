@@ -7,7 +7,7 @@
 /*________PAGE_________________
 ____________________________________*/
 
-
+$vertical-align-nav: 25px;
 
 body {
 /*  -webkit-font-smoothing: antialiased;
@@ -49,21 +49,22 @@ ____________________________________*/
 }
 
 .header {
-font-family: 'Roboto Slab', sans-serif; 
-margin-left: auto;
-width: 100%;
-margin-right: auto;
-border-top: 2px solid #ddd;
-border-bottom: 3px solid #ddd;
-background-color: #333;
+  font-family: 'Roboto Slab', sans-serif; 
+  margin-left: auto;
+  width: 100%;
+  margin-right: auto;
+  border-top: 2px solid #ddd;
+  border-bottom: 3px solid #ddd;
+  background-color: #333;
+
+}
+
 
 .important-txt {
   text-transform: uppercase;
-  font-size: 1.5em;
-  color: red;
-}
 
 }
+
 
 .logo {
   max-height: 75px;
@@ -71,6 +72,12 @@ background-color: #333;
   margin: 5px auto 5px;
   display: inline-block;
   margin-right: 25px;
+  margin-left: 10px;
+  @media (max-width: 500px) {
+    margin-right: 5px;
+    margin-left: 5px;
+    max-height: 60px;
+  }
 
 }
 
@@ -79,23 +86,20 @@ background-color: #333;
 }
 
 #filter-map {
-  width: 26.66;
   background-color: yellow;
-  margin-top: 5px;
-  display: inline-block;
+  margin-top: $vertical-align-nav;
   margin-left: 20px;
+  float: right;
 }
 
-.welcome {
-  color: #FFCB27;
-  padding: 8px 10px 4px 10px;
-  margin-top: 10px;
-  letter-spacing: .1em;
-  font-size: 1.1em;
-  margin-bottom: 10px;
-/*  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
-  4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;*/
-}
+// .welcome {
+//   color: #FFCB27;
+//   padding: 8px 10px 4px 10px;
+//   margin-top: 10px;
+//   letter-spacing: .1em;
+//   font-size: 1.1em;
+//   margin-bottom: 10px;
+// }
 
 .welcome-top {
   color: #333;
@@ -114,7 +118,6 @@ background-color: #333;
 
 .nav-item {
   display: inline-block;
-  position: relative !important;
 }
 
 .p-add {
@@ -122,8 +125,6 @@ background-color: #333;
   color: #eee;
   letter-spacing: .05em;
   margin-top: 10px;
-/*  box-shadow: 1px 1px 0px 0px #ccc, 2px 2px 0px 0px #ccc, 3px 3px 0px 0px #ccc, 
-  4px 4px 0px 0px #ccc, 5px 5px 0px 0px #ccc;*/
   
 }
 
@@ -143,17 +144,25 @@ background-color: #333;
 
   }
 
-.btn-add-event {
-  border: 2px solid #bbb;
-  width: 22%;
 
-}
-
-
-.search-box {
+#search-box {
   margin-left: 10px;
   margin-right: 10px;
+  float: right;
+  margin-top: $vertical-align-nav;
 }
+
+
+#btn-add-achievment {
+  border: 2px solid #bbb;
+  margin-top: $vertical-align-nav;
+  margin-right: 10px;
+  float: right;
+  @media (max-width: 840px) {
+    width: 50%;
+  }
+}
+
 
 /*________NAV MENU____________________
 ____________________________________*/
@@ -193,8 +202,10 @@ ____________________________________*/
   border-left: none;
 }
 
-.map-list-btns {
+#map-list-btns {
+  margin-top: $vertical-align-nav;
   margin-left: 7.5px;
+  float: right;
 }
 
 .btn-toggle-active {
