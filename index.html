@@ -59,14 +59,16 @@
           </div>
     </div>
 
+
    <div id="filter-map" class="dropdown nav-item">
-      <button type="button" id="sort-map-dropdown-button" class="btn dropdown-toggle sort-map-btn" data-toggle="dropdown" aria-expanded="false">
+      <button type="button" id="filter-map-btn" class="btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
         FILTER MAP <span class="caret"></span>
       </button>
       <ul class="dropdown-menu text-center" role="menu" id="sort-map-list">
         <!-- REMOVED ITEMS HERE - map.js NOW ADDS THEM DYNAMICALLY -->
       </ul>
     </div>    
+ 
 
     <div id="map-list-btns" class="btn-group nav-item" data-toggle="buttons">
             <button type="button" id="btn-map" class="btn btn-toggle-active" name="options"><span class="glyphicon glyphicon-globe globe-icon-btn" aria-hidden="true"></span></button>
@@ -280,7 +282,7 @@
 
   <div class="modal fade display-event-details-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-lg">
-      <div class="modal-content ">
+      <div class="modal-content">
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -291,10 +293,8 @@
           <div class="row text-center">
 
             <div class="col-md-12">
-              <div class="header-event-modal">
-                <div id="name" class="ribbon"> 
-                 <h1><p class="event-data-modal-name">a</p></h1>
-                </div>
+              <div class="header-event-modal"> 
+                 <div class="event-data-modal-name">a</div>
                 <div class="event-data-modal-trick">a</div> 
                         
               </div> 
@@ -305,8 +305,11 @@
 <div class="col-sm-9">
 
   <div id="photo-vid-container">
-  <h2 class="details-left">Media</h2>
-    <div class="btn-group btn-vid-photo-group pull-left" data-toggle="buttons">
+  <h2 class="details-left">Proof</h2>
+                 <div style="width: 100%" class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item event-video" src="" allowfullscreen></iframe>  
+               </div>
+    <div class="btn-vid-photo-group" data-toggle="buttons">
         <button type="button" id="btn-photo" class="btn btn-toggle-active" name="options"><i class="fa fa-camera glode-icon-btn"></i></span></button>
         <button type="button" id="btn-video" class="btn" name="options"><i class="fa fa-video-camera list-icon-btn"></i></button>
     </div>
@@ -445,7 +448,7 @@
           <div class="map-nav-tools">
             <span class="fa-stack fa-lg ">
                 <a href="#">
-                <i class="fa fa-search-plus fa-stack-1x fa-inverse btn-toggle-active"></i></a>   
+                <i class="fa fa-search-plus fa-stack-1x fa-inverse"></i></a>   
             </span>
               <br>
             <span class="fa-stack fa-lg">
@@ -471,7 +474,7 @@
   
 </div> <!-- * * END MAIN CONTENT CONTAINER * * -->
 
-<p class="welcome-top">Created by Kollyn Lund and Tanner Bindrup.</p>
+<p class="welcome-top">Brain child of Kollyn Lund and Tanner Bindrup.</p>
 
 
 

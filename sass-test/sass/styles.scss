@@ -9,6 +9,8 @@ ____________________________________*/
 
 $vertical-align-nav: 25px;
 
+
+
 body {
 /*  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;*/  
@@ -71,7 +73,7 @@ ____________________________________*/
   background-color: transparent;
   margin: 5px auto 5px;
   display: inline-block;
-  margin-right: 25px;
+  margin-right: 10px;
   margin-left: 10px;
   @media (max-width: 500px) {
     margin-right: 5px;
@@ -81,16 +83,30 @@ ____________________________________*/
 
 }
 
-.map-list-btns {
-
-}
-
 #filter-map {
-  background-color: yellow;
-  margin-top: $vertical-align-nav;
-  margin-left: 20px;
   float: right;
+  @media (max-width: 811px) {
+    float: none;
+    margin-bottom: 5px;
+    }  
+
 }
+
+#filter-map-btn {
+  margin-top: $vertical-align-nav;
+  margin-left: 10px;
+  float: right;
+  display: inline-block;
+  border: 2px solid #bbb;
+  @media (max-width: 811px) {
+    float: none;
+    width: 95%;
+    margin: auto;
+    display: block;
+   }
+}
+
+
 
 // .welcome {
 //   color: #FFCB27;
@@ -118,6 +134,9 @@ ____________________________________*/
 
 .nav-item {
   display: inline-block;
+  @media (max-width: 811px) {
+    display: block !important;
+  }
 }
 
 .p-add {
@@ -150,6 +169,13 @@ ____________________________________*/
   margin-right: 10px;
   float: right;
   margin-top: $vertical-align-nav;
+  @media (max-width: 811px) {
+    float: none;
+    width: 95%;
+    margin: auto;
+    display: block;
+    margin-bottom: 5px;
+   }
 }
 
 
@@ -158,9 +184,16 @@ ____________________________________*/
   margin-top: $vertical-align-nav;
   margin-right: 10px;
   float: right;
-  @media (max-width: 840px) {
-    width: 50%;
-  }
+  @media (min-width: 1000px) {
+   margin-right: 10%;
+   }
+   @media (max-width: 811px) {
+    float: none;
+    width: 95%;
+    margin: auto;
+    display: block;
+    margin-bottom: 5px;
+   }
 }
 
 
@@ -196,6 +229,7 @@ ____________________________________*/
   border-radius: 0px;
   background-color: #333;
   color: #eee;
+ 
 }
 
 #btn-list {
@@ -204,8 +238,13 @@ ____________________________________*/
 
 #map-list-btns {
   margin-top: $vertical-align-nav;
-  margin-left: 7.5px;
   float: right;
+  @media (max-width: 811px) {
+    float: none;
+    width: 95%;
+    margin: auto;
+    display: block;
+   }
 }
 
 .btn-toggle-active {
@@ -213,21 +252,8 @@ ____________________________________*/
   color: #333 !important;
 }
 
-      /*___NAV MENU SORT MAP BTN____________
-      ____________________________________*/
 
-.sort-map-btn {
-  background-color: #ddd;
-  color: #333;
-  border-radius: 0px;
-  border: 2px solid #ddd;
 
- }
-
-.sort-map:hover, .sort-map:active, .sort-map:focus {
-  background-color: #333 !important;
-  color: #eee !important;
-}
 
       /*___NAV MENU SEARCH MAP BTN____________
       ____________________________________*/
@@ -246,6 +272,12 @@ ____________________________________*/
 
 }
 
+// STUPID FIX 
+@media (max-width: 811px) and (min-width: 768px) {
+  .form-inline .input-group {
+  width: 116.6%;
+}
+}
 
 
 

@@ -29,20 +29,20 @@ $( "#btn-list" ).click(function() {
 
 // TOGGLE STYLES FOR MAP TOOLS
 
-$( ".fa-search-minus" ).click(function() {
-  $( this ).addClass( "btn-toggle-active" );
-  $( ".fa-search-plus" ).removeClass( "btn-toggle-active" )
-  $( ".glyphicon-move" ).removeClass( "btn-toggle-active" )
-  $( "#map-container:hover" ).css( "cursor", "-webkit-zoom-out" )
-});
+// $( ".fa-search-minus" ).click(function() {
+//   $( this ).addClass( "btn-toggle-active" );
+//   $( ".fa-search-plus" ).removeClass( "btn-toggle-active" )
+//   $( ".glyphicon-move" ).removeClass( "btn-toggle-active" )
+//   $( "#map-container:hover" ).css( "cursor", "-webkit-zoom-out" )
+// });
 
-$( ".fa-search-plus" ).click(function() {
-  $( this ).addClass( "btn-toggle-active" );
-  $( ".fa-search-minus" ).removeClass( "btn-toggle-active" )
-  $( ".glyphicon-move" ).removeClass( "btn-toggle-active" )
-  $( "#map-container:hover" ).css( "cursor", "-webkit-zoom-in" )
+// $( ".fa-search-plus" ).click(function() {
+//   $( this ).addClass( "btn-toggle-active" );
+//   $( ".fa-search-minus" ).removeClass( "btn-toggle-active" )
+//   $( ".glyphicon-move" ).removeClass( "btn-toggle-active" )
+//   $( "#map-container:hover" ).css( "cursor", "-webkit-zoom-in" )
 
-});
+// });
 
 $( ".glyphicon-move" ).click(function() {
   $( this ).addClass( "btn-toggle-active" );
